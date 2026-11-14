@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**75 open roles.** 60 in the United States & Canada · 15 elsewhere in the world.
+**76 open roles.** 61 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -316,6 +316,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e1dad85-1498-442c-be98-e890ec0d0ac2">Firmware Engineering Co-op</a></td>
 <td>Shakopee, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476765466/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/37fe7829-f1ec-4cc5-9f6b-d0d476c175bc">Embedded Software Engineer – Co-op Winter 2027</a></td>
+<td>Ottawa, ON<br/>Ottawa, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

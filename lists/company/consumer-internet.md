@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**129 open roles.** 104 in the United States & Canada · 25 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**130 open roles.** 105 in the United States & Canada · 25 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Twitch</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd28d1f3-db44-4b29-a7b6-deafc87c24e7">Undergrad Software Engineering Intern (Grad Year: Spring 2028)</a></td>

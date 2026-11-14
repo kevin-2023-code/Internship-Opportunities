@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**101 open roles.** 62 in the United States & Canada · 39 elsewhere in the world.
+**102 open roles.** 62 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -463,6 +463,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc83ebad-228a-4e2c-9de2-05f272c23229">【28卒対象】 Data Analyst / データアナリスト - Mercari Group (Internship)</a></td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4389461593/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）</a></td>

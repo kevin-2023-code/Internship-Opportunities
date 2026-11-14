@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**66 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -471,6 +471,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Deerfield, ILLINOIS, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000152963619-product-manager-intern">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gelber Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/706da85a-f481-4887-9e4d-3e93fb6d0e19">Discretionary Trading Internship - Summer 2027</a></td>
+<td>Chicago, IL<br/>Gelber Chicago (HQ)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>IMC</strong></td>

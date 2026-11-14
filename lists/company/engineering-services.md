@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**46 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**47 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,6 +261,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Spokane, WA<br/>Bozeman, MT<br/>Sheridan, WY<br/>+7 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422540009">Apply</a></td>
 <td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Benesch</strong></td>
+<td><a href="https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f">Civil Site/Land Development Internship</a></td>
+<td>Franklin, TN<br/>Nashville, TN</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5249626007?gh_jid=5249626007">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**81 open roles.** 62 in the United States & Canada · 19 elsewhere in the world.
+**82 open roles.** 62 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -552,6 +552,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c3fbbd71-18b0-4163-8c6f-5d85e121030c">SAP China iXp Intern - Intern Queue Manager for Technical Support - Dalian</a></td>
 <td>Dalian, Liaoning, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477128906/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/c49329af-d959-4cbc-83bb-822e770016cb">Robotics Wireless &amp; Network Engineer Intern, RIVR</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10592306/robotics-wireless--network-engineer-intern-rivr?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

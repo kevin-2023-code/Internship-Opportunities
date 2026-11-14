@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>VAYLIX</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c53c299-da06-455d-b592-52c4467afb45">Frontend Intern</a></td>
 <td>Austin, TX</td>
@@ -542,13 +549,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/54c7a9a8-fd67-4f8d-af24-abe15c0b086c">Data Engineering Intern</a></td>
 <td>Atlanta HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brady Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/001e3c64-62a5-4f21-8a12-af499acefb2c">Software Engineer Intern</a></td>
-<td>Plymouth, MN<br/>Milwaukee, WI</td>
-<td align="center"><a href="https://myjobs.adp.com/bradycorp/cx/job-details?reqId=5001237992900">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

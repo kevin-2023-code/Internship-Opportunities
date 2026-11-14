@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**54 open roles.** 11 in the United States & Canada · 43 elsewhere in the world.
+**55 open roles.** 12 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,6 +93,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bristol, England, GB<br/>Munich, BY, DE<br/>Berlin, Berlin, DE<br/>+3 more</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
 <td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e5ce220-f38e-420e-b3d1-554029627482">FY27 Engineering Internship United Kingdom</a></td>
+<td>United Kingdom, Edinburgh, SC, Freer<br/>United Kingdom, Glasgow<br/>United Kingdom, Hayes<br/>+1 more</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707">Apply</a></td>
+<td align="center">26 Sep 2026</td>
 </tr>
 </tbody>
 </table>

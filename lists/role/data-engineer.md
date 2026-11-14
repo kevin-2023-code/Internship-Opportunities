@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**81 open roles.** 68 in the United States & Canada · 13 elsewhere in the world.
+**82 open roles.** 68 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -595,6 +595,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zug, Switzerland</td>
 <td align="center"><a href="https://careers.roche.com/de/de/job/202610-127501">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Govsignals</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3137908-8fe3-4fcb-90ed-a338ee86c9b5">ENGINEERING INTERN</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

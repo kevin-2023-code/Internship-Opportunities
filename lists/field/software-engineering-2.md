@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,898 open roles.** 1,511 in the United States & Canada · 387 elsewhere in the world.
+**1,907 open roles.** 1,518 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@
 <tbody>
 <tr>
 <td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a">Android Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba">Full-Stack Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb22a16b-d76d-47bf-b299-b431120d1761">Frontend Engineering Intern</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005">Apply</a></td>
@@ -2813,6 +2799,20 @@
 <td><a href="https://trueinterview.io/jobs/d0a28b51-8e73-45fe-92e4-2b5ed4b264d6">Software Engineer Intern - (Summer 2027)</a></td>
 <td>New York, NY<br/>Berkeley, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459040052/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Southern Farm Bureau Life Insurance Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/756d082c-0c67-4678-a8c8-4e0aeb360c4f">Data Engineering Cooperative Education Intern</a></td>
+<td>Jackson, MS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440342921/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ModMed</strong></td>
+<td><a href="https://trueinterview.io/jobs/43fe2aaf-e69f-4f72-ba87-6698fe8a9238">Software Engineering Intern</a></td>
+<td>Boca Raton, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475985149/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

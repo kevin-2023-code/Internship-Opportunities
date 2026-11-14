@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**578 open roles.**
+**584 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Matic</strong></td>
+<td><a href="https://trueinterview.io/jobs/44ddee34-8c7a-48c2-bd0e-6150688c25e3">Manufacturing Design Engineer Intern</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a8dc8a76-fe6b-4a41-80f9-ecf1d94cbad6">Mechanical Design Engineer Intern</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meter</strong></td>
 <td><a href="https://trueinterview.io/jobs/f19fd81e-760a-4c03-a495-453dea6ef265">Hardware Engineering Intern</a></td>
@@ -903,6 +917,34 @@
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892835">Apply</a></td>
 <td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pebl</strong></td>
+<td><a href="https://trueinterview.io/jobs/416402d6-7136-48b2-a386-4724a6a1b956">Associate Product Manager Intern</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mach Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/93c9233a-557d-49f1-b07b-a014b9b7a43a">Summer 2027 Engineering Internship, Mechanical</a></td>
+<td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420611009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/df5c648a-6b92-4f1d-9798-53837c06d044">Summer 2027 Engineering Internship, Electrical</a></td>
+<td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420623009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8">Applications Engineering  Intern</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Envoy</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,898 open roles.** 1,511 in the United States & Canada · 387 elsewhere in the world.
+**1,907 open roles.** 1,518 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Southern Farm Bureau Life Insurance Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/756d082c-0c67-4678-a8c8-4e0aeb360c4f">Data Engineering Cooperative Education Intern</a></td>
-<td>Jackson, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440342921/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ModMed</strong></td>
-<td><a href="https://trueinterview.io/jobs/43fe2aaf-e69f-4f72-ba87-6698fe8a9238">Software Engineering Intern</a></td>
-<td>Boca Raton, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475985149/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Aptiv</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec71649f-3d38-4e8e-8d82-ab079a0d17a2">Engineering Intern</a></td>
@@ -1395,6 +1381,13 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/37fe7829-f1ec-4cc5-9f6b-d0d476c175bc">Embedded Software Engineer – Co-op Winter 2027</a></td>
+<td>Ottawa, ON<br/>Ottawa, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Great American Insurance Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/05b2c03e-4816-4628-b0ed-615a46e23efc">Content Publishing Developer Intern - Summer 2027</a></td>
 <td>Cincinnati, OH</td>
@@ -1409,10 +1402,31 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Hargrove Controls + Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7468517-fe58-460d-b6fe-539cee3148a3">Controls + Automation Engineering Co-Op</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://hargroveepc.wd12.myworkdayjobs.com/Hargrove_Careers/job/Houston-TX/Controls---Automation-Engineering-Co-Op_2026-001275">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>HII</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027</a></td>
 <td>Crane, Indiana, United States</td>
 <td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/92f4e34e-8bba-4095-812f-17516964e7fa">2027 S/W Embedded Engineering Intern – Sykesville MD</a></td>
+<td>Sykesville, MD</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075072464?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1427,6 +1441,13 @@
 <td><a href="https://trueinterview.io/jobs/39733b46-c5e3-4cb8-a672-fd1579825f76">Product Engineering Summer/Fall Co-Op (June-Dec '27)</a></td>
 <td>San Jose, CA<br/>Thousand Oaks, CA<br/>Newbury Park, CA</td>
 <td align="center"><a href="https://careers.skyworksinc.com/job/Product-Engineering-SummerFall-Co-Op-%28Jun-Dec-2027%29/78691-en_US">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sonos</strong></td>
+<td><a href="https://trueinterview.io/jobs/50127fb3-0a58-4ae3-9d1e-198866e1db68">Software Partner Engineering Intern (Boston)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/dee4702a-40d8-44cd-947f-9900b374de96">Software Engineer Co-op</a></td>
 <td>Burnaby, Canada</td>
 <td align="center"><a href="https://xradar.bamboohr.com/careers/203?postedDate=2026-10-28">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec</strong></td>
-<td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
-<td>Schenectady, NY<br/>Schenectady, New York, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung Semiconductor</strong></td>
-<td><a href="https://trueinterview.io/jobs/1881156a-2267-4b24-a6ac-c647e26d4f8d">Intern, RTL Power Macromodeling Engineer</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/08fa082d-1b97-4531-8a3e-50d1eb183d08">Intern, Power-Thermal Simulation Software Engineer</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

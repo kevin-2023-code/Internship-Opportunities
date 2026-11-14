@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**89 open roles.** 63 in the United States & Canada · 26 elsewhere in the world.
+**90 open roles.** 64 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -443,6 +443,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pdtpartners/jobs/8263031">Apply</a></td>
 <td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gelber Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/706da85a-f481-4887-9e4d-3e93fb6d0e19">Discretionary Trading Internship - Summer 2027</a></td>
+<td>Chicago, IL<br/>Gelber Chicago (HQ)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Capstone Investment Advisors</strong></td>

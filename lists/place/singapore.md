@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**171 open roles.** 2 in the United States & Canada · 169 elsewhere in the world.
+**172 open roles.** 2 in the United States & Canada · 170 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1225,6 +1225,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001472450--uni-jan-till-jun-2027-business-strategy-analyst-intern-ai-and-smart-systems-">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7de40d5d-7ac1-4ada-9b47-c03c4789e499">[Uni - Jan till Jun 2027] Robotics and Physical AI Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

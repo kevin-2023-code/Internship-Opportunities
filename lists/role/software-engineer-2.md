@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**632 open roles.** 509 in the United States & Canada · 123 elsewhere in the world.
+**633 open roles.** 510 in the United States & Canada · 123 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -616,6 +616,13 @@
 <td>Des Moines, Iowa, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team">Apply</a></td>
 <td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dcbd321-bb3c-417b-a8e7-6eb883d55a7c">System Software Engineering - PhD Intern</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

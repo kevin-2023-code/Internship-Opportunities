@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**815 open roles.** 732 in the United States & Canada · 83 elsewhere in the world.
+**823 open roles.** 738 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hilti Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c1ea770-d5dd-4f14-b89e-7ebc8bb738c0">Intern – Civil Engineer for Structural Analysis (m/f/x)</a></td>
+<td>Schaan, Switzerland</td>
+<td align="center"><a href="https://careers.hilti.group/en/jobs/21795-en/intern-civil-engineer-for-structural-analysis-m-f-x/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
+<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c0a4b82-9e15-4cdd-94a1-e4a7a3c646ac">Civil Engineer Diploma Intern (UAE National)</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://jobs.parsons.com/jobs/civil-engineer-diploma-intern-uae-national-r-187770-jobs--internship-program--">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wood</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc87e2b9-0f1a-4bda-a4a0-6a75749dc59c">Process Engineer - Internship</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33119">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4cd52e8-393f-4337-9a47-006777013d14">[Bosch HcP – Internship] Civil Engineering Intern</a></td>
+<td>An Phuoc Commune, Dong Nai, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157952619--bosch-hcp-internship-civil-engineering-intern">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sika Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2887d46-3af8-4aa4-81dd-01d2e3dbc6ba">Software Engineering Intern for CAD/CAE/Tooling</a></td>
+<td>Zürich, Zurich, Switzerland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000157445359-software-engineering-intern-for-cad-cae-tooling">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/0975652a-3ff2-47ac-9e83-22a63c32388d">Intern - Manufacturing Engineer</a></td>
+<td>Biñan City, LAGUNA, Philippines<br/>Kuching, Sarawak, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000157382288-intern-manufacturing-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/73c62420-557e-4746-bf57-03a1d1f3f58a">Manufacturing Engineering Intern m/f/d</a></td>
@@ -81,7 +130,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc87eb22-afaf-44f1-bc74-079dcc248f92">Industrial Engineering Intern (Paid Internship)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151755369-industrial-engineering-intern-paid-internship-">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>

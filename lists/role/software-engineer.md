@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**632 open roles.** 509 in the United States & Canada · 123 elsewhere in the world.
+**633 open roles.** 510 in the United States & Canada · 123 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -227,13 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/070c92e8-0563-4116-ab11-419b198dfe98">Summer Intern - Software Engineering</a></td>
 <td>Warrendale, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481621138/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brady Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/001e3c64-62a5-4f21-8a12-af499acefb2c">Software Engineer Intern</a></td>
-<td>Plymouth, MN<br/>Milwaukee, WI</td>
-<td align="center"><a href="https://myjobs.adp.com/bradycorp/cx/job-details?reqId=5001237992900">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2733,6 +2726,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027</a></td>
 <td>Crane, Indiana, United States</td>
 <td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

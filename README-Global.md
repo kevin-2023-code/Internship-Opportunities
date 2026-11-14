@@ -18,23 +18,23 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-14 10:04 UTC_
+_Last updated: 2026-11-14 11:03 UTC_
 
-**785 open internships** from **309 employers** · **179 posted in the last 7 days** · refreshed hourly
+**798 open internships** from **311 employers** · **179 posted in the last 7 days** · refreshed hourly
 
-### Browse 785 internships by field
+### Browse 798 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (387)
+💻 **[Software Engineering](#-software-engineering)** (389)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (206)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (214)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (83)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (85)
 
 📱 **[Product & Design](#-product--design)** (64)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (26)
 
-🧰 **[IT & Support](#-it--support)** (19)
+🧰 **[IT & Support](#-it--support)** (20)
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-11-14 10:04 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (155)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (82)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (45)](lists/company/hardware-devices.md) · [📱 Consumer internet & media (25)](lists/company/consumer-internet.md) · [🏗️ Large tech (1,000–9,999) (24)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (16)](lists/company/enterprise-saas.md) · [☁️ Developer tools, cloud & data infrastructure (12)](lists/company/dev-infra.md) · [🚗 Autonomy, automotive & mobility (9)](lists/company/autonomy-mobility.md) · [+11 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (156)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (82)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (46)](lists/company/hardware-devices.md) · [📱 Consumer internet & media (25)](lists/company/consumer-internet.md) · [🏗️ Large tech (1,000–9,999) (24)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (16)](lists/company/enterprise-saas.md) · [☁️ Developer tools, cloud & data infrastructure (12)](lists/company/dev-infra.md) · [🚗 Autonomy, automotive & mobility (9)](lists/company/autonomy-mobility.md) · [+11 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (123)](lists/role/software-engineer.md) · [AI Engineer (80)](lists/role/ai-engineer.md) · [Machine Learning Engineer (42)](lists/role/machine-learning-engineer.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Product Manager (38)](lists/role/product-manager.md) · [Data Scientist (19)](lists/role/data-scientist.md) · [Security Engineer (18)](lists/role/security-engineer.md) · [Embedded Engineer (15)](lists/role/embedded-engineer.md) · [Research Scientist (15)](lists/role/research-scientist.md) · [Data Engineer (13)](lists/role/data-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (123)](lists/role/software-engineer.md) · [AI Engineer (83)](lists/role/ai-engineer.md) · [Machine Learning Engineer (43)](lists/role/machine-learning-engineer.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Product Manager (38)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Security Engineer (18)](lists/role/security-engineer.md) · [Embedded Engineer (15)](lists/role/embedded-engineer.md) · [Research Scientist (15)](lists/role/research-scientist.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (169)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (60)](lists/place/greater-china.md) · [🇬🇧 London & the UK (43)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (30)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (21)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (17)](lists/place/ireland.md) · [+6 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (170)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (61)](lists/place/greater-china.md) · [🇬🇧 London & the UK (43)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (17)](lists/place/ireland.md) · [+6 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (179)](lists/new-this-week.md) · [🌐 Remote (13)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (179)](lists/new-this-week.md) · [🌐 Remote (15)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -140,28 +140,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a81126ee-7a8c-44be-9a4b-e867e680dcdf">AI Agent Project Intern (Open Platform) - 2026 Start</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472562905/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/d666d1e5-cff5-4449-9cd0-c2cb07aeddc5">AI Application Development Engineer Intern (Corporate Service System - Procurement) - 2027 Start</a> 🆕</td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474561047/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3bb6cfd5-d19f-486a-ad9b-7829efe57af2">Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start</a> 🆕</td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474545745/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2ec5fea-33d5-4625-a7d6-4d8202ba09e3">Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447985873/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -265,6 +265,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zynga</strong></td>
+<td><a href="https://trueinterview.io/jobs/c05259f8-7b49-4c6d-839b-09f0d0f867fc">Software Engineer Intern - Two Dots</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
 <tr>
 <td><strong>parallel wireless</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f9fc40b-c766-4161-acf7-222af87c515e">PHY SW Engineer - 12 Month Internship (July 2027)</a></td>
@@ -608,19 +615,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.ashbyhq.com/Terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/76a5a60d-2678-4de9-bd3d-16e41f90f7dd">Mechanical/Test Engineering Intern</a></td>
-<td>Berkeley</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Terranova/7ba048ea-818d-46b5-8ff8-3ce58d39bcc6">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 387.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 389.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -631,6 +631,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc83ebad-228a-4e2c-9de2-05f272c23229">【28卒対象】 Data Analyst / データアナリスト - Mercari Group (Internship)</a> 🆕</td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4389461593/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Tencent</strong></td>
 <td><a href="https://trueinterview.io/jobs/41b9e1e1-4807-4756-a7b9-5edba4cdf8ab">Data Engineer Intern</a> 🆕</td>
@@ -657,28 +664,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）</a> 🆕</td>
 <td>Singapore, Singapore<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4401884014/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8113e8a0-08f1-476e-b872-170e9cc02481">LLM &amp; Agent Algorithm Intern (Search) - 2027 Start (PhD)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452710257/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/902b6d02-3370-4d31-b1b8-787716854475">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447689264/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/1821f91e-5c18-4031-869b-df662a5af17d">AI Evaluation Project Intern（Corporate Service System）- 2026 Start</a> 🆕</td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474549595/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
@@ -799,18 +806,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4442699476/">Apply</a></td>
 <td align="center">1d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3ce9d011-b207-4ed8-bb64-e38bd788130b">Machine Learning Engineer Project Intern (MultiModal ML Direction) - 2026 Start (BS/MS)</a> 🆕</td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4359224652/">Apply</a></td>
-<td align="center">1d</td>
-</tr>
 </tbody>
 </table>
 
 <details>
-<summary>Show 16 more Data, AI & Machine Learning roles posted earlier</summary>
+<summary>Show 18 more Data, AI & Machine Learning roles posted earlier</summary>
 
 <table>
 <thead>
@@ -902,6 +902,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1mo</td>
 </tr>
 <tr>
+<td><strong>Govsignals</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3137908-8fe3-4fcb-90ed-a338ee86c9b5">ENGINEERING INTERN</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7de40d5d-7ac1-4ada-9b47-c03c4789e499">[Uni - Jan till Jun 2027] Robotics and Physical AI Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
 <td><strong>ALTEN</strong></td>
 <td><a href="https://trueinterview.io/jobs/3fd589f6-03aa-43ad-af14-9dd4bca04d73">Stage Innovation : Ingénieur Computer Vision / Véhicule Autonome Coopératif</a></td>
 <td>Sèvres, Île-de-France, France</td>
@@ -934,7 +948,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 41 of 206.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 43 of 214.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1020,14 +1034,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9272ac0a-c456-4be1-9966-58423bfddb3f">Extracurricular Internship: Mechanical Development and Testing Engineer (f/m/div.)</a> 🆕</td>
 <td>Aveiro, Portugal</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161271710-extracurricular-internship-mechanical-development-and-testing-engineer-f-m-div-">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/108590f6-83cb-4134-a52a-a008c948bd41">Internship - Digitalization &amp; AI for Wiper Blade Testing</a> 🆕</td>
 <td>Tienen, Vlaanderen, Belgium</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161264139-internship-digitalization-ai-for-wiper-blade-testing-">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Neura Robotics</strong></td>
@@ -1097,7 +1111,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9e8cc3ec-d5d1-4172-85f2-46659936038e">2027 Shanghai FPGA Developer Summer Internship</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450152123/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Smiths Group</strong></td>
@@ -1124,7 +1138,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 9 more Hardware & Engineering roles posted earlier</summary>
+<summary>Show 10 more Hardware & Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1153,7 +1167,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc87eb22-afaf-44f1-bc74-079dcc248f92">Industrial Engineering Intern (Paid Internship)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151755369-industrial-engineering-intern-paid-internship-">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
@@ -1199,7 +1220,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 34 of 83.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 35 of 85.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1236,7 +1257,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2999fd08-3cc8-4feb-9fb4-ba0682a6732c">AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4405993593/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Mercari, Inc.</strong></td>
@@ -1480,7 +1501,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4f32f529-c6d0-4489-b7c1-f0ae8f1e9600">Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451200166/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
@@ -1529,14 +1550,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/58583ed9-0dcc-4645-b152-104354969d2c">Quantitative Trading Internship (Summer 2027 - Shanghai)</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467603402/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a79bfe8-99f6-4b26-835c-6813bb97226d">Quantitative Trading Internship (Taiwan) - 2027</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467389756/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
@@ -1564,7 +1585,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/021ad960-41f4-4851-9f21-7a4f373520b4">Quantitative Research Internship: Summer 2027</a></td>
 <td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438405881/">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1578,7 +1599,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ab973969-7885-4b44-951d-36aa0aeaf143">Quantitative Research Intern</a></td>
 <td>Singapore, Singapore<br/>London, England, United Kingdom<br/>Chicago, New York City</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7957756">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>TotalEnergies</strong></td>
@@ -1767,6 +1788,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dalian, Liaoning, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477128906/">Apply</a></td>
 <td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/c49329af-d959-4cbc-83bb-822e770016cb">Robotics Wireless &amp; Network Engineer Intern, RIVR</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10592306/robotics-wireless--network-engineer-intern-rivr?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>

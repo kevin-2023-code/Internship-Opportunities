@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**815 open roles.** 732 in the United States & Canada · 83 elsewhere in the world.
+**823 open roles.** 738 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/329b6074-c2ca-4a71-a46e-5ffa862d1f48">NUMERICAL CONTROL PROGRAMMER SKILLBRIDGE INTERN</a></td>
 <td>Newport News, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4288253330/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Aurora</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6e193cc-fdd5-4083-a556-2cd6d8ab57bb">Embedded Software Engineer Intern — Lidar</a></td>
+<td>Bozeman, MT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491010536/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/171ee473-bbdd-448b-847b-c8065fbb37c9">Programmer Analyst Intern - Summer 2027</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489306049/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5cf2e828-e70c-4019-9189-736000a7aeae">2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318930657">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae34e8e0-d3d2-4770-8c09-79ebda8b7353">Signal and Power Integrity Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/98beca1a-c87a-4c9c-a4ca-f7d95a684a45">UWB Radar Signal Processing &amp; Algorithms Intern - Summer 2027</a></td>
-<td>Irvine, United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/UWB-Radar-Signal-Processing---Algorithms-Intern---Summer-2027_R-10065402">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>

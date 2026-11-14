@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,898 open roles.** 1,511 in the United States & Canada · 387 elsewhere in the world.
+**1,907 open roles.** 1,518 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>VAYLIX</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c53c299-da06-455d-b592-52c4467afb45">Frontend Intern</a></td>
@@ -69,13 +76,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Aurora</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6e193cc-fdd5-4083-a556-2cd6d8ab57bb">Embedded Software Engineer Intern — Lidar</a></td>
-<td>Bozeman, MT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491010536/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>CNH</strong></td>
 <td><a href="https://trueinterview.io/jobs/dee769e2-e4f3-4cd9-b47a-7a3a8f67e31b">Software Engineering Intern</a></td>
 <td>Sioux Falls, SD</td>
@@ -115,13 +115,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/47062a36-51cc-4a7c-9f06-99f9d65b80d8">Internship, Software Engineer, Core SI Compiler &amp; Runtime (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491014780/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/171ee473-bbdd-448b-847b-c8065fbb37c9">Programmer Analyst Intern - Summer 2027</a></td>
-<td>Fort Wayne, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489306049/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -318,13 +311,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/070c92e8-0563-4116-ab11-419b198dfe98">Summer Intern - Software Engineering</a></td>
 <td>Warrendale, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481621138/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brady Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/001e3c64-62a5-4f21-8a12-af499acefb2c">Software Engineer Intern</a></td>
-<td>Plymouth, MN<br/>Milwaukee, WI</td>
-<td align="center"><a href="https://myjobs.adp.com/bradycorp/cx/job-details?reqId=5001237992900">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4419e1b5-1d4b-4e4a-9723-a035877f9b26">Intern Software Engineering</a></td>
 <td>Reno, NV</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479741894/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a">Android Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba">Full-Stack Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>
