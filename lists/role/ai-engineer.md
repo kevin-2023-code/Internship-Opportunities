@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**251 open roles.** 168 in the United States & Canada · 83 elsewhere in the world.
+**252 open roles.** 169 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f8bb1d1d-cafa-46ce-b833-1392dd090587">Software Engineering Intern - Applied AI (Spring 2027 Co-Op)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472507239/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMETEK</strong></td>
+<td><a href="https://trueinterview.io/jobs/00907e3f-8ce3-481f-aa51-9d20966f3f5b">AI Automation Intern</a></td>
+<td>Orange, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455954638/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

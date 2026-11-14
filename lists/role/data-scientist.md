@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**117 open roles.** 96 in the United States & Canada · 21 elsewhere in the world.
+**116 open roles.** 95 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d6a4838e-7714-4223-b5d4-372d9e543b5e">Data Scientist Intern (Summer 2027)</a></td>
 <td>Salt Lake City, UT<br/>Anchorage, AK<br/>Boise, ID<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481624628/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d0230c0-0abc-46df-a62e-cf2309005436">Junior Software Engineer / Data Scientist Intern</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://careers.leidos.com/jobs/18478663-junior-software-engineer-slash-data-scientist-intern?tm_job=R-00196510&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

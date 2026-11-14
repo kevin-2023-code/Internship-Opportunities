@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T04:05:20.873Z",
-  "count": 3899,
+  "listingsChangedAt": "2026-11-14T05:04:54.392Z",
+  "count": 3898,
   "listings": [
     {
       "id": "442d6d10-130c-4f31-98a1-c8c219cd75f6",
@@ -34,6 +34,33 @@
       "url": "https://trueinterview.io/jobs/442d6d10-130c-4f31-98a1-c8c219cd75f6",
       "postedAt": "2026-11-14T02:32:00.000Z",
       "updatedAt": "2026-11-14T02:32:00.000Z"
+    },
+    {
+      "id": "47062a36-51cc-4a7c-9f06-99f9d65b80d8",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Core SI Compiler & Runtime (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491014780/",
+      "url": "https://trueinterview.io/jobs/47062a36-51cc-4a7c-9f06-99f9d65b80d8",
+      "postedAt": "2026-11-14T01:16:00.000Z",
+      "updatedAt": "2026-11-14T01:16:00.000Z"
     },
     {
       "id": "083773e4-3e12-4b70-ba8b-e65696a3ff56",
@@ -2078,7 +2105,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2126,31 +2153,6 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4462533638/",
-      "url": "https://trueinterview.io/jobs/a3f953f3-95cc-446a-8011-5456f7207155",
-      "postedAt": "2026-11-13T12:37:00.000Z",
-      "updatedAt": "2026-11-13T12:37:00.000Z"
-    },
-    {
-      "id": "b2448409-895b-410c-a20b-bb65774af179",
-      "company": "GE Aerospace",
-      "title": "Lynn CNC Programmer Co-Op",
-      "locations": [
-        "Lynn, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -2159,8 +2161,8 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4473929772/",
-      "url": "https://trueinterview.io/jobs/b2448409-895b-410c-a20b-bb65774af179",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462533638/",
+      "url": "https://trueinterview.io/jobs/a3f953f3-95cc-446a-8011-5456f7207155",
       "postedAt": "2026-11-13T12:37:00.000Z",
       "updatedAt": "2026-11-13T12:37:00.000Z"
     },
@@ -2262,9 +2264,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2303,6 +2305,31 @@
       "updatedAt": "2026-11-13T11:47:00.000Z"
     },
     {
+      "id": "00907e3f-8ce3-481f-aa51-9d20966f3f5b",
+      "company": "AMETEK",
+      "title": "AI Automation Intern",
+      "locations": [
+        "Orange, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455954638/",
+      "url": "https://trueinterview.io/jobs/00907e3f-8ce3-481f-aa51-9d20966f3f5b",
+      "postedAt": "2026-11-13T11:39:00.000Z",
+      "updatedAt": "2026-11-13T11:39:00.000Z"
+    },
+    {
       "id": "2d0230c0-0abc-46df-a62e-cf2309005436",
       "company": "Leidos",
       "title": "Junior Software Engineer / Data Scientist Intern",
@@ -2314,11 +2341,11 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -2341,9 +2368,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2449,7 +2476,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Data & AI",
       "role": "Platform Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -2458,6 +2485,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4452600425/",
       "url": "https://trueinterview.io/jobs/e22a6be1-0b48-4358-9120-d17740a4780f",
+      "postedAt": "2026-11-13T10:39:00.000Z",
+      "updatedAt": "2026-11-13T10:39:00.000Z"
+    },
+    {
+      "id": "870653d6-b11b-4dbe-9504-8d160497e7e2",
+      "company": "Philips",
+      "title": "Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027",
+      "locations": [
+        "Nashville, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481622533/",
+      "url": "https://trueinterview.io/jobs/870653d6-b11b-4dbe-9504-8d160497e7e2",
       "postedAt": "2026-11-13T10:39:00.000Z",
       "updatedAt": "2026-11-13T10:39:00.000Z"
     },
@@ -4273,6 +4325,38 @@
       "source": "ats-boards",
       "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99105",
       "url": "https://trueinterview.io/jobs/a151a94a-87ee-4608-b90d-62e214d92671",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "updatedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "1973d253-ddfc-4d6e-bcef-6ad2813f6fee",
+      "company": "Wsp",
+      "title": "MEP Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles, CA, United States",
+        "San Francisco, CA, United States",
+        "Irvine, CA, United States",
+        "San Diego, CA, United States",
+        "Riverside, CA, United States"
+      ],
+      "cities": [
+        "Los Angeles, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99030",
+      "url": "https://trueinterview.io/jobs/1973d253-ddfc-4d6e-bcef-6ad2813f6fee",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "updatedAt": "2026-11-13T00:00:00.000Z"
     },
@@ -8216,33 +8300,6 @@
       "updatedAt": "2026-11-12T06:00:00.000Z"
     },
     {
-      "id": "5de9ade7-4ea5-4433-a3c6-78249dc63365",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Energy Engineering (Winter/Spring 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.tesla.com/careers/search/job/289796",
-      "url": "https://trueinterview.io/jobs/5de9ade7-4ea5-4433-a3c6-78249dc63365",
-      "postedAt": "2026-11-12T06:00:00.000Z",
-      "updatedAt": "2026-11-12T06:00:00.000Z"
-    },
-    {
       "id": "ed4fb42d-9a86-4934-b0ee-3b43eee834a3",
       "company": "Collins Aerospace",
       "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
@@ -10315,33 +10372,6 @@
       "url": "https://trueinterview.io/jobs/0462f4fc-759a-4843-bba2-99953fb5083e",
       "postedAt": "2026-11-11T16:15:00.000Z",
       "updatedAt": "2026-11-11T16:15:00.000Z"
-    },
-    {
-      "id": "a60410b1-912a-4ef7-8a9e-00c351b97de5",
-      "company": "Wep Clinical",
-      "title": "IT Intern - AI & Transformation",
-      "locations": [
-        "Morrisville, NC",
-        "Morrisville, North Carolina, US",
-        "Chiswick, London, UK"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b",
-      "url": "https://trueinterview.io/jobs/a60410b1-912a-4ef7-8a9e-00c351b97de5",
-      "postedAt": "2026-11-10T19:41:04.000Z",
-      "updatedAt": "2026-11-11T16:05:07.000Z"
     },
     {
       "id": "6133a9b7-2121-49be-b391-1d6a863972f4",
@@ -18697,33 +18727,6 @@
       "source": "indeed",
       "applyUrl": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/summer-intern-software-engineering-atc-hillsboro-or_251563-1716992.html",
       "url": "https://trueinterview.io/jobs/7d9fae29-74a3-4c01-bf9a-fcf4078c4521",
-      "postedAt": "2026-11-09T06:00:00.000Z",
-      "updatedAt": "2026-11-09T06:00:00.000Z"
-    },
-    {
-      "id": "74c07547-e571-40c2-835a-bb40b5c290ab",
-      "company": "Tesla",
-      "title": "Internship, Mobile Developer, Optimus (Winter/Spring 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.tesla.com/careers/search/job/289480",
-      "url": "https://trueinterview.io/jobs/74c07547-e571-40c2-835a-bb40b5c290ab",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
@@ -83047,29 +83050,6 @@
       "url": "https://trueinterview.io/jobs/d410bf00-ce68-4b38-9077-61fa4de6aeba",
       "postedAt": "2026-10-15T18:29:29.000Z",
       "updatedAt": "2026-10-15T18:29:29.000Z"
-    },
-    {
-      "id": "bb0d9887-4136-418b-a334-8df9a0bcfe95",
-      "company": "Research Innovations",
-      "title": "DoW SkillBridge Forward Deployed Engineer Intern",
-      "locations": [
-        "Joint Base Lewis-McChord"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181",
-      "url": "https://trueinterview.io/jobs/bb0d9887-4136-418b-a334-8df9a0bcfe95",
-      "postedAt": "2026-10-15T17:51:31.000Z",
-      "updatedAt": "2026-10-15T17:51:31.000Z"
     },
     {
       "id": "585ff75d-a8f5-4aac-bb23-24953a9b1b14",
