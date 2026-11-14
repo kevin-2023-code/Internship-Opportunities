@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Union Home Mortgage Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e0d948a-2ea4-4f40-8cf0-4d9aecd05c06">AI Software Engineering Intern</a></td>
 <td>Strongsville, OH</td>
@@ -437,13 +444,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f2f34cfe-1169-4d5e-aaa1-55221553ca15">Intern - Embedded Software Engineer (Spring 2027)</a></td>
 <td>Bohemia, NY<br/>116 Wilbur Pl, Bohemia, NY, 11716, US</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112?listingId=03d28297-d3eb-4490-a5a8-e525e673a55a">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Aurora Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c34f7cb-5984-4657-a1ae-f56fb10d1370">Software Engineer Intern, Vehicle Platforms</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

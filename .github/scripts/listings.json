@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T11:03:59.557Z",
-  "count": 3922,
+  "listingsChangedAt": "2026-11-14T12:06:16.569Z",
+  "count": 3916,
   "listings": [
     {
       "id": "2dd84617-8ee7-4e0e-828c-c7b4332fe8df",
@@ -24,7 +24,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4442,33 +4442,6 @@
       "url": "https://trueinterview.io/jobs/f4471cd8-11c1-4909-88cd-e01dbf1544e4",
       "postedAt": "2026-11-13T04:16:00.000Z",
       "updatedAt": "2026-11-13T04:16:00.000Z"
-    },
-    {
-      "id": "9c34f7cb-5984-4657-a1ae-f56fb10d1370",
-      "company": "Aurora Innovation",
-      "title": "Software Engineer Intern, Vehicle Platforms",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
-      "url": "https://trueinterview.io/jobs/9c34f7cb-5984-4657-a1ae-f56fb10d1370",
-      "postedAt": "2026-11-13T02:49:46.000Z",
-      "updatedAt": "2026-11-13T02:49:46.000Z"
     },
     {
       "id": "924ec8ad-73b7-4f78-839e-145a885dbdc3",
@@ -46105,34 +46078,6 @@
       "updatedAt": "2026-10-31T00:08:05.000Z"
     },
     {
-      "id": "e4f84268-6960-40c7-8f13-c00fc6d27693",
-      "company": "Perplexity",
-      "title": "Internship - Machine Learning Research Engineer",
-      "locations": [
-        "Berlin, Berlin, Germany",
-        "Berlin"
-      ],
-      "cities": [
-        "Berlin"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
-      "url": "https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693",
-      "postedAt": "2026-10-31T00:00:00.000Z",
-      "updatedAt": "2026-10-31T00:00:00.000Z"
-    },
-    {
       "id": "f8e61fe8-f380-477e-b559-652e442834ae",
       "company": "Farmers Mutual Hail Insurance",
       "title": "Software Developer Intern",
@@ -49504,58 +49449,6 @@
       "url": "https://trueinterview.io/jobs/79978bed-7a41-4cce-8c96-78e512935130",
       "postedAt": "2026-10-30T05:48:00.000Z",
       "updatedAt": "2026-10-30T05:48:00.000Z"
-    },
-    {
-      "id": "eef19c78-b2d0-4259-85f6-e3b834282833",
-      "company": "AxoraQ",
-      "title": "Engineering Internship",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4483405993/",
-      "url": "https://trueinterview.io/jobs/eef19c78-b2d0-4259-85f6-e3b834282833",
-      "postedAt": "2026-10-30T05:45:00.000Z",
-      "updatedAt": "2026-10-30T05:45:00.000Z"
-    },
-    {
-      "id": "30984b02-c6a0-44b6-ba3d-88de0b261a10",
-      "company": "BioSpace",
-      "title": "2027 Summer Intern Genomics, Computational Biology & Translational Data Science",
-      "locations": [
-        "Tarrytown, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485297710/",
-      "url": "https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10",
-      "postedAt": "2026-10-30T05:38:00.000Z",
-      "updatedAt": "2026-10-30T05:38:00.000Z"
     },
     {
       "id": "81c8c8d2-5267-4e97-825e-a85a3825f3ed",
@@ -101353,56 +101246,6 @@
       "url": "https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "68415944-c068-4db1-9fc8-9395511b466e",
-      "company": "Cesiumastro",
-      "title": "Summer 2027 - GNC Internship",
-      "locations": [
-        "Westminster, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872/apply",
-      "url": "https://trueinterview.io/jobs/68415944-c068-4db1-9fc8-9395511b466e",
-      "postedAt": "2026-09-15T23:56:50.000Z",
-      "updatedAt": "2026-09-15T23:56:50.000Z"
-    },
-    {
-      "id": "faf90729-07e7-46ec-a562-3c28a92b28dc",
-      "company": "Wsp",
-      "title": "Intern, Electrical/Electronics Engineering",
-      "locations": [
-        "Edmonton, AB, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95485",
-      "url": "https://trueinterview.io/jobs/faf90729-07e7-46ec-a562-3c28a92b28dc",
-      "postedAt": "2026-09-15T22:38:42.000Z",
-      "updatedAt": "2026-09-15T22:38:42.000Z"
     },
     {
       "id": "6c5adf69-870a-4c2d-99e3-36d56894fdfa",

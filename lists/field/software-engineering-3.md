@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,907 open roles.** 1,518 in the United States & Canada · 389 elsewhere in the world.
+**1,906 open roles.** 1,517 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -167,13 +167,6 @@
 <td><a href="https://trueinterview.io/jobs/44c32eba-f820-4f65-bf41-d8db5627c85d">Engineering Intern – Summer 2027</a></td>
 <td>Sterling, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485287952/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AxoraQ</strong></td>
-<td><a href="https://trueinterview.io/jobs/eef19c78-b2d0-4259-85f6-e3b834282833">Engineering Internship</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405993/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/dee4702a-40d8-44cd-947f-9900b374de96">Software Engineer Co-op</a></td>
 <td>Burnaby, Canada</td>
 <td align="center"><a href="https://xradar.bamboohr.com/careers/203?postedDate=2026-10-28">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wabtec</strong></td>
+<td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
+<td>Schenectady, NY<br/>Schenectady, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
