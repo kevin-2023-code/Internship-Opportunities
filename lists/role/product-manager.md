@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**111 open roles.** 73 in the United States & Canada · 38 elsewhere in the world.
+**110 open roles.** 72 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -218,13 +218,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/40e75538-eeab-4739-8f88-17d329ae7b54">Associate Product Manager Summer Internship (Hybrid)</a></td>
 <td>Clearwater, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485411943/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Publicis Sapient</strong></td>
-<td><a href="https://trueinterview.io/jobs/18568e1f-59e9-4144-9159-cca3211e9166">Product Manager Intern (Class of 2028)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466957557/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
