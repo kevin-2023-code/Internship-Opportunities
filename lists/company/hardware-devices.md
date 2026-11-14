@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**208 open roles.** 162 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**209 open roles.** 163 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ceeaf340-27f7-42c3-abeb-52dbce68c9d3">Artificial Intelligence / Machine Learning Internship, Dedrone</a></td>
 <td>Sterling, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4418929578/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/c843a96c-7577-4f2c-ad35-d0319710c939">Intern - Software Engineer (Systems)</a></td>
+<td>San Jose, CA, USA Office<br/>RTP, North Carolina, USA Office</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=netappinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=137219">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

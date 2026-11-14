@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**44 open roles.**
+**43 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -317,13 +317,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tucson, AZ<br/>Geost Main</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992102003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brph</strong></td>
-<td><a href="https://trueinterview.io/jobs/1661f68b-6770-41b5-9503-f5563eabae60">Mechanical Engineer Intern</a></td>
-<td>Phoenix, Arizona, United States<br/>Orlando, Florida, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399628009">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

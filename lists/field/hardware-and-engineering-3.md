@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**822 open roles.** 737 in the United States & Canada · 85 elsewhere in the world.
+**819 open roles.** 735 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
-<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a></td>
-<td>Grenoble, France</td>
-<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parsons</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c0a4b82-9e15-4cdd-94a1-e4a7a3c646ac">Civil Engineer Diploma Intern (UAE National)</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://jobs.parsons.com/jobs/civil-engineer-diploma-intern-uae-national-r-187770-jobs--internship-program--">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wood</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc87e2b9-0f1a-4bda-a4a0-6a75749dc59c">Process Engineer - Internship</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33119">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4cd52e8-393f-4337-9a47-006777013d14">[Bosch HcP – Internship] Civil Engineering Intern</a></td>

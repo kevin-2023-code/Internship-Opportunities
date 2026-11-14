@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**822 open roles.** 737 in the United States & Canada · 85 elsewhere in the world.
+**819 open roles.** 735 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2360,20 +2360,6 @@
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Brph</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd1e52b9-3b47-4732-b4e7-69bd34592347">Structural Engineer Intern</a></td>
-<td>Melbourne, Florida, United States<br/>Orlando, Florida, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399668009">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1661f68b-6770-41b5-9503-f5563eabae60">Mechanical Engineer Intern</a></td>
-<td>Orlando, Florida, United States<br/>Phoenix, Arizona, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399628009">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2415,14 +2401,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7ff8971-0d75-450e-9ce7-c24f92d2177a">Datacenter Operations Engineer (DCO-SG) Intern (Infrastructure Engineering) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474544792/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Renesas</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a></td>
 <td>Varna, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
@@ -2826,6 +2805,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Schaan, Switzerland</td>
 <td align="center"><a href="https://careers.hilti.group/en/jobs/21795-en/intern-civil-engineer-for-structural-analysis-m-f-x/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
+<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c0a4b82-9e15-4cdd-94a1-e4a7a3c646ac">Civil Engineer Diploma Intern (UAE National)</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://jobs.parsons.com/jobs/civil-engineer-diploma-intern-uae-national-r-187770-jobs--internship-program--">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wood</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc87e2b9-0f1a-4bda-a4a0-6a75749dc59c">Process Engineer - Internship</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33119">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

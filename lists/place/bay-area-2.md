@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**582 open roles.**
+**587 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/08ddbe4d-1edf-48b8-b177-93ef4040181b">Enterprise Security Engineer, Intern (Summer 2027)</a></td>
+<td>Menlo Park, CA, United States<br/>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1079627324896327/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/853e4a9a-3108-4866-adc1-3ee4201058c3">PDE Intern (Summer),  Summer 2027</a></td>
+<td>Sunnyvale, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10584152/pde-intern-summer-summer-2027">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/916a7d84-c11c-4cc4-a705-5c4e8e2c9ffe">Design Verification Graduate Intern 2027</a></td>
+<td>US, California, Santa Clara<br/>US, Colorado, Fort Collins, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ae6b90e-2119-4a62-9723-4ef3874cf4f0">Solutions Engineering Intern</a></td>
+<td>Santa Clara, California, United States<br/>San Diego, California, United States<br/>El Segundo, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54887?lang=en-us">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Matic</strong></td>
+<td><a href="https://trueinterview.io/jobs/44ddee34-8c7a-48c2-bd0e-6150688c25e3">Manufacturing Design Engineer Intern</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a8dc8a76-fe6b-4a41-80f9-ecf1d94cbad6">Mechanical Design Engineer Intern</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meter</strong></td>
 <td><a href="https://trueinterview.io/jobs/f19fd81e-760a-4c03-a495-453dea6ef265">Hardware Engineering Intern</a></td>
@@ -727,13 +769,6 @@
 <td><a href="https://trueinterview.io/jobs/04753d31-2f75-4654-9709-505db9088cfe">Summer 2027: Finance Transformation &amp; Analytics Intern</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Shopback</strong></td>
-<td><a href="https://trueinterview.io/jobs/0828b6ad-0d66-4d4a-9b08-0169ce748170">Software Engineer Intern</a></td>
-<td>San Francisco, California<br/>Singapore, Singapore<br/>New York City, New York</td>
-<td align="center"><a href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>

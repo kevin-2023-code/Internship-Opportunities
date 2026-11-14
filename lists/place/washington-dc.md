@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**88 open roles.**
+**89 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -233,6 +233,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>McLean, VA<br/>Bedford, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479785073/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions, Inc. (MTSI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/a308f684-a8c5-4f78-851c-6d8aa9c2656c">Software Engineering Intern or Co-Op</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485782590/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Modern Technology Solutions Inc</strong></td>

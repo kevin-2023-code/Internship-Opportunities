@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**822 open roles.** 737 in the United States & Canada · 85 elsewhere in the world.
+**819 open roles.** 735 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -167,6 +167,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>SynQor</strong></td>
+<td><a href="https://trueinterview.io/jobs/011a1725-9644-4d53-90a5-266218b29d1c">Electrical Engineering Co-op</a></td>
+<td>Salem, NH</td>
+<td align="center"><a href="https://app.jobvite.com/CompanyJobs/Job.aspx?j=oRS4Afw7&amp;s=Indeed">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/a304ef3e-be75-4ad8-9f10-97040e926d67">Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)</a></td>
 <td>Cedar Rapids, IA</td>
@@ -220,13 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76ae0837-5080-4053-8899-e978c57314f6">Power Electronics Engineer Intern</a></td>
 <td>US-CA-Campbell-254</td>
 <td align="center"><a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8928792002">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/728547ed-5293-4fa5-9c9d-273cc3e2a123">ASIC Design Engineer Intern (Video Silicon IP) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490503238/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

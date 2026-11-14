@@ -32,13 +32,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Celestica International LP</strong></td>
-<td><a href="https://trueinterview.io/jobs/2941283b-4b27-484d-b52f-d05504ef1da3">Student Intern, IT Business Application Development</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://career2.successfactors.eu/career?career_ns=job_listing&amp;company=celesticaiP1&amp;rcm_site_locale=en_US&amp;career_job_req_id=141430">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Canada Mortgage and Housing Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/fab870d6-ecb0-4fab-93f8-32377e4630e6">Summer 2027 Internship - Junior Developer</a></td>
 <td>Ottawa, ON<br/>Montreal, QC</td>
@@ -141,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3284f3b4-55ce-4d58-b3e5-2d139b695cfc">Winter 2027 : AI Developer Co-op (8 months)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&amp;clid=21001&amp;JobID=J1026-2812&amp;BRID=1345069&amp;sbdid=936">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c93b97f-075b-4947-b056-230865d971f5">Intern - Gas Engineering</a></td>
+<td>Waterloo, ON<br/>Davenport, IA, United States<br/>Sioux City, IA, United States<br/>+4 more</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006003">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**55 open roles.** 12 in the United States & Canada · 43 elsewhere in the world.
+**54 open roles.** 12 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -378,13 +378,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bristol</td>
 <td align="center"><a href="https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426">Apply</a></td>
 <td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Databricks</strong></td>
-<td><a href="https://trueinterview.io/jobs/b527973e-f432-4ced-a773-74a7c41ba25a">Software Engineering Intern (2027 Start) - London</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Capstone Investment Advisors</strong></td>
