@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T03:05:31.056Z",
-  "count": 3898,
+  "listingsChangedAt": "2026-11-14T04:05:20.873Z",
+  "count": 3899,
   "listings": [
+    {
+      "id": "442d6d10-130c-4f31-98a1-c8c219cd75f6",
+      "company": "Postman",
+      "title": "AI Engineer, Intern",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491029610/",
+      "url": "https://trueinterview.io/jobs/442d6d10-130c-4f31-98a1-c8c219cd75f6",
+      "postedAt": "2026-11-14T02:32:00.000Z",
+      "updatedAt": "2026-11-14T02:32:00.000Z"
+    },
     {
       "id": "083773e4-3e12-4b70-ba8b-e65696a3ff56",
       "company": "General Atomics",
@@ -1687,9 +1714,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1713,7 +1740,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1738,7 +1765,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1763,7 +1790,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1774,6 +1801,31 @@
       "url": "https://trueinterview.io/jobs/990b0d44-d8b5-41d3-a95d-9039f2eed5ef",
       "postedAt": "2026-11-13T15:11:13.000Z",
       "updatedAt": "2026-11-13T15:11:13.000Z"
+    },
+    {
+      "id": "6234b9d6-7531-4594-81a5-8207652ad446",
+      "company": "Dematic",
+      "title": "Software Analytics Co-op",
+      "locations": [
+        "Grand Rapids, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480097239/",
+      "url": "https://trueinterview.io/jobs/6234b9d6-7531-4594-81a5-8207652ad446",
+      "postedAt": "2026-11-13T14:59:00.000Z",
+      "updatedAt": "2026-11-13T14:59:00.000Z"
     },
     {
       "id": "8494e5bd-e17b-4b73-926c-efd5bf22148b",
@@ -1789,8 +1841,8 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -1817,7 +1869,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -1839,9 +1891,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1866,9 +1918,9 @@
         "Singapore"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1878,31 +1930,6 @@
       "url": "https://trueinterview.io/jobs/d308964e-5ffa-4052-9275-0041a9d59c17",
       "postedAt": "2026-11-13T14:15:00.000Z",
       "updatedAt": "2026-11-13T14:15:00.000Z"
-    },
-    {
-      "id": "926033f5-7971-4ff7-b7ec-dc4b79df9ecd",
-      "company": "Tech Collaborative",
-      "title": "WordPress InternshipWordPress Designer/Developer & Intern Program Assistant",
-      "locations": [
-        "Grand Rapids, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489565856/",
-      "url": "https://trueinterview.io/jobs/926033f5-7971-4ff7-b7ec-dc4b79df9ecd",
-      "postedAt": "2026-11-13T13:59:00.000Z",
-      "updatedAt": "2026-11-13T13:59:00.000Z"
     },
     {
       "id": "7aafd6a5-b400-4dda-b4f5-0b459ce1cbde",
@@ -1917,7 +1944,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1944,7 +1971,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1972,7 +1999,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1997,9 +2024,9 @@
         "Singapore"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
+      "category": "Software",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Site Reliability Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",

@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**53 open roles.** 40 in the United States & Canada · 13 elsewhere in the world.
+**52 open roles.** 39 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0d9fa41-c1db-475f-b7ab-dbe0d51002fd">System Test Automation Intern (Summer 2027)</a></td>
 <td>South San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455978414/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Insulet Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8494e5bd-e17b-4b73-926c-efd5bf22148b">Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)</a></td>
-<td>Acton, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464814106/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
