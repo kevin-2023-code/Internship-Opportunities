@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**791 open roles.** 576 in the United States & Canada · 215 elsewhere in the world.
+**787 open roles.** 574 in the United States & Canada · 213 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -153,13 +153,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c943f122-6831-4f27-9b9d-38e52699937a">GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474544828/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/1afab705-0390-423a-8622-2f359ec62ced">Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
@@ -171,13 +164,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa3bb18f-a4fb-4aa3-b8ae-840d0527c34b">AI Engineer Intern</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465044490/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>United States Steel</strong></td>
-<td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
-<td>Munhall, PA</td>
-<td align="center"><a href="https://sjobs.brassring.com/TGNewUI/Search/Home/Homewithpreload?partnerid=25307&amp;siteid=5238&amp;Pagetype=jobdetails&amp;jobid=3395824">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a></td>
 <td>Boston, Massachusetts, United States</td>
 <td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apexanalytix</strong></td>
+<td><a href="https://trueinterview.io/jobs/e49adb3a-1544-42fe-be0c-642e7c68cfab">Data Analyst Intern (Summer 2027)</a></td>
+<td>Greensboro, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465565542/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OPSWAT</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476735746/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

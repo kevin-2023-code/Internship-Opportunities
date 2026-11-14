@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,897 open roles.** 1,506 in the United States & Canada · 391 elsewhere in the world.
+**1,902 open roles.** 1,510 in the United States & Canada · 392 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>International</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ce8e5ae-6f84-4707-92c3-e7999ed923c0">Digital &amp; AI Intern for Service Solutions</a></td>
+<td>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489321135/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/47062a36-51cc-4a7c-9f06-99f9d65b80d8">Internship, Software Engineer, Core SI Compiler &amp; Runtime (Winter/Spring 2027)</a></td>
@@ -349,14 +356,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d6f9652-9ff9-47e2-a665-c067958cc7a0">Software Engineer Co-op (Summer/Fall 2027) - Onsite</a></td>
-<td>Cedar Rapids, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464684830/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb72ebdc-a93a-492a-aabb-70245cd4530f">Site Reliability Engineer Intern (Data Infra) - 2027 Fall</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474550527/">Apply</a></td>
@@ -392,9 +392,30 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c943f122-6831-4f27-9b9d-38e52699937a">GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474544828/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-Commerce Risk Control)- 2027 Start (PhD)</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/02eea93a-228c-4a8b-bfc1-b079dc0ab45c">AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452416865/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/431599e7-890a-4ee2-8c2e-4866fa26ef3d">AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450373767/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -465,6 +486,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/52fed577-e667-45ae-81e0-c18d3c28f39a">Intern, Compiler Engineer</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>United States Steel</strong></td>
+<td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
+<td>Munhall, PA</td>
+<td align="center"><a href="https://sjobs.brassring.com/TGNewUI/Search/Home/Homewithpreload?partnerid=25307&amp;siteid=5238&amp;Pagetype=jobdetails&amp;jobid=3395824">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f228377b-d4c0-4232-8534-27a799ad8081">Backend Engineer Intern</a></td>
 <td>Palo Alto, California<br/>Los Angeles, California</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ea45da10-c5a5-4515-bfbc-561ccdb8ee9a">iOS Engineer Intern</a></td>
-<td>Los Angeles, California<br/>Palo Alto, California</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f6ffbc0-0522-4194-b4ee-56fe94ddfe73">Back End Developer Intern - NY POK BS - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477316764/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d34417e9-fc21-46dd-8a92-44bc97cad048">Back End Developer Intern - NY POK JO - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477331214/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Safran Defense &amp; Space, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/c88a2fce-0168-4116-a093-3d13a6f43394">Software Engineering Internship</a></td>
-<td>Bedford, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480184037/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

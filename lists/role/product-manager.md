@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**113 open roles.** 75 in the United States & Canada · 38 elsewhere in the world.
+**112 open roles.** 74 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/431599e7-890a-4ee2-8c2e-4866fa26ef3d">AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450373767/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ca775222-0723-4031-8990-3e63eff90cce">Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407332739/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**584 open roles.**
+**583 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -297,13 +297,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/431599e7-890a-4ee2-8c2e-4866fa26ef3d">AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450373767/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ca775222-0723-4031-8990-3e63eff90cce">Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407332739/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ae6b90e-2119-4a62-9723-4ef3874cf4f0">Solutions Engineering Intern</a></td>
 <td>Santa Clara, California, United States<br/>San Diego, California, United States<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54887?lang=en-us">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Matic</strong></td>
+<td><a href="https://trueinterview.io/jobs/44ddee34-8c7a-48c2-bd0e-6150688c25e3">Manufacturing Design Engineer Intern</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

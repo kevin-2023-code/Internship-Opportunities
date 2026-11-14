@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**946 open roles.** 765 in the United States & Canada · 181 elsewhere in the world. Everything the employers put up this week.
+**936 open roles.** 756 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>International</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ce8e5ae-6f84-4707-92c3-e7999ed923c0">Digital &amp; AI Intern for Service Solutions</a></td>
+<td>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489321135/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Postman</strong></td>
 <td><a href="https://trueinterview.io/jobs/442d6d10-130c-4f31-98a1-c8c219cd75f6">AI Engineer, Intern</a></td>
@@ -689,13 +696,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/431599e7-890a-4ee2-8c2e-4866fa26ef3d">AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450373767/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ca775222-0723-4031-8990-3e63eff90cce">Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407332739/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

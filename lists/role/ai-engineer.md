@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**252 open roles.** 169 in the United States & Canada · 83 elsewhere in the world.
+**251 open roles.** 168 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa3bb18f-a4fb-4aa3-b8ae-840d0527c34b">AI Engineer Intern</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465044490/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>United States Steel</strong></td>
-<td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
-<td>Munhall, PA</td>
-<td align="center"><a href="https://sjobs.brassring.com/TGNewUI/Search/Home/Homewithpreload?partnerid=25307&amp;siteid=5238&amp;Pagetype=jobdetails&amp;jobid=3395824">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

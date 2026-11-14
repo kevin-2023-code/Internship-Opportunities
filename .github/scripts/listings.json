@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T05:04:54.392Z",
-  "count": 3898,
+  "listingsChangedAt": "2026-11-14T06:06:50.831Z",
+  "count": 3897,
   "listings": [
+    {
+      "id": "5ce8e5ae-6f84-4707-92c3-e7999ed923c0",
+      "company": "International",
+      "title": "Digital & AI Intern for Service Solutions",
+      "locations": [
+        "Lisle, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489321135/",
+      "url": "https://trueinterview.io/jobs/5ce8e5ae-6f84-4707-92c3-e7999ed923c0",
+      "postedAt": "2026-11-14T05:11:00.000Z",
+      "updatedAt": "2026-11-14T05:11:00.000Z"
+    },
     {
       "id": "442d6d10-130c-4f31-98a1-c8c219cd75f6",
       "company": "Postman",
@@ -2553,9 +2578,9 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -3013,7 +3038,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3069,7 +3094,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3097,7 +3122,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3123,7 +3148,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -3190,33 +3215,6 @@
       "updatedAt": "2026-11-13T09:46:00.000Z"
     },
     {
-      "id": "760bd8d9-edb9-433e-a30b-dfc8c44c7f54",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4401876238/",
-      "url": "https://trueinterview.io/jobs/760bd8d9-edb9-433e-a30b-dfc8c44c7f54",
-      "postedAt": "2026-11-13T09:46:00.000Z",
-      "updatedAt": "2026-11-13T09:46:00.000Z"
-    },
-    {
       "id": "870d6fab-401c-4927-9add-91fe74789853",
       "company": "TikTok",
       "title": "Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)",
@@ -3231,9 +3229,9 @@
         "Australia"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3259,7 +3257,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -3286,7 +3284,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3295,33 +3293,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4447983859/",
       "url": "https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267",
-      "postedAt": "2026-11-13T09:34:00.000Z",
-      "updatedAt": "2026-11-13T09:34:00.000Z"
-    },
-    {
-      "id": "ca775222-0723-4031-8990-3e63eff90cce",
-      "company": "TikTok",
-      "title": "Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4407332739/",
-      "url": "https://trueinterview.io/jobs/ca775222-0723-4031-8990-3e63eff90cce",
       "postedAt": "2026-11-13T09:34:00.000Z",
       "updatedAt": "2026-11-13T09:34:00.000Z"
     },
@@ -3649,11 +3620,11 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "ats-boards",
@@ -3674,9 +3645,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
