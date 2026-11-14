@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**67 open roles.** 59 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**68 open roles.** 60 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bfa76cc6-cdab-49fc-b3d1-c199d3ec74b1">AI Software Engineer Intern 2027</a></td>
 <td>New York, NY<br/>San Jose, CA<br/>Durham, NC<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488992499/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trace3</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9909c90-1b85-4297-ab69-907a712fafb5">Security Intern</a></td>
+<td>Irvine, CA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8274792">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

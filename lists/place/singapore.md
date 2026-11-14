@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**174 open roles.** 2 in the United States & Canada · 172 elsewhere in the world.
+**173 open roles.** 2 in the United States & Canada · 171 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1239,13 +1239,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AppLovin</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dff53d1-1a2f-4070-a4b6-4c2ce1822ac9">Machine Learning Engineering Intern (2027 Summer Internship)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

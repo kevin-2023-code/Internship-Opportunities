@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**74 open roles.** 59 in the United States & Canada · 15 elsewhere in the world.
+**75 open roles.** 60 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda">Intern - Embedded Firmware in Seagate Research Group</a></td>
 <td>Longmont, CO<br/>Shakopee, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488958202/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Insulet Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/50f852cc-7ce7-4bfc-9c04-384d2b37b143">Co-op, Embedded Software Engineering: January-June 2027 (Onsite)</a></td>
+<td>Acton, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464828044/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
