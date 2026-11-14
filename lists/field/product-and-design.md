@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**227 open roles.** 163 in the United States & Canada · 64 elsewhere in the world.
+**226 open roles.** 162 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bentonville, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484642135/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed2c0253-d194-410d-b971-d1c273a1d546">CDS Intern - Central Engineering UX/UI Designer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486469572/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Costco IT</strong></td>

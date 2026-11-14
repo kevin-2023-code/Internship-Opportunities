@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**7 open roles.**
+**8 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,6 +65,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/osLAhWRTZx1QgMcwyiiNpF/co-op-students-(operations-and-projects)-in-calgary-at-altalink">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/faf90729-07e7-46ec-a562-3c28a92b28dc">Intern, Electrical/Electronics Engineering</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95485">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

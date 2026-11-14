@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**12 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -66,41 +66,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/649453f0-6973-49f0-8cc6-8074167d4402">Internship - AI Application Engineer</a></td>
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486336493/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2c39b0ff-7edd-4777-9fc7-740a594bc871">Internship - Research Engineer for Speech/Audio Signal Processing</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486338431/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13d1faae-e98c-4a91-b3f1-65ad1cb1a350">Internship - Research engineer for data science and machine learning</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486330586/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd22b881-ae1a-4e4b-9043-5f2336bd4cd0">Internship - Audio-Visual AI Research Scientist</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454244460/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/643ec76c-7a7a-4dda-a495-e07c187df99a">Internship - Research Engineer for Natural Language Processing</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454243488/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57e6cb6d-9a3b-4515-8712-d894c9a54d6e">Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454257388/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

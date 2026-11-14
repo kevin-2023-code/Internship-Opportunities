@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**183 open roles.** 141 in the United States & Canada · 42 elsewhere in the world.
+**180 open roles.** 140 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -197,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/29483ff2-ec26-482f-ad3c-c2c2fc997d85">Computer Vision Engineering Intern</a></td>
 <td>Prosper, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489469337/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors (GM)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6be24bf-d16f-4734-aaec-fe8753fcafad">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -1127,20 +1120,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450134756/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sony</strong></td>
-<td><a href="https://trueinterview.io/jobs/13d1faae-e98c-4a91-b3f1-65ad1cb1a350">Internship - Research engineer for data science and machine learning</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486330586/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57e6cb6d-9a3b-4515-8712-d894c9a54d6e">Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454257388/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>

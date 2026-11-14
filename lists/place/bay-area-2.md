@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**583 open roles.**
+**582 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Matic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8dc8a76-fe6b-4a41-80f9-ecf1d94cbad6">Mechanical Design Engineer Intern</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517/application">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Meter</strong></td>
 <td><a href="https://trueinterview.io/jobs/f19fd81e-760a-4c03-a495-453dea6ef265">Hardware Engineering Intern</a></td>

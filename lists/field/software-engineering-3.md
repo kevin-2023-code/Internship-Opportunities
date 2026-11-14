@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,906 open roles.** 1,517 in the United States & Canada · 389 elsewhere in the world.
+**1,897 open roles.** 1,508 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,76 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Aptiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec71649f-3d38-4e8e-8d82-ab079a0d17a2">Engineering Intern</a></td>
-<td>Walnut Creek, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477655267/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1763f73d-ad97-4a47-9365-625f08ea234c">Systems Engineering Coop - Spring/Summer- Onsite</a></td>
-<td>Jamestown, ND</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468875956/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aptiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/222c69ec-d644-4fed-bdc5-9f17a1112cea">Embedded Software - Engineering Intern</a></td>
-<td>Walnut Creek, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477661182/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Badger Meter</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5a0c674-2058-47fb-b1a2-f760180fc10e">Software Engineering Intern</a></td>
-<td>Escondido, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477408823/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Langan Engineering &amp; Environmental Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/96069313-894f-45b4-94d9-8bd8780d12b2">Intern/Co-op – Site/Civil Engineer (Spring 2027)</a></td>
-<td>Cleveland, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477193512/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b0ea72a-0493-452d-b6b0-4c10504b6c1d">Hardware Engineering Spring Coop</a></td>
-<td>Carrollton, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468822762/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascendria Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbf3a81e-a71d-40e3-b18e-cd40e896b409">Test Engineer Intern</a></td>
-<td>New Orleans, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483423745/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/25fcca83-6c80-49a3-b7a0-14894e2d8ce6">University - 2027 Summer Games Software Developer Intern - El Segundo, CA</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459835001/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TTM Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/80ca425d-6808-4606-9490-58c9e98d2fbe">RF/Microwave Engineering Intern</a></td>
-<td>Farmingdale, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468696246/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TSMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbb9f061-dbba-41e4-8f55-804b9cbad051">[Summer 2027] TSMC AZ Internship Opportunities - Engineering Roles</a></td>
-<td>Austin, TX<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4429622061/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>GFT</strong></td>
 <td><a href="https://trueinterview.io/jobs/546c8681-afcd-45b7-ac76-b814de2df0bf">Intern - Bridge Engineering</a></td>
@@ -167,6 +97,13 @@
 <td><a href="https://trueinterview.io/jobs/44c32eba-f820-4f65-bf41-d8db5627c85d">Engineering Intern – Summer 2027</a></td>
 <td>Sterling, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485287952/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AxoraQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/eef19c78-b2d0-4259-85f6-e3b834282833">Engineering Internship</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405993/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2814,6 +2751,69 @@
 <td>Schenectady, NY<br/>Schenectady, New York, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/1881156a-2267-4b24-a6ac-c647e26d4f8d">Intern, RTL Power Macromodeling Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/08fa082d-1b97-4531-8a3e-50d1eb183d08">Intern, Power-Thermal Simulation Software Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Filevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
+<td>Salt Lake City, Utah</td>
+<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564382/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
+<td>Austin, TX<br/>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RTX</strong></td>
+<td><a href="https://trueinterview.io/jobs/56da7b8a-6912-4ab9-9032-43f965c78eaa">Software Engineer Co-op (January 2027)</a></td>
+<td>Marlborough, Massachusetts, United States</td>
+<td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/d54ea8e7-8152-414a-8820-6ebe6a89f91a">Hardware Test Engineering Intern</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8918078002?gh_jid=8918078002">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Magnetics</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b1e4703-c001-4c27-86b1-b4ae91dba302">Engineering Intern (Jan 2027)</a></td>
+<td>South San Francisco</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/westmag/590ae373-6aab-4d70-a9c9-9b3c08e48408">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a">2027 Internship - Formal Verification Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**43 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,6 +128,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AxoraQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/eef19c78-b2d0-4259-85f6-e3b834282833">Engineering Internship</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405993/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>WSP in the U.S.</strong></td>

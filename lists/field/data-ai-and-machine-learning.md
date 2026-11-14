@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**791 open roles.** 578 in the United States & Canada · 213 elsewhere in the world.
+**787 open roles.** 578 in the United States & Canada · 209 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Milliman</strong></td>
+<td><a href="https://trueinterview.io/jobs/30876d1e-d387-439a-a95c-5f4f1fc6eaa3">AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473196390/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca26792-2ca7-4cec-88aa-1fb1f1bd9390">AI and Automation Engineer Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481904796/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amway</strong></td>
 <td><a href="https://trueinterview.io/jobs/79797e57-0506-4899-a0ac-859b5fff9cc4">Cloud Data Engineer Intern, Summer 2027 (REQ#43424)</a></td>
@@ -745,13 +759,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36a929b1-208e-459c-86b6-04b4233d40dc">Data Analyst Intern</a></td>
 <td>Windsor, CT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487461674/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors (GM)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6be24bf-d16f-4734-aaec-fe8753fcafad">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -1917,20 +1924,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a">Internship, Compensation Data Analyst (Winter/Spring 2027)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/30058373-b075-47da-8abe-e28d292a1cab">Internship- Business Systems AI</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487200173/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Trilogy Health Services, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf6fb490-02d5-496e-b4a4-0743719dab76">Information Systems Developer of AI Intern</a></td>
 <td>Louisville, KY</td>
@@ -2649,6 +2642,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79978bed-7a41-4cce-8c96-78e512935130">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
 <td>Rensselaer, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485293764/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10">2027 Summer Intern Genomics, Computational Biology &amp; Translational Data Science</a></td>
+<td>Tarrytown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297710/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

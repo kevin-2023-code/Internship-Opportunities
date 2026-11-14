@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**46 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**47 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,6 +338,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bellevue, WA<br/>Bellevue, NE<br/>Grand Island, NE<br/>+2 more</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5239964007?gh_jid=5239964007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/faf90729-07e7-46ec-a562-3c28a92b28dc">Intern, Electrical/Electronics Engineering</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95485">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

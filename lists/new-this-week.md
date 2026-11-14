@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**956 open roles.** 777 in the United States & Canada · 179 elsewhere in the world. Everything the employers put up this week.
+**946 open roles.** 766 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,7 +20,63 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Milliman</strong></td>
+<td><a href="https://trueinterview.io/jobs/30876d1e-d387-439a-a95c-5f4f1fc6eaa3">AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473196390/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Walmart Global Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/4913d575-94df-4112-bfd9-36df810aa2ec">Summer 2027 Intern:: Software Engineer II</a></td>
+<td>Bentonville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463957109/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca26792-2ca7-4cec-88aa-1fb1f1bd9390">AI and Automation Engineer Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481904796/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toyota Automated Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/642aa1ac-40a7-4e24-a58f-f3a9822615a6">Software Engineer Intern</a></td>
+<td>Noblesville, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491058705/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491069256/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f2c95a9-345f-4e45-b988-af2841ea942e">Software Development Engineer Intern (Network Automation) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475064143/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
@@ -2762,62 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480756565/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hunt Consolidated, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7a273cc-8ab7-4e8a-b9ef-44406556c2b8">Application Developer Intern - Summer 2027</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489661224/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Akoncagua AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6fdb4f3-d7a0-44e5-9c39-a1268bf5b358">AI ML Engineer Intern – Winter / Spring 2027 (Master’s or PhD)</a></td>
-<td>Lakeland, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487836486/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Regent</strong></td>
-<td><a href="https://trueinterview.io/jobs/24702ac3-e366-4bf8-93e9-e3f92264df1c">Aerodynamics Engineering Intern</a></td>
-<td>North Kingstown, Rhode Island, USA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/8bd9c9a5-04f4-4321-b837-9888a70d363d">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3b3725d-3a6d-4f05-a48c-ec17df31568e">SAP iXp Intern - Full-Stack Software Engineer</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487844607/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ee5c76d-475a-4f4a-8a92-cad9ea8836d2">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489651638/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of South Florida</strong></td>
-<td><a href="https://trueinterview.io/jobs/71038cdf-3628-4cf3-8482-fc8c7c027d5e">IAE Software Engineering Internship – Spring 2027</a></td>
-<td>Greater Tampa Bay Area<br/>Tampa, FL</td>
-<td align="center"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44733">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BMW Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/71bf4e74-4c1e-4db8-8f3b-80844f3d8068">AI CoE Intern</a></td>
-<td>Columbus, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489646418/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Braintrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f">AI Software Development Intern, Internship-to-Hire (Remote, Iowa-Based)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489634771/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
 </tr>
 </tbody>
 </table>

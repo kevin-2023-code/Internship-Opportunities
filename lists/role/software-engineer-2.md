@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**633 open roles.** 510 in the United States & Canada · 123 elsewhere in the world.
+**627 open roles.** 504 in the United States & Canada · 123 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523702/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apexanalytix</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c5aea9d-b807-4636-9a88-d444dc03d93e">Automation Developer Intern (Summer 2027)</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465565541/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354109/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Old Mission</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab7db9a7-5792-4595-9bcf-be7ed0e58ed3">Software Engineer – 2027 Internship Program (June Start)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483889315/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a13d69d-ed67-444a-a5a0-67e9057f8510">Software Engineer Intern</a></td>

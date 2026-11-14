@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**112 open roles.** 74 in the United States & Canada · 38 elsewhere in the world.
+**111 open roles.** 73 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bentonville, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484642135/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc60b00a-cba9-43aa-824a-d6b362f512ab">CDS Intern - IT Product Owner - Costco Travel</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486479156/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Costco IT</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,906 open roles.** 1,517 in the United States & Canada · 389 elsewhere in the world.
+**1,897 open roles.** 1,508 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,49 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Walmart Global Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/4913d575-94df-4112-bfd9-36df810aa2ec">Summer 2027 Intern:: Software Engineer II</a></td>
+<td>Bentonville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463957109/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toyota Automated Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/642aa1ac-40a7-4e24-a58f-f3a9822615a6">Software Engineer Intern</a></td>
+<td>Noblesville, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491058705/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491069256/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f2c95a9-345f-4e45-b988-af2841ea942e">Software Development Engineer Intern (Network Automation) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475064143/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
@@ -1998,48 +2040,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/95617ca6-8ebf-430c-9955-74827e124731">Summer Intern – Cybersecurity Operations &amp; AI Automation</a></td>
 <td>Bridgewater, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489427294/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hunt Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4064129-23db-4b96-9c62-b2ba36212bf8">Application Developer Intern - Summer 2027</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1104">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JMP Statistical Discovery</strong></td>
-<td><a href="https://trueinterview.io/jobs/450109f0-adbc-4c5d-8d1e-979a955e2b77">JMP 2027 Summer Internship; C++ Software Development</a></td>
-<td>Cary, NC</td>
-<td align="center"><a href="https://jmp-sas.icims.com/jobs/46960/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Liebherr Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dc6c691-59eb-456c-aa5c-172e0e7c6a4c">Software Development Intern</a></td>
-<td>Newport News, VA</td>
-<td align="center"><a href="https://careers.liebherr.com/job/Newport-News%2C-VA-Software-Development-Intern-VA-23601/1456197633/?feedId=335501">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8faf9af-ceaf-4014-aaa5-f592c6cc6631">CICD Systems Engineering Intern</a></td>
-<td>Manassas, VA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477866991?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/2eb83380-af4b-45b9-91a2-15354c07b495">Internship, Software Engineer, SI ML Platform (Winter/Spring 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/289478">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Trimble</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcf88a23-6db7-478c-8863-a41d1029abc6">Software Engineer Intern</a></td>
-<td>Lake Oswego, OR</td>
-<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

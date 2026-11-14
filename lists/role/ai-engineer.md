@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**252 open roles.** 169 in the United States & Canada · 83 elsewhere in the world.
+**254 open roles.** 170 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Milliman</strong></td>
+<td><a href="https://trueinterview.io/jobs/30876d1e-d387-439a-a95c-5f4f1fc6eaa3">AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473196390/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca26792-2ca7-4cec-88aa-1fb1f1bd9390">AI and Automation Engineer Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481904796/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Software Engineering Institute | Carnegie Mellon University</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b371947-a67f-4857-a912-72ea28d942b1">Cyber AI Engineering Intern (Spring 2027)</a></td>
@@ -676,13 +690,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/30058373-b075-47da-8abe-e28d292a1cab">Internship- Business Systems AI</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487200173/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Trilogy Health Services, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf6fb490-02d5-496e-b4a4-0743719dab76">Information Systems Developer of AI Intern</a></td>
 <td>Louisville, KY</td>
@@ -1212,6 +1219,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MSA - The Safety Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ad8d231-1697-47e1-8f7b-49c1565addd2">AI Engineer Co-Op Spring 2027</a></td>
+<td>Greater Pittsburgh Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481003095/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/1821f91e-5c18-4031-869b-df662a5af17d">AI Evaluation Project Intern（Corporate Service System）- 2026 Start</a></td>

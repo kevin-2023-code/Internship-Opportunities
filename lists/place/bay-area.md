@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**583 open roles.**
+**582 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,6 +21,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5f2c95a9-345f-4e45-b988-af2841ea942e">Software Development Engineer Intern (Network Automation) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475064143/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
@@ -864,20 +878,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a37da5e1-6b82-4f2c-84bd-19c1ac890cdb">Software Engineer (FDE / Platform) - Intern</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465251704/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors (GM)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6be24bf-d16f-4734-aaec-fe8753fcafad">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/2eb83380-af4b-45b9-91a2-15354c07b495">Internship, Software Engineer, SI ML Platform (Winter/Spring 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/289478">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -1726,13 +1726,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Astro Mechanica</strong></td>
-<td><a href="https://trueinterview.io/jobs/13f8f537-f34d-4541-a075-6c1cc6640d70">Software Engineering Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486452765/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Zoox</strong></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/44ddee34-8c7a-48c2-bd0e-6150688c25e3">Manufacturing Design Engineer Intern</a></td>
 <td>Menlo Park, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a8dc8a76-fe6b-4a41-80f9-ecf1d94cbad6">Mechanical Design Engineer Intern</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

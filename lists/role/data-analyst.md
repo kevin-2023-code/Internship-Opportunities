@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**102 open roles.** 62 in the United States & Canada · 40 elsewhere in the world.
+**101 open roles.** 61 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a34870fc-3e4e-43c7-a359-285e64b9cf42">Purchasing Data Analyst Intern</a></td>
 <td>Oak Brook, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461560832/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a">Internship, Compensation Data Analyst (Winter/Spring 2027)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**67 open roles.** 58 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**65 open roles.** 56 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,14 +165,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/2eb83380-af4b-45b9-91a2-15354c07b495">Internship, Software Engineer, SI ML Platform (Winter/Spring 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/289478">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d1f14ca1-c40d-4708-be25-641e84a18673">Systems Engineering Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a">Apply</a></td>
@@ -268,13 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469605654/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a">Internship, Compensation Data Analyst (Winter/Spring 2027)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Zoox</strong></td>

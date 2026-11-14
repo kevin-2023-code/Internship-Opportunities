@@ -158,13 +158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2183dcd-5bbb-495c-a42a-0a0f37737595">DevSecOps, Intern</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://jobs.keysight.com/jobs/55072/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/01a5e66c-5966-4dcb-96a0-9891b512ddf5">Part Time Systems Engineer Co-Op (Remote)</a></td>
 <td>Aurora, CO</td>
@@ -478,6 +471,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Colorado Springs, Colorado, United States<br/>US-CO-Col Springs-Bldg C</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cesiumastro</strong></td>
+<td><a href="https://trueinterview.io/jobs/68415944-c068-4db1-9fc8-9395511b466e">Summer 2027 - GNC Internship</a></td>
+<td>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872/apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

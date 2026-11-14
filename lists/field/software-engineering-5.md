@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,906 open roles.** 1,517 in the United States & Canada · 389 elsewhere in the world.
+**1,897 open roles.** 1,508 in the United States & Canada · 389 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,69 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/575c38aa-519a-419b-a8f9-bbcee50f3417">Intern - Software Automation Engineer</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Enovation Controls</strong></td>
-<td><a href="https://trueinterview.io/jobs/0976cabb-a273-47bd-b9f4-3a4222ac1eb5">Manufacturing Software Engineering Intern - Summer 2027</a></td>
-<td>OK</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416?listingId=a823f57c-b9a5-4ee3-95e0-35a6f1f00206">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Back Market</strong></td>
-<td><a href="https://trueinterview.io/jobs/de5fc62c-924a-48cb-b9ef-c8db5a6baede">Software Engineer Intern</a></td>
-<td>Paris<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/backmarket/154e6aa0-dbeb-4521-8135-3304118c822b">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/00c12142-0461-4474-9f24-0c8d19b1cd06">SAP Labs iXp Intern - Software Developer</a></td>
-<td>Brno-střed, Jihomoravský kraj, Czechia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160236955-sap-labs-ixp-intern-software-developer">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
-<td>Budapest, Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159990859-sap-ixp-intern-solution-support-engineer-analytics-">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
-<td>Veldhoven, North Brabant, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/69d0adbc-040a-467d-9409-3835f402b023">Class of 2028, 28卒対象 / Software Engineer Internship - Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4375628884/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b86d2cf-29d3-4b9a-912e-5e29425acf2a">Intern, AIot Software Developer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159821219-intern-aiot-software-developer-">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9847f50e-a0d6-4764-ae62-8e79d5311f28">Software Engineering Intern - 2027</a></td>

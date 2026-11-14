@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**110 open roles.**
+**106 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/15d0b949-89fd-4a03-8ddb-f490ea80ec15">AI Identity Intern</a></td>
@@ -319,42 +326,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Skyband Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/337b7ce1-cd21-4b9b-ab2a-2565d992469e">Spring 2027 Internship: Software Engineering</a></td>
-<td>Kirkland, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486445911/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Costco IT</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a369222-e5ed-4388-af90-286bccf998b0">CDS Intern - Software Engineer - IT Retail Media</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486466670/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed2c0253-d194-410d-b971-d1c273a1d546">CDS Intern - Central Engineering UX/UI Designer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486469572/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cc60b00a-cba9-43aa-824a-d6b362f512ab">CDS Intern - IT Product Owner - Costco Travel</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486479156/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco IT</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb9e72fd-a2b1-4b2c-9dcb-f80c79b2cb07">CDS Intern - Software Engineer - International Depot</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486468449/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5b217327-7793-4a97-9050-76fcad0e1a73">CDS Intern - IT Product Owner - Costco Travel</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486476177/">Apply</a></td>
