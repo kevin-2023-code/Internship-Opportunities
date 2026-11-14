@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T00:11:13.130Z",
-  "count": 3889,
+  "listingsChangedAt": "2026-11-14T01:04:57.126Z",
+  "count": 3892,
   "listings": [
     {
       "id": "bfa76cc6-cdab-49fc-b3d1-c199d3ec74b1",
@@ -27,7 +27,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -90,31 +90,6 @@
       "updatedAt": "2026-11-13T22:56:00.000Z"
     },
     {
-      "id": "09d479b9-529b-4cdc-b755-44a1d35e972b",
-      "company": "MIT Lincoln Laboratory",
-      "title": "Biomedical Image Processing & Machine Learning Co-Op, (Jan - Aug 2027) - Group 02-24",
-      "locations": [
-        "Lexington, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490789439/",
-      "url": "https://trueinterview.io/jobs/09d479b9-529b-4cdc-b755-44a1d35e972b",
-      "postedAt": "2026-11-13T22:20:00.000Z",
-      "updatedAt": "2026-11-13T22:20:00.000Z"
-    },
-    {
       "id": "649b1eae-ec54-4e6f-8bd3-e6d2e4fcdc37",
       "company": "Verisk",
       "title": "Data Science/AI Intern | 2027 Summer Internship Program",
@@ -155,9 +130,9 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "DevOps Engineer",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -178,9 +153,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -203,9 +178,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -467,6 +442,87 @@
       "url": "https://trueinterview.io/jobs/b005281d-c0e2-4ba9-872b-f4204b20c153",
       "postedAt": "2026-11-13T19:19:00.000Z",
       "updatedAt": "2026-11-13T19:19:00.000Z"
+    },
+    {
+      "id": "1de58bcf-3c7c-4e58-8ae6-824ac8329a88",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+      "url": "https://trueinterview.io/jobs/1de58bcf-3c7c-4e58-8ae6-824ac8329a88",
+      "postedAt": "2026-11-13T19:00:42.000Z",
+      "updatedAt": "2026-11-13T19:00:42.000Z"
+    },
+    {
+      "id": "a3fed34a-9246-4c8d-9415-63f71b9197c3",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, AI Systems Performance Engineer",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+      "url": "https://trueinterview.io/jobs/a3fed34a-9246-4c8d-9415-63f71b9197c3",
+      "postedAt": "2026-11-13T19:00:34.000Z",
+      "updatedAt": "2026-11-13T19:00:34.000Z"
+    },
+    {
+      "id": "866f8b53-9050-44f2-a7e7-89a64c77f422",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, SSD Firmware Development",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+      "url": "https://trueinterview.io/jobs/866f8b53-9050-44f2-a7e7-89a64c77f422",
+      "postedAt": "2026-11-13T18:59:33.000Z",
+      "updatedAt": "2026-11-13T18:59:33.000Z"
     },
     {
       "id": "bf8efcad-84a4-4203-8d10-c086841e59a1",
@@ -7753,6 +7809,31 @@
       "source": "indeed",
       "applyUrl": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Systems-Engineering-Co-op_R-032513",
       "url": "https://trueinterview.io/jobs/2c595bc3-32d0-4505-b218-528060aa8e7b",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "230a35cf-982e-450c-91f8-df6cf35fa06c",
+      "company": "Flowserve",
+      "title": "Engineering Co-op",
+      "locations": [
+        "Baton Rouge, LA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Baton-Rouge-Louisiana-US/Engineering-Co-op_R-21926",
+      "url": "https://trueinterview.io/jobs/230a35cf-982e-450c-91f8-df6cf35fa06c",
       "postedAt": "2026-11-12T06:00:00.000Z",
       "updatedAt": "2026-11-12T06:00:00.000Z"
     },
