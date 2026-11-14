@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**22 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Verisk</strong></td>
+<td><a href="https://trueinterview.io/jobs/649b1eae-ec54-4e6f-8bd3-e6d2e4fcdc37">Data Science/AI Intern | 2027 Summer Internship Program</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490765518/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>InComm Payments</strong></td>
 <td><a href="https://trueinterview.io/jobs/8358b3b2-604f-44b6-be29-ff3a45d9fbfe">Software Engineering Intern</a></td>
