@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,902 open roles.** 1,510 in the United States & Canada · 392 elsewhere in the world.
+**1,889 open roles.** 1,504 in the United States & Canada · 385 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,21 +16,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Tinder</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea45da10-c5a5-4515-bfbc-561ccdb8ee9a">iOS Engineer Intern</a></td>
-<td>Los Angeles, California<br/>Palo Alto, California</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f6ffbc0-0522-4194-b4ee-56fe94ddfe73">Back End Developer Intern - NY POK BS - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477316764/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d34417e9-fc21-46dd-8a92-44bc97cad048">Back End Developer Intern - NY POK JO - 2027</a></td>
 <td>Poughkeepsie, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477331214/">Apply</a></td>
@@ -2123,13 +2109,6 @@
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Health Care Service Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/ade1afa9-7ccd-4788-a4d8-013d383d15d3">Early Careers - Cybersecurity Operations Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485905798/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nadora Medical Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b6f2a8e-40e0-4ea2-9fcb-8a9f4faabc16">Software Engineering Intern (Winter Entry Cohort)</a></td>
 <td>San Francisco Bay Area</td>
@@ -2813,6 +2792,27 @@
 <td><a href="https://trueinterview.io/jobs/546c8681-afcd-45b7-ac76-b814de2df0bf">Intern - Bridge Engineering</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468694956/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de1dd362-87b5-4f09-ae82-83b17ddffc12">Intern - Roadway Engineering</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468811043/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ce7697-2314-4f72-b2f0-186720b3bb3d">Off Site Validation Test Engineer Intern - Crop Harvesting Mt. Joy Location</a></td>
+<td>Mount Joy, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467991796/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de2ab8a7-4458-4b52-8296-bfd57663421a">Off Site Validation Test Engineer Intern - Crop Harvesting</a></td>
+<td>New Holland, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468203685/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

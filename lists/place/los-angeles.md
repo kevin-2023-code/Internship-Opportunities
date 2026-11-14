@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**170 open roles.**
+**168 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -33,13 +33,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a151a94a-87ee-4608-b90d-62e214d92671">Civil Engineering Intern - Winter 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99105">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1973d253-ddfc-4d6e-bcef-6ad2813f6fee">MEP Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA<br/>Irvine, CA, United States<br/>San Francisco, CA<br/>+2 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99030">Apply</a></td>
@@ -547,13 +540,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

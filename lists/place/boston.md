@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**156 open roles.**
+**157 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b3d20a69-0c7f-4d43-b36f-93ee94d885c5">Summer 2027: Mechanical Engineering Intern, Ninja (May to August)</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/28d6a5da-f085-4b69-8882-a0f32d60c03b">Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027)</a></td>
+<td>Quincy, Massachusetts</td>
+<td align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

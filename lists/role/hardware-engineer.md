@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**123 open roles.** 113 in the United States & Canada · 10 elsewhere in the world.
+**124 open roles.** 113 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -820,6 +820,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/4433b4d6-0158-41ec-a6d7-05e32e3062c7">Validation Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/03b6f2bf-d877-4bc2-99d1-93fff8499edf">ASIC Design and Verification Intern, SOC - 2027</a></td>

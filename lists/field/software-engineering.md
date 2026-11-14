@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,902 open roles.** 1,510 in the United States & Canada · 392 elsewhere in the world.
+**1,889 open roles.** 1,504 in the United States & Canada · 385 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -524,6 +524,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Koch</strong></td>
+<td><a href="https://trueinterview.io/jobs/924ec8ad-73b7-4f78-839e-145a885dbdc3">Summer 2027 - Technology Analyst Intern</a></td>
+<td>Wichita, Kansas</td>
+<td align="center"><a href="https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/Summer-2027-Technology-Analyst-Intern/197764">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Frontbase Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5db87d-9b19-4a6d-a477-efbbec1b3f79">Rust Developer Intern</a></td>
 <td>United States</td>
@@ -566,31 +573,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Rocketdyne</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3d2765d-89ce-4a10-9dcc-ce9b24f05e91">Systems Engineer Intern (Summer 2027)</a></td>
-<td>Jupiter, FL, 33478<br/>Mason, OH, 45040</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e2e53cb-a46b-4af4-8de5-702135f719fe&amp;jobId=13740">Apply</a></td>
+<td><strong>Rockland Trust</strong></td>
+<td><a href="https://trueinterview.io/jobs/018d9cbd-141f-4fd3-bb83-dad4b0f1b7f6">IT Intern</a></td>
+<td>Rockland, MA, United States</td>
+<td align="center"><a href="https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3065">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/b514549a-b9fd-478f-a01a-9bed4e171a1e">Product Engineering Failure Analysis Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9915931f-a0da-42d1-86b5-5ac6d16eafe0">Test Engineering intern - PhD</a></td>
-<td>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019536">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/1973d253-ddfc-4d6e-bcef-6ad2813f6fee">MEP Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA<br/>San Francisco, CA<br/>Irvine, CA, United States<br/>+2 more</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99030">Apply</a></td>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/28d6a5da-f085-4b69-8882-a0f32d60c03b">Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027)</a></td>
+<td>Quincy, Massachusetts</td>
+<td align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2785,13 +2778,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/211e0945-e47b-4703-84c5-1eac0957e329">Software Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461391646/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Brave</strong></td>
 <td><a href="https://trueinterview.io/jobs/b300fe4a-c784-4adc-8406-683173c67c18">Software Engineering Intern - Waterloo University - Winter Session</a></td>
 <td>Canada</td>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f228377b-d4c0-4232-8534-27a799ad8081">Backend Engineer Intern</a></td>
 <td>Palo Alto, California<br/>Los Angeles, California</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ea45da10-c5a5-4515-bfbc-561ccdb8ee9a">iOS Engineer Intern</a></td>
+<td>Los Angeles, California<br/>Palo Alto, California</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f6ffbc0-0522-4194-b4ee-56fe94ddfe73">Back End Developer Intern - NY POK BS - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477316764/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

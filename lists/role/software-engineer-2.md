@@ -819,6 +819,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/0637523e-72bc-4be0-8b4c-0f756a037087">Backend Software Engineer Project Intern (Corporate Service System) - 2026 Start (BS/MS)</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545761/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/b3b07757-ee89-42cd-bcee-532f69281954">Backend Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
@@ -1153,13 +1160,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Greater Phoenix Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477258436/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arm</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
-<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>BlockTech</strong></td>

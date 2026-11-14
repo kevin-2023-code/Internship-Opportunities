@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**936 open roles.** 756 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
+**935 open roles.** 756 in the United States & Canada · 179 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -911,13 +911,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d">Quantitative Trader Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452930184/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/2027370d-a4fd-4e02-a66a-01c7c0300c4c">Engineering Internship Program (Chemical, Electromechanical, Data science, AI)</a></td>
-<td>Heredia, Heredia Province, Costa Rica</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016703746-engineering-internship-program-chemical-electromechanical-data-science-ai-">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

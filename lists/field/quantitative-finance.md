@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**90 open roles.** 64 in the United States & Canada · 26 elsewhere in the world.
+**89 open roles.** 64 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -595,13 +595,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Genève, Switzerland</td>
 <td align="center"><a href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Quantitative-Development-Data-Science-Intern/85607">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Schonfeld Strategic Advisors</strong></td>
-<td><a href="https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc">2027 Index Rebalancing Quantitative Research Intern</a></td>
-<td>Hong Kong, Hong Kong</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Statkraft</strong></td>

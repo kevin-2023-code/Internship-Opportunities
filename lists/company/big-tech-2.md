@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**619 open roles.** 463 in the United States & Canada · 156 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**616 open roles.** 460 in the United States & Canada · 156 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,27 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e8b92c-9eff-4d49-ae25-baa9766c93e7">Grid Modernization Engineering Intern</a></td>
-<td>Loveland, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54277?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54342?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e4e53ae-1782-4648-b60d-5fe8e9e8570f">RF Engineering Content Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54567?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/16d161f0-c464-4d7e-8703-222f9fdec589">Intern - ID1 Manufacturing Engineer</a></td>

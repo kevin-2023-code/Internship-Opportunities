@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**787 open roles.** 574 in the United States & Canada · 213 elsewhere in the world.
+**785 open roles.** 573 in the United States & Canada · 212 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Independence Blue Cross</strong></td>
-<td><a href="https://trueinterview.io/jobs/29bc765a-7b64-4b91-a9cc-bd15d8f30d04">Summer Intern: Data Services Analyst</a></td>
-<td>Philadelphia, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951799/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Apexanalytix</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cb8555e-ff7a-4ed9-af5f-fb45d46f726a">Data Science Intern (Summer 2027)</a></td>
@@ -1587,13 +1580,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470771410/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/2027370d-a4fd-4e02-a66a-01c7c0300c4c">Engineering Internship Program (Chemical, Electromechanical, Data science, AI)</a></td>
-<td>Heredia, Heredia Province, Costa Rica</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016703746-engineering-internship-program-chemical-electromechanical-data-science-ai-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Enovation Controls</strong></td>

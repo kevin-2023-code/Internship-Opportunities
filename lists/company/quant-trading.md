@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**41 open roles.** 18 in the United States & Canada · 23 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -238,13 +238,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311595">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc">2027 Index Rebalancing Quantitative Research Intern</a></td>
-<td>Hong Kong, Hong Kong</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Squarepoint</strong></td>

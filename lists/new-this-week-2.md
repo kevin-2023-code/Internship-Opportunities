@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**936 open roles.** 756 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
+**935 open roles.** 756 in the United States & Canada · 179 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SRC</strong></td>
+<td><a href="https://trueinterview.io/jobs/667c04f2-8c3c-4eab-b7a9-5565cf94bfdc">Machine Learning Engineer (Intern - Summer 2027)</a></td>
+<td>Syracuse, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487810483/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2b9046b-3f2e-4bae-819d-c247a496cb6e">Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</a></td>
+<td>Greenville, South Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160950270-design-engineering-intern-networking-event-with-aecom-raleigh-nc">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>7-Eleven</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a370bda-0d9c-4fe3-bebe-fec3b9ee424f">Data Engineer Intern</a></td>
@@ -2120,20 +2134,6 @@
 <td><a href="https://trueinterview.io/jobs/fe88be16-e8e7-46d5-a91c-7cd132889751">Mobile Applications (iOS) Intern</a></td>
 <td>Niles, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461388759/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States<br/>Dallas, TX</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/211e0945-e47b-4703-84c5-1eac0957e329">Software Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461391646/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

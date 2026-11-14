@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**809 open roles.** 727 in the United States & Canada · 82 elsewhere in the world.
+**811 open roles.** 726 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -160,10 +160,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Rocketdyne</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3d2765d-89ce-4a10-9dcc-ce9b24f05e91">Systems Engineer Intern (Summer 2027)</a></td>
+<td>Jupiter, FL, 33478<br/>Mason, OH, 45040</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e2e53cb-a46b-4af4-8de5-702135f719fe&amp;jobId=13740">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/b514549a-b9fd-478f-a01a-9bed4e171a1e">Product Engineering Failure Analysis Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9915931f-a0da-42d1-86b5-5ac6d16eafe0">Test Engineering intern - PhD</a></td>
+<td>United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019536">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a151a94a-87ee-4608-b90d-62e214d92671">Civil Engineering Intern - Winter 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99105">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/1973d253-ddfc-4d6e-bcef-6ad2813f6fee">MEP Engineering Intern - Summer 2027</a></td>
+<td>Los Angeles, CA<br/>San Francisco, CA<br/>Irvine, CA, United States<br/>+2 more</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99030">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1819,13 +1840,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Nissan Motor Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c500c11-6fca-4a79-a678-274833d2d81a">Process Engineering Intern - Summer 2027 - Smyrna, TN</a></td>
-<td>Smyrna, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477196023/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Kimley-Horn</strong></td>
 <td><a href="https://trueinterview.io/jobs/079fd68c-b790-469d-83b8-c8f26216cf31">Civil Engineering Intern</a></td>
 <td>Kansas City, MO</td>
@@ -2435,13 +2449,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7ae20f74-b785-404f-b01e-852f2dcd8f90">Electrical Engineering Co-op: Energy</a></td>
-<td>Akron, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466148326/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Marathon Petroleum Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd7e5d68-fd13-41f6-bd94-d7021c9c0818">Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Fall 2027)</a></td>
 <td>Indianapolis, IN<br/>Salt Lake City, UT<br/>La Palma, CA</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0196c33c-aaf4-4154-9d5f-ac1edfd28fe3">Coating Manufacturing Engineer Intern</a></td>
 <td>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/55114?lang=en-us">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7201af0c-f65c-463c-acd0-be6837070d39">FPGA Design Intern</a></td>
-<td>Calabasas, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/55150?lang=en-us">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 </tbody>

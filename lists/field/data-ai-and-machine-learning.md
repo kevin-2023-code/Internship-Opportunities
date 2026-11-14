@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**787 open roles.** 574 in the United States & Canada · 213 elsewhere in the world.
+**785 open roles.** 573 in the United States & Canada · 212 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1151,13 +1151,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca8c5a05-0101-4559-b734-763ad3edeb93">Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity</a></td>
 <td>Golden, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479151937/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States<br/>Dallas, TX</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476735746/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Independence Blue Cross</strong></td>
+<td><a href="https://trueinterview.io/jobs/29bc765a-7b64-4b91-a9cc-bd15d8f30d04">Summer Intern: Data Services Analyst</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951799/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**936 open roles.** 756 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
+**935 open roles.** 756 in the United States & Canada · 179 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -839,6 +839,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Koch</strong></td>
+<td><a href="https://trueinterview.io/jobs/924ec8ad-73b7-4f78-839e-145a885dbdc3">Summer 2027 - Technology Analyst Intern</a></td>
+<td>Wichita, Kansas</td>
+<td align="center"><a href="https://koch.avature.net/en_US/CollegeRecruiting/JobDetail/Summer-2027-Technology-Analyst-Intern/197764">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Frontbase Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5db87d-9b19-4a6d-a477-efbbec1b3f79">Rust Developer Intern</a></td>
 <td>United States</td>
@@ -902,6 +909,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Rockland Trust</strong></td>
+<td><a href="https://trueinterview.io/jobs/018d9cbd-141f-4fd3-bb83-dad4b0f1b7f6">IT Intern</a></td>
+<td>Rockland, MA, United States</td>
+<td align="center"><a href="https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3065">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/28d6a5da-f085-4b69-8882-a0f32d60c03b">Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027)</a></td>
+<td>Quincy, Massachusetts</td>
+<td align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/b514549a-b9fd-478f-a01a-9bed4e171a1e">Product Engineering Failure Analysis Intern</a></td>
 <td>Dallas, TX, United States</td>
@@ -917,13 +938,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a151a94a-87ee-4608-b90d-62e214d92671">Civil Engineering Intern - Winter 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99105">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1973d253-ddfc-4d6e-bcef-6ad2813f6fee">MEP Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA<br/>San Francisco, CA<br/>Irvine, CA, United States<br/>+2 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99030">Apply</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d436ccc9-b3a9-4143-a25f-f187b40ca36f">Summer 2027 Site Reliability Engineering Internship</a></td>
 <td>Atlanta, GA<br/>Frisco, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489607720/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SRC</strong></td>
-<td><a href="https://trueinterview.io/jobs/667c04f2-8c3c-4eab-b7a9-5565cf94bfdc">Machine Learning Engineer (Intern - Summer 2027)</a></td>
-<td>Syracuse, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487810483/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2b9046b-3f2e-4bae-819d-c247a496cb6e">Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</a></td>
-<td>Greenville, South Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160950270-design-engineering-intern-networking-event-with-aecom-raleigh-nc">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

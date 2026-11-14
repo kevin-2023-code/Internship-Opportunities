@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**278 open roles.** 196 in the United States & Canada · 82 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**275 open roles.** 193 in the United States & Canada · 82 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -922,13 +922,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74768e52-607b-4619-acd3-1dd28041029f">Intern - DRAM Device Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44777706">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a0d03c9a-8f28-4bad-8106-ed6faf2ea803">Intern - Engineer, HIG HBM DTPCO</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44751867">Apply</a></td>
@@ -939,20 +932,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a9273e61-052f-474c-beb4-c3d53db13e7c">Intern - Next Gen HBM Platform Arch</a></td>
 <td>Folsom, CA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44777601">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a2c5d1bf-b324-4e99-954c-17f4ac3f5ad3">Intern - Next-Generation HBM Architecture</a></td>
-<td>Folsom, CA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44777604">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
-<td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

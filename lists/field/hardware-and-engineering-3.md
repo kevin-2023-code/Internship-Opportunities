@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**809 open roles.** 727 in the United States & Canada · 82 elsewhere in the world.
+**811 open roles.** 726 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaf24f31-1c7e-4369-af43-dd22ec31388b">Intern Industrial Engineer</a></td>
+<td>Parvomay, BULGARIA, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9383e25-315a-43f1-9efb-33a96a7461cb">Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M</a></td>
+<td>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154062390-internship-quality-engineer-and-consultant-for-sap-build-process-automation-f-m">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/3b44322c-6ef2-44d6-868c-258dfbb4ac62">Quality Engineering Intern m/f/d</a></td>

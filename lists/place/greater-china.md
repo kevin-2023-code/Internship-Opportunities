@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**61 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -405,14 +405,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Schonfeld Strategic Advisors</strong></td>
-<td><a href="https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc">2027 Index Rebalancing Quantitative Research Intern</a></td>
-<td>Hong Kong, Hong Kong</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d0f41075-05d1-4518-96ef-0e04a4685dc4">SAP China iXp Intern – Cloud Engineer for SAP HANA Cloud Tooling</a></td>
 <td>Xi'an (CLAB), China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157002029-sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling">Apply</a></td>

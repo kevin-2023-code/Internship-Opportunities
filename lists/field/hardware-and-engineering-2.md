@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**809 open roles.** 727 in the United States & Canada · 82 elsewhere in the world.
+**811 open roles.** 726 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/7201af0c-f65c-463c-acd0-be6837070d39">FPGA Design Intern</a></td>
+<td>Calabasas, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55150?lang=en-us">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/830bad93-e9c0-4fd3-96b7-c72c87da4b5c">Software Engineering Intern – AI/ML for Diagnostics &amp; Calibration</a></td>
@@ -1256,13 +1263,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74768e52-607b-4619-acd3-1dd28041029f">Intern - DRAM Device Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44777706">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a0d03c9a-8f28-4bad-8106-ed6faf2ea803">Intern - Engineer, HIG HBM DTPCO</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44751867">Apply</a></td>
@@ -1273,13 +1273,6 @@
 <td><a href="https://trueinterview.io/jobs/a9273e61-052f-474c-beb4-c3d53db13e7c">Intern - Next Gen HBM Platform Arch</a></td>
 <td>Folsom, CA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44777601">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a2c5d1bf-b324-4e99-954c-17f4ac3f5ad3">Intern - Next-Generation HBM Architecture</a></td>
-<td>Folsom, CA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44777604">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -2359,6 +2352,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec48aa07-32f9-4a40-8a85-424525ed717b">Design Verification Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019766">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/154fb64f-94b2-4838-ae61-e4f7176c806e">Layout Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012986">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4433b4d6-0158-41ec-a6d7-05e32e3062c7">Validation Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
 <td>Singapore</td>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bristol, UK<br/>Cambridge, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8879329002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaf24f31-1c7e-4369-af43-dd22ec31388b">Intern Industrial Engineer</a></td>
-<td>Parvomay, BULGARIA, Bulgaria</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9383e25-315a-43f1-9efb-33a96a7461cb">Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M</a></td>
-<td>Levallois-Perret, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154062390-internship-quality-engineer-and-consultant-for-sap-build-process-automation-f-m">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

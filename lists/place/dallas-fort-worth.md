@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**83 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/823f61d0-8b74-43b8-9003-1aaafae7b52d">React Developer Intern</a></td>
 <td>Plano, TX</td>
 <td align="center"><a href="https://jobs.republicfinance.com/jobs/15411/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States<br/>Dallas, TX</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

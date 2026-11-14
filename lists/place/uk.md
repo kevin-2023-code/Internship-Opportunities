@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**55 open roles.** 12 in the United States & Canada · 43 elsewhere in the world.
+**54 open roles.** 11 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, United Kingdom<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
-<td>Bristol, England, GB<br/>Munich, BY, DE<br/>Berlin, Berlin, DE<br/>+3 more</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
-<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

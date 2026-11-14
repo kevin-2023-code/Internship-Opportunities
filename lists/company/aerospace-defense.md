@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**82 open roles.** 79 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**81 open roles.** 78 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -169,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

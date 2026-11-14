@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**58 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -281,13 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/00d0d8f6-e984-4449-9bbf-aa665c780db0">Intern - CMOS Process Integration</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44777726">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74768e52-607b-4619-acd3-1dd28041029f">Intern - DRAM Device Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44777706">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

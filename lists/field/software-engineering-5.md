@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,902 open roles.** 1,510 in the United States & Canada · 392 elsewhere in the world.
+**1,889 open roles.** 1,504 in the United States & Canada · 385 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,69 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
-<td>Budapest, Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159990859-sap-ixp-intern-solution-support-engineer-analytics-">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
-<td>Veldhoven, North Brabant, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/69d0adbc-040a-467d-9409-3835f402b023">Class of 2028, 28卒対象 / Software Engineer Internship - Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4375628884/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b86d2cf-29d3-4b9a-912e-5e29425acf2a">Intern, AIot Software Developer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159821219-intern-aiot-software-developer-">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9847f50e-a0d6-4764-ae62-8e79d5311f28">Software Engineering Intern - 2027</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486576686/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/db2ada5e-e210-42ca-bb5e-8196df8ee754">[Bosch HcP – Internship] Production Engineering Intern</a></td>
-<td>An Phuoc Commune, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159777230--bosch-hcp-internship-production-engineering-intern">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d">Intern - Manufacturing &amp; Logistics Engineering</a></td>
-<td>Phra Nakhon Si Ayutthaya, , BangPa-in, Thailand</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159773909-intern-manufacturing-logistics-engineering">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/13d48f2e-b54c-4b96-9a2c-5b1cd3b49610">Software Developer Intern - Entry Level Sales Program 2027</a></td>
-<td>Markham, Wales, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485540556/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/62f2580c-2fe4-4885-82b1-324aa178ea07">Software Engineering Internship - Post-Processing Dyno Measurements</a></td>
@@ -450,13 +387,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Italy</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arm</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
-<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>BlockTech</strong></td>
@@ -848,13 +778,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dcf9e063-e196-4a23-b47a-b5e75c7611ea">Internship - Test Engineering Support (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456195790/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1e0f31dd-7720-4a60-9ded-df328e63480f">Internship - Assistant for Engineering Lab (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4427981037/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1563,20 +1486,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brasil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ICEYE</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fc0569d-8469-4c28-90f3-b745e2239fe3">ICEYE Engineering Intern Lab 2027</a></td>
-<td>Valencia<br/>Warsaw<br/>Espoo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sika Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6becd6b-d7ac-41b7-b80c-85a49e76b7df">ESG Digitalization Intern – Software &amp; Data Engineering</a></td>
-<td>Zürich, Zurich, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000157078341-esg-digitalization-intern-software-data-engineering">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Riverty</strong></td>
