@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**638 open roles.** 513 in the United States & Canada · 125 elsewhere in the world.
+**642 open roles.** 517 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SOTI</strong></td>
+<td><a href="https://trueinterview.io/jobs/027beb42-ed00-4639-9694-afcc06449592">Software Developer Intern - SOTI XSight (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Subtotal</strong></td>
+<td><a href="https://trueinterview.io/jobs/109d67b2-d348-4b56-a64d-f49349ec2053">Software Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VSP Vision Care</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3b2bdde-9706-4c01-ba04-41b43a1e3006">Internship, Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10071">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/7241db6a-a1ac-4032-8668-283ce58b60d9">Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA)</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370-software-engineer-intern-first-play-summer-2027-mountain-view-ca-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Harmonic Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/500d9ccf-2e5d-4434-83b6-337e3a4c3034">Software Engineer – Intern</a></td>

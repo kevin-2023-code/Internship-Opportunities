@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,930 open roles.** 1,527 in the United States & Canada · 403 elsewhere in the world.
+**1,934 open roles.** 1,531 in the United States & Canada · 403 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/178787b0-00cb-4425-a8b4-fd1af06579f8">Mobile Engineer Intern (Intelligent Creation) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447990751/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/213fae6a-0c6c-41f2-9bca-aa61633882fd">Software Engineering Intern – Data Ingestion &amp; Platform Infrastructure (Warsaw, Summer 2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7454d14-a4b6-4701-a6b7-4dddfaf07be5">Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/af4f561b-e072-4735-bbf0-022541ad4f44">AI Infrastructure Optimization Engineer Intern (TikTok Global E-Commerce Recommendation &amp; Search Architecture) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447698961/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2608a073-b173-4058-be7c-bbfa1fc31c65">Android Software Engineer Intern (Global LIVE Platform) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451196736/">Apply</a></td>

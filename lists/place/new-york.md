@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>ICE</strong></td>
 <td><a href="https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6">Summer Internship Program 2027 - Software Engineering Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Jacksonville, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483172497/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>

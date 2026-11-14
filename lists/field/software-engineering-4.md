@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,930 open roles.** 1,527 in the United States & Canada · 403 elsewhere in the world.
+**1,934 open roles.** 1,531 in the United States & Canada · 403 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fintech</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0f8de57-9afc-433f-9ed7-a873c09ce59b">.Net Engineer Intern</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479711691/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Daimler Truck North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f8e8058-3154-4eec-b148-6b02f3642a19">Mechanical Product Validation Engineering Intern</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482294895/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/b52218bc-60bc-4216-b407-0ce092ed1f37">Software Engineering Intern - ADG System R&amp;D</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/947f7f62-3cc5-40f7-b664-2ad5fff9ca8a">General Cybersecurity Intern - Spring 2027 - CIPHER</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476315409/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IDEMIA Public Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/03893886-43bb-44bc-9d02-34df9cdbc7bf">Device Platform Engineering Internship</a></td>
@@ -2797,34 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea823f5b-3973-4ba5-892a-7d533bda4582">2027 Software Engineering Intern</a></td>
 <td>Singapore, Central, Singapore<br/>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8346891">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/178787b0-00cb-4425-a8b4-fd1af06579f8">Mobile Engineer Intern (Intelligent Creation) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447990751/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/213fae6a-0c6c-41f2-9bca-aa61633882fd">Software Engineering Intern – Data Ingestion &amp; Platform Infrastructure (Warsaw, Summer 2027)</a></td>
-<td>PL-Warsaw-Lixa C</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d7454d14-a4b6-4701-a6b7-4dddfaf07be5">Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)</a></td>
-<td>PL-Warsaw-Lixa C</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/af4f561b-e072-4735-bbf0-022541ad4f44">AI Infrastructure Optimization Engineer Intern (TikTok Global E-Commerce Recommendation &amp; Search Architecture) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447698961/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**810 open roles.** 590 in the United States & Canada · 220 elsewhere in the world.
+**811 open roles.** 591 in the United States & Canada · 220 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf7d6ee9-0a6e-43df-a46e-be746a18a0a9">Research Scientist Intern, Materials Architecture &amp; Device Integration (PhD)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489341837/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/35713000-4ee7-4d70-87b2-79a55a294226">Summer Internship Program 2027 - Title Data Analyst Intern</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483189007/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a26c4885-74bb-4773-825f-ca5024612358">AI Engineer Intern (Undergraduate - Summer 2027)</a></td>
 <td>Missouri, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485248850/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Capital One</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
-<td>San Jose, CA<br/>New York, NY<br/>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

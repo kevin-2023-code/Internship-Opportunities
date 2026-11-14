@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,930 open roles.** 1,527 in the United States & Canada · 403 elsewhere in the world.
+**1,934 open roles.** 1,531 in the United States & Canada · 403 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,9 +20,37 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Nammu</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fea309d-6c21-4089-a005-b93e439f4327">Software Engineer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489884971/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RouteOne</strong></td>
+<td><a href="https://trueinterview.io/jobs/f912ca37-1866-4215-88eb-f1563a2144c5">Software Engineer Intern -.NET - Summer 2027</a></td>
+<td>Farmington Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489358151/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sysco</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbd49236-2f92-4399-89f4-d52fccdebd99">Software Dev Engineer Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491088508/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecc2b6c9-a3a7-40c3-9233-623485982c99">Summer Internship Program 2027 - Software Developer Intern</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483189109/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6">Summer Internship Program 2027 - Software Engineering Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Jacksonville, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483172497/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/11b1e151-e1fb-4778-a091-250259073f53">Internship, Software Engineer, SI Reinforcement Learning (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/289240">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>City and County of San Francisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/50c4a947-d81e-4d22-8d13-d4ccaf5a3753">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Engineering Intern (Level 2)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714546-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5381-engineering-intern-level-2-">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3cf7acc-aa71-47a0-a46c-2eb4aa237d99">Software Engineering Intern, iOS (Summer 2027)</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ryzoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a787920-4101-48be-a134-e875ba9e7fc8">Trainee (Intern) Full Stack Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487350747/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/6845ceaa-dc5d-48b6-b1ef-3610f3589914">Summer 2027 Software Engineer HR Data Products Internship</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://careers.t-mobile.com/summer-2027-software-engineer-hr-data-products-internship/job/0E6A1B5A2FFE7163DD8D9BDCDEC8033B">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

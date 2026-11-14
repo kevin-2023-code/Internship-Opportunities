@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**941 open roles.** 744 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
+**945 open roles.** 748 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,9 +20,37 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Nammu</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fea309d-6c21-4089-a005-b93e439f4327">Software Engineer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489884971/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RouteOne</strong></td>
+<td><a href="https://trueinterview.io/jobs/f912ca37-1866-4215-88eb-f1563a2144c5">Software Engineer Intern -.NET - Summer 2027</a></td>
+<td>Farmington Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489358151/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sysco</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbd49236-2f92-4399-89f4-d52fccdebd99">Software Dev Engineer Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491088508/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecc2b6c9-a3a7-40c3-9233-623485982c99">Summer Internship Program 2027 - Software Developer Intern</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483189109/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6">Summer Internship Program 2027 - Software Engineering Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Jacksonville, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483172497/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
@@ -77,6 +105,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/35713000-4ee7-4d70-87b2-79a55a294226">Summer Internship Program 2027 - Title Data Analyst Intern</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483189007/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b6dfc7cc-1b70-439b-b3fa-3c7ee18b7603">Summer Internship Program 2027 - Software Development Engineer in Test Intern</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483182353/">Apply</a></td>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc36ab8b-4fe7-4b2f-9907-502a3c33b179">Summer 2027 AI Data Science Consulting Internship</a></td>
 <td>Minneapolis, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489676301/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/09ffc0cf-032b-48d0-9d0a-ae8a10ee7179">Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448713024/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/73852cae-d752-4581-8669-9d5947fbd728">Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4404425338/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e4049b0e-5049-4d8c-9b1d-59f737df9976">ML Infra Engineer Intern (Ads Infra) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293081/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/edc1f447-3573-4531-8454-21457b227504">Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4402376626/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/814abcca-bc57-4d0a-921a-3a12858cc20a">Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447900629/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

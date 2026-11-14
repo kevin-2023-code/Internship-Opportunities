@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-14 21:04 UTC_
+_Last updated: 2026-11-14 22:04 UTC_
 
 **818 open internships** from **310 employers** · **197 posted in the last 7 days** · refreshed hourly
 
@@ -265,6 +265,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Guidepoint Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
 <tr>
 <td><strong>Renesas</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6422698-11b6-442a-a0ca-9aff389a13d9">Intern, Product Engineering</a></td>
@@ -606,13 +613,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d8ea2e9c-2d16-49c7-8d96-6e65dddbd74e">Software Engineer Intern - Mobile</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/e503c6ad-0d6d-4a37-9a26-71d8294c42a9">Digital Design Engineering Intern</a></td>
-<td>OSLO, Norway</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014485">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -1494,7 +1494,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7d8e1b3a-adf7-457c-b553-ffe5043e801c">Quantitative Research Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452913205/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1728,10 +1728,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9f1e9f6-1211-469b-b789-4f5a3672c3c4">SAP iXp Intern - Technical Support</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/b9f1e9f6-1211-469b-b789-4f5a3672c3c4">SAP iXp Intern - Technical Support</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160974349-sap-ixp-intern-technical-support-">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Aumovio</strong></td>
@@ -1801,7 +1801,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a></td>
 <td>Cork Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484727816/">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>DXC Technology</strong></td>

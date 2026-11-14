@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**941 open roles.** 744 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
+**945 open roles.** 748 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,41 @@
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/09ffc0cf-032b-48d0-9d0a-ae8a10ee7179">Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448713024/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/73852cae-d752-4581-8669-9d5947fbd728">Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404425338/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e4049b0e-5049-4d8c-9b1d-59f737df9976">ML Infra Engineer Intern (Ads Infra) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293081/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/edc1f447-3573-4531-8454-21457b227504">Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4402376626/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/814abcca-bc57-4d0a-921a-3a12858cc20a">Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447900629/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/17038d62-d226-40ed-a138-834fa78f90b3">Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448283305/">Apply</a></td>
@@ -2416,13 +2451,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486287418/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>FIRST RF Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4b0fb70-33a5-4abe-93a0-59395f180621">Intern – Embedded Engineer</a></td>
-<td>6150 LOOKOUT RD, Boulder, CO, 80301-3341, USA</td>
-<td align="center"><a href="https://secure7.saashr.com/ta/6217996.careers?ShowJob=638001440&amp;lang=en-US">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2797,34 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6c05da99-674d-406b-ab33-869290e9ed63">Frontend Software Engineer Intern (TikTok Foundation) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438322557/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e19f74bd-f724-454d-a058-c1b7b9f6681a">Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448507994/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/870d6fab-401c-4927-9add-91fe74789853">Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439824936/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267">Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447983859/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Renesas</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a></td>
-<td>Varna, Bulgaria</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

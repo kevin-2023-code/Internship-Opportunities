@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**810 open roles.** 590 in the United States & Canada · 220 elsewhere in the world.
+**811 open roles.** 591 in the United States & Canada · 220 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CodeConductor.AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4d1c809-bf5a-4dc6-b4de-9ed4496ae30b">AI Intern</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b3838f36-1106-4f98-9d0f-bee5d14d2afb">INTERNSHIP - Data engineering &amp; AI-ready software architecture</a></td>
 <td>Marcq-en-Barœul, Nord, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Lesaffre/744000154054660-internship-data-engineering-ai-ready-software-architecture-">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/54595013-71cc-4f2b-b330-7ccde5e02f8b">SAP iXp Intern - CPIT CFA AI Engineer</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154049239-sap-ixp-intern-cpit-cfa-ai-engineer">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 </tbody>

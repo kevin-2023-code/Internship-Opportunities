@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,930 open roles.** 1,527 in the United States & Canada · 403 elsewhere in the world.
+**1,934 open roles.** 1,531 in the United States & Canada · 403 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/50c4a947-d81e-4d22-8d13-d4ccaf5a3753">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Engineering Intern (Level 2)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714546-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5381-engineering-intern-level-2-">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Notion</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3cf7acc-aa71-47a0-a46c-2eb4aa237d99">Software Engineering Intern, iOS (Summer 2027)</a></td>
+<td>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ryzoe</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a787920-4101-48be-a134-e875ba9e7fc8">Trainee (Intern) Full Stack Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487350747/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/6845ceaa-dc5d-48b6-b1ef-3610f3589914">Summer 2027 Software Engineer HR Data Products Internship</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://careers.t-mobile.com/summer-2027-software-engineer-hr-data-products-internship/job/0E6A1B5A2FFE7163DD8D9BDCDEC8033B">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Astranis Space Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/637007a2-26a1-4afe-9b09-26ddca347c8b">Embedded Software Developer, Network/Payload Intern (Winter 2027)</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/bc6f7d5d-277e-4809-b1c2-39f50160a7bf">Software Engineering and IT Co-Op</a></td>
 <td>Framingham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483441729/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa31bd4c-bb0a-4656-8ad5-bda2aa5c3e30">Cybersecurity Analyst Intern</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475963978/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8d84ea3-4fc9-43b7-965f-2212f7049682">2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's &amp; Master's)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477418054/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Spectrum</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbccc99b-a9f0-4375-ace1-ec879380663f">2027 Summer Intern: Security Engineer</a></td>
-<td>Greenwood Village, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483451177/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e53c91e-c23a-4f64-9718-d14a2dd62d70">2027 Summer Intern, Fleet Reliability &amp; Test Engineering, ASD</a></td>
-<td>Milford, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477462898/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,930 open roles.** 1,527 in the United States & Canada · 403 elsewhere in the world.
+**1,934 open roles.** 1,531 in the United States & Canada · 403 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa31bd4c-bb0a-4656-8ad5-bda2aa5c3e30">Cybersecurity Analyst Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475963978/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8d84ea3-4fc9-43b7-965f-2212f7049682">2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's &amp; Master's)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477418054/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spectrum</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbccc99b-a9f0-4375-ace1-ec879380663f">2027 Summer Intern: Security Engineer</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483451177/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e53c91e-c23a-4f64-9718-d14a2dd62d70">2027 Summer Intern, Fleet Reliability &amp; Test Engineering, ASD</a></td>
+<td>Milford, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477462898/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Netic</strong></td>
 <td><a href="https://trueinterview.io/jobs/95b5b162-970b-4bc5-92be-a593272afbb3">Full-Stack Software Engineer (Product) - Intern - 2026-2027</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/427a98ec-febf-499c-b23a-50100e002759">Inspection Engineering Intern - Summer 2027</a></td>
 <td>Cincinnati, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476364106/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fintech</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0f8de57-9afc-433f-9ed7-a873c09ce59b">.Net Engineer Intern</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479711691/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Daimler Truck North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f8e8058-3154-4eec-b148-6b02f3642a19">Mechanical Product Validation Engineering Intern</a></td>
-<td>Portland, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482294895/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/b52218bc-60bc-4216-b407-0ce092ed1f37">Software Engineering Intern - ADG System R&amp;D</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia Tech Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/947f7f62-3cc5-40f7-b664-2ad5fff9ca8a">General Cybersecurity Intern - Spring 2027 - CIPHER</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476315409/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
