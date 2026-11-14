@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**157 open roles.**
+**156 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -856,13 +856,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, MA, Boston, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Shield AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/74b683c7-d48f-4e85-9a49-d5696780eff5">June 2027 Co-op - Reliability Engineering #5953</a></td>
-<td>Seattle, Washington, San Diego, California, Boston, Massachusetts</td>
-<td align="center"><a href="https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3/apply">Apply</a></td>
-<td align="center">24 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>

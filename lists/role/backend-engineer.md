@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**27 open roles.** 20 in the United States & Canada · 7 elsewhere in the world.
+**28 open roles.** 21 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PulseSync Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/f399a4f4-e07a-48c7-be8f-8c49cb70ae4c">Intern (Software Development) – SG</a></td>
+<td>Lane County, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489554757/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c6ee5eb-e71f-4fdc-8509-7919c6eb3bec">Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer</a></td>

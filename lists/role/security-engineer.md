@@ -18,14 +18,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/72250852-7397-45c6-8f3c-ee57fb69c77c">Software Product Security Engineer Intern</a></td>
-<td>Spring, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490761461/">Apply</a></td>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/0307b3af-6e65-4a9c-a0b5-2527e75bc859">Security Engineer Intern</a></td>
+<td>Kirkland, Washington, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679-security-engineer-intern">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>ServiceNow</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d345c961-266a-4c80-a9e4-a02d5ed6bb90">AI Security Engineer Intern</a></td>
 <td>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161548289-ai-security-engineer-intern">Apply</a></td>

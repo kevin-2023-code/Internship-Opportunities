@@ -5,9 +5,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T01:04:57.126Z",
-  "count": 3892,
+  "listingsChangedAt": "2026-11-14T02:06:39.827Z",
+  "count": 3878,
   "listings": [
+    {
+      "id": "083773e4-3e12-4b70-ba8b-e65696a3ff56",
+      "company": "General Atomics",
+      "title": "Intern - Software Engineer",
+      "locations": [
+        "Herndon, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491010291/",
+      "url": "https://trueinterview.io/jobs/083773e4-3e12-4b70-ba8b-e65696a3ff56",
+      "postedAt": "2026-11-14T00:16:00.000Z",
+      "updatedAt": "2026-11-14T00:16:00.000Z"
+    },
+    {
+      "id": "15d0b949-89fd-4a03-8ddb-f490ea80ec15",
+      "company": "ServiceNow",
+      "title": "AI Identity Intern",
+      "locations": [
+        "Kirkland, Washington, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161594249-ai-identity-intern",
+      "url": "https://trueinterview.io/jobs/15d0b949-89fd-4a03-8ddb-f490ea80ec15",
+      "postedAt": "2026-11-13T23:34:51.000Z",
+      "updatedAt": "2026-11-13T23:34:51.000Z"
+    },
+    {
+      "id": "0307b3af-6e65-4a9c-a0b5-2527e75bc859",
+      "company": "ServiceNow",
+      "title": "Security Engineer Intern",
+      "locations": [
+        "Kirkland, Washington, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161592679-security-engineer-intern",
+      "url": "https://trueinterview.io/jobs/0307b3af-6e65-4a9c-a0b5-2527e75bc859",
+      "postedAt": "2026-11-13T23:18:20.000Z",
+      "updatedAt": "2026-11-13T23:18:20.000Z"
+    },
     {
       "id": "bfa76cc6-cdab-49fc-b3d1-c199d3ec74b1",
       "company": "IBM",
@@ -142,6 +217,33 @@
       "updatedAt": "2026-11-13T22:12:00.000Z"
     },
     {
+      "id": "756218f7-10a8-4190-b7ed-07616860f573",
+      "company": "Lightmatter",
+      "title": "Hardware Test Engineering, Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
+      "url": "https://trueinterview.io/jobs/756218f7-10a8-4190-b7ed-07616860f573",
+      "postedAt": "2026-11-13T21:29:35.000Z",
+      "updatedAt": "2026-11-13T21:29:35.000Z"
+    },
+    {
       "id": "24c65726-9899-4031-9e36-20c85a30ea4d",
       "company": "SWBC",
       "title": "Software Engineering Intern",
@@ -217,31 +319,6 @@
       "updatedAt": "2026-11-13T20:05:00.000Z"
     },
     {
-      "id": "6bd761ed-781a-4402-9724-50865c7a5329",
-      "company": "Veolia",
-      "title": "Intern - Project Engineer",
-      "locations": [
-        "Glen Allen, Virginia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161567349-intern-project-engineer",
-      "url": "https://trueinterview.io/jobs/6bd761ed-781a-4402-9724-50865c7a5329",
-      "postedAt": "2026-11-13T19:54:02.000Z",
-      "updatedAt": "2026-11-13T19:54:02.000Z"
-    },
-    {
       "id": "b8438fc4-460c-40cb-9c49-7aec582d2183",
       "company": "Valeo",
       "title": "Software Engineer Intern (Year-Round)",
@@ -278,9 +355,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -355,10 +432,10 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -381,7 +458,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -406,7 +483,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -432,7 +509,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "QA Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -440,6 +517,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4456069389/",
       "url": "https://trueinterview.io/jobs/b005281d-c0e2-4ba9-872b-f4204b20c153",
+      "postedAt": "2026-11-13T19:19:00.000Z",
+      "updatedAt": "2026-11-13T19:19:00.000Z"
+    },
+    {
+      "id": "675078e4-075e-4077-9846-55f5e79d05a4",
+      "company": "NVIDIA",
+      "title": "System Software Intern, Video Chips - Summer 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464140617/",
+      "url": "https://trueinterview.io/jobs/675078e4-075e-4077-9846-55f5e79d05a4",
       "postedAt": "2026-11-13T19:19:00.000Z",
       "updatedAt": "2026-11-13T19:19:00.000Z"
     },
@@ -469,33 +571,6 @@
       "url": "https://trueinterview.io/jobs/1de58bcf-3c7c-4e58-8ae6-824ac8329a88",
       "postedAt": "2026-11-13T19:00:42.000Z",
       "updatedAt": "2026-11-13T19:00:42.000Z"
-    },
-    {
-      "id": "a3fed34a-9246-4c8d-9415-63f71b9197c3",
-      "company": "Samsung Semiconductor",
-      "title": "Intern, AI Systems Performance Engineer",
-      "locations": [
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
-      "url": "https://trueinterview.io/jobs/a3fed34a-9246-4c8d-9415-63f71b9197c3",
-      "postedAt": "2026-11-13T19:00:34.000Z",
-      "updatedAt": "2026-11-13T19:00:34.000Z"
     },
     {
       "id": "866f8b53-9050-44f2-a7e7-89a64c77f422",
@@ -539,7 +614,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -593,7 +668,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -631,33 +706,6 @@
       "url": "https://trueinterview.io/jobs/0705170e-eded-4c6f-9067-f6ce8e16dbd3",
       "postedAt": "2026-11-13T18:33:23.000Z",
       "updatedAt": "2026-11-13T18:33:23.000Z"
-    },
-    {
-      "id": "af2bffca-bf5e-4aa8-aace-4737c8e68b86",
-      "company": "reliable-robotics-corporation",
-      "title": "Flight Simulation Engineering Intern (Summer 2027)",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/0cd44e07-169f-4664-bf31-cded94b93deb",
-      "url": "https://trueinterview.io/jobs/af2bffca-bf5e-4aa8-aace-4737c8e68b86",
-      "postedAt": "2026-11-13T18:33:10.000Z",
-      "updatedAt": "2026-11-13T18:33:10.000Z"
     },
     {
       "id": "3c9ff155-edf5-4d33-8dae-b0b3111ddbc7",
@@ -701,7 +749,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -725,7 +773,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -735,6 +783,31 @@
       "url": "https://trueinterview.io/jobs/72250852-7397-45c6-8f3c-ee57fb69c77c",
       "postedAt": "2026-11-13T18:12:00.000Z",
       "updatedAt": "2026-11-13T18:12:00.000Z"
+    },
+    {
+      "id": "6a4af132-5a57-4ebf-8a75-0c9f43834640",
+      "company": "ServiceNow",
+      "title": "Information Security Analyst Intern",
+      "locations": [
+        "San Diego, CALIFORNIA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161550869-information-security-analyst-intern",
+      "url": "https://trueinterview.io/jobs/6a4af132-5a57-4ebf-8a75-0c9f43834640",
+      "postedAt": "2026-11-13T18:11:35.000Z",
+      "updatedAt": "2026-11-13T18:11:35.000Z"
     },
     {
       "id": "ee0c2c16-72e2-4e38-b082-6ee25989a10e",
@@ -748,9 +821,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -802,9 +875,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -830,7 +903,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -855,7 +928,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -882,7 +955,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Security Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -911,7 +984,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -947,6 +1020,31 @@
       "updatedAt": "2026-11-13T17:25:00.000Z"
     },
     {
+      "id": "3548b428-696c-4796-a05a-79ce0d44564d",
+      "company": "Flow One",
+      "title": "Software Development Intern",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489588422/",
+      "url": "https://trueinterview.io/jobs/3548b428-696c-4796-a05a-79ce0d44564d",
+      "postedAt": "2026-11-13T17:22:00.000Z",
+      "updatedAt": "2026-11-13T17:22:00.000Z"
+    },
+    {
       "id": "ed021728-b101-4102-8fba-9471d706ebda",
       "company": "Seagate Technology",
       "title": "Intern - Embedded Firmware in Seagate Research Group",
@@ -960,7 +1058,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -971,6 +1069,31 @@
       "url": "https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda",
       "postedAt": "2026-11-13T17:22:00.000Z",
       "updatedAt": "2026-11-13T17:22:00.000Z"
+    },
+    {
+      "id": "f399a4f4-e07a-48c7-be8f-8c49cb70ae4c",
+      "company": "PulseSync Pte Ltd",
+      "title": "Intern (Software Development) – SG",
+      "locations": [
+        "Lane County, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489554757/",
+      "url": "https://trueinterview.io/jobs/f399a4f4-e07a-48c7-be8f-8c49cb70ae4c",
+      "postedAt": "2026-11-13T17:18:00.000Z",
+      "updatedAt": "2026-11-13T17:18:00.000Z"
     },
     {
       "id": "0c21e506-e4c2-44b5-98da-63e4e62b6ef1",
@@ -985,7 +1108,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -11633,81 +11756,6 @@
       "updatedAt": "2026-11-11T08:47:25.000Z"
     },
     {
-      "id": "8916cae3-df73-42be-8bc9-5ec16a149778",
-      "company": "Elire",
-      "title": "Summer 2027 AI Full Stack Developer Consulting Intern",
-      "locations": [
-        "Minneapolis, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489908353/",
-      "url": "https://trueinterview.io/jobs/8916cae3-df73-42be-8bc9-5ec16a149778",
-      "postedAt": "2026-11-11T07:39:00.000Z",
-      "updatedAt": "2026-11-11T07:39:00.000Z"
-    },
-    {
-      "id": "c81ad91d-64b4-407e-94a7-66efed3bc899",
-      "company": "NVIDIA",
-      "title": "AI Operations Intern, AI Clouds - Summer 2027",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
-      "url": "https://trueinterview.io/jobs/c81ad91d-64b4-407e-94a7-66efed3bc899",
-      "postedAt": "2026-11-11T07:34:00.000Z",
-      "updatedAt": "2026-11-11T07:34:00.000Z"
-    },
-    {
-      "id": "54b1cb26-7515-4180-83a2-aeec13218b73",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Testing Engineering Intern - Apopka FL",
-      "locations": [
-        "Apopka, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489900903/",
-      "url": "https://trueinterview.io/jobs/54b1cb26-7515-4180-83a2-aeec13218b73",
-      "postedAt": "2026-11-11T06:36:00.000Z",
-      "updatedAt": "2026-11-11T06:36:00.000Z"
-    },
-    {
       "id": "5ea2a5cd-aad3-4efc-9262-0dbdd5d3a1dd",
       "company": "AeroVironment",
       "title": "Software Engineering Intern",
@@ -11759,31 +11807,6 @@
       "updatedAt": "2026-11-11T06:00:00.000Z"
     },
     {
-      "id": "0754af6f-0662-408d-903a-b19993b37ff5",
-      "company": "Encore Global",
-      "title": "IT Application Development Intern – Summer 2027",
-      "locations": [
-        "Schiller Park, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.encoreglobal.com/job/-/-/6228/103160646880",
-      "url": "https://trueinterview.io/jobs/0754af6f-0662-408d-903a-b19993b37ff5",
-      "postedAt": "2026-11-11T06:00:00.000Z",
-      "updatedAt": "2026-11-11T06:00:00.000Z"
-    },
-    {
       "id": "963d7d11-d153-40a3-bf4f-c977fd62bb8c",
       "company": "Entrust Corporation",
       "title": "Electrical Engineer Co-op",
@@ -11805,31 +11828,6 @@
       "source": "indeed",
       "applyUrl": "https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413",
       "url": "https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c",
-      "postedAt": "2026-11-11T06:00:00.000Z",
-      "updatedAt": "2026-11-11T06:00:00.000Z"
-    },
-    {
-      "id": "06962bd6-9b88-4aec-afae-765319160825",
-      "company": "Parker Hannifin",
-      "title": "Software Engineering Intern - Summer 2027",
-      "locations": [
-        "Irvine, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://parkercareers.ttcportals.com/jobs/18472157-software-engineering-intern-summer-2027?tm_job=70392-1A&tm_event=view&tm_company=1147",
-      "url": "https://trueinterview.io/jobs/06962bd6-9b88-4aec-afae-765319160825",
       "postedAt": "2026-11-11T06:00:00.000Z",
       "updatedAt": "2026-11-11T06:00:00.000Z"
     },
@@ -53215,131 +53213,6 @@
       "updatedAt": "2026-10-29T18:48:32.000Z"
     },
     {
-      "id": "f6eeb58b-cb1d-4e2e-b92c-cd8b40eba77f",
-      "company": "Black & Veatch",
-      "title": "Electrical Engineer Intern - BESS",
-      "locations": [
-        "Overland Park, KS"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467165309/",
-      "url": "https://trueinterview.io/jobs/f6eeb58b-cb1d-4e2e-b92c-cd8b40eba77f",
-      "postedAt": "2026-10-29T18:48:00.000Z",
-      "updatedAt": "2026-10-29T18:48:00.000Z"
-    },
-    {
-      "id": "2326a4c1-36ab-41a5-8420-edb6dfe9dea2",
-      "company": "Paylocity",
-      "title": "Machine Learning Engineer Intern",
-      "locations": [
-        "Pittsford, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4472781404/",
-      "url": "https://trueinterview.io/jobs/2326a4c1-36ab-41a5-8420-edb6dfe9dea2",
-      "postedAt": "2026-10-29T18:44:00.000Z",
-      "updatedAt": "2026-10-29T18:44:00.000Z"
-    },
-    {
-      "id": "5799cf2e-a55b-4685-bac4-df4b4f19b734",
-      "company": "Paylocity",
-      "title": "Software Engineering Intern, AI Labs",
-      "locations": [
-        "Pittsford, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4473038702/",
-      "url": "https://trueinterview.io/jobs/5799cf2e-a55b-4685-bac4-df4b4f19b734",
-      "postedAt": "2026-10-29T18:44:00.000Z",
-      "updatedAt": "2026-10-29T18:44:00.000Z"
-    },
-    {
-      "id": "c55d1302-c49e-41b4-9cd5-021d9d051a47",
-      "company": "OneFourTwo Design Group",
-      "title": "Structural Engineering Intern (Summer 2027)",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457158508/",
-      "url": "https://trueinterview.io/jobs/c55d1302-c49e-41b4-9cd5-021d9d051a47",
-      "postedAt": "2026-10-29T18:42:00.000Z",
-      "updatedAt": "2026-10-29T18:42:00.000Z"
-    },
-    {
-      "id": "d5ec33f1-de88-4761-8e7c-f4413825b3d2",
-      "company": "Brunswick Corporation",
-      "title": "Mercury Marine: Drives & Propulsion Systems Engineering Intern",
-      "locations": [
-        "Oshkosh, WI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4459039774/",
-      "url": "https://trueinterview.io/jobs/d5ec33f1-de88-4761-8e7c-f4413825b3d2",
-      "postedAt": "2026-10-29T18:41:00.000Z",
-      "updatedAt": "2026-10-29T18:41:00.000Z"
-    },
-    {
       "id": "7bb12426-8d55-4d00-a014-e1677210fb34",
       "company": "NVIDIA",
       "title": "ASIC Engineering Intern, Networking Chip Design - 2027",
@@ -77161,33 +77034,6 @@
       "updatedAt": "2026-10-24T00:00:00.000Z"
     },
     {
-      "id": "74b683c7-d48f-4e85-9a49-d5696780eff5",
-      "company": "shield-ai",
-      "title": "June 2027 Co-op - Reliability Engineering #5953",
-      "locations": [
-        "Seattle, Washington, San Diego, California, Boston, Massachusetts"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3/apply",
-      "url": "https://trueinterview.io/jobs/74b683c7-d48f-4e85-9a49-d5696780eff5",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "updatedAt": "2026-10-24T00:00:00.000Z"
-    },
-    {
       "id": "8d12f813-602c-4b8c-b686-701b5791fdbd",
       "company": "QUADRIC PTY LTD",
       "title": "Deep Learning Compiler Intern",
@@ -79292,33 +79138,6 @@
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
     {
-      "id": "6b4cfb49-abd2-4f13-a2d9-3b599d9c9c89",
-      "company": "Behaviour Interactive",
-      "title": "Technical Animator - 7 Days to Die - Internship Winter 2027 | Animateur·trice technique - 7 Days to Die - Stage Hiver 2027",
-      "locations": [
-        "Montreal, Quebec, Canada"
-      ],
-      "cities": [
-        "Montreal, QC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.lever.co/bhvr/2ea4517a-0730-4f28-bcb0-7a643ad62d97",
-      "url": "https://trueinterview.io/jobs/6b4cfb49-abd2-4f13-a2d9-3b599d9c9c89",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "updatedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
       "id": "35028c40-844d-4947-9bf6-f3f10b3a9fbf",
       "company": "drivewealth",
       "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
@@ -79496,31 +79315,6 @@
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
     {
-      "id": "aebb089d-f8be-49ec-ba8e-c971d9dccf15",
-      "company": "Micron Technology",
-      "title": "Intern – AMHS Equipment Engineer ID1",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/45044351",
-      "url": "https://trueinterview.io/jobs/aebb089d-f8be-49ec-ba8e-c971d9dccf15",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "updatedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
       "id": "896137b5-6b71-40ba-9e1b-c0ace2e95871",
       "company": "Microsoft",
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
@@ -79651,56 +79445,6 @@
       "url": "https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2",
-      "company": "Meta",
-      "title": "Research Scientist Intern, PhD — Meta Superintelligence Labs",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1510576574212840/",
-      "url": "https://trueinterview.io/jobs/3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2",
-      "postedAt": "2026-10-20T23:10:55.000Z",
-      "updatedAt": "2026-10-20T23:10:55.000Z"
-    },
-    {
-      "id": "fc6db7cf-025f-43e3-8b36-c9f846f9520d",
-      "company": "Skydio",
-      "title": "Electrical Engineer Intern - Summer 2027",
-      "locations": [
-        "San Mateo, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4",
-      "url": "https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d",
-      "postedAt": "2026-10-20T21:24:57.000Z",
-      "updatedAt": "2026-10-20T21:24:57.000Z"
     },
     {
       "id": "0f2ddd61-4a28-4e77-93c2-5c1209dcc34f",
@@ -88244,31 +87988,6 @@
       "updatedAt": "2026-10-07T01:58:00.000Z"
     },
     {
-      "id": "a4798952-13f5-432c-804b-0e901a3f843d",
-      "company": "Intuit",
-      "title": "Summer 2027: Technical Compliance Manager Intern",
-      "locations": [
-        "San Diego, California"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.intuit.com/job/san-diego/summer-2027-technical-compliance-manager-intern/27595/101632992496",
-      "url": "https://trueinterview.io/jobs/a4798952-13f5-432c-804b-0e901a3f843d",
-      "postedAt": "2026-10-07T00:43:39.000Z",
-      "updatedAt": "2026-10-07T00:43:39.000Z"
-    },
-    {
       "id": "0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c",
       "company": "Hewlett Packard Enterprise",
       "title": "AI Performance Engineering Intern",
@@ -88348,56 +88067,6 @@
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
-      "id": "1e6d81d3-b43d-45f3-80f6-84e132f440b4",
-      "company": "Microsoft",
-      "title": "Applied Science: Internship Opportunities - Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556986141",
-      "url": "https://trueinterview.io/jobs/1e6d81d3-b43d-45f3-80f6-84e132f440b4",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "99418f87-8a71-4144-b587-122e844e2a17",
-      "company": "Texas Instruments",
-      "title": "Analog Design Engineering Intern - ATD",
-      "locations": [
-        "Dallas, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
-      "url": "https://trueinterview.io/jobs/99418f87-8a71-4144-b587-122e844e2a17",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
       "id": "7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8",
       "company": "Texas Instruments",
       "title": "Field Applications Engineering Intern - Guildford & Manchester, United Kingdom",
@@ -88419,31 +88088,6 @@
       "source": "ats-boards",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018498",
       "url": "https://trueinterview.io/jobs/7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "4a96a216-d1a8-4da6-972a-d98c5e8becdf",
-      "company": "Texas Instruments",
-      "title": "Process Development Engineer Intern - DLP",
-      "locations": [
-        "Dallas, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013674",
-      "url": "https://trueinterview.io/jobs/4a96a216-d1a8-4da6-972a-d98c5e8becdf",
       "postedAt": "2026-10-07T00:00:00.000Z",
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
