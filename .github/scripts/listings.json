@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T16:04:32.031Z",
-  "count": 3937,
+  "listingsChangedAt": "2026-11-14T17:04:05.921Z",
+  "count": 3936,
   "listings": [
     {
       "id": "f7133f6e-33c7-4dc4-a3bc-0a17bd1863d7",
@@ -102210,31 +102210,6 @@
       "url": "https://trueinterview.io/jobs/772cc8ed-cb9f-401c-ab97-0ba890eec0fa",
       "postedAt": "2026-09-15T17:09:14.000Z",
       "updatedAt": "2026-09-15T17:09:14.000Z"
-    },
-    {
-      "id": "771f6685-8f58-4e55-968c-66b2392fb60e",
-      "company": "Megazone Cloud Us",
-      "title": "Visual Design Co-op 2027",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca/application",
-      "url": "https://trueinterview.io/jobs/771f6685-8f58-4e55-968c-66b2392fb60e",
-      "postedAt": "2026-09-15T16:47:39.000Z",
-      "updatedAt": "2026-09-15T16:47:39.000Z"
     }
   ]
 }
