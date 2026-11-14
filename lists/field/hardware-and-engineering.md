@@ -107,7 +107,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Seagate Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda">Intern - Embedded Firmware in Seagate Research Group</a></td>
 <td>Longmont, CO<br/>Shakopee, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488958202/">Apply</a></td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15521">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -129,6 +129,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/710a67d0-9107-4f91-89d1-8ab4e9cd7a4e">Intern - Engineering Software</a></td>
 <td>Southfield, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465872984/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PACCAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c63d754-8903-40bd-a81c-da53a08636cc">Manufacturing Engineering Data Analytics Intern Summer 2027</a></td>
+<td>United States</td>
+<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=paccarinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=73900">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -486,13 +493,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0667480-612d-4e5b-8f62-552e53020630">Applications Engineering Intern</a></td>
 <td>Morrisville, North Carolina, United States<br/>Morrisville, NC</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701-applications-engineering-intern">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PACCAR</strong></td>
-<td><a href="https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a">2027 Summer Internship: Engineering Systems</a></td>
-<td>United States</td>
-<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=paccarinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=73866">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

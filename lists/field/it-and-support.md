@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**83 open roles.** 62 in the United States & Canada · 21 elsewhere in the world.
+**84 open roles.** 63 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,7 +25,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Brown &amp; Root</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b088bff-07be-48c6-8e10-e77bcc3cd5e5">IT Help Desk Intern</a></td>
+<td>Baton Rouge, LA</td>
+<td align="center"><a href="https://myjobs.adp.com/brownandrootexternal/cx/job-details?reqId=5001238248200">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a4af132-5a57-4ebf-8a75-0c9f43834640">Information Security Analyst Intern</a></td>
 <td>San Diego, CALIFORNIA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869-information-security-analyst-intern">Apply</a></td>

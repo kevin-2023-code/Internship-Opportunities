@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**8 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pason Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/f815fc59-c426-4115-939d-b86dc8b580df">Software Developer Intern (Datahub)</a></td>
+<td>Calgary, AB, T2H1K4, CAN</td>
+<td align="center"><a href="https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ATS Traffic</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6274984-9383-4ce3-862f-107bf3f35fc4">IT Support Technician - Co-op Student</a></td>

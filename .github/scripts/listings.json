@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T14:04:26.227Z",
+  "listingsChangedAt": "2026-11-14T15:04:09.082Z",
   "count": 3936,
   "listings": [
     {
@@ -1894,6 +1894,31 @@
       "updatedAt": "2026-11-13T21:29:00.000Z"
     },
     {
+      "id": "10273e28-1413-462b-a7f7-f0f4684706ba",
+      "company": "Hubbell Incorporated",
+      "title": "2027 Summer Intern: Engineering (Firmware) - Farmington, CT",
+      "locations": [
+        "Farmington, CT, US, 06032"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=Hubbell&rcm_site_locale=en_US&career_job_req_id=107043",
+      "url": "https://trueinterview.io/jobs/10273e28-1413-462b-a7f7-f0f4684706ba",
+      "postedAt": "2026-11-13T20:44:02.000Z",
+      "updatedAt": "2026-11-13T20:44:02.000Z"
+    },
+    {
       "id": "c7f06e35-9f42-4b22-92e3-46912f4bf9c3",
       "company": "Lockheed Martin",
       "title": "Embedded Software Engineering Intern - Summer 2027",
@@ -1942,6 +1967,31 @@
       "url": "https://trueinterview.io/jobs/24c65726-9899-4031-9e36-20c85a30ea4d",
       "postedAt": "2026-11-13T20:21:16.000Z",
       "updatedAt": "2026-11-13T20:21:16.000Z"
+    },
+    {
+      "id": "6b088bff-07be-48c6-8e10-e77bcc3cd5e5",
+      "company": "Brown & Root",
+      "title": "IT Help Desk Intern",
+      "locations": [
+        "Baton Rouge, LA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://myjobs.adp.com/brownandrootexternal/cx/job-details?reqId=5001238248200",
+      "url": "https://trueinterview.io/jobs/6b088bff-07be-48c6-8e10-e77bcc3cd5e5",
+      "postedAt": "2026-11-13T20:19:45.000Z",
+      "updatedAt": "2026-11-13T20:19:45.000Z"
     },
     {
       "id": "ec794395-e5a7-4e4f-b8d1-1a07289465d6",
@@ -2250,6 +2300,33 @@
       "updatedAt": "2026-11-13T18:59:33.000Z"
     },
     {
+      "id": "f815fc59-c426-4115-939d-b86dc8b580df",
+      "company": "Pason Systems",
+      "title": "Software Developer Intern (Datahub)",
+      "locations": [
+        "Calgary, AB, T2H1K4, CAN"
+      ],
+      "cities": [
+        "Calgary, AB"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8",
+      "url": "https://trueinterview.io/jobs/f815fc59-c426-4115-939d-b86dc8b580df",
+      "postedAt": "2026-11-13T18:45:04.000Z",
+      "updatedAt": "2026-11-13T18:45:04.000Z"
+    },
+    {
       "id": "bf8efcad-84a4-4203-8d10-c086841e59a1",
       "company": "reliable-robotics-corporation",
       "title": "Flight Test Integration Engineer Intern (Summer 2027)",
@@ -2356,35 +2433,6 @@
       "url": "https://trueinterview.io/jobs/3c9ff155-edf5-4d33-8dae-b0b3111ddbc7",
       "postedAt": "2026-11-13T18:33:05.000Z",
       "updatedAt": "2026-11-13T18:33:05.000Z"
-    },
-    {
-      "id": "c843a96c-7577-4f2c-ad35-d0319710c939",
-      "company": "NetApp",
-      "title": "Intern - Software Engineer (Systems)",
-      "locations": [
-        "San Jose, CA, USA Office",
-        "RTP, North Carolina, USA Office",
-        "San Jose, CA, USA Office (SANJOSE)"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=netappinc&rcm_site_locale=en_US&career_job_req_id=137219",
-      "url": "https://trueinterview.io/jobs/c843a96c-7577-4f2c-ad35-d0319710c939",
-      "postedAt": "2026-11-13T18:20:10.000Z",
-      "updatedAt": "2026-11-13T18:20:10.000Z"
     },
     {
       "id": "d9c9732d-a61b-4726-b642-2fc8c37f9c42",
@@ -2702,7 +2750,8 @@
       "title": "Intern - Embedded Firmware in Seagate Research Group",
       "locations": [
         "Longmont, CO",
-        "Shakopee, MN"
+        "Shakopee, MN",
+        "Longmont, United States"
       ],
       "cities": [],
       "countries": [
@@ -2717,7 +2766,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488958202/",
+      "applyUrl": "https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&rcm_site_locale=en_US&career_job_req_id=15521",
       "url": "https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda",
       "postedAt": "2026-11-13T17:22:00.000Z",
       "updatedAt": "2026-11-13T17:22:00.000Z"
@@ -3223,6 +3272,31 @@
       "url": "https://trueinterview.io/jobs/2256e631-79be-4d43-a0a0-2e0be31bf4cc",
       "postedAt": "2026-11-13T15:52:14.000Z",
       "updatedAt": "2026-11-13T15:52:14.000Z"
+    },
+    {
+      "id": "4c63d754-8903-40bd-a81c-da53a08636cc",
+      "company": "PACCAR",
+      "title": "Manufacturing Engineering Data Analytics Intern Summer 2027",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&rcm_site_locale=en_US&career_job_req_id=73900",
+      "url": "https://trueinterview.io/jobs/4c63d754-8903-40bd-a81c-da53a08636cc",
+      "postedAt": "2026-11-13T15:32:40.000Z",
+      "updatedAt": "2026-11-13T15:32:40.000Z"
     },
     {
       "id": "0e60c45f-9ba5-47a3-b45c-e6b4b4598588",
@@ -11440,31 +11514,6 @@
       "updatedAt": "2026-11-11T17:54:00.000Z"
     },
     {
-      "id": "e6573c3d-dbd4-428d-bbc9-c58fba7091ef",
-      "company": "McDonald's Corporation",
-      "title": "Cybersecurity Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career41.sapsf.com/career?career_ns=job_listing&company=mcdonaldsc&rcm_site_locale=en_US&career_job_req_id=5688",
-      "url": "https://trueinterview.io/jobs/e6573c3d-dbd4-428d-bbc9-c58fba7091ef",
-      "postedAt": "2026-11-11T17:44:30.000Z",
-      "updatedAt": "2026-11-11T17:44:30.000Z"
-    },
-    {
       "id": "a9a9dd17-6b6b-4cba-b3ab-f2b9c844e8ee",
       "company": "Indianapolis Motor Speedway",
       "title": "IT Operations Intern, 2027 Season",
@@ -14444,31 +14493,6 @@
       "url": "https://trueinterview.io/jobs/b9f1e9f6-1211-469b-b789-4f5a3672c3c4",
       "postedAt": "2026-11-10T21:43:21.000Z",
       "updatedAt": "2026-11-10T21:43:21.000Z"
-    },
-    {
-      "id": "af0c597f-8f0d-45be-a4d3-064616595d6a",
-      "company": "PACCAR",
-      "title": "2027 Summer Internship: Engineering Systems",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&rcm_site_locale=en_US&career_job_req_id=73866",
-      "url": "https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a",
-      "postedAt": "2026-11-10T21:38:23.000Z",
-      "updatedAt": "2026-11-10T21:38:23.000Z"
     },
     {
       "id": "dfc74e11-5df9-4ce8-ba71-5aceb1d28a96",
@@ -35204,31 +35228,6 @@
       "source": "career-sites",
       "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329",
       "url": "https://trueinterview.io/jobs/07cfb136-42bd-4edd-b4a9-775c31211786",
-      "postedAt": "2026-11-04T00:00:00.000Z",
-      "updatedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "id": "8457eb69-6120-4da7-9ba2-f90746a04685",
-      "company": "PACCAR",
-      "title": "2027 Summer Internship: Data Engineer",
-      "locations": [
-        "Denton, Texas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/",
-      "url": "https://trueinterview.io/jobs/8457eb69-6120-4da7-9ba2-f90746a04685",
       "postedAt": "2026-11-04T00:00:00.000Z",
       "updatedAt": "2026-11-04T00:00:00.000Z"
     },
