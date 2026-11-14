@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,916 open roles.** 1,520 in the United States & Canada · 396 elsewhere in the world.
+**1,919 open roles.** 1,523 in the United States & Canada · 396 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Eaton</strong></td>
+<td><a href="https://trueinterview.io/jobs/31bdc33b-6a5d-4c14-b28c-f5930f9d2636">Engineering Intern</a></td>
+<td>North Charleston, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482512062/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bass Pro Shops</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9863fb2-78e9-48c6-a1ea-f954e298f835">Product Testing and Validation Engineering Co-op</a></td>
+<td>Springfield, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467421145/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Potelco Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/fee5592a-bcf7-4506-a497-54caea37eea2">Associate Project Engineer Intern</a></td>
+<td>Tigard, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467280812/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/23f431b0-c541-4713-9ca0-51905839a65a">Software Engineer, Intern (Summer 2027) - TOR</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466147913/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Axiom Math</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>
@@ -1528,13 +1556,6 @@
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Aurora Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd4b01cc-9794-48f9-a594-ed7a54a9dd28">Embedded Software Engineer Intern — Lidar</a></td>
-<td>Bozeman, MT</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Gas South</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ab58b06-5bcc-4d0e-af79-be9ca91e8058">Software Engineering Intern</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia</td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08ee1dad-9e85-4794-b09f-a51f3aea0e1c">FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork</a></td>
 <td>Cork, County Cork, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4417144574/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Dept</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9198bd3-b508-44a7-be9b-fdd8872a691f">Intern Frontend Developer</a></td>
-<td>Amsterdam, Rotterdam</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8364818">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8cbf82da-ce6a-4fd8-928c-1b32436bd58b">Intern Backend Developer</a></td>
-<td>Amsterdam, Rotterdam</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8364817">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/200e2549-2f7a-4232-a584-e28a542b4947">SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an</a></td>
-<td>Xi'an, China</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160813099-sap-china-ixp-intern-hana-cloud-microservice-developer-xi-an">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

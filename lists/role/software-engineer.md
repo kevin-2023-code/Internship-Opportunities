@@ -139,6 +139,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Daimler Truck North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda">IT Developer Analyst Intern</a></td>
+<td>Mount Holly, NC</td>
+<td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/47062a36-51cc-4a7c-9f06-99f9d65b80d8">Internship, Software Engineer, Core SI Compiler &amp; Runtime (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
@@ -156,7 +163,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Hemlock Semiconductor</strong></td>
 <td><a href="https://trueinterview.io/jobs/90685c5d-6f89-4468-ae32-c51fc538c906">Manufacturing Systems Software Developer Intern</a></td>
 <td>Hemlock, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491012336/">Apply</a></td>
+<td align="center"><a href="https://careers.hscpoly.com/job/Hemlock-Manufacturing-Systems-Software-Developer-Intern-MI-48626/1450621600/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -269,13 +276,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b">Co-op- Machine Learning Ops</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482784212/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Daimler Truck North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda">IT Developer Analyst Intern</a></td>
-<td>Mount Holly, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488938946/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -475,6 +475,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>BAE Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>United States Steel</strong></td>
 <td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
 <td>Munhall, PA</td>
@@ -542,13 +549,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161375795-sap-ixp-intern-cis-software-ai-developer">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Platinum Business Service</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9e0dc7d-db8c-4e7c-a2b8-7a6a80b2fc6f">Programmer Intern</a></td>
-<td>Petersburg, VA</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=9e1a25ac86a0d7aa">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

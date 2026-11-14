@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,916 open roles.** 1,520 in the United States & Canada · 396 elsewhere in the world.
+**1,919 open roles.** 1,523 in the United States & Canada · 396 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Republic Finance</strong></td>
+<td><a href="https://trueinterview.io/jobs/823f61d0-8b74-43b8-9003-1aaafae7b52d">React Developer Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://jobs.republicfinance.com/jobs/15411/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FIRST RF Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4b0fb70-33a5-4abe-93a0-59395f180621">Intern – Embedded Engineer</a></td>
+<td>6150 LOOKOUT RD, Boulder, CO, 80301-3341, USA</td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6217996.careers?ShowJob=638001440&amp;lang=en-US">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Allied Consultants, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/58528065-3e6c-47be-9c60-cf9cbe9ed1d1">Power Platform Admin/Developer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488183625/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MedPro Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/a311e3fc-4765-424c-bbb7-8eaf2257a483">Intern - Application Developer</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://medprou.csod.com/ux/ats/careersite/5/home/requisition/2184">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>MeeBoss</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c4a3ec0-0693-4d21-a23d-b8406e94ea96">Software Engineer Intern at ClassHour</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f8de7caa-062d-4320-8d67-0a5dca902dbc">Field Engineer Intern (Company Wide)</a></td>
 <td>Washougal, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468865557/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae1d6865-6933-445b-bd6e-a2c78671f51e">Systems Engineering Co-op/Intern - Spring 2027</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483441383/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WebFX</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4cca3f7-5420-4a88-a08c-15579c2a5d53">Web Developer Internship</a></td>
-<td>Harrisburg, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468292698/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1806375-3bbd-491f-9e15-d9f128338b14">Failure Analysis Engineering Intern (Summer 2027)</a></td>
-<td>Malta, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481157526/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Robinson Helicopter Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5">Engineer Intern</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467122606/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

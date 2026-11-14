@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T18:05:25.572Z",
-  "count": 3935,
+  "listingsChangedAt": "2026-11-14T20:04:19.484Z",
+  "count": 3938,
   "listings": [
     {
       "id": "b6dfc7cc-1b70-439b-b3fa-3c7ee18b7603",
@@ -1820,6 +1820,31 @@
       "updatedAt": "2026-11-14T06:38:00.000Z"
     },
     {
+      "id": "4328a039-67aa-4ff9-bb53-8e46eeb91cda",
+      "company": "Daimler Truck North America",
+      "title": "IT Developer Analyst Intern",
+      "locations": [
+        "Mount Holly, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
+      "url": "https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda",
+      "postedAt": "2026-11-13T17:13:00.000Z",
+      "updatedAt": "2026-11-14T06:00:00.000Z"
+    },
+    {
       "id": "bfbf7937-a7c6-4a51-a03d-cf5af4a43374",
       "company": "Hyperion Materials & Technologies",
       "title": "AI Intern",
@@ -1900,6 +1925,31 @@
       "updatedAt": "2026-11-14T02:32:00.000Z"
     },
     {
+      "id": "db682453-3127-4329-945a-761caa56f074",
+      "company": "Tohklom Co.,Ltd",
+      "title": "Web Developer Intern",
+      "locations": [
+        "Leadville, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=dbc6864d214f089b",
+      "url": "https://trueinterview.io/jobs/db682453-3127-4329-945a-761caa56f074",
+      "postedAt": "2026-11-14T01:34:49.000Z",
+      "updatedAt": "2026-11-14T01:34:49.000Z"
+    },
+    {
       "id": "47062a36-51cc-4a7c-9f06-99f9d65b80d8",
       "company": "Tesla",
       "title": "Internship, Software Engineer, Core SI Compiler & Runtime (Winter/Spring 2027)",
@@ -1971,7 +2021,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491012336/",
+      "applyUrl": "https://careers.hscpoly.com/job/Hemlock-Manufacturing-Systems-Software-Developer-Intern-MI-48626/1450621600/",
       "url": "https://trueinterview.io/jobs/90685c5d-6f89-4468-ae32-c51fc538c906",
       "postedAt": "2026-11-14T00:29:00.000Z",
       "updatedAt": "2026-11-14T00:29:00.000Z"
@@ -2323,7 +2373,8 @@
       "company": "Hubbell Incorporated",
       "title": "2027 Summer Intern: Engineering (Firmware) - Farmington, CT",
       "locations": [
-        "Farmington, CT, US, 06032"
+        "Farmington, CT, US, 06032",
+        "Farmington, CT"
       ],
       "cities": [],
       "countries": [
@@ -3295,31 +3346,6 @@
       "url": "https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b",
       "postedAt": "2026-11-13T17:15:00.000Z",
       "updatedAt": "2026-11-13T17:15:00.000Z"
-    },
-    {
-      "id": "4328a039-67aa-4ff9-bb53-8e46eeb91cda",
-      "company": "Daimler Truck North America",
-      "title": "IT Developer Analyst Intern",
-      "locations": [
-        "Mount Holly, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488938946/",
-      "url": "https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda",
-      "postedAt": "2026-11-13T17:13:00.000Z",
-      "updatedAt": "2026-11-13T17:13:00.000Z"
     },
     {
       "id": "649bc821-7714-4341-9877-4c83a4f23a6f",
@@ -5493,6 +5519,107 @@
       "updatedAt": "2026-11-13T06:23:34.000Z"
     },
     {
+      "id": "7464b431-0c6e-4c9d-9574-f85e1ca7fc51",
+      "company": "Avis Budget Group",
+      "title": "Accelerate - IT Engineering Intern",
+      "locations": [
+        "Parsippany-Troy Hills, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464",
+      "url": "https://trueinterview.io/jobs/7464b431-0c6e-4c9d-9574-f85e1ca7fc51",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "80af0642-1602-407b-a121-322817c067eb",
+      "company": "BAE Systems USA",
+      "title": "Programmer Analyst Intern - Summer 2027",
+      "locations": [
+        "Fort Wayne, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.baesystems.com/global/en/job/132614BR",
+      "url": "https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "c0a6f80e-8adc-4aea-b4df-ff95f96d7932",
+      "company": "Camping World",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Lincolnshire, IL",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+      "url": "https://trueinterview.io/jobs/c0a6f80e-8adc-4aea-b4df-ff95f96d7932",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "a0f1026b-15d3-489d-91f8-ce2c022b0370",
+      "company": "Princess",
+      "title": "Intern, Ecommerce Engineering",
+      "locations": [
+        "Fort Lauderdale, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/job/14467",
+      "url": "https://trueinterview.io/jobs/a0f1026b-15d3-489d-91f8-ce2c022b0370",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
       "id": "9599410e-0967-4964-9125-0bab50ceefcc",
       "company": "Skyworks Solutions",
       "title": "RF Applications (Winter/Spring Co-Op)",
@@ -6537,31 +6664,6 @@
       "url": "https://trueinterview.io/jobs/95f575d6-c421-43cd-960d-fe4db2e94b53",
       "postedAt": "2026-11-12T19:43:30.000Z",
       "updatedAt": "2026-11-12T19:43:30.000Z"
-    },
-    {
-      "id": "e9e0dc7d-db8c-4e7c-a2b8-7a6a80b2fc6f",
-      "company": "Platinum Business Service",
-      "title": "Programmer Intern",
-      "locations": [
-        "Petersburg, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=9e1a25ac86a0d7aa",
-      "url": "https://trueinterview.io/jobs/e9e0dc7d-db8c-4e7c-a2b8-7a6a80b2fc6f",
-      "postedAt": "2026-11-12T19:41:05.000Z",
-      "updatedAt": "2026-11-12T19:41:05.000Z"
     },
     {
       "id": "255fa8c9-212e-4c51-8fde-8109077a0b5a",
@@ -93375,31 +93477,6 @@
       "url": "https://trueinterview.io/jobs/8b057672-1c9e-49ec-8363-f8d47c26afcf",
       "postedAt": "2026-10-01T23:02:38.000Z",
       "updatedAt": "2026-10-01T23:02:38.000Z"
-    },
-    {
-      "id": "dd4b01cc-9794-48f9-a594-ed7a54a9dd28",
-      "company": "Aurora Innovation",
-      "title": "Embedded Software Engineer Intern — Lidar",
-      "locations": [
-        "Bozeman, MT"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
-      "url": "https://trueinterview.io/jobs/dd4b01cc-9794-48f9-a594-ed7a54a9dd28",
-      "postedAt": "2026-10-01T22:24:38.000Z",
-      "updatedAt": "2026-10-01T22:24:38.000Z"
     },
     {
       "id": "41a3e1a8-162d-46dc-a429-4392302220ed",

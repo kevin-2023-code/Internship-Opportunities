@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-14 19:03 UTC_
+_Last updated: 2026-11-14 20:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 232 of the 1,497 employers on this list (31% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 232 of the 1,498 employers on this list (31% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,520 | 396 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,523 | 396 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 730 | 82 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 586 | 218 |
 | [📱 Product & Design](field/product-and-design.md) | 164 | 64 |
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,222 of the 3,935** internships on this list (31%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,222 of the 3,938** internships on this list (31%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **1,222 of the 3,935** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **2,174 of the 3,935** internships on this list (55%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **2,174 of the 3,938** internships on this list (55%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -95,7 +95,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Data Analyst](role/data-analyst.md) | 62 | 40 |
 | [Research Scientist](role/research-scientist.md) | 68 | 15 |
 | [Data Engineer](role/data-engineer.md) | 65 | 14 |
-| [Embedded Engineer](role/embedded-engineer.md) | 62 | 14 |
+| [Embedded Engineer](role/embedded-engineer.md) | 61 | 14 |
 | [QA Engineer](role/qa-engineer.md) | 44 | 13 |
 | [Quantitative Developer](role/quantitative-developer.md) | 29 | 9 |
 | [Quantitative Researcher](role/quantitative-researcher.md) | 26 | 12 |
@@ -103,8 +103,8 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Backend Engineer](role/backend-engineer.md) | 21 | 8 |
 | [Mobile Engineer](role/mobile-engineer.md) | 14 | 8 |
 | [Site Reliability Engineer](role/site-reliability-engineer.md) | 13 | 6 |
+| [Frontend Engineer](role/frontend-engineer.md) | 13 | 3 |
 | [DevOps Engineer](role/devops-engineer.md) | 11 | 4 |
-| [Frontend Engineer](role/frontend-engineer.md) | 12 | 3 |
 | [Platform Engineer](role/platform-engineer.md) | 10 | 2 |
 | [Quantitative Trader](role/quantitative-trader.md) | 5 | 3 |
 
@@ -114,7 +114,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 37 filters hold **2,289 of the 3,935** internships on this list (58%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 37 filters hold **2,289 of the 3,938** internships on this list (58%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -162,12 +162,12 @@ _Between them these 37 filters hold **2,289 of the 3,935** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **987 of the 3,935** internships on this list (25%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **978 of the 3,938** internships on this list (25%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 758 | 189 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
-| [🌐 Remote](remote.md) | 37 | 15 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 752 | 186 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🌐 Remote](remote.md) | 38 | 15 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---
 

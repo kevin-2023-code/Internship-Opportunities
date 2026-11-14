@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**947 open roles.** 758 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**938 open roles.** 752 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -391,6 +391,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Daimler Truck North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda">IT Developer Analyst Intern</a></td>
+<td>Mount Holly, NC</td>
+<td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hyperion Materials &amp; Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/bfbf7937-a7c6-4a51-a03d-cf5af4a43374">AI Intern</a></td>
 <td>Dublin, OH</td>
@@ -412,6 +419,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Tohklom Co.,Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/db682453-3127-4329-945a-761caa56f074">Web Developer Intern</a></td>
+<td>Leadville, CO</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=dbc6864d214f089b">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/47062a36-51cc-4a7c-9f06-99f9d65b80d8">Internship, Software Engineer, Core SI Compiler &amp; Runtime (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
@@ -429,7 +443,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Hemlock Semiconductor</strong></td>
 <td><a href="https://trueinterview.io/jobs/90685c5d-6f89-4468-ae32-c51fc538c906">Manufacturing Systems Software Developer Intern</a></td>
 <td>Hemlock, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491012336/">Apply</a></td>
+<td align="center"><a href="https://careers.hscpoly.com/job/Hemlock-Manufacturing-Systems-Software-Developer-Intern-MI-48626/1450621600/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -738,13 +752,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b">Co-op- Machine Learning Ops</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482784212/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Daimler Truck North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda">IT Developer Analyst Intern</a></td>
-<td>Mount Holly, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488938946/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1175,6 +1182,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Avis Budget Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7464b431-0c6e-4c9d-9574-f85e1ca7fc51">Accelerate - IT Engineering Intern</a></td>
+<td>Parsippany-Troy Hills, NJ</td>
+<td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Camping World</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0a6f80e-8adc-4aea-b4df-ff95f96d7932">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Princess</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0f1026b-15d3-489d-91f8-ce2c022b0370">Intern, Ecommerce Engineering</a></td>
+<td>Fort Lauderdale, FL</td>
+<td align="center"><a href="https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/job/14467">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Skyworks Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/9599410e-0967-4964-9125-0bab50ceefcc">RF Applications (Winter/Spring Co-Op)</a></td>
 <td>Woburn, MA</td>
@@ -1417,13 +1452,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/95f575d6-c421-43cd-960d-fe4db2e94b53">Systems Analyst Internship – Start Your IT Career Now</a></td>
 <td>Biloxi, MS, 39531</td>
 <td align="center"><a href="https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=d97b2620-85e3-4d1b-8844-959a9afb6bae">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Platinum Business Service</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9e0dc7d-db8c-4e7c-a2b8-7a6a80b2fc6f">Programmer Intern</a></td>
-<td>Petersburg, VA</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=9e1a25ac86a0d7aa">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0754af6f-0662-408d-903a-b19993b37ff5">IT Application Development Intern – Summer 2027</a></td>
 <td>Schiller Park, IL</td>
 <td align="center"><a href="https://jobs.encoreglobal.com/job/-/-/6228/103160646880">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Entrust Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c">Electrical Engineer Co-op</a></td>
-<td>Shakopee, MN</td>
-<td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Parker Hannifin</strong></td>
-<td><a href="https://trueinterview.io/jobs/06962bd6-9b88-4aec-afae-765319160825">Software Engineering Intern - Summer 2027</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://parkercareers.ttcportals.com/jobs/18472157-software-engineering-intern-summer-2027?tm_job=70392-1A&amp;tm_event=view&amp;tm_company=1147">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PTC</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4de77e0-b67b-41ec-9437-30909ea0fde5">Creo Graphics Engineering Intern (Summer 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Punch Through</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8d339c6-38bf-4685-ad70-04154636fda9">Cloud Software Engineer Hybrid Internship</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://careers.punchthrough.com/cloud-software-engineer-intern-hybrid/en">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

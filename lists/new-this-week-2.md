@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**947 open roles.** 758 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**938 open roles.** 752 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Entrust Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c">Electrical Engineer Co-op</a></td>
+<td>Shakopee, MN</td>
+<td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Parker Hannifin</strong></td>
+<td><a href="https://trueinterview.io/jobs/06962bd6-9b88-4aec-afae-765319160825">Software Engineering Intern - Summer 2027</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://parkercareers.ttcportals.com/jobs/18472157-software-engineering-intern-summer-2027?tm_job=70392-1A&amp;tm_event=view&amp;tm_company=1147">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4de77e0-b67b-41ec-9437-30909ea0fde5">Creo Graphics Engineering Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Punch Through</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8d339c6-38bf-4685-ad70-04154636fda9">Cloud Software Engineer Hybrid Internship</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://careers.punchthrough.com/cloud-software-engineer-intern-hybrid/en">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Rockwell Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/10533752-6983-4701-a272-fe59d0ae81ac">Intern, Software Developer/Engineering</a></td>
@@ -2451,76 +2479,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477314235/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8e4ecbb-23f9-43e4-b93e-b3bd75ebacf2">Artificial Intelligence (AI) Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461390753/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d69afd8c-a795-4c6d-9b3b-a35ece296e27">Cloud DevOps Engineer Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461389722/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>National Laboratory of the Rockies</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca8c5a05-0101-4559-b734-763ad3edeb93">Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity</a></td>
-<td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479151937/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/a01ca690-2b7a-414b-84ab-2f09d575ad3e">Automated Test Software Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461378863/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fe88be16-e8e7-46d5-a91c-7cd132889751">Mobile Applications (iOS) Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461388759/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States<br/>Dallas, TX</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/211e0945-e47b-4703-84c5-1eac0957e329">Software Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461391646/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>InfiniteQuant</strong></td>
-<td><a href="https://trueinterview.io/jobs/f625647f-04a5-4aa7-972f-9e7f91d23695">Quantitative Researcher - 2027 Summer Internship</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488163610/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brave</strong></td>
-<td><a href="https://trueinterview.io/jobs/b300fe4a-c784-4adc-8406-683173c67c18">Software Engineering Intern - Waterloo University - Winter Session</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8360001">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>U-Haul</strong></td>
-<td><a href="https://trueinterview.io/jobs/97814173-be12-4f66-b318-dc8da2b50dea">Data Analyst Spring Internship</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488180482/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2783,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/870d6fab-401c-4927-9add-91fe74789853">Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439824936/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267">Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447983859/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a></td>
+<td>Varna, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/cffece04-3709-4dac-ae3b-0951563722c4">SAP China iXp Intern - AI Application Developer Intern - Open Source Software Compliance - Shanghai</a></td>
+<td>Shanghai, Pudong New District, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161438899-sap-china-ixp-intern-ai-application-developer-intern-open-source-software-compliance-shanghai">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec1f66fa-7fbb-4d44-9a38-c65829f8f523">2027 Software Dev Engineer Intern - Finland</a></td>
+<td>Tampere Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490552341/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/0637523e-72bc-4be0-8b4c-0f756a037087">Backend Software Engineer Project Intern (Corporate Service System) - 2026 Start (BS/MS)</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545761/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec48aa07-32f9-4a40-8a85-424525ed717b">Design Verification Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019766">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

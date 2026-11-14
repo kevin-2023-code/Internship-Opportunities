@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,916 open roles.** 1,520 in the United States & Canada · 396 elsewhere in the world.
+**1,919 open roles.** 1,523 in the United States & Canada · 396 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -223,10 +223,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Daimler Truck North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda">IT Developer Analyst Intern</a></td>
+<td>Mount Holly, NC</td>
+<td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>International</strong></td>
 <td><a href="https://trueinterview.io/jobs/5ce8e5ae-6f84-4707-92c3-e7999ed923c0">Digital &amp; AI Intern for Service Solutions</a></td>
 <td>Lisle, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489321135/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tohklom Co.,Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/db682453-3127-4329-945a-761caa56f074">Web Developer Intern</a></td>
+<td>Leadville, CO</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=dbc6864d214f089b">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -240,7 +254,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Hemlock Semiconductor</strong></td>
 <td><a href="https://trueinterview.io/jobs/90685c5d-6f89-4468-ae32-c51fc538c906">Manufacturing Systems Software Developer Intern</a></td>
 <td>Hemlock, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491012336/">Apply</a></td>
+<td align="center"><a href="https://careers.hscpoly.com/job/Hemlock-Manufacturing-Systems-Software-Developer-Intern-MI-48626/1450621600/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -416,13 +430,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b">Co-op- Machine Learning Ops</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482784212/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Daimler Truck North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda">IT Developer Analyst Intern</a></td>
-<td>Mount Holly, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488938946/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -692,6 +699,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Avis Budget Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7464b431-0c6e-4c9d-9574-f85e1ca7fc51">Accelerate - IT Engineering Intern</a></td>
+<td>Parsippany-Troy Hills, NJ</td>
+<td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Camping World</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0a6f80e-8adc-4aea-b4df-ff95f96d7932">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Princess</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0f1026b-15d3-489d-91f8-ce2c022b0370">Intern, Ecommerce Engineering</a></td>
+<td>Fort Lauderdale, FL</td>
+<td align="center"><a href="https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/job/14467">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>United States Steel</strong></td>
 <td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
 <td>Munhall, PA</td>
@@ -836,13 +871,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/95f575d6-c421-43cd-960d-fe4db2e94b53">Systems Analyst Internship – Start Your IT Career Now</a></td>
 <td>Biloxi, MS, 39531</td>
 <td align="center"><a href="https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=d97b2620-85e3-4d1b-8844-959a9afb6bae">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Platinum Business Service</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9e0dc7d-db8c-4e7c-a2b8-7a6a80b2fc6f">Programmer Intern</a></td>
-<td>Petersburg, VA</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=9e1a25ac86a0d7aa">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76c89d7f-ac4a-4e6d-a66d-4b89a5f974dc">Firmware Engineer Co-op</a></td>
 <td>Indianapolis, IN</td>
 <td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1321509EXTERNALENGLOBAL/Firmware-Engineer-Co-op">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Republic Finance</strong></td>
-<td><a href="https://trueinterview.io/jobs/823f61d0-8b74-43b8-9003-1aaafae7b52d">React Developer Intern</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://jobs.republicfinance.com/jobs/15411/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>FIRST RF Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4b0fb70-33a5-4abe-93a0-59395f180621">Intern – Embedded Engineer</a></td>
-<td>6150 LOOKOUT RD, Boulder, CO, 80301-3341, USA</td>
-<td align="center"><a href="https://secure7.saashr.com/ta/6217996.careers?ShowJob=638001440&amp;lang=en-US">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Allied Consultants, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/58528065-3e6c-47be-9c60-cf9cbe9ed1d1">Power Platform Admin/Developer Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488183625/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MedPro Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/a311e3fc-4765-424c-bbb7-8eaf2257a483">Intern - Application Developer</a></td>
-<td>Fort Wayne, IN</td>
-<td align="center"><a href="https://medprou.csod.com/ux/ats/careersite/5/home/requisition/2184">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>
