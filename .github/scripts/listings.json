@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T15:04:09.082Z",
-  "count": 3936,
+  "listingsChangedAt": "2026-11-14T16:04:32.031Z",
+  "count": 3937,
   "listings": [
+    {
+      "id": "f7133f6e-33c7-4dc4-a3bc-0a17bd1863d7",
+      "company": "BAE Systems, Inc.",
+      "title": "Embedded Software Engineering Co-Op III (Summer/Fall 2027) , Navigation and Sensor Systems",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463055339/",
+      "url": "https://trueinterview.io/jobs/f7133f6e-33c7-4dc4-a3bc-0a17bd1863d7",
+      "postedAt": "2026-11-14T15:04:00.000Z",
+      "updatedAt": "2026-11-14T15:04:00.000Z"
+    },
+    {
+      "id": "a14dc00f-1131-42d1-a44a-dcf7c5577aee",
+      "company": "Vermilion",
+      "title": "Graphic Design Intern (UX/UI)",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490765791/",
+      "url": "https://trueinterview.io/jobs/a14dc00f-1131-42d1-a44a-dcf7c5577aee",
+      "postedAt": "2026-11-14T14:16:00.000Z",
+      "updatedAt": "2026-11-14T14:16:00.000Z"
+    },
     {
       "id": "8703e02d-f79c-4240-9881-9ec138aad5d9",
       "company": "ByteDance",
@@ -102183,29 +102235,6 @@
       "url": "https://trueinterview.io/jobs/771f6685-8f58-4e55-968c-66b2392fb60e",
       "postedAt": "2026-09-15T16:47:39.000Z",
       "updatedAt": "2026-09-15T16:47:39.000Z"
-    },
-    {
-      "id": "ba6be22f-3b79-4c9e-bdfa-8b1bdbd987b4",
-      "company": "Gecko Robotics",
-      "title": "Test & Reliability Engineering Intern",
-      "locations": [
-        "Pittsburgh"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85",
-      "url": "https://trueinterview.io/jobs/ba6be22f-3b79-4c9e-bdfa-8b1bdbd987b4",
-      "postedAt": "2026-09-15T15:22:39.000Z",
-      "updatedAt": "2026-09-15T15:22:39.000Z"
     }
   ]
 }
