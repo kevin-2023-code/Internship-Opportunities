@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**29 open roles.** 21 in the United States & Canada · 8 elsewhere in the world.
+**30 open roles.** 22 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/432ed9ed-c226-425e-9deb-e7949767addf">Python Backend Developer Intern – Energy Flexibility Platform</a></td>
+<td>Princeton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482365970/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PulseSync Pte Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/f399a4f4-e07a-48c7-be8f-8c49cb70ae4c">Intern (Software Development) – SG</a></td>

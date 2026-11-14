@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**53 open roles.** 38 in the United States & Canada · 15 elsewhere in the world. Postings the pipeline classified as remote.
+**52 open roles.** 37 in the United States & Canada · 15 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Camping World</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0a6f80e-8adc-4aea-b4df-ff95f96d7932">Software Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Bask Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2fe442e-4b05-45ad-ba1f-a1b10d15f927">AI Engineering Intern</a> 🌐</td>
