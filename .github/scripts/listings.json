@@ -5,9 +5,136 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T15:04:14.503Z",
-  "count": 3965,
+  "listingsChangedAt": "2026-11-15T16:04:53.187Z",
+  "count": 3970,
   "listings": [
+    {
+      "id": "a3e28cb3-70d8-4987-8a61-62f127f1eee7",
+      "company": "IBM",
+      "title": "Research AI Engineer Intern 2027",
+      "locations": [
+        "Yorktown Heights, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464223986/",
+      "url": "https://trueinterview.io/jobs/a3e28cb3-70d8-4987-8a61-62f127f1eee7",
+      "postedAt": "2026-11-15T15:15:00.000Z",
+      "updatedAt": "2026-11-15T15:15:00.000Z"
+    },
+    {
+      "id": "7dd61d33-e1fd-4ef2-9050-2f29c840f4b7",
+      "company": "Hendrickson",
+      "title": "Machine Learning Co-Op (Fall 2027)",
+      "locations": [
+        "Canton, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475019864/",
+      "url": "https://trueinterview.io/jobs/7dd61d33-e1fd-4ef2-9050-2f29c840f4b7",
+      "postedAt": "2026-11-15T15:00:00.000Z",
+      "updatedAt": "2026-11-15T15:00:00.000Z"
+    },
+    {
+      "id": "7f8c3434-918f-43af-b397-49aa2f672d16",
+      "company": "IBM",
+      "title": "Storage Systems Research Scientist Intern 2027",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464233988/",
+      "url": "https://trueinterview.io/jobs/7f8c3434-918f-43af-b397-49aa2f672d16",
+      "postedAt": "2026-11-15T14:59:00.000Z",
+      "updatedAt": "2026-11-15T14:59:00.000Z"
+    },
+    {
+      "id": "9e1cda6d-846e-4726-a8e6-b8790745f6b3",
+      "company": "The Campbell's Company",
+      "title": "Agentic AI Engineer Co-Op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4429738868/",
+      "url": "https://trueinterview.io/jobs/9e1cda6d-846e-4726-a8e6-b8790745f6b3",
+      "postedAt": "2026-11-14T17:26:00.000Z",
+      "updatedAt": "2026-11-15T14:34:00.000Z"
+    },
+    {
+      "id": "a7e4d595-dc4e-4ca2-b66d-c2449944261d",
+      "company": "TalentRise Solutions",
+      "title": "Digital Product Designer Intern",
+      "locations": [
+        "Ada Township, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489391524/",
+      "url": "https://trueinterview.io/jobs/a7e4d595-dc4e-4ca2-b66d-c2449944261d",
+      "postedAt": "2026-11-15T14:20:00.000Z",
+      "updatedAt": "2026-11-15T14:20:00.000Z"
+    },
     {
       "id": "56a61c43-de68-473f-8f34-a3a57367993a",
       "company": "Stanley Black & Decker, Inc.",
@@ -32,6 +159,60 @@
       "url": "https://trueinterview.io/jobs/56a61c43-de68-473f-8f34-a3a57367993a",
       "postedAt": "2026-11-15T13:21:00.000Z",
       "updatedAt": "2026-11-15T13:21:00.000Z"
+    },
+    {
+      "id": "80b5c9ef-87c5-4dd5-860a-9cd57e1a2dc4",
+      "company": "Fanatics Collectibles",
+      "title": "Summer 2027 Internship - Manufacturing Engineering & Capital Projects Intern",
+      "locations": [
+        "Sunnyvale, TX, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507781009",
+      "url": "https://trueinterview.io/jobs/80b5c9ef-87c5-4dd5-860a-9cd57e1a2dc4",
+      "postedAt": "2026-11-15T13:03:21.000Z",
+      "updatedAt": "2026-11-15T13:03:21.000Z"
+    },
+    {
+      "id": "b94ef462-889e-455a-bb79-e218747cea54",
+      "company": "Fanatics Collectibles",
+      "title": "Summer 2027 Internship - Industrial Engineering Intern",
+      "locations": [
+        "Sunnyvale, TX, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009",
+      "url": "https://trueinterview.io/jobs/b94ef462-889e-455a-bb79-e218747cea54",
+      "postedAt": "2026-11-15T13:00:01.000Z",
+      "updatedAt": "2026-11-15T13:00:01.000Z"
     },
     {
       "id": "34e784cd-fbd0-45ca-8c27-7e4a1dab8b9a",
@@ -1168,31 +1349,6 @@
       "url": "https://trueinterview.io/jobs/b6dfc7cc-1b70-439b-b3fa-3c7ee18b7603",
       "postedAt": "2026-11-14T17:31:00.000Z",
       "updatedAt": "2026-11-14T17:31:00.000Z"
-    },
-    {
-      "id": "9e1cda6d-846e-4726-a8e6-b8790745f6b3",
-      "company": "The Campbell's Company",
-      "title": "Agentic AI Engineer Co-Op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4429738868/",
-      "url": "https://trueinterview.io/jobs/9e1cda6d-846e-4726-a8e6-b8790745f6b3",
-      "postedAt": "2026-11-14T17:26:00.000Z",
-      "updatedAt": "2026-11-14T17:26:00.000Z"
     },
     {
       "id": "51dcca64-836c-4185-81c5-3e90e5aac472",
@@ -102951,32 +103107,6 @@
       "url": "https://trueinterview.io/jobs/797e233e-718c-40be-9410-8acb02a543ef",
       "postedAt": "2026-09-16T16:20:28.000Z",
       "updatedAt": "2026-09-16T16:20:28.000Z"
-    },
-    {
-      "id": "51977b52-7a52-4e76-a996-26363d7c138f",
-      "company": "Rocket Lab Corporation",
-      "title": "RF Engineering Intern",
-      "locations": [
-        "Long Beach, CA",
-        "RL Headquarters"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003",
-      "url": "https://trueinterview.io/jobs/51977b52-7a52-4e76-a996-26363d7c138f",
-      "postedAt": "2026-09-16T16:01:30.000Z",
-      "updatedAt": "2026-09-16T16:01:30.000Z"
     }
   ]
 }

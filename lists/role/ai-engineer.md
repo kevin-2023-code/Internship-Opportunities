@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**260 open roles.** 172 in the United States & Canada · 88 elsewhere in the world.
+**261 open roles.** 173 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e28cb3-70d8-4987-8a61-62f127f1eee7">Research AI Engineer Intern 2027</a></td>
+<td>Yorktown Heights, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464223986/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>The Campbell's Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e1cda6d-846e-4726-a8e6-b8790745f6b3">Agentic AI Engineer Co-Op</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4429738868/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
+<td align="center">15 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Tractian</strong></td>

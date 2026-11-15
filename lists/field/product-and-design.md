@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**227 open roles.** 162 in the United States & Canada · 65 elsewhere in the world.
+**228 open roles.** 163 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TalentRise Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7e4d595-dc4e-4ca2-b66d-c2449944261d">Digital Product Designer Intern</a></td>
+<td>Ada Township, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489391524/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/56a61c43-de68-473f-8f34-a3a57367993a">UX/UI Design Intern - Summer 2027</a></td>

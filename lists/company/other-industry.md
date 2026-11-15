@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world. A real classification that none of the other sectors covers.
+**9 open roles.** 7 in the United States & Canada · 2 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/80b5c9ef-87c5-4dd5-860a-9cd57e1a2dc4">Summer 2027 Internship - Manufacturing Engineering &amp; Capital Projects Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507781009">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b94ef462-889e-455a-bb79-e218747cea54">Summer 2027 Internship - Industrial Engineering Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3c33fa8d-c65d-44d7-85cb-d25a9ae2cead">Packaging Engineer Co-op Intern</a></td>
 <td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009">Apply</a></td>
