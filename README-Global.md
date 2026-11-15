@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 09:04 UTC_
+_Last updated: 2026-11-15 10:04 UTC_
 
 **815 open internships** from **310 employers** · **194 posted in the last 7 days** · refreshed hourly
 
@@ -671,7 +671,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fc83ebad-228a-4e2c-9de2-05f272c23229">【28卒対象】 Data Analyst / データアナリスト - Mercari Group (Internship)</a> 🆕</td>
 <td>Minato, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4389461593/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Tencent</strong></td>
@@ -1059,10 +1059,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee88c224-550b-4b20-b5ea-7ebae302eb31">Mandatory Internship AI Agent for Automated Machine Diagnostics and Root-Cause Analysis</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/ee88c224-550b-4b20-b5ea-7ebae302eb31">Mandatory Internship AI Agent for Automated Machine Diagnostics and Root-Cause Analysis</a></td>
 <td>Elchingen, Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161053719-mandatory-internship-ai-agent-for-automated-machine-diagnostics-and-root-cause-analysis">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
@@ -1125,7 +1125,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a8e55784-088c-4908-b2f6-36a7ab945f09">[EMN] Mechanical Engineer Intern (6-month fulltime Internship)</a></td>
 <td>Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159812539--emn-mechanical-engineer-intern-6-month-fulltime-internship-">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>
@@ -1229,7 +1229,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e19f74bd-f724-454d-a058-c1b7b9f6681a">Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448507994/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1299,7 +1299,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f67a5b2c-2b09-4f01-992f-413c75e5403e">Product Manager Intern — AI Commerce (Spring 2027)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486588318/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Tencent</strong></td>
@@ -1501,7 +1501,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Optiver</strong></td>
@@ -1536,7 +1536,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
 <td>Hong Kong Japan</td>
 <td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
-<td align="center">8d</td>
+<td align="center">9d</td>
 </tr>
 <tr>
 <td><strong>Tower Research Capital</strong></td>

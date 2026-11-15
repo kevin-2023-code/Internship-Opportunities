@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**929 open roles.** 735 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 739 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Celestica</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b57c418-c7e5-49f6-abcf-b05fafe62922">Student Intern, Software Testing</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480491236/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vontier</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9b918a6-9840-48c6-8dca-96f216f7865e">Engineering Intern - Software Quality Assurance Engineering (Summer 2027)</a></td>
+<td>Greensboro, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482035296/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41c70a7-7a59-4c98-a405-920788e2d578">Spring 2027 Software Engineering Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473296746/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NeuroSpark AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e">AI Hardware Optimization Engineer Intern</a></td>
@@ -2798,34 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oulu, Finland</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Koniag Cyber</strong></td>
-<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
-<td>Greater Minneapolis-St. Paul Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bybit</strong></td>
-<td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
-<td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/514dea3b-f30f-4e7c-a5f0-d21880a80cce">Multimodal Algo Researcher (AI Innovation Center) Intern - 2026 Soaring Star Talent Program</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4354835476/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
 </table>

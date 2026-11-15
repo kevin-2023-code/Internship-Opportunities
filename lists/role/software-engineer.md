@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**668 open roles.** 535 in the United States & Canada · 133 elsewhere in the world.
+**669 open roles.** 536 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1413,6 +1413,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6be24bf-d16f-4734-aaec-fe8753fcafad">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hunt Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4064129-23db-4b96-9c62-b2ba36212bf8">Application Developer Intern - Summer 2027</a></td>
 <td>Dallas, TX</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
 <td>Brea, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483416245/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baypath Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

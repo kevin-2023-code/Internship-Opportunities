@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**798 open roles.** 581 in the United States & Canada · 217 elsewhere in the world.
+**797 open roles.** 580 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -815,13 +815,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36a929b1-208e-459c-86b6-04b4233d40dc">Data Analyst Intern</a></td>
 <td>Windsor, CT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487461674/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors (GM)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6be24bf-d16f-4734-aaec-fe8753fcafad">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2326a4c1-36ab-41a5-8420-edb6dfe9dea2">Machine Learning Engineer Intern</a></td>
 <td>Pittsford, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472781404/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5799cf2e-a55b-4685-bac4-df4b4f19b734">Software Engineering Intern, AI Labs</a></td>
+<td>Pittsford, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473038702/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

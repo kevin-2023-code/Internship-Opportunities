@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**929 open roles.** 735 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 739 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6e34d6b-2da3-443f-baa6-d42ec572d0de">Intern - Product Manager</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491086652/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
@@ -626,6 +633,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/083773e4-3e12-4b70-ba8b-e65696a3ff56">Intern - Software Engineer</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491010291/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc92bcbe-9ad7-4c3b-93f0-18a4a48f954d">Summer Internship Program 2027 - User Experience (UX) Designer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483180313/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -1396,6 +1410,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
 <td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd980830-0f87-4fe8-8fec-1f9164140975">Advanced Manufacturing Engineering Co-Op</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2274,6 +2295,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Sussex IM</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc772bf-338a-4ed2-96a0-9cfaae87d57b">Automation Engineering Co-op</a></td>
+<td>Sussex, WI</td>
+<td align="center"><a href="https://www.sussexim.com/career-and-job-opportunities/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed4fb42d-9a86-4934-b0ee-3b43eee834a3">Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)</a></td>
 <td>Fort Wayne, IN</td>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d3f24bf4-3448-46d1-9bda-bd650b309a43">AI Governance Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473513140/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smith+Nephew</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Celestica</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b57c418-c7e5-49f6-abcf-b05fafe62922">Student Intern, Software Testing</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480491236/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vontier</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9b918a6-9840-48c6-8dca-96f216f7865e">Engineering Intern - Software Quality Assurance Engineering (Summer 2027)</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482035296/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/d41c70a7-7a59-4c98-a405-920788e2d578">Spring 2027 Software Engineering Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473296746/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

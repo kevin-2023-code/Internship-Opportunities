@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,952 open roles.** 1,546 in the United States & Canada · 406 elsewhere in the world.
+**1,954 open roles.** 1,548 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1336,6 +1336,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Sussex IM</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc772bf-338a-4ed2-96a0-9cfaae87d57b">Automation Engineering Co-op</a></td>
+<td>Sussex, WI</td>
+<td align="center"><a href="https://www.sussexim.com/career-and-job-opportunities/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Johnson Controls</strong></td>
 <td><a href="https://trueinterview.io/jobs/12886bfa-c0bc-42ef-ad77-d751918a07c6">Software Engineering Co-Op</a></td>
 <td>Burlington, MA</td>
@@ -2288,6 +2295,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6be24bf-d16f-4734-aaec-fe8753fcafad">2027 Summer Intern - Machine Learning Engineer, Embodied AI</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hunt Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4064129-23db-4b96-9c62-b2ba36212bf8">Application Developer Intern - Summer 2027</a></td>
 <td>Dallas, TX</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/feac054e-cb8b-4519-a3a2-5ea6a3fc7a8e">Intern Application Developer – Adobe - 2027</a></td>
 <td>Buffalo, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450857207/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Greenheck Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/77685a5f-053b-47f8-a6cc-bf4ac6cd29aa">Application Developer Co-op</a></td>
-<td>Schofield, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470163961/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>iRhythm Technologies, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2810060c-8051-4b12-8e34-fba77f8217a3">Embedded SDET Co-Op Full Time Intern January-June 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470101212/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

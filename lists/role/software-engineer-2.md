@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**668 open roles.** 535 in the United States & Canada · 133 elsewhere in the world.
+**669 open roles.** 536 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Baypath Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mission Technologies, a division of HII</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>

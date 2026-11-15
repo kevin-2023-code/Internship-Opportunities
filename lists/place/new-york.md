@@ -32,6 +32,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bc92bcbe-9ad7-4c3b-93f0-18a4a48f954d">Summer Internship Program 2027 - User Experience (UX) Designer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483180313/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/bfa76cc6-cdab-49fc-b3d1-c199d3ec74b1">AI Software Engineer Intern 2027</a></td>
 <td>New York, NY<br/>San Jose, CA<br/>Durham, NC<br/>+1 more</td>
@@ -954,13 +961,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Queens, New York, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015853286-design-engineer-intern">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Seatgeek</strong></td>
-<td><a href="https://trueinterview.io/jobs/302620d2-7469-4219-b6c9-62b5d5c54f5b">UX Design - Internship</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://seatgeek.com/jobs/8248125?gh_jid=8248125">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Coinbase</strong></td>

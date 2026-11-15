@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**160 open roles.**
+**161 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b3d20a69-0c7f-4d43-b36f-93ee94d885c5">Summer 2027: Mechanical Engineering Intern, Ninja (May to August)</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd980830-0f87-4fe8-8fec-1f9164140975">Advanced Manufacturing Engineering Co-Op</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**798 open roles.** 581 in the United States & Canada · 217 elsewhere in the world.
+**797 open roles.** 580 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Paylocity</strong></td>
-<td><a href="https://trueinterview.io/jobs/5799cf2e-a55b-4685-bac4-df4b4f19b734">Software Engineering Intern, AI Labs</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473038702/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Lenovo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e66a95b2-1521-49ca-8b69-d2bd24756d2d">Knowledge Management Data Analyst Intern</a></td>

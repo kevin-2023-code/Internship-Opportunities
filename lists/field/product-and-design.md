@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**226 open roles.** 162 in the United States & Canada · 64 elsewhere in the world.
+**227 open roles.** 163 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6e34d6b-2da3-443f-baa6-d42ec572d0de">Intern - Product Manager</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491086652/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc92bcbe-9ad7-4c3b-93f0-18a4a48f954d">Summer Internship Program 2027 - User Experience (UX) Designer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483180313/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa893302-a926-4090-a76b-ca732106ee11">Developer Advocacy Project Intern (PICO) - 2026 Start</a></td>
@@ -1017,13 +1031,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redwood City, California, United States</td>
 <td align="center"><a href="https://c3.ai/job-description/8860563002?gh_jid=8860563002">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Seatgeek</strong></td>
-<td><a href="https://trueinterview.io/jobs/302620d2-7469-4219-b6c9-62b5d5c54f5b">UX Design - Internship</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://seatgeek.com/jobs/8248125?gh_jid=8248125">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Attentive</strong></td>

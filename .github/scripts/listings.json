@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T09:04:41.290Z",
-  "count": 3964,
+  "listingsChangedAt": "2026-11-15T10:04:31.398Z",
+  "count": 3967,
   "listings": [
+    {
+      "id": "f6e34d6b-2da3-443f-baa6-d42ec572d0de",
+      "company": "NetApp",
+      "title": "Intern - Product Manager",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491086652/",
+      "url": "https://trueinterview.io/jobs/f6e34d6b-2da3-443f-baa6-d42ec572d0de",
+      "postedAt": "2026-11-15T08:30:00.000Z",
+      "updatedAt": "2026-11-15T08:30:00.000Z"
+    },
     {
       "id": "92f7732b-1498-46f2-90ee-24f39f048666",
       "company": "Eight Sleep",
@@ -2984,6 +3011,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4475047793/",
       "url": "https://trueinterview.io/jobs/4d782815-3633-4069-a540-adbc26a91d9f",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "updatedAt": "2026-11-14T00:00:00.000Z"
+    },
+    {
+      "id": "bc92bcbe-9ad7-4c3b-93f0-18a4a48f954d",
+      "company": "ICE",
+      "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483180313/",
+      "url": "https://trueinterview.io/jobs/bc92bcbe-9ad7-4c3b-93f0-18a4a48f954d",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "updatedAt": "2026-11-14T00:00:00.000Z"
     },
@@ -6603,6 +6657,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.baesystems.com/global/en/job/132614BR",
       "url": "https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "dd980830-0f87-4fe8-8fec-1f9164140975",
+      "company": "Boston Dynamics",
+      "title": "Advanced Manufacturing Engineering Co-Op",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380",
+      "url": "https://trueinterview.io/jobs/dd980830-0f87-4fe8-8fec-1f9164140975",
       "postedAt": "2026-11-13T06:00:00.000Z",
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
@@ -11326,6 +11405,31 @@
       "source": "indeed",
       "applyUrl": "https://grnh.se/olytkm6a9us",
       "url": "https://trueinterview.io/jobs/8669c5fc-0726-41f3-a1bd-af8d628af896",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "bcc772bf-338a-4ed2-96a0-9cfaae87d57b",
+      "company": "Sussex IM",
+      "title": "Automation Engineering Co-op",
+      "locations": [
+        "Sussex, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.sussexim.com/career-and-job-opportunities/",
+      "url": "https://trueinterview.io/jobs/bcc772bf-338a-4ed2-96a0-9cfaae87d57b",
       "postedAt": "2026-11-12T06:00:00.000Z",
       "updatedAt": "2026-11-12T06:00:00.000Z"
     },
@@ -18559,9 +18663,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -94567,33 +94671,6 @@
       "url": "https://trueinterview.io/jobs/41a3e1a8-162d-46dc-a429-4392302220ed",
       "postedAt": "2026-10-01T22:07:56.000Z",
       "updatedAt": "2026-10-01T22:07:56.000Z"
-    },
-    {
-      "id": "302620d2-7469-4219-b6c9-62b5d5c54f5b",
-      "company": "Seatgeek",
-      "title": "UX Design - Internship",
-      "locations": [
-        "New York, New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://seatgeek.com/jobs/8248125?gh_jid=8248125",
-      "url": "https://trueinterview.io/jobs/302620d2-7469-4219-b6c9-62b5d5c54f5b",
-      "postedAt": "2026-10-01T21:05:40.000Z",
-      "updatedAt": "2026-10-01T21:05:40.000Z"
     },
     {
       "id": "c4875a70-5656-444e-9db0-d537d124a375",

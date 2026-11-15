@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**814 open roles.** 732 in the United States & Canada · 82 elsewhere in the world.
+**815 open roles.** 733 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -220,6 +220,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d6f9652-9ff9-47e2-a665-c067958cc7a0">Software Engineer Co-op (Summer/Fall 2027) - Onsite</a></td>
 <td>Cedar Rapids, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464684830/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd980830-0f87-4fe8-8fec-1f9164140975">Advanced Manufacturing Engineering Co-Op</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e229f20a-705b-47c6-a06a-2ed301e54f16">Electronic Reliability Engineer Co-op (Winter 2027)</a></td>
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Michels Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>
-<td>Saskatchewan, Canada, Canada</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
