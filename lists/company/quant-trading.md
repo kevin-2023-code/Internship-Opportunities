@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**39 open roles.** 18 in the United States & Canada · 21 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**38 open roles.** 18 in the United States & Canada · 20 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -294,13 +294,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Voleon</strong></td>
-<td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 </tbody>
 </table>

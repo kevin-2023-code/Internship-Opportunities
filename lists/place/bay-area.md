@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**590 open roles.**
+**588 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

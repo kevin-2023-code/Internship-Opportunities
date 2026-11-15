@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T21:03:58.300Z",
-  "count": 3966,
+  "listingsChangedAt": "2026-11-15T22:04:21.077Z",
+  "count": 3965,
   "listings": [
+    {
+      "id": "e0be761b-e62f-4534-8a64-455dc8033f7c",
+      "company": "MediaTek",
+      "title": "[2027 Internship] Full Stack Software Engineer Intern",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456229641/",
+      "url": "https://trueinterview.io/jobs/e0be761b-e62f-4534-8a64-455dc8033f7c",
+      "postedAt": "2026-11-15T20:52:59.000Z",
+      "updatedAt": "2026-11-15T20:52:59.000Z"
+    },
     {
       "id": "ab70e8b5-ca8e-4328-a8ce-9fc0e386b147",
       "company": "Integration Innovation, Inc.",
@@ -295,6 +322,31 @@
       "url": "https://trueinterview.io/jobs/51a71a86-8121-4451-baa5-640d626d37d3",
       "postedAt": "2026-11-15T16:17:00.000Z",
       "updatedAt": "2026-11-15T16:17:00.000Z"
+    },
+    {
+      "id": "d4009e23-3fe2-4c94-844c-a5e423719648",
+      "company": "Arm",
+      "title": "FPGA Intern",
+      "locations": [
+        "Trondheim, Trøndelag, Norway"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473818045/",
+      "url": "https://trueinterview.io/jobs/d4009e23-3fe2-4c94-844c-a5e423719648",
+      "postedAt": "2026-11-15T15:52:00.000Z",
+      "updatedAt": "2026-11-15T15:52:00.000Z"
     },
     {
       "id": "cbc29450-1d71-4719-ac49-c54cea1c6777",
@@ -3534,34 +3586,6 @@
       "url": "https://trueinterview.io/jobs/059f7a94-9135-4bc1-a99c-992d5e8be51b",
       "postedAt": "2026-11-14T06:00:00.000Z",
       "updatedAt": "2026-11-14T06:00:00.000Z"
-    },
-    {
-      "id": "bfbf7937-a7c6-4a51-a03d-cf5af4a43374",
-      "company": "Hyperion Materials & Technologies",
-      "title": "AI Intern",
-      "locations": [
-        "Dublin, OH"
-      ],
-      "cities": [
-        "Dublin"
-      ],
-      "countries": [
-        "United States",
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489864435/",
-      "url": "https://trueinterview.io/jobs/bfbf7937-a7c6-4a51-a03d-cf5af4a43374",
-      "postedAt": "2026-11-14T05:15:00.000Z",
-      "updatedAt": "2026-11-14T05:15:00.000Z"
     },
     {
       "id": "5ce8e5ae-6f84-4707-92c3-e7999ed923c0",
@@ -96991,6 +97015,32 @@
       "updatedAt": "2026-09-29T17:22:52.000Z"
     },
     {
+      "id": "3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
+      "company": "Cfd Research Corporation",
+      "title": "(University of Alabama) INTERN - Hypersonic Research Engineer – M&S Summer 2027",
+      "locations": [
+        "Huntsville, AL",
+        "HQ - Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.cfd-research.com/jobs?gh_jid=4424155009",
+      "url": "https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
+      "postedAt": "2026-09-29T16:07:21.000Z",
+      "updatedAt": "2026-09-29T16:07:21.000Z"
+    },
+    {
       "id": "c27007d1-9b03-44ab-b6c4-407f755fad77",
       "company": "Delivery Hero",
       "title": "Intern Data Analyst I People Strategy Global HQ",
@@ -101447,6 +101497,32 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
+      "id": "bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
+      "company": "Keysight",
+      "title": "R&D Embedded Software Intern",
+      "locations": [
+        "US-CO-Col Springs-Bldg C",
+        "Colorado Springs, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54353?lang=en-us",
+      "url": "https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
       "id": "8791d541-8066-4f69-8524-5de9a2953931",
       "company": "Micron Technology",
       "title": "Intern - TSE KEG Engineer",
@@ -101604,6 +101680,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446720740640",
       "url": "https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
+      "company": "QUALCOMM",
+      "title": "Product Management Internship - Summer 2027",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741706",
+      "url": "https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -102852,140 +102953,6 @@
       "url": "https://trueinterview.io/jobs/a8c4e735-1516-4c26-9221-1b900016c3ab",
       "postedAt": "2026-09-16T22:23:11.000Z",
       "updatedAt": "2026-09-16T22:23:11.000Z"
-    },
-    {
-      "id": "2c6cac4b-b606-41ec-9ed9-439c33937ed5",
-      "company": "Atlassian",
-      "title": "Product Design Intern, 2027 Summer U.S.",
-      "locations": [
-        "San Francisco - United States - San Francisco, California 94104 United States",
-        "Remote - Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers-americas.icims.com/jobs/26273/product-design-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/2c6cac4b-b606-41ec-9ed9-439c33937ed5",
-      "postedAt": "2026-09-16T21:53:11.000Z",
-      "updatedAt": "2026-09-16T21:53:11.000Z"
-    },
-    {
-      "id": "6e8df3d0-83a1-45af-b312-86b50450e4bc",
-      "company": "Atlassian",
-      "title": "Product Management Intern, 2027 Summer U.S.",
-      "locations": [
-        "San Francisco - United States - San Francisco, California 94104 United States",
-        "Remote - Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/6e8df3d0-83a1-45af-b312-86b50450e4bc",
-      "postedAt": "2026-09-16T21:53:11.000Z",
-      "updatedAt": "2026-09-16T21:53:11.000Z"
-    },
-    {
-      "id": "5c532a9e-25da-464b-bec8-ddf3ee3cedf0",
-      "company": "Cyvl",
-      "title": "Data Operations Intern (Summer 2027)",
-      "locations": [
-        "Boston, Massachusetts",
-        "Somerville, Massachusetts"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application",
-      "url": "https://trueinterview.io/jobs/5c532a9e-25da-464b-bec8-ddf3ee3cedf0",
-      "postedAt": "2026-09-16T21:48:22.000Z",
-      "updatedAt": "2026-09-16T21:48:22.000Z"
-    },
-    {
-      "id": "02ec76d0-4be6-449d-936a-6013a1e82742",
-      "company": "Arista Networks",
-      "title": "Network Engineer - Test (Intern)",
-      "locations": [
-        "Dublin, County Dublin, Ireland"
-      ],
-      "cities": [
-        "Dublin"
-      ],
-      "countries": [
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true",
-      "url": "https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742",
-      "postedAt": "2026-09-16T21:35:06.000Z",
-      "updatedAt": "2026-09-16T21:35:06.000Z"
-    },
-    {
-      "id": "1691f1af-bfde-407f-af80-22b6a422e60f",
-      "company": "Voleon",
-      "title": "Research Intern (London)",
-      "locations": [
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application",
-      "url": "https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f",
-      "postedAt": "2026-09-16T21:13:06.000Z",
-      "updatedAt": "2026-09-16T21:13:06.000Z"
     }
   ]
 }
