@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,946 open roles.** 1,540 in the United States & Canada · 406 elsewhere in the world.
+**1,947 open roles.** 1,541 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/a195fde1-74b7-4bf5-b8b0-17207c7f8029">Software Test Engineer Intern (AI) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448543022/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc7eba51-9848-455d-b52a-1c78f29e53cd">Developer Technology Engineer Intern</a></td>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**661 open roles.** 528 in the United States & Canada · 133 elsewhere in the world.
+**663 open roles.** 530 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Renewables - Bazefield</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
+<td>Del Mar, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amway</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab">Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485218043/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Honeywell Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec">Software Engineer &amp; Computer Science - Summer 2027 Intern</a></td>

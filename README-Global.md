@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 04:05 UTC_
+_Last updated: 2026-11-15 05:04 UTC_
 
-**814 open internships** from **310 employers** · **194 posted in the last 7 days** · refreshed hourly
+**815 open internships** from **310 employers** · **194 posted in the last 7 days** · refreshed hourly
 
-### Browse 814 internships by field
+### Browse 815 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (406)
 
@@ -32,7 +32,7 @@ _Last updated: 2026-11-15 04:05 UTC_
 
 📱 **[Product & Design](#-product--design)** (64)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (25)
+📈 **[Quantitative Finance](#-quantitative-finance)** (26)
 
 🧰 **[IT & Support](#-it--support)** (20)
 
@@ -40,9 +40,9 @@ _Last updated: 2026-11-15 04:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 68 &nbsp;·&nbsp; **ByteDance** 20 &nbsp;·&nbsp; **NVIDIA** 20 &nbsp;·&nbsp; **Bosch** 8 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Tencent** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **Optiver** 3 &nbsp;·&nbsp; **Qualcomm** 3 &nbsp;·&nbsp; **Shopee** 3
+**TikTok** 68 &nbsp;·&nbsp; **ByteDance** 20 &nbsp;·&nbsp; **NVIDIA** 20 &nbsp;·&nbsp; **Bosch** 8 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **Optiver** 3 &nbsp;·&nbsp; **Qualcomm** 3 &nbsp;·&nbsp; **Shopee** 3 &nbsp;·&nbsp; **Snowflake** 3
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 22 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 23 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -54,7 +54,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🧑‍💻 **By role** — [Software Engineer (133)](lists/role/software-engineer.md) · [AI Engineer (88)](lists/role/ai-engineer.md) · [Machine Learning Engineer (42)](lists/role/machine-learning-engineer.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Product Manager (38)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Security Engineer (19)](lists/role/security-engineer.md) · [Research Scientist (15)](lists/role/research-scientist.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [Embedded Engineer (14)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (180)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (65)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇩🇪 Berlin, Munich & Germany (28)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (18)](lists/place/anz.md) · [+6 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (180)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (66)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇩🇪 Berlin, Munich & Germany (28)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (18)](lists/place/anz.md) · [+6 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (194)](lists/new-this-week.md) · [🌐 Remote (15)](lists/remote.md)
 
@@ -1069,7 +1069,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a></td>
 <td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1264,7 +1264,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6">Game Designer Intern</a></td>
 <td>China - Shanghai</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19">Apply</a></td>
-<td align="center">8d</td>
+<td align="center">9d</td>
 </tr>
 <tr>
 <td><strong>Tencent</strong></td>
@@ -1383,26 +1383,33 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/46266620-df9b-4323-b69b-05772d5225f4">Praktikum / Internship User Experience Research (Digital Channel Marketing)</a></td>
 <td>Winnenden, Deutschland</td>
 <td align="center"><a href="https://careers.kaercher.com/job/Winnenden-Praktikum-Internship-User-Experience-Research-%28Digital-Channel-Marketing%29-71364/1375035855/">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>L'Oréal</strong></td>
 <td><a href="https://trueinterview.io/jobs/e050aa07-e96b-4296-a93f-2abe023e2e73">6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259983">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 </tbody>
 </table>
 
 <details>
-<summary>Show 8 more Product & Design roles posted earlier</summary>
+<summary>Show 9 more Product & Design roles posted earlier</summary>
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stichd</strong></td>
+<td><a href="https://trueinterview.io/jobs/7651410e-ffbe-452b-a1ed-2d755b61a6b5">Intern Product Management</a></td>
+<td>Den Bosch, Netherlands</td>
+<td align="center"><a href="https://puma.wd502.myworkdayjobs.com/en-US/Work_at_stichd/job/stichd-HQ-s-Hertogenbosch-the-Netherlands/Intern-Product-Management_R43927-1">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
 <tr>
 <td><strong>Zynga</strong></td>
 <td><a href="https://trueinterview.io/jobs/b56c4037-ae47-4be1-aab3-380ec343ff3c">Product Manager Intern</a></td>
@@ -1464,7 +1471,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 33 of 64.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 34 of 64.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -1477,6 +1484,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/1499bfb3-92a5-41f7-ace3-55e884f50cb6">Quantitative Strategy Developer Internship: Summer 2027</a> 🆕</td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4433936676/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
@@ -1592,7 +1606,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5b78223f-c5bd-4104-8804-ef48161cb776">Quantitative Development &amp; Data Science Intern</a></td>
 <td>Genève, Switzerland</td>
 <td align="center"><a href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Quantitative-Development-Data-Science-Intern/85607">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
@@ -1707,10 +1721,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Workato</strong></td>
-<td><a href="https://trueinterview.io/jobs/43f42d9c-21fc-4ca5-8cae-fa9302519cfe">Intern, Automation Engineer</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/43f42d9c-21fc-4ca5-8cae-fa9302519cfe">Intern, Automation Engineer</a></td>
 <td>Hyderabad, India</td>
 <td align="center"><a href="https://www.workato.com/careers?gh_jid=8924723002">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
@@ -1773,14 +1787,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c49329af-d959-4cbc-83bb-822e770016cb">Robotics Wireless &amp; Network Engineer Intern, RIVR</a></td>
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10592306/robotics-wireless--network-engineer-intern-rivr?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/ad90e731-0a82-415d-abb1-eea2619c22e8">FY27 Intern- AI-Driven Power Modeling for Evaluating Power Management Mechanisms in NoC Architectures - Guyancourt, 6 months</a></td>
 <td>Guyancourt, France</td>
 <td align="center"><a href="https://app.eightfold.ai/careers/job/446721854346?domain=qualcomm.com">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Cohesity</strong></td>

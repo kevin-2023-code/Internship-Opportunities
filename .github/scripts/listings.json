@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T04:05:31.153Z",
-  "count": 3958,
+  "listingsChangedAt": "2026-11-15T05:04:36.075Z",
+  "count": 3960,
   "listings": [
     {
       "id": "495afb3b-5484-415b-b650-da6ea8a988f3",
@@ -300,6 +300,31 @@
       "url": "https://trueinterview.io/jobs/f912ca37-1866-4215-88eb-f1563a2144c5",
       "postedAt": "2026-11-14T20:57:00.000Z",
       "updatedAt": "2026-11-14T20:57:00.000Z"
+    },
+    {
+      "id": "1499bfb3-92a5-41f7-ace3-55e884f50cb6",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Strategy Developer Internship: Summer 2027",
+      "locations": [
+        "Hong Kong, Hong Kong SAR"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4433936676/",
+      "url": "https://trueinterview.io/jobs/1499bfb3-92a5-41f7-ace3-55e884f50cb6",
+      "postedAt": "2026-11-14T20:41:00.000Z",
+      "updatedAt": "2026-11-14T20:41:00.000Z"
     },
     {
       "id": "dbd49236-2f92-4399-89f4-d52fccdebd99",
@@ -3416,8 +3441,8 @@
       "category": "Other",
       "family": "IT & Support",
       "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
@@ -4432,6 +4457,31 @@
       "url": "https://trueinterview.io/jobs/070c92e8-0563-4116-ab11-419b198dfe98",
       "postedAt": "2026-11-13T16:59:00.000Z",
       "updatedAt": "2026-11-13T16:59:00.000Z"
+    },
+    {
+      "id": "eb994337-99aa-4839-8e9b-4eaf43d7084c",
+      "company": "Easterseals Rehabilitation Center",
+      "title": "IT Intern",
+      "locations": [
+        "Evansville, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07f5232ae017f8edb6d83149b&id=8a78839fa1ccde6f01a1d5d1311128e9&lang=en",
+      "url": "https://trueinterview.io/jobs/eb994337-99aa-4839-8e9b-4eaf43d7084c",
+      "postedAt": "2026-11-13T16:50:18.000Z",
+      "updatedAt": "2026-11-13T16:50:18.000Z"
     },
     {
       "id": "9aa6ffa1-d01a-4edf-a74e-3ab74d32e1ce",
@@ -6487,9 +6537,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6522,6 +6572,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.baesystems.com/global/en/job/132614BR",
       "url": "https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "764d54aa-7b10-460b-9440-7cb234142be5",
+      "company": "NextEra Energy",
+      "title": "Summer Intern - Technical",
+      "locations": [
+        "Juno Beach, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/",
+      "url": "https://trueinterview.io/jobs/764d54aa-7b10-460b-9440-7cb234142be5",
       "postedAt": "2026-11-13T06:00:00.000Z",
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
@@ -20194,31 +20269,6 @@
       "url": "https://trueinterview.io/jobs/2a7c4e68-81b9-4da9-9cd5-6127b94e51b3",
       "postedAt": "2026-11-09T17:12:00.000Z",
       "updatedAt": "2026-11-09T17:12:00.000Z"
-    },
-    {
-      "id": "738d3fe4-55cd-4c31-9db7-bace85a99efd",
-      "company": "St. Katharine Drexel Parish",
-      "title": "IT Service and Support Intern",
-      "locations": [
-        "Green Bay, WI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0684a99840168535a65763550&id=8a7887a8a18473d601a1c137739f4915&lang=en",
-      "url": "https://trueinterview.io/jobs/738d3fe4-55cd-4c31-9db7-bace85a99efd",
-      "postedAt": "2026-11-09T16:49:59.000Z",
-      "updatedAt": "2026-11-09T16:49:59.000Z"
     },
     {
       "id": "2dc01881-eaf1-4e53-afee-b50f06356e08",

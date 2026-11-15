@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**929 open roles.** 735 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**925 open roles.** 731 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,28 +18,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2d416319-b116-478b-9999-e0f48f65d1c1">LLM &amp; Agent Algorithm Project Intern (Search) - 2026 Start (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4432642955/">Apply</a></td>
@@ -911,13 +890,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/165a4d32-589d-4b97-a6ca-244cdac1dbcd">Business Data Analyst Project Intern (GBS) - 2026 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470771410/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/850bd560-3115-450d-a9e1-efea1cfaf96e">Site Reliability Engineer Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467192775/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

@@ -60,7 +60,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Easterseals Rehabilitation Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb994337-99aa-4839-8e9b-4eaf43d7084c">IT Intern</a></td>
+<td>Evansville, IN</td>
+<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07f5232ae017f8edb6d83149b&amp;id=8a78839fa1ccde6f01a1d5d1311128e9&amp;lang=en">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec728ddc-83ac-422e-8d7f-db6cfd723a5c">Assoc AI Engineering (Cloud Security Automation) Intern</a></td>
 <td>Santa Clara, CALIFORNIA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern">Apply</a></td>
@@ -128,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>44 Bedson Road, Cranston, RI, 02910, US</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4653003?listingId=750990b2-63de-4bdb-a2f7-bd6ffd1ab613">Apply</a></td>
 <td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>St. Katharine Drexel Parish</strong></td>
-<td><a href="https://trueinterview.io/jobs/738d3fe4-55cd-4c31-9db7-bace85a99efd">IT Service and Support Intern</a></td>
-<td>Green Bay, WI</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0684a99840168535a65763550&amp;id=8a7887a8a18473d601a1c137739f4915&amp;lang=en">Apply</a></td>
-<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>LCI Industries</strong></td>

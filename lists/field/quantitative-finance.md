@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**90 open roles.** 65 in the United States & Canada · 25 elsewhere in the world.
+**91 open roles.** 65 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -486,6 +486,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/1499bfb3-92a5-41f7-ace3-55e884f50cb6">Quantitative Strategy Developer Internship: Summer 2027</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4433936676/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>

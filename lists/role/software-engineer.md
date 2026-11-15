@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**661 open roles.** 528 in the United States & Canada · 133 elsewhere in the world.
+**663 open roles.** 530 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -601,10 +601,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Avis Budget Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7464b431-0c6e-4c9d-9574-f85e1ca7fc51">Accelerate - IT Engineering Intern</a></td>
+<td>Parsippany-Troy Hills, NJ</td>
+<td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>BAE Systems USA</strong></td>
 <td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
 <td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NextEra Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/764d54aa-7b10-460b-9440-7cb234142be5">Summer Intern - Technical</a></td>
+<td>Juno Beach, FL</td>
+<td align="center"><a href="https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
 <td>Richardson, TX<br/>Bend, OR</td>
 <td align="center"><a href="https://careers.skyworksinc.com/job/Software-Engineer-Intern/78751-en_US">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Renewables - Bazefield</strong></td>
-<td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
-<td>Del Mar, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amway</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab">Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)</a></td>
-<td>Grand Rapids, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485218043/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,946 open roles.** 1,540 in the United States & Canada · 406 elsewhere in the world.
+**1,947 open roles.** 1,541 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens Healthineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ebe502f-0758-49f3-90c9-0dbdd1007266">Software Engineering Co-op - Hoffman Estates, IL</a></td>
+<td>Hoffman Estates, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463072228/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hidden Level</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe82decb-0552-4711-b430-c9bf6ba4c7a4">Full Stack Software Engineering Intern – Summer 2027</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Base Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f56921b-500d-41c5-8eb6-5966702f61d6">Manufacturing Test Engineering Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

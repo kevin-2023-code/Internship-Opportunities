@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,946 open roles.** 1,540 in the United States & Canada · 406 elsewhere in the world.
+**1,947 open roles.** 1,541 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -857,6 +857,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
 <td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NextEra Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/764d54aa-7b10-460b-9440-7cb234142be5">Summer Intern - Technical</a></td>
+<td>Juno Beach, FL</td>
+<td align="center"><a href="https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fe276706-da02-40f0-8395-89632e86c07b">2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470765698/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Healthineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ebe502f-0758-49f3-90c9-0dbdd1007266">Software Engineering Co-op - Hoffman Estates, IL</a></td>
-<td>Hoffman Estates, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463072228/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

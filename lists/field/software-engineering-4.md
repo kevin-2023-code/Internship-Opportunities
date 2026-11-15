@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,946 open roles.** 1,540 in the United States & Canada · 406 elsewhere in the world.
+**1,947 open roles.** 1,541 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MANTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Serval</strong></td>
 <td><a href="https://trueinterview.io/jobs/fea17d3a-636d-4e3a-8bb9-8aa48416be84">Software Engineer Intern</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/935046d5-e42d-4366-9d07-cb993846b08e">Site Reliability Engineer Intern (Video &amp; Edge Global Engineering) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4396303986/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a195fde1-74b7-4bf5-b8b0-17207c7f8029">Software Test Engineer Intern (AI) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448543022/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**929 open roles.** 735 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**925 open roles.** 731 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -979,6 +979,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Easterseals Rehabilitation Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb994337-99aa-4839-8e9b-4eaf43d7084c">IT Intern</a></td>
+<td>Evansville, IN</td>
+<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d07f5232ae017f8edb6d83149b&amp;id=8a78839fa1ccde6f01a1d5d1311128e9&amp;lang=en">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>GenScript</strong></td>
 <td><a href="https://trueinterview.io/jobs/9aa6ffa1-d01a-4edf-a74e-3ab74d32e1ce">AI Intern, Enterprise Agent Development</a></td>
 <td>Piscataway, NJ</td>
@@ -1382,6 +1389,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/80af0642-1602-407b-a121-322817c067eb">Programmer Analyst Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
 <td align="center"><a href="https://jobs.baesystems.com/global/en/job/132614BR">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NextEra Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/764d54aa-7b10-460b-9440-7cb234142be5">Summer Intern - Technical</a></td>
+<td>Juno Beach, FL</td>
+<td align="center"><a href="https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2d7cd666-7efb-4464-80e1-5337ea37c578">AI Autonomous Driving Verification &amp; Validation Intern - Summer 2027 - Santa Clara, CA</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481591230/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Daimler Truck North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/b46ebcac-2cbc-49ef-8031-67a146e6a328">Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488203890/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

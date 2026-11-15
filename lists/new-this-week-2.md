@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**929 open roles.** 735 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**925 open roles.** 731 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Daimler Truck North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/b46ebcac-2cbc-49ef-8031-67a146e6a328">Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</a></td>
+<td>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488203890/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>A Igreja de Jesus Cristo dos Santos dos Últimos Dias</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4fa0f8c-1651-433e-b57a-7e1bd2e94bef">AI Paid Intern ( full time or part time)</a></td>
@@ -1493,13 +1507,6 @@
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>St. Katharine Drexel Parish</strong></td>
-<td><a href="https://trueinterview.io/jobs/738d3fe4-55cd-4c31-9db7-bace85a99efd">IT Service and Support Intern</a></td>
-<td>Green Bay, WI</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0684a99840168535a65763550&amp;id=8a7887a8a18473d601a1c137739f4915&amp;lang=en">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Sharp Electronics Corporation USA</strong></td>
 <td><a href="https://trueinterview.io/jobs/2dc01881-eaf1-4e53-afee-b50f06356e08">Summer IT AI Intern</a></td>
 <td>Montvale, NJ</td>
@@ -2325,41 +2332,6 @@
 <td align="center"><a href="https://www.click2apply.net/Lo1KLZC2DGpMdH16jcEVOE">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee5cd08a-fcdd-412e-b9c6-b69462ed53ea">GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487601099/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Parspec</strong></td>
-<td><a href="https://trueinterview.io/jobs/487541b2-8ea6-4381-84ea-2fb5cdf0d58f">Applied AI Engineer Intern</a></td>
-<td>San Mateo, CA<br/>Hybrid - San Mateo, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Reyco Granning</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3fcd60a-dde8-4361-80c2-324cc2e0cca3">Artificial Intelligence Engineering Intern/Co-Op</a></td>
-<td>Woodridge, IL</td>
-<td align="center"><a href="https://myjobs.adp.com/hendrickson/cx/job-details?reqId=5001227495906">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pinterest</strong></td>
-<td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
-<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140217">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2416388a-21b6-4223-8144-5ccfec4623a4">Site Reliability Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2372,6 +2344,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/1499bfb3-92a5-41f7-ace3-55e884f50cb6">Quantitative Strategy Developer Internship: Summer 2027</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4433936676/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/31bb4bc6-916a-4458-9969-869bad6e2020">FY27 Intern - Multimedia R&amp;D Intern – Video &amp; AI - 6 months, Stockholm (Bromma) - Sweden</a></td>
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

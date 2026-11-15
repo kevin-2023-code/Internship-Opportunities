@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,946 open roles.** 1,540 in the United States & Canada · 406 elsewhere in the world.
+**1,947 open roles.** 1,541 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Base Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f56921b-500d-41c5-8eb6-5966702f61d6">Manufacturing Test Engineering Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apex Companies</strong></td>
 <td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/7cb80617-87a4-4448-ad76-5ba6d9ae9ff1">Engineering Internship - Fire Protection</a></td>
 <td>Dallas, TX<br/>Tulsa, OK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5428797008">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MANTECH</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
