@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**41 open roles.** 32 in the United States & Canada · 9 elsewhere in the world.
+**40 open roles.** 31 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/82b1eb42-fa4e-40b6-919c-58e1f00b1d93">Summer Internship Program 2027 - Quantitative Financial Analytics Intern</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483183249/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cboe Global Markets</strong></td>
-<td><a href="https://trueinterview.io/jobs/20023145-5666-4196-a3cb-69170d8840aa">Quant &amp; Data Analytics Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475077499/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

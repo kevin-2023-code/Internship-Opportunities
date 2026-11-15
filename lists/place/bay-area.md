@@ -133,6 +133,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0211ee6-1021-494d-bdec-f5e79ffdc8c5">AI/LLM Network Research Intern (High Speed Network) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475058406/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a869d71-54a0-4f15-9fdb-92b7d23eb99a">Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer</a></td>
 <td>San Jose, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475058356/">Apply</a></td>
@@ -157,13 +164,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b2d9e077-b558-40ac-9369-4792ea2f7151">Machine Learning MLOps Intern (Global SRE) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455456580/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d29a5fe6-7b9f-4b32-b172-fdf4b2bddc33">Product Manager Project Intern (Business Integrity) - 2026 Start (MBA)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464554065/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

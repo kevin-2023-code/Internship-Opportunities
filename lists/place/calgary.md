@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**8 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Helcim</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c98f146-6432-4133-b9e4-d02e20c2b8f6">Data Internship (May 2026)</a></td>
+<td>Calgary, AB<br/>Calgary, Canada</td>
+<td align="center"><a href="https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Pason Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/f815fc59-c426-4115-939d-b86dc8b580df">Software Developer Intern (Datahub)</a></td>

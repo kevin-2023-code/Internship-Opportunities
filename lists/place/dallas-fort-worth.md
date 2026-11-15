@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**83 open roles.**
+**84 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,6 +37,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Plano, TX<br/>Plano, Texas, United States<br/>Texas, United States</td>
 <td align="center"><a href="https://career2.successfactors.eu/career?career_ns=job_listing&amp;company=Ericsson&amp;rcm_site_locale=en_US&amp;career_job_req_id=787367">Apply</a></td>
 <td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FieldPulse</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b7604f2-78c3-47de-946f-9941afefa9e5">AI Internship</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Copart</strong></td>

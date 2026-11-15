@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**813 open roles.** 731 in the United States & Canada · 82 elsewhere in the world.
+**815 open roles.** 733 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -62,6 +62,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Toyota Automated Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>The Toro Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c32b6b3-2e99-40be-931d-a61baba77005">Hardware and Software Engineering Intern - Ditch Witch</a></td>
 <td>Noble County, OK</td>
@@ -94,6 +101,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/756218f7-10a8-4190-b7ed-07616860f573">Hardware Test Engineering, Intern (Summer 2027)</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/10273e28-1413-462b-a7f7-f0f4684706ba">2027 Summer Intern: Engineering (Firmware) - Farmington, CT</a></td>
+<td>Farmington, CT, US, 06032</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=Hubbell&amp;rcm_site_locale=en_US&amp;career_job_req_id=107043">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Saskatchewan, Canada, Canada</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ee58516-e57e-4458-9171-9aeb67ca951a">Manufacturing Intern - Summer 2027</a></td>
-<td>Hayward, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/8409ef8f-56ff-4e2b-9c96-78e10b5ea849">Intern - Quality Engineering</a></td>
-<td>Boulder, Colorado, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157909649-intern-quality-engineering">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**930 open roles.** 736 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**929 open roles.** 735 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -385,9 +385,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07e1c70b-249c-4452-af4f-5d1d1573f8ca">Immigration Data Analyst Project Intern (HROPs) - 2026 Start</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474548627/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/f0211ee6-1021-494d-bdec-f5e79ffdc8c5">AI/LLM Network Research Intern (High Speed Network) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475058406/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -416,13 +416,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b2d9e077-b558-40ac-9369-4792ea2f7151">Machine Learning MLOps Intern (Global SRE) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455456580/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d29a5fe6-7b9f-4b32-b172-fdf4b2bddc33">Product Manager Project Intern (Business Integrity) - 2026 Start (MBA)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464554065/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -629,13 +622,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Cboe Global Markets</strong></td>
-<td><a href="https://trueinterview.io/jobs/20023145-5666-4196-a3cb-69170d8840aa">Quant &amp; Data Analytics Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475077499/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Rodriguez Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f26a8f3-139a-4847-b775-b0a7e6c9f71d">2027 Software Engineer Intern Placement Year</a></td>
 <td>San Francisco, CA</td>
@@ -692,6 +678,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>FieldPulse</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b7604f2-78c3-47de-946f-9941afefa9e5">AI Internship</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Verisk</strong></td>
 <td><a href="https://trueinterview.io/jobs/649b1eae-ec54-4e6f-8bd3-e6d2e4fcdc37">Data Science/AI Intern | 2027 Summer Internship Program</a></td>
 <td>Lehi, UT</td>
@@ -710,6 +703,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9df109c-e5e6-4269-b358-625bdce57796">Automation Test-INTERN</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488571000/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Munich Re</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aad881a-efed-4c6f-a3a2-61d3d709c84d">Application Support Intern</a></td>
+<td>Amelia, OH, US</td>
+<td align="center"><a href="https://career55.sapsf.eu/career?career_ns=job_listing&amp;company=mnchenerrc&amp;rcm_site_locale=en_US&amp;career_job_req_id=14819">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Helcim</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c98f146-6432-4133-b9e4-d02e20c2b8f6">Data Internship (May 2026)</a></td>
+<td>Calgary, AB<br/>Calgary, Canada</td>
+<td align="center"><a href="https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>A Igreja de Jesus Cristo dos Santos dos Últimos Dias</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4fa0f8c-1651-433e-b57a-7e1bd2e94bef">AI Paid Intern ( full time or part time)</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489697088/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

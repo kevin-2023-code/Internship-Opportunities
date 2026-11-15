@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**800 open roles.** 583 in the United States & Canada · 217 elsewhere in the world.
+**798 open roles.** 581 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,21 +16,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Huawei Canada</strong></td>
-<td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>
-<td>Markham, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485203598/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Paylocity</strong></td>
-<td><a href="https://trueinterview.io/jobs/2326a4c1-36ab-41a5-8420-edb6dfe9dea2">Machine Learning Engineer Intern</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472781404/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5799cf2e-a55b-4685-bac4-df4b4f19b734">Software Engineering Intern, AI Labs</a></td>
 <td>Pittsford, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473038702/">Apply</a></td>
@@ -1338,9 +1324,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1b80eb9-c841-4b54-b912-9f87e83b64de">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a></td>
+<td><a href="https://trueinterview.io/jobs/2416585d-cf38-4d4b-b9ee-c1e2157ee12c">Solutions Architect Intern (BytePlus, Singapore) - 2027 Start</a></td>
 <td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475065102/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475044970/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

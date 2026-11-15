@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**630 open roles.** 456 in the United States & Canada · 174 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**631 open roles.** 456 in the United States & Canada · 175 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -564,6 +564,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2416585d-cf38-4d4b-b9ee-c1e2157ee12c">Solutions Architect Intern (BytePlus, Singapore) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475044970/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d782815-3633-4069-a540-adbc26a91d9f">Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475047793/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

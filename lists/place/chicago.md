@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**72 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/30876d1e-d387-439a-a95c-5f4f1fc6eaa3">AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473196390/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cboe Global Markets</strong></td>
-<td><a href="https://trueinterview.io/jobs/20023145-5666-4196-a3cb-69170d8840aa">Quant &amp; Data Analytics Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475077499/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

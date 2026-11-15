@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,944 open roles.** 1,538 in the United States & Canada · 406 elsewhere in the world.
+**1,946 open roles.** 1,540 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -231,13 +231,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
 <td>Louisville, KY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491069256/">Apply</a></td>
@@ -259,6 +252,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0211ee6-1021-494d-bdec-f5e79ffdc8c5">AI/LLM Network Research Intern (High Speed Network) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475058406/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a869d71-54a0-4f15-9fdb-92b7d23eb99a">Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer</a></td>
 <td>Seattle, WA<br/>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475058356/">Apply</a></td>
@@ -273,6 +273,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aa1e40a0-6a9c-4d7b-a176-9aeb6bde0d4f">Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475066037/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2d9e077-b558-40ac-9369-4792ea2f7151">Machine Learning MLOps Intern (Global SRE) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455456580/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/2dd84617-8ee7-4e0e-828c-c7b4332fe8df">Network Security Software Engineer Intern (Security Engineering) - 2027 Fall</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475063172/">Apply</a></td>
@@ -433,6 +447,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>FieldPulse</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b7604f2-78c3-47de-946f-9941afefa9e5">AI Internship</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9df109c-e5e6-4269-b358-625bdce57796">Automation Test-INTERN</a></td>
 <td>Colorado Springs, CO</td>
@@ -440,14 +461,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/10273e28-1413-462b-a7f7-f0f4684706ba">2027 Summer Intern: Engineering (Firmware) - Farmington, CT</a></td>
-<td>Farmington, CT, US, 06032</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=Hubbell&amp;rcm_site_locale=en_US&amp;career_job_req_id=107043">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c7f06e35-9f42-4b22-92e3-46912f4bf9c3">Embedded Software Engineering Intern - Summer 2027</a></td>
 <td>Highlands Ranch, CO</td>
 <td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477501085?domain=lockheedmartin.com">Apply</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ebe502f-0758-49f3-90c9-0dbdd1007266">Software Engineering Co-op - Hoffman Estates, IL</a></td>
 <td>Hoffman Estates, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463072228/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hidden Level</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe82decb-0552-4711-b430-c9bf6ba4c7a4">Full Stack Software Engineering Intern – Summer 2027</a></td>
-<td>Syracuse, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471682514/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Entrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/691b029e-d37d-42d0-b31c-8410595369ad">Software Engineering Co-op</a></td>
-<td>Shakopee, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480553742/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

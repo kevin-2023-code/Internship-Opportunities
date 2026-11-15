@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**140 open roles.** 105 in the United States & Canada · 35 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**141 open roles.** 105 in the United States & Canada · 36 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -61,9 +61,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07e1c70b-249c-4452-af4f-5d1d1573f8ca">Immigration Data Analyst Project Intern (HROPs) - 2026 Start</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474548627/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/f0211ee6-1021-494d-bdec-f5e79ffdc8c5">AI/LLM Network Research Intern (High Speed Network) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475058406/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -846,6 +846,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2416585d-cf38-4d4b-b9ee-c1e2157ee12c">Solutions Architect Intern (BytePlus, Singapore) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475044970/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d782815-3633-4069-a540-adbc26a91d9f">Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475047793/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

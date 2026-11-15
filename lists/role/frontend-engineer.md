@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**15 open roles.** 13 in the United States & Canada · 2 elsewhere in the world.
+**14 open roles.** 12 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c53c299-da06-455d-b592-52c4467afb45">Frontend Intern</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489313312/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tohklom Co.,Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/db682453-3127-4329-945a-761caa56f074">Web Developer Intern</a></td>
-<td>Leadville, CO</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=dbc6864d214f089b">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

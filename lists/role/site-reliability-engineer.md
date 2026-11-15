@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**19 open roles.** 13 in the United States & Canada · 6 elsewhere in the world.
+**18 open roles.** 13 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -120,13 +120,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4e20383-e97f-4e87-8d7c-399e7935434e">Site Reliability Engineer Intern, System - System Service Global (Infrastructure Engineering), 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545815/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/6acf4192-bb67-4ebc-89d4-e81fe7374744">Machine Learning Ops Engineer Intern (Ads Infra) - 2027 Start</a></td>

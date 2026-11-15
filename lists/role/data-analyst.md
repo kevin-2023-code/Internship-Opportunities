@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**102 open roles.** 62 in the United States & Canada · 40 elsewhere in the world.
+**101 open roles.** 61 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36117eb6-2062-486f-96a4-ced61ada56ab">Data Analyst Intern</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489338822/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/07e1c70b-249c-4452-af4f-5d1d1573f8ca">Immigration Data Analyst Project Intern (HROPs) - 2026 Start</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474548627/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

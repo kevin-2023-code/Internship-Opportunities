@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**630 open roles.** 456 in the United States & Canada · 174 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**631 open roles.** 456 in the United States & Canada · 175 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,9 +63,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07e1c70b-249c-4452-af4f-5d1d1573f8ca">Immigration Data Analyst Project Intern (HROPs) - 2026 Start</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474548627/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/f0211ee6-1021-494d-bdec-f5e79ffdc8c5">AI/LLM Network Research Intern (High Speed Network) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475058406/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
