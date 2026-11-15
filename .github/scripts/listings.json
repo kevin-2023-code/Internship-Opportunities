@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T19:03:45.303Z",
-  "count": 3972,
+  "listingsChangedAt": "2026-11-15T20:04:46.546Z",
+  "count": 3967,
   "listings": [
     {
       "id": "d18da591-b3a0-460b-9732-5a1d045eb4d7",
@@ -851,42 +851,6 @@
       "updatedAt": "2026-11-15T09:43:00.000Z"
     },
     {
-      "id": "92f7732b-1498-46f2-90ee-24f39f048666",
-      "company": "Eight Sleep",
-      "title": "Short-Term Firmware Intern",
-      "locations": [
-        "San Francisco",
-        "New York City",
-        "Washington, DC",
-        "Austin",
-        "San Francisco, CA",
-        "New York, NY",
-        "Greater Syracuse-Auburn Area",
-        "Dallas, TX"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "Washington, DC",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
-      "url": "https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666",
-      "postedAt": "2026-11-14T23:35:30.000Z",
-      "updatedAt": "2026-11-15T06:12:00.000Z"
-    },
-    {
       "id": "2713ec56-297e-4c0e-942a-d0babd268d27",
       "company": "Autodesk",
       "title": "Software Development Internship (Summer 2027)",
@@ -1091,7 +1055,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491212070/",
+      "applyUrl": "https://careers.rtx.com/global/en/job/01884404",
       "url": "https://trueinterview.io/jobs/a464bcda-ee13-41c4-b4b9-483850bdab53",
       "postedAt": "2026-11-14T23:11:00.000Z",
       "updatedAt": "2026-11-14T23:11:00.000Z"
@@ -3435,6 +3399,31 @@
       "applyUrl": "https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
       "url": "https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda",
       "postedAt": "2026-11-13T17:13:00.000Z",
+      "updatedAt": "2026-11-14T06:00:00.000Z"
+    },
+    {
+      "id": "059f7a94-9135-4bc1-a99c-992d5e8be51b",
+      "company": "SAS",
+      "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
+      "locations": [
+        "Cary, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers-sas.icims.com/jobs/42797/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/059f7a94-9135-4bc1-a99c-992d5e8be51b",
+      "postedAt": "2026-11-14T06:00:00.000Z",
       "updatedAt": "2026-11-14T06:00:00.000Z"
     },
     {
@@ -8150,7 +8139,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489295948/",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/75808/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/446f6336-73cb-4256-b53e-e8c2f32243c3",
       "postedAt": "2026-11-12T23:37:00.000Z",
       "updatedAt": "2026-11-12T23:37:00.000Z"
@@ -17185,7 +17174,8 @@
       "company": "General Dynamics Mission Systems",
       "title": "Systems and Software Development Intern",
       "locations": [
-        "Scottsdale, AZ"
+        "Scottsdale, AZ",
+        "San Antonio, TX"
       ],
       "cities": [],
       "countries": [
@@ -17200,7 +17190,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488391559/",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/76099/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/08d4f29f-2e0e-465f-bf1b-639c7400b980",
       "postedAt": "2026-11-10T20:03:00.000Z",
       "updatedAt": "2026-11-10T20:03:00.000Z"
@@ -20766,7 +20756,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487940180/",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/75971/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/8788a7d7-f28e-42ae-9a5a-c722a7db57cd",
       "postedAt": "2026-11-09T19:37:00.000Z",
       "updatedAt": "2026-11-09T19:37:00.000Z"
@@ -20791,7 +20781,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487949042/",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/75970/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/5be965a1-30a0-4b61-880e-2d8b2bed75d2",
       "postedAt": "2026-11-09T19:37:00.000Z",
       "updatedAt": "2026-11-09T19:37:00.000Z"
@@ -103015,138 +103005,6 @@
       "url": "https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f",
       "postedAt": "2026-09-16T21:13:06.000Z",
       "updatedAt": "2026-09-16T21:13:06.000Z"
-    },
-    {
-      "id": "d110cb85-9e22-45e3-948a-3789584ff412",
-      "company": "Ms Consultants, Inc",
-      "title": "MEP Engineer Internship - Summer 2027",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/msconsultants/93464961-404e-43b7-91d5-3d51f7f2bf85/apply",
-      "url": "https://trueinterview.io/jobs/d110cb85-9e22-45e3-948a-3789584ff412",
-      "postedAt": "2026-09-16T19:59:46.000Z",
-      "updatedAt": "2026-09-16T19:59:46.000Z"
-    },
-    {
-      "id": "16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
-      "company": "InterSystems",
-      "title": "Micro-Intern: Web Development (IAP)",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7992646003",
-      "url": "https://trueinterview.io/jobs/16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
-      "postedAt": "2026-09-16T19:38:23.000Z",
-      "updatedAt": "2026-09-16T19:38:23.000Z"
-    },
-    {
-      "id": "090e522d-61dc-47f8-bbfb-ee829bae00ee",
-      "company": "InterSystems",
-      "title": "Micro-Intern: Angular/FHIR Development (IAP)",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7992645003",
-      "url": "https://trueinterview.io/jobs/090e522d-61dc-47f8-bbfb-ee829bae00ee",
-      "postedAt": "2026-09-16T19:37:47.000Z",
-      "updatedAt": "2026-09-16T19:37:47.000Z"
-    },
-    {
-      "id": "14a2e49e-e92d-4d6f-ade5-4dd102b215dd",
-      "company": "Taara",
-      "title": "Coherent Optical Systems Internship",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/taaraconnect/06d29a2a-9913-4c52-b1ba-9236ca086acb/application",
-      "url": "https://trueinterview.io/jobs/14a2e49e-e92d-4d6f-ade5-4dd102b215dd",
-      "postedAt": "2026-09-16T19:34:59.000Z",
-      "updatedAt": "2026-09-16T19:34:59.000Z"
-    },
-    {
-      "id": "9f6bd0a8-6fb1-4f20-bdd9-aa4830931ce4",
-      "company": "Kitware",
-      "title": "Software Developer Internship",
-      "locations": [
-        "Clifton Park, New York",
-        "Carrboro, North Carolina"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906/apply",
-      "url": "https://trueinterview.io/jobs/9f6bd0a8-6fb1-4f20-bdd9-aa4830931ce4",
-      "postedAt": "2026-09-16T19:05:30.000Z",
-      "updatedAt": "2026-09-16T19:05:30.000Z"
     }
   ]
 }

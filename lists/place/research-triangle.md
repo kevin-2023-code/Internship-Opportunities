@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**62 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/08bb5c77-c5b4-46be-b0c9-e241504d4b87">Intern, Software Data Integration Engineer</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491096584/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAS</strong></td>
+<td><a href="https://trueinterview.io/jobs/059f7a94-9135-4bc1-a99c-992d5e8be51b">Summer 2027 - Software Developer Intern (Go/Golang Experience)</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://careers-sas.icims.com/jobs/42797/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
