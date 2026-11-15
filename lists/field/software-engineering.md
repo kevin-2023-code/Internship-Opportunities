@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,948 open roles.** 1,542 in the United States & Canada · 406 elsewhere in the world.
+**1,951 open roles.** 1,545 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1784,7 +1784,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/77d628cc-469b-4b51-bd55-4b6662b331cd">IT Intern, Oracle ERP – Summer 2027</a></td>
+<td>Schiller Park, IL</td>
+<td align="center"><a href="https://jobs.encoreglobal.com/job/-/-/6228/103160643136">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LyondellBasell</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fc53db4-ffb3-4d70-9b51-3a54a6fe3062">National Society of Black Engineers - Digital Technology Intern 2027</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers.lyondellbasell.com/job/Houston-National-Society-of-Black-Engineers-Digital-Technology-Intern-2027-TX-77056/1449913800/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bd227e6-268e-4750-9865-1c29ab80734c">Creo Core Geometry Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a4de77e0-b67b-41ec-9437-30909ea0fde5">Creo Graphics Engineering Intern (Summer 2027)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970">Apply</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8e30eb51-3bdc-4d98-9807-55403c23970f">ServiceNow Developer Intern</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462881232/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/de5970e4-48aa-4f52-a395-dd71510b116f">Android Platform Software Engineering Intern - Summer 2027</a></td>
-<td>Plantation, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Waldinger Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c0e06ef-10cd-4724-9a37-184730851db7">Intern - Software Engineering</a></td>
-<td>Des Moines, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477711906/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8227640">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

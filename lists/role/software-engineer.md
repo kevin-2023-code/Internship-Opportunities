@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**665 open roles.** 532 in the United States & Canada · 133 elsewhere in the world.
+**667 open roles.** 534 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1147,6 +1147,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>AeroVironment</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ea2a5cd-aad3-4efc-9262-0dbdd5d3a1dd">Software Engineering Intern</a></td>
+<td>Lawrence, KS</td>
+<td align="center"><a href="https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Encore Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/0754af6f-0662-408d-903a-b19993b37ff5">IT Application Development Intern – Summer 2027</a></td>
 <td>Schiller Park, IL</td>
@@ -1158,6 +1165,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/06962bd6-9b88-4aec-afae-765319160825">Software Engineering Intern - Summer 2027</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://parkercareers.ttcportals.com/jobs/18472157-software-engineering-intern-summer-2027?tm_job=70392-1A&amp;tm_event=view&amp;tm_company=1147">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bd227e6-268e-4750-9865-1c29ab80734c">Creo Core Geometry Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
 <td>Crane, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484801282/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3">AI Systems Software Engineering Intern – Summer 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Altera</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

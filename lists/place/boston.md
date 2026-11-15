@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**159 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -145,6 +145,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bd227e6-268e-4750-9865-1c29ab80734c">Creo Core Geometry Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a4de77e0-b67b-41ec-9437-30909ea0fde5">Creo Graphics Engineering Intern (Summer 2027)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970">Apply</a></td>

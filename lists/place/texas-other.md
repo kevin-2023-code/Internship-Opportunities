@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**47 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d3f24bf4-3448-46d1-9bda-bd650b309a43">AI Governance Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473513140/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LyondellBasell</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fc53db4-ffb3-4d70-9b51-3a54a6fe3062">National Society of Black Engineers - Digital Technology Intern 2027</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers.lyondellbasell.com/job/Houston-National-Society-of-Black-Engineers-Digital-Technology-Intern-2027-TX-77056/1449913800/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

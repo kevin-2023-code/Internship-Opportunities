@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**925 open roles.** 731 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**928 open roles.** 734 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -219,10 +219,24 @@
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/77d628cc-469b-4b51-bd55-4b6662b331cd">IT Intern, Oracle ERP – Summer 2027</a></td>
+<td>Schiller Park, IL</td>
+<td align="center"><a href="https://jobs.encoreglobal.com/job/-/-/6228/103160643136">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Entrust Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c">Electrical Engineer Co-op</a></td>
 <td>Shakopee, MN</td>
 <td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LyondellBasell</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fc53db4-ffb3-4d70-9b51-3a54a6fe3062">National Society of Black Engineers - Digital Technology Intern 2027</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://careers.lyondellbasell.com/job/Houston-National-Society-of-Black-Engineers-Digital-Technology-Intern-2027-TX-77056/1449913800/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -234,6 +248,13 @@
 </tr>
 <tr>
 <td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bd227e6-268e-4750-9865-1c29ab80734c">Creo Core Geometry Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a4de77e0-b67b-41ec-9437-30909ea0fde5">Creo Graphics Engineering Intern (Summer 2027)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970">Apply</a></td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
