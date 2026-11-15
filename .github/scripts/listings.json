@@ -5,9 +5,121 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-14T23:04:21.497Z",
-  "count": 3961,
+  "listingsChangedAt": "2026-11-15T00:12:37.499Z",
+  "count": 3959,
   "listings": [
+    {
+      "id": "92f7732b-1498-46f2-90ee-24f39f048666",
+      "company": "Eight Sleep",
+      "title": "Short-Term Firmware Intern",
+      "locations": [
+        "San Francisco",
+        "New York City",
+        "Washington, DC",
+        "Austin"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "Washington, DC",
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
+      "url": "https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666",
+      "postedAt": "2026-11-14T23:35:30.000Z",
+      "updatedAt": "2026-11-14T23:35:30.000Z"
+    },
+    {
+      "id": "a464bcda-ee13-41c4-b4b9-483850bdab53",
+      "company": "Collins Aerospace",
+      "title": "Software Engineering Co-op (Summer/Fall)",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491212070/",
+      "url": "https://trueinterview.io/jobs/a464bcda-ee13-41c4-b4b9-483850bdab53",
+      "postedAt": "2026-11-14T23:11:00.000Z",
+      "updatedAt": "2026-11-14T23:11:00.000Z"
+    },
+    {
+      "id": "be7d3598-8fe6-4f37-ae9e-438a49579e8e",
+      "company": "Docusign",
+      "title": "Software Engineering Intern – Self-Service Directory Diagnostics",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473373323/",
+      "url": "https://trueinterview.io/jobs/be7d3598-8fe6-4f37-ae9e-438a49579e8e",
+      "postedAt": "2026-11-14T22:53:00.000Z",
+      "updatedAt": "2026-11-14T22:53:00.000Z"
+    },
+    {
+      "id": "3adbfc97-b622-4400-9e76-924026bd33a6",
+      "company": "ICE",
+      "title": "Summer Internship Program 2027 - Software Engineering Intern",
+      "locations": [
+        "New York, NY",
+        "Jacksonville, FL"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483172497/",
+      "url": "https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6",
+      "postedAt": "2026-11-14T19:58:00.000Z",
+      "updatedAt": "2026-11-14T22:47:00.000Z"
+    },
     {
       "id": "00df2f1d-da01-4487-aae1-7308add9cedd",
       "company": "Allied HOA Partners",
@@ -132,34 +244,6 @@
       "url": "https://trueinterview.io/jobs/ecc2b6c9-a3a7-40c3-9233-623485982c99",
       "postedAt": "2026-11-14T20:15:00.000Z",
       "updatedAt": "2026-11-14T20:15:00.000Z"
-    },
-    {
-      "id": "3adbfc97-b622-4400-9e76-924026bd33a6",
-      "company": "ICE",
-      "title": "Summer Internship Program 2027 - Software Engineering Intern",
-      "locations": [
-        "New York, NY",
-        "Jacksonville, FL"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4483172497/",
-      "url": "https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6",
-      "postedAt": "2026-11-14T19:58:00.000Z",
-      "updatedAt": "2026-11-14T19:58:00.000Z"
     },
     {
       "id": "017f3813-7af7-4bf1-a316-192b7dd90371",
@@ -411,6 +495,31 @@
       "url": "https://trueinterview.io/jobs/e9267140-3eea-434e-a7bf-90cca60c9441",
       "postedAt": "2026-11-14T18:54:00.000Z",
       "updatedAt": "2026-11-14T18:54:00.000Z"
+    },
+    {
+      "id": "495d6dea-833b-4860-acda-d230ab1749d1",
+      "company": "BAE Systems, Inc.",
+      "title": "Software Engineering Intern II, Summer 2027 (Onsite)",
+      "locations": [
+        "Totowa, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473159697/",
+      "url": "https://trueinterview.io/jobs/495d6dea-833b-4860-acda-d230ab1749d1",
+      "postedAt": "2026-11-14T18:29:00.000Z",
+      "updatedAt": "2026-11-14T18:29:00.000Z"
     },
     {
       "id": "d36893db-9fcf-4793-83d5-b973c1ee75b4",
@@ -1117,6 +1226,33 @@
       "url": "https://trueinterview.io/jobs/59c1becd-c614-4251-ad91-8d7f52c44894",
       "postedAt": "2026-11-14T15:39:00.000Z",
       "updatedAt": "2026-11-14T15:39:00.000Z"
+    },
+    {
+      "id": "4a56acb8-3b0c-41d0-95ec-cc91697a1999",
+      "company": "Celestica",
+      "title": "Student Intern, Software & Hardware Engineer",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481910544/",
+      "url": "https://trueinterview.io/jobs/4a56acb8-3b0c-41d0-95ec-cc91697a1999",
+      "postedAt": "2026-11-14T15:29:00.000Z",
+      "updatedAt": "2026-11-14T15:29:00.000Z"
     },
     {
       "id": "f7133f6e-33c7-4dc4-a3bc-0a17bd1863d7",
@@ -9011,6 +9147,34 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4473987243/",
       "url": "https://trueinterview.io/jobs/0ca58f70-8e14-4527-97f4-8213be30c39e",
+      "postedAt": "2026-11-12T12:18:00.000Z",
+      "updatedAt": "2026-11-12T12:18:00.000Z"
+    },
+    {
+      "id": "15764ecf-294a-493c-9cc7-ecf8b0135491",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern, Trust and Safety Engineering - 2027 Start (PhD)",
+      "locations": [
+        "Sydney, New South Wales, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4381636517/",
+      "url": "https://trueinterview.io/jobs/15764ecf-294a-493c-9cc7-ecf8b0135491",
       "postedAt": "2026-11-12T12:18:00.000Z",
       "updatedAt": "2026-11-12T12:18:00.000Z"
     },
@@ -44861,31 +45025,6 @@
       "url": "https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe",
       "postedAt": "2026-11-01T07:25:00.000Z",
       "updatedAt": "2026-11-01T07:25:00.000Z"
-    },
-    {
-      "id": "8c08deb9-4dd4-49da-8be5-9385ba92f90f",
-      "company": "Molina Healthcare",
-      "title": "Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485939595/",
-      "url": "https://trueinterview.io/jobs/8c08deb9-4dd4-49da-8be5-9385ba92f90f",
-      "postedAt": "2026-11-01T05:34:00.000Z",
-      "updatedAt": "2026-11-01T05:34:00.000Z"
     },
     {
       "id": "1d54af28-e2d5-4644-bdc6-14242b5fe6af",
@@ -102671,190 +102810,6 @@
       "url": "https://trueinterview.io/jobs/4debd7c4-d4f7-4a56-ac09-a820ba270e53",
       "postedAt": "2026-09-16T02:01:24.000Z",
       "updatedAt": "2026-09-16T02:01:24.000Z"
-    },
-    {
-      "id": "b720ffdf-5133-43b9-b4ca-a65c74bc2338",
-      "company": "Amazon",
-      "title": "Customer Solutions Manager Intern, AWSI - 2027",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027",
-      "url": "https://trueinterview.io/jobs/b720ffdf-5133-43b9-b4ca-a65c74bc2338",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "5fd1f292-17cd-49a3-9895-5df5b432c246",
-      "company": "Amazon",
-      "title": "Solutions Architect Intern, AWSI - 2027",
-      "locations": [
-        "Dallas, Texas, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027",
-      "url": "https://trueinterview.io/jobs/5fd1f292-17cd-49a3-9895-5df5b432c246",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "9c7550cf-109e-4f9d-be07-efc0b5dbe3fc",
-      "company": "AMD",
-      "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
-      "locations": [
-        "US,CA,San Jose",
-        "US,TX,Austin",
-        "San Jose, California, United States",
-        "Santa Clara, California, United States",
-        "Austin, Texas, United States"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/92522?lang=en-us",
-      "url": "https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "c2547117-0408-4aa7-836c-079e0e8f6c15",
-      "company": "GM Financial",
-      "title": "Intern - IT Support Technician",
-      "locations": [
-        "Arlington, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260834",
-      "url": "https://trueinterview.io/jobs/c2547117-0408-4aa7-836c-079e0e8f6c15",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "b1c35be1-bd55-4d25-bf09-9b292b64751e",
-      "company": "Microsoft",
-      "title": "Data Science: PhD Internship Opportunities - Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-      "url": "https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "5735a022-9975-4301-95a2-46584ce8c9d6",
-      "company": "Texas Instruments",
-      "title": "Smart Manufacturing and Automation Intern",
-      "locations": [
-        "Dallas, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994",
-      "url": "https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "68415944-c068-4db1-9fc8-9395511b466e",
-      "company": "Cesiumastro",
-      "title": "Summer 2027 - GNC Internship",
-      "locations": [
-        "Westminster, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872/apply",
-      "url": "https://trueinterview.io/jobs/68415944-c068-4db1-9fc8-9395511b466e",
-      "postedAt": "2026-09-15T23:56:50.000Z",
-      "updatedAt": "2026-09-15T23:56:50.000Z"
     }
   ]
 }
