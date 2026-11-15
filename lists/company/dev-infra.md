@@ -156,18 +156,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555">2027 - Summer Software Engineer Intern, Dublin</a></td>
-<td>Dublin</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8267099">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/70878ea7-dcaf-47ec-adcc-aee56e0325b7">Software Engineer Intern AI/ML - Warsaw (2027)</a></td>
 <td>PL-Warsaw-Lixa C</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a75598c-ec2f-4484-b666-4535417ed96a">2027 - Software Engineer Intern, Dublin - 6 Month Internship</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8258279">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>

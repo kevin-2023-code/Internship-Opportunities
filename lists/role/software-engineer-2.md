@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**667 open roles.** 534 in the United States & Canada · 133 elsewhere in the world.
+**668 open roles.** 535 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
+<td>Crane, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801282/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3">AI Systems Software Engineering Intern – Summer 2027</a></td>
@@ -1715,13 +1722,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555">2027 - Summer Software Engineer Intern, Dublin</a></td>
-<td>Dublin</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8267099">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Sierra</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7">Software Engineer Intern, Agent (London 2027)</a></td>
 <td>London</td>
@@ -1783,6 +1783,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Milan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/doctolib/19f389f4-1374-4c61-ae03-aae839f65bf4">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a75598c-ec2f-4484-b666-4535417ed96a">2027 - Software Engineer Intern, Dublin - 6 Month Internship</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8258279">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Nabla</strong></td>

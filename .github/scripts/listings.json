@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T07:04:51.998Z",
+  "listingsChangedAt": "2026-11-15T08:06:17.970Z",
   "count": 3963,
   "listings": [
+    {
+      "id": "2713ec56-297e-4c0e-942a-d0babd268d27",
+      "company": "Autodesk",
+      "title": "Software Development Internship (Summer 2027)",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472816898/",
+      "url": "https://trueinterview.io/jobs/2713ec56-297e-4c0e-942a-d0babd268d27",
+      "postedAt": "2026-11-14T17:56:00.000Z",
+      "updatedAt": "2026-11-15T05:56:00.000Z"
+    },
     {
       "id": "92f7732b-1498-46f2-90ee-24f39f048666",
       "company": "Eight Sleep",
@@ -15149,9 +15176,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -15176,7 +15203,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -72120,31 +72147,6 @@
       "updatedAt": "2026-10-28T14:23:00.000Z"
     },
     {
-      "id": "c927cda0-bac8-4a14-86d6-3effa5c6aabf",
-      "company": "STERIS",
-      "title": "Engineering Co-Op - Spring 2027",
-      "locations": [
-        "Montgomery, AL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466558857/",
-      "url": "https://trueinterview.io/jobs/c927cda0-bac8-4a14-86d6-3effa5c6aabf",
-      "postedAt": "2026-10-28T14:23:00.000Z",
-      "updatedAt": "2026-10-28T14:23:00.000Z"
-    },
-    {
       "id": "fa294072-6e23-4848-ba45-88ed23fe6494",
       "company": "Verkada",
       "title": "Security Software Engineering Intern 2027",
@@ -80193,33 +80195,6 @@
       "url": "https://trueinterview.io/jobs/e32a1a60-af5e-4293-9636-51f8417dbb33",
       "postedAt": "2026-10-23T15:32:37.000Z",
       "updatedAt": "2026-10-23T15:32:37.000Z"
-    },
-    {
-      "id": "4e858e64-eea2-4d70-95c5-dce818d26555",
-      "company": "MongoDB",
-      "title": "2027 - Summer Software Engineer Intern, Dublin",
-      "locations": [
-        "Dublin"
-      ],
-      "cities": [
-        "Dublin"
-      ],
-      "countries": [
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
-      "url": "https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555",
-      "postedAt": "2026-10-23T12:36:49.000Z",
-      "updatedAt": "2026-10-23T12:36:49.000Z"
     },
     {
       "id": "d2887d46-3af8-4aa4-81dd-01d2e3dbc6ba",
@@ -89420,6 +89395,33 @@
       "url": "https://trueinterview.io/jobs/8e64db9b-c72e-40ce-a03a-140ddac2cd69",
       "postedAt": "2026-10-09T11:26:58.000Z",
       "updatedAt": "2026-10-09T11:26:58.000Z"
+    },
+    {
+      "id": "9a75598c-ec2f-4484-b666-4535417ed96a",
+      "company": "MongoDB",
+      "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+      "locations": [
+        "Dublin"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+      "url": "https://trueinterview.io/jobs/9a75598c-ec2f-4484-b666-4535417ed96a",
+      "postedAt": "2026-10-09T10:28:50.000Z",
+      "updatedAt": "2026-10-09T10:28:50.000Z"
     },
     {
       "id": "18967f13-f4e5-49c4-8ce6-4a43b4706e66",

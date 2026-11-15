@@ -126,10 +126,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555">2027 - Summer Software Engineer Intern, Dublin</a></td>
+<td><a href="https://trueinterview.io/jobs/9a75598c-ec2f-4484-b666-4535417ed96a">2027 - Software Engineer Intern, Dublin - 6 Month Internship</a></td>
 <td>Dublin</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8267099">Apply</a></td>
-<td align="center">23 Oct 2026</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8258279">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
