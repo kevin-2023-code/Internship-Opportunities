@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**667 open roles.** 534 in the United States & Canada · 133 elsewhere in the world.
+**665 open roles.** 532 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1039,13 +1039,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/840fd08c-a8ae-43bd-b805-7af9957bbb0c">Product Engineering Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://apply.workable.com/j/4B6FCDB473">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>L3Harris Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c73011-9798-4b1a-8d4c-d526298ab70d">Software Engineer Intern</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472178464/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d0a28b51-8e73-45fe-92e4-2b5ed4b264d6">Software Engineer Intern - (Summer 2027)</a></td>
 <td>New York, NY<br/>Berkeley, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459040052/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/25fcca83-6c80-49a3-b7a0-14894e2d8ce6">University - 2027 Summer Games Software Developer Intern - El Segundo, CA</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459835001/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

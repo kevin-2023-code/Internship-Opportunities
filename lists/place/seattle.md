@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
-<td>Redmond, WA</td>
+<td>Redmond, WA<br/>Reston, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>

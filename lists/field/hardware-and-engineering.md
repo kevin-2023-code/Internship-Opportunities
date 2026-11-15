@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**808 open roles.** 726 in the United States & Canada · 82 elsewhere in the world.
+**806 open roles.** 724 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

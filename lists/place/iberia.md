@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**23 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Revolut</strong></td>
+<td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (Technical)</a></td>
+<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4418835490/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Nexthink</strong></td>
 <td><a href="https://trueinterview.io/jobs/7876d8c2-7378-493e-bbaf-57180810b444">Software Engineer (Intern)</a></td>

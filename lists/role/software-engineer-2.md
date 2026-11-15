@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**667 open roles.** 534 in the United States & Canada · 133 elsewhere in the world.
+**665 open roles.** 532 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/25fcca83-6c80-49a3-b7a0-14894e2d8ce6">University - 2027 Summer Games Software Developer Intern - El Segundo, CA</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459835001/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Beckman Coulter Diagnostics</strong></td>
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
@@ -902,13 +895,6 @@
 <td><a href="https://trueinterview.io/jobs/4e814148-13c4-434f-9dc7-f67cceac8e9f">Software Developer Co-op (Winter 2027)</a></td>
 <td>Waterloo / Ottawa / Ontario</td>
 <td align="center"><a href="https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
-<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

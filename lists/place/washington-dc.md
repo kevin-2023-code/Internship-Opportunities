@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**88 open roles.**
+**90 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Integration Innovation, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab70e8b5-ca8e-4328-a8ce-9fc0e386b147">RF Engineer Intern with Security Clearance</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490231756/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
+<td>Reston, VA<br/>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/045f0709-cede-4c5b-9f1b-7c640c6fbec9">University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD</a></td>

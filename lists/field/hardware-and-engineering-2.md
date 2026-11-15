@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**808 open roles.** 726 in the United States & Canada · 82 elsewhere in the world.
+**806 open roles.** 724 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1451,13 +1451,6 @@
 <td align="center">3 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
-<td>Longueuil, Canada<br/>Montreal Office</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/689d4711-93c5-4a2b-9187-c6b47e406a3f">2027 Industrial Engineer Intern</a></td>
 <td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States</td>
@@ -1693,13 +1686,6 @@
 <td><a href="https://trueinterview.io/jobs/73fa67ae-25ec-47f6-bb2e-8fb53e746a5e">Process Engineering Summer Intern</a></td>
 <td>Everett, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/helion/7fe24e8e-365b-40bf-aad8-309fbd429e5e/application">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cfd Research Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430">(University of Alabama) INTERN - Hypersonic Research Engineer – M&amp;S Summer 2027</a></td>
-<td>Huntsville, AL<br/>HQ - Huntsville, AL</td>
-<td align="center"><a href="https://www.cfd-research.com/jobs?gh_jid=4424155009">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -2826,6 +2812,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Parvomay, BULGARIA, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
 <td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9383e25-315a-43f1-9efb-33a96a7461cb">Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M</a></td>
+<td>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154062390-internship-quality-engineer-and-consultant-for-sap-build-process-automation-f-m">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b44322c-6ef2-44d6-868c-258dfbb4ac62">Quality Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015981">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

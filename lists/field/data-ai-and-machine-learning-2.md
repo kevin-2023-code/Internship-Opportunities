@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**806 open roles.** 587 in the United States & Canada · 219 elsewhere in the world.
+**807 open roles.** 587 in the United States & Canada · 220 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1336,6 +1336,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af">CUDA Full Stack &amp; AI Test Dev Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456292877/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bc799c9-9b5f-4436-9413-1976b8df483f">Research Scientist Intern - Content Seal - FAIR</a></td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris, IDF, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Delivery Hero</strong></td>
-<td><a href="https://trueinterview.io/jobs/c27007d1-9b03-44ab-b6c4-407f755fad77">Intern Data Analyst I People Strategy Global HQ</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000152474589-intern-data-analyst-i-people-strategy-global-hq">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

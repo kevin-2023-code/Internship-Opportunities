@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**637 open roles.** 458 in the United States & Canada · 179 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**637 open roles.** 456 in the United States & Canada · 181 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,13 +177,6 @@
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
-<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931">Intern - TSE KEG Engineer</a></td>
 <td>Boise, ID, US</td>
@@ -223,13 +216,6 @@
 <td><a href="https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158">Multimedia Engineering Internship – Summer 2027</a></td>
 <td>San Diego, CA, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740640">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306">Product Management Internship - Summer 2027</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741706">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -433,6 +419,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af">CUDA Full Stack &amp; AI Test Dev Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456292877/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec9dc129-9120-49eb-8289-c730e8b909ee">Software Engineering Intern, CUDA Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456069385/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bc799c9-9b5f-4436-9413-1976b8df483f">Research Scientist Intern - Content Seal - FAIR</a></td>

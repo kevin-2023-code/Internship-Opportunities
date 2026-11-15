@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**120 open roles.** 109 in the United States & Canada · 11 elsewhere in the world.
+**119 open roles.** 108 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -548,13 +548,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
 <td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
-<td>Longueuil, Canada<br/>Montreal Office</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

@@ -5,9 +5,143 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T20:04:46.546Z",
-  "count": 3967,
+  "listingsChangedAt": "2026-11-15T21:03:58.300Z",
+  "count": 3966,
   "listings": [
+    {
+      "id": "ab70e8b5-ca8e-4328-a8ce-9fc0e386b147",
+      "company": "Integration Innovation, Inc.",
+      "title": "RF Engineer Intern with Security Clearance",
+      "locations": [
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490231756/",
+      "url": "https://trueinterview.io/jobs/ab70e8b5-ca8e-4328-a8ce-9fc0e386b147",
+      "postedAt": "2026-11-15T20:16:00.000Z",
+      "updatedAt": "2026-11-15T20:16:00.000Z"
+    },
+    {
+      "id": "8628ba5e-3f76-4f4b-9e7d-075c16634f63",
+      "company": "Microsoft",
+      "title": "Software Engineering Intern - CTJ - TS",
+      "locations": [
+        "Redmond, WA",
+        "Reston, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466490278/",
+      "url": "https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63",
+      "postedAt": "2026-11-15T16:35:00.000Z",
+      "updatedAt": "2026-11-15T20:08:00.000Z"
+    },
+    {
+      "id": "cece9d36-6310-4854-9eab-e469c899ea60",
+      "company": "Revolut",
+      "title": "Internship Programme 2027: Product Owner (Technical)",
+      "locations": [
+        "United Arab Emirates",
+        "United Kingdom",
+        "Porto, Porto, Portugal"
+      ],
+      "cities": [
+        "Porto"
+      ],
+      "countries": [
+        "United Arab Emirates",
+        "United Kingdom",
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4418835490/",
+      "url": "https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60",
+      "postedAt": "2026-11-15T19:42:00.000Z",
+      "updatedAt": "2026-11-15T19:42:00.000Z"
+    },
+    {
+      "id": "20ea68c3-1bb1-406e-a627-6c7d97a036af",
+      "company": "NVIDIA",
+      "title": "CUDA Full Stack & AI Test Dev Intern - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456292877/",
+      "url": "https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af",
+      "postedAt": "2026-11-15T18:34:00.000Z",
+      "updatedAt": "2026-11-15T18:34:00.000Z"
+    },
+    {
+      "id": "ec9dc129-9120-49eb-8289-c730e8b909ee",
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, CUDA Test Development - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456069385/",
+      "url": "https://trueinterview.io/jobs/ec9dc129-9120-49eb-8289-c730e8b909ee",
+      "postedAt": "2026-11-15T18:34:00.000Z",
+      "updatedAt": "2026-11-15T18:34:00.000Z"
+    },
     {
       "id": "d18da591-b3a0-460b-9732-5a1d045eb4d7",
       "company": "Motorola Solutions",
@@ -107,31 +241,6 @@
       "url": "https://trueinterview.io/jobs/040104f1-8bf9-4536-858c-9d72bc7a9b46",
       "postedAt": "2026-11-15T16:52:00.000Z",
       "updatedAt": "2026-11-15T16:52:00.000Z"
-    },
-    {
-      "id": "8628ba5e-3f76-4f4b-9e7d-075c16634f63",
-      "company": "Microsoft",
-      "title": "Software Engineering Intern - CTJ - TS",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466490278/",
-      "url": "https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63",
-      "postedAt": "2026-11-15T16:35:00.000Z",
-      "updatedAt": "2026-11-15T16:35:00.000Z"
     },
     {
       "id": "4bc799c9-9b5f-4436-9413-1976b8df483f",
@@ -13718,31 +13827,6 @@
       "url": "https://trueinterview.io/jobs/032dc722-4d46-4a5d-8417-d04a9c8bcf09",
       "postedAt": "2026-11-11T18:39:00.000Z",
       "updatedAt": "2026-11-11T18:39:00.000Z"
-    },
-    {
-      "id": "36c73011-9798-4b1a-8d4c-d526298ab70d",
-      "company": "L3Harris Technologies",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4472178464/",
-      "url": "https://trueinterview.io/jobs/36c73011-9798-4b1a-8d4c-d526298ab70d",
-      "postedAt": "2026-11-11T17:54:00.000Z",
-      "updatedAt": "2026-11-11T17:54:00.000Z"
     },
     {
       "id": "a9a9dd17-6b6b-4cba-b3ab-f2b9c844e8ee",
@@ -94498,32 +94582,6 @@
       "updatedAt": "2026-10-02T22:12:03.000Z"
     },
     {
-      "id": "ecb68fef-9661-4212-b0b4-237082b8930b",
-      "company": "Lyft",
-      "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
-      "locations": [
-        "Longueuil, Canada",
-        "Montreal Office"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
-      "url": "https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b",
-      "postedAt": "2026-10-02T19:58:27.000Z",
-      "updatedAt": "2026-10-02T19:58:27.000Z"
-    },
-    {
       "id": "2be3375e-2540-46f0-9232-74dad5ae968c",
       "company": "xAI",
       "title": "Spring 2027 Software Engineering Internship/Co-op",
@@ -96931,32 +96989,6 @@
       "url": "https://trueinterview.io/jobs/6a4f7e58-6c25-4c8f-8316-854a7b03dc87",
       "postedAt": "2026-09-29T17:22:52.000Z",
       "updatedAt": "2026-09-29T17:22:52.000Z"
-    },
-    {
-      "id": "3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
-      "company": "Cfd Research Corporation",
-      "title": "(University of Alabama) INTERN - Hypersonic Research Engineer – M&S Summer 2027",
-      "locations": [
-        "Huntsville, AL",
-        "HQ - Huntsville, AL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Hardware & Engineering",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.cfd-research.com/jobs?gh_jid=4424155009",
-      "url": "https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
-      "postedAt": "2026-09-29T16:07:21.000Z",
-      "updatedAt": "2026-09-29T16:07:21.000Z"
     },
     {
       "id": "c27007d1-9b03-44ab-b6c4-407f755fad77",
@@ -101415,32 +101447,6 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
-      "company": "Keysight",
-      "title": "R&D Embedded Software Intern",
-      "locations": [
-        "US-CO-Col Springs-Bldg C",
-        "Colorado Springs, Colorado, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54353?lang=en-us",
-      "url": "https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
       "id": "8791d541-8066-4f69-8524-5de9a2953931",
       "company": "Micron Technology",
       "title": "Intern - TSE KEG Engineer",
@@ -101598,31 +101604,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446720740640",
       "url": "https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
-      "company": "QUALCOMM",
-      "title": "Product Management Internship - Summer 2027",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741706",
-      "url": "https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },

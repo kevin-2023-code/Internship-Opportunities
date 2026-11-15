@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,950 open roles.** 1,542 in the United States & Canada · 408 elsewhere in the world.
+**1,950 open roles.** 1,541 in the United States & Canada · 409 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Integration Innovation, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab70e8b5-ca8e-4328-a8ce-9fc0e386b147">RF Engineer Intern with Security Clearance</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490231756/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
+<td>Redmond, WA<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/d18da591-b3a0-460b-9732-5a1d045eb4d7">DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</a></td>
 <td>Plantation, FL</td>
@@ -31,13 +45,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/01fe54c8-7e46-4c21-a39d-6b6dee1159fd">Software Engineer Intern</a></td>
 <td>Milwaukee, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466394769/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -1606,13 +1613,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af56ecb5-ee01-4569-b298-e625748dbf56">Intern/Junior Java Backend Developer – AI-Enabled Development</a></td>
 <td>Oakland, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489030332/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>L3Harris Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c73011-9798-4b1a-8d4c-d526298ab70d">Software Engineer Intern</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472178464/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

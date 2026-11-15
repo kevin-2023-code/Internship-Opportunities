@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**228 open roles.** 162 in the United States & Canada · 66 elsewhere in the world.
+**228 open roles.** 161 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1103,13 +1103,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306">Product Management Internship - Summer 2027</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741706">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12">Hardware Product Management Intern - Fall 2026/Winter 2027</a></td>
 <td>San Mateo, California, United States</td>
@@ -1163,6 +1156,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Revolut</strong></td>
+<td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (Technical)</a></td>
+<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4418835490/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b9a5ecd-47ec-4f0c-a9a6-2919a6b06f94">Associate Product Manager BS/MS Intern, 2027</a></td>

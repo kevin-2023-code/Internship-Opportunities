@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,950 open roles.** 1,542 in the United States & Canada · 408 elsewhere in the world.
+**1,950 open roles.** 1,541 in the United States & Canada · 409 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2270,13 +2270,6 @@
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
-<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c">Automotive Engineering Internship – Summer 2027</a></td>
 <td>San Diego, CA, US</td>
@@ -2421,6 +2414,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec9dc129-9120-49eb-8289-c730e8b909ee">Software Engineering Intern, CUDA Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456069385/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/41af5edf-bc66-4af8-9f39-441ca23112a5">Software/Firmware Engineering Intern</a></td>

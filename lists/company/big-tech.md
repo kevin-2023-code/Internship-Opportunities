@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**637 open roles.** 458 in the United States & Canada · 179 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**637 open roles.** 456 in the United States & Canada · 181 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
+<td>Redmond, WA<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/d18da591-b3a0-460b-9732-5a1d045eb4d7">DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</a></td>
 <td>Plantation, FL</td>
@@ -27,14 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cbc29450-1d71-4719-ac49-c54cea1c6777">2027 Software Engineering Summer Internship</a></td>
 <td>Plantation, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466378196/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**39 open roles.** 33 in the United States & Canada · 6 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**38 open roles.** 32 in the United States & Canada · 6 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002">Apply</a></td>
 <td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
-<td>Longueuil, Canada<br/>Montreal Office</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

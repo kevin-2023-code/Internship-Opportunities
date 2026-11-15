@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**18 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, Quebec, Canada<br/>Montréal – Toboggan Labs</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003">Apply</a></td>
 <td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
-<td>Montreal Office<br/>Longueuil, Canada</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Coveo</strong></td>

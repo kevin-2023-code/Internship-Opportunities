@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**918 open roles.** 721 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
+**917 open roles.** 717 in the United States & Canada · 200 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2234,34 +2234,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4432737369/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a2618a9-83cf-42cc-987b-4f8f074417ed">Research Scientist Intern, AI Agents and Machine Learning (PhD)</a></td>
-<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486644763/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ryan</strong></td>
-<td><a href="https://trueinterview.io/jobs/26e95e0f-3a22-49ef-a5e5-c273a4583a64">Summer 2027 Intern, Software Development</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479636648/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Boehringer Ingelheim</strong></td>
-<td><a href="https://trueinterview.io/jobs/73986c78-5de0-44a9-8db3-850331fa6d4a">IT Co-Op - MLOps</a></td>
-<td>Ridgefield, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472211417/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenaska</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b2eac40-77e1-4f06-ae43-053cfe7d7d23">Software Engineering Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4453276681/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2274,6 +2246,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Revolut</strong></td>
+<td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (Technical)</a></td>
+<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4418835490/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af">CUDA Full Stack &amp; AI Test Dev Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456292877/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec9dc129-9120-49eb-8289-c730e8b909ee">Software Engineering Intern, CUDA Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456069385/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bc799c9-9b5f-4436-9413-1976b8df483f">Research Scientist Intern - Content Seal - FAIR</a></td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b4e9224f-2493-4b28-8580-e4291953f039">AI Agent Engineer Intern (Search) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452746940/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b3b07757-ee89-42cd-bcee-532f69281954">Backend Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447699661/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

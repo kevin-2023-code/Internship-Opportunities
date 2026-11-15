@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**918 open roles.** 721 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
+**917 open roles.** 717 in the United States & Canada · 200 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Integration Innovation, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab70e8b5-ca8e-4328-a8ce-9fc0e386b147">RF Engineer Intern with Security Clearance</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490231756/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
+<td>Redmond, WA<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/d18da591-b3a0-460b-9732-5a1d045eb4d7">DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</a></td>
@@ -45,13 +59,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/040104f1-8bf9-4536-858c-9d72bc7a9b46">Quantitative Research Intern 2027</a></td>
 <td>Jupiter, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4429728070/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63">Software Engineering Intern - CTJ - TS</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466490278/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,13 +2803,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/032dc722-4d46-4a5d-8417-d04a9c8bcf09">Robotics &amp; Physical AI Intern - Summer 2027</a></td>
 <td>Saginaw, MI</td>
 <td align="center"><a href="https://jobs.nexteer.com/job/Saginaw-Robotics-&amp;-Physical-AI-Intern-Summer-2027-MI/1449780500/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>L3Harris Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c73011-9798-4b1a-8d4c-d526298ab70d">Software Engineer Intern</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472178464/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
