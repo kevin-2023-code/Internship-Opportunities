@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**30 open roles.** 22 in the United States & Canada · 8 elsewhere in the world.
+**29 open roles.** 23 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/432ed9ed-c226-425e-9deb-e7949767addf">Python Backend Developer Intern – Energy Flexibility Platform</a></td>
 <td>Princeton, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482365970/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -184,28 +191,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a338fab-4c28-4b96-878c-dd1accc7ed77">Backend Software Engineer Project Intern (Trust &amp; Safety) - 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464551264/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/48795427-68c7-447a-a253-1e5bfb5def04">Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475053540/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/fe86db5d-d962-44e5-98f0-67e3b8c7e685">Enterprise Services AI Agent Engineer Project Intern (Corporate Service System - Global Travel) - 2026 Start（BS/MS）</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474546807/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6376c74-b7d7-48c4-bd73-39f726b57a6e">[Backend Software Engineer] Project Intern (Data Trust and Safety) - 2026 Start</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463882171/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f857556b-d562-4dac-abec-323957c33b06">Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4273232112/">Apply</a></td>

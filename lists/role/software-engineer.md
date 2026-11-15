@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**657 open roles.** 528 in the United States & Canada · 129 elsewhere in the world.
+**661 open roles.** 528 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -146,6 +146,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7133f6e-33c7-4dc4-a3bc-0a17bd1863d7">Embedded Software Engineering Co-Op III (Summer/Fall 2027) , Navigation and Sensor Systems</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463055339/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Milliman</strong></td>
 <td><a href="https://trueinterview.io/jobs/30876d1e-d387-439a-a95c-5f4f1fc6eaa3">AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health</a></td>
 <td>Chicago, IL</td>
@@ -157,13 +164,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4913d575-94df-4112-bfd9-36df810aa2ec">Summer 2027 Intern:: Software Engineer II</a></td>
 <td>Bentonville, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463957109/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

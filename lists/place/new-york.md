@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**145 open roles.**
+**144 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6">Summer Internship Program 2027 - Software Engineering Intern</a></td>
 <td>New York, NY<br/>Jacksonville, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483172497/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vermilion</strong></td>
-<td><a href="https://trueinterview.io/jobs/a14dc00f-1131-42d1-a44a-dcf7c5577aee">Graphic Design Intern (UX/UI)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490765791/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

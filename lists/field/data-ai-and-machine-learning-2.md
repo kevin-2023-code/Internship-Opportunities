@@ -2,11 +2,11 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**804 open roles.** 585 in the United States & Canada · 219 elsewhere in the world.
+**800 open roles.** 583 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 3 · [Page 3 →](data-ai-and-machine-learning-3.md)</sub>
+<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 2</sub>
 
 ## United States & Canada
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Syntiant Corp</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf7cb3f6-37c2-40d1-a1c8-102404895612">Internship - DevOps Machine Learning Infrastructure</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://apply.workable.com/j/041E7A875F">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Internship List</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
-<td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Huawei Canada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>
@@ -1338,23 +1324,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe86db5d-d962-44e5-98f0-67e3b8c7e685">Enterprise Services AI Agent Engineer Project Intern (Corporate Service System - Global Travel) - 2026 Start（BS/MS）</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474546807/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb94f52a-3d77-417e-9816-c67ac08c91b0">AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475059276/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c5c9ce4a-f03e-4898-9bf4-6f43a750b952">AI Agent Engineering Project Intern (Corporate Service System - Procurement) - 2026 Start（BS/MS）</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475052625/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2827,9 +2799,37 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fd589f6-03aa-43ad-af14-9dd4bca04d73">Stage Innovation : Ingénieur Computer Vision / Véhicule Autonome Coopératif</a></td>
+<td>Sèvres, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151636109-stage-innovation-ingenieur-computer-vision-vehicule-autonome-cooperatif">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Telli</strong></td>
+<td><a href="https://trueinterview.io/jobs/71d4717a-95eb-47a1-b926-c61cb3b5cd40">Internship - Deployment Strategist</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telli/821f603f-69f5-475e-8200-56120cae7241/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kanadevia Inova</strong></td>
+<td><a href="https://trueinterview.io/jobs/4517f3cb-2253-471f-bbfa-7f861ac686c5">Engineering Data Analyst-Energy Industry (Intern)</a></td>
+<td>Petržalka, Bratislavský kraj, Slovakia (Slovak Republic)</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/KanadeviaInova/744000150310513-engineering-data-analyst-energy-industry-intern-">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/40f92665-889c-43c0-993c-2eac9c354249">[Campus Monks] Data Analytics Intern</a></td>
+<td>São Paulo<br/>Brasil<br/>Sorocaba<br/>+1 more</td>
+<td align="center"><a href="https://www.monks.com/careers/6100057004/job?gh_jid=6100057004">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 3 · [Page 3 →](data-ai-and-machine-learning-3.md)</sub>
+<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 2</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

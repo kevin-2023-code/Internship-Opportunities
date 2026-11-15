@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,939 open roles.** 1,536 in the United States & Canada · 403 elsewhere in the world.
+**1,944 open roles.** 1,538 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -199,6 +199,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4913d575-94df-4112-bfd9-36df810aa2ec">Summer 2027 Intern:: Software Engineer II</a></td>
 <td>Bentonville, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463957109/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f8f1aab-46ea-401d-b551-724658cbb6d1">Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474542999/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca26792-2ca7-4cec-88aa-1fb1f1bd9390">AI and Automation Engineer Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481904796/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/691b029e-d37d-42d0-b31c-8410595369ad">Software Engineering Co-op</a></td>
 <td>Shakopee, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480553742/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/858f5421-9ce8-48ed-864a-1a351bb9c72d">Summer 2027 Engineering Internship, Software/GNC</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420626009">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/b18e619f-6040-4eaf-b1dc-84c1c0dce01c">Full Stack Developer - Intern (Remote)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488492958/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

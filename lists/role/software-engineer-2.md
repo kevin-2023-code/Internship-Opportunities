@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**657 open roles.** 528 in the United States & Canada · 129 elsewhere in the world.
+**661 open roles.** 528 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -973,7 +973,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a338fab-4c28-4b96-878c-dd1accc7ed77">Backend Software Engineer Project Intern (Trust &amp; Safety) - 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464551264/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/48795427-68c7-447a-a253-1e5bfb5def04">Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475053540/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/87ff97a6-c4ff-4a03-849b-c48142e8d6e3">Fullstack Engineer - Intern (Global Payment) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482871373/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6376c74-b7d7-48c4-bd73-39f726b57a6e">[Backend Software Engineer] Project Intern (Data Trust and Safety) - 2026 Start</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463882171/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6ae2476-228b-4fd8-a1db-22e669228095">AI Agent Engineer Intern, AI Enablement Process - 2027</a></td>
 <td>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481616965/">Apply</a></td>

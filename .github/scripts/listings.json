@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T02:06:20.755Z",
-  "count": 3958,
+  "listingsChangedAt": "2026-11-15T03:05:55.767Z",
+  "count": 3957,
   "listings": [
     {
       "id": "495afb3b-5484-415b-b650-da6ea8a988f3",
@@ -1273,9 +1273,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1285,33 +1285,6 @@
       "url": "https://trueinterview.io/jobs/f7133f6e-33c7-4dc4-a3bc-0a17bd1863d7",
       "postedAt": "2026-11-14T15:04:00.000Z",
       "updatedAt": "2026-11-14T15:04:00.000Z"
-    },
-    {
-      "id": "a14dc00f-1131-42d1-a44a-dcf7c5577aee",
-      "company": "Vermilion",
-      "title": "Graphic Design Intern (UX/UI)",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490765791/",
-      "url": "https://trueinterview.io/jobs/a14dc00f-1131-42d1-a44a-dcf7c5577aee",
-      "postedAt": "2026-11-14T14:16:00.000Z",
-      "updatedAt": "2026-11-14T14:16:00.000Z"
     },
     {
       "id": "8703e02d-f79c-4240-9881-9ec138aad5d9",
@@ -1354,9 +1327,9 @@
         "United Arab Emirates"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1383,7 +1356,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1409,7 +1382,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "IT & Support",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1464,7 +1437,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1491,7 +1464,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Full-Stack Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1518,7 +1491,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1544,7 +1517,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1621,8 +1594,8 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -1630,6 +1603,33 @@
       "url": "https://trueinterview.io/jobs/9ad8d231-1697-47e1-8f7b-49c1565addd2",
       "postedAt": "2026-11-14T12:25:00.000Z",
       "updatedAt": "2026-11-14T12:25:00.000Z"
+    },
+    {
+      "id": "3a51fcd9-553c-42a7-b273-03d67a7ad874",
+      "company": "ByteDance",
+      "title": "AI Perception Intern (PICO) - 2027 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475059338/",
+      "url": "https://trueinterview.io/jobs/3a51fcd9-553c-42a7-b273-03d67a7ad874",
+      "postedAt": "2026-11-14T12:24:00.000Z",
+      "updatedAt": "2026-11-14T12:24:00.000Z"
     },
     {
       "id": "3f8f1aab-46ea-401d-b551-724658cbb6d1",
@@ -1646,7 +1646,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1675,7 +1675,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1699,7 +1699,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1729,7 +1729,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -102763,31 +102763,6 @@
       "url": "https://trueinterview.io/jobs/35f5307b-3cdb-4908-b832-5cee56489e54",
       "postedAt": "2026-09-16T03:39:37.000Z",
       "updatedAt": "2026-09-16T03:39:37.000Z"
-    },
-    {
-      "id": "ae3cf0f7-f453-4f77-8baf-802380adcc87",
-      "company": "DV Trading",
-      "title": "2027 Quantitative Research Intern (DV QES)",
-      "locations": [
-        "Hong Kong"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
-      "url": "https://trueinterview.io/jobs/ae3cf0f7-f453-4f77-8baf-802380adcc87",
-      "postedAt": "2026-09-16T02:59:27.000Z",
-      "updatedAt": "2026-09-16T02:59:27.000Z"
     }
   ]
 }

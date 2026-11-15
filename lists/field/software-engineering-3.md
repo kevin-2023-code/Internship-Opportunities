@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,939 open roles.** 1,536 in the United States & Canada · 403 elsewhere in the world.
+**1,944 open roles.** 1,538 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0d72156-7d73-4cab-9197-e3dd4cc80418">Intern, SRAM Design Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/549f9cf9-86ef-430b-87aa-cce0d54fb105">Software Engineer Co-Op - Spring/Summer 2027</a></td>
+<td>Pittsford, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468675612/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Electronic Arts</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a57a759-0c1a-4f90-a6c5-866bd6b0a0a7">Quality Designer Co-op (Summer 2027)</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/db41dcc4-c646-44b2-aa41-9b3a3eaddbf5">Autonomy Software Engineering Internship, World Modeling</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448252827/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/02158f51-7cd2-4dbb-b1a7-fa074594e158">Nondestructive Evaluation (NDE) Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476338582/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Walmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/48c26358-534b-4bec-8591-1330a80aab23">Summer 2027 Intern: Cybersecurity Masters</a></td>
-<td>Bentonville, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465513920/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

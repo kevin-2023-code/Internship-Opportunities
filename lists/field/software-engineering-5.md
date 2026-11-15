@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,939 open roles.** 1,536 in the United States & Canada · 403 elsewhere in the world.
+**1,944 open roles.** 1,538 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,42 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>CareSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/e11ff9d8-373f-4b7c-be27-6334ad4f2f7a">2027 Summer Internship Program - Software Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/61ad9dab-db49-486f-8b7e-c516a556ae9f">Cybersecurity Engineer Intern (Web Security) - Information Security (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489068760/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f5747418-e150-4c94-b23b-66eb9626b52d">Security Product Manager Intern - AI-Driven Security Operations (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489058980/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/86a2236e-70d2-46d5-8704-c244c3e0df25">Security Engineer Intern (Infrastructure Security) - Information Security (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489075493/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a4b6784-fb93-4a93-99e0-eb4e7d3b84d2">Internship - Framebuffer Driver Engineer</a></td>
+<td>London, England, E20 1EQ, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694489/internship-framebuffer-driver-engineer">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bff1353e-8678-4c3e-ba31-dbb4d0baf0f5">Camera Software (Intern)</a></td>
 <td>Cambridge, England, CB2 3AX, United Kingdom</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200694477/camera-software-intern">Apply</a></td>

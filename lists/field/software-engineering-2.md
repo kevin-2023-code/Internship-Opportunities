@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,939 open roles.** 1,536 in the United States & Canada · 403 elsewhere in the world.
+**1,944 open roles.** 1,538 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mach Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/858f5421-9ce8-48ed-864a-1a351bb9c72d">Summer 2027 Engineering Internship, Software/GNC</a></td>
+<td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420626009">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/b18e619f-6040-4eaf-b1dc-84c1c0dce01c">Full Stack Developer - Intern (Remote)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488492958/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>DriveTime</strong></td>
 <td><a href="https://trueinterview.io/jobs/d01233d0-acbd-44d9-8099-31cff2af91f2">Software Engineering Intern (Summer 2027)</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158811580-sap-ixp-intern-agile-developer-business-data-cloud">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung Semiconductor</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0d72156-7d73-4cab-9197-e3dd4cc80418">Intern, SRAM Design Engineer</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/549f9cf9-86ef-430b-87aa-cce0d54fb105">Software Engineer Co-Op - Spring/Summer 2027</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468675612/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

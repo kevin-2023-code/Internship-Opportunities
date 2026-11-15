@@ -213,9 +213,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ff97a6-c4ff-4a03-849b-c48142e8d6e3">Fullstack Engineer - Intern (Global Payment) - 2027 Start</a></td>
+<td><a href="https://trueinterview.io/jobs/1b117e45-e39e-4c7a-9f2b-235ff63792fb">Frontend Development Software Engineer Intern (BytePlus) - 2027 Start</a></td>
 <td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482871373/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475060229/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

@@ -300,13 +300,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Vermilion</strong></td>
-<td><a href="https://trueinterview.io/jobs/a14dc00f-1131-42d1-a44a-dcf7c5577aee">Graphic Design Intern (UX/UI)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490765791/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Milliman</strong></td>
 <td><a href="https://trueinterview.io/jobs/30876d1e-d387-439a-a95c-5f4f1fc6eaa3">AI Product Engineer Intern Spring 2027 (Full-time) - CMH Health</a></td>
 <td>Chicago, IL</td>
@@ -322,6 +315,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a51fcd9-553c-42a7-b273-03d67a7ad874">AI Perception Intern (PICO) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475059338/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3f8f1aab-46ea-401d-b551-724658cbb6d1">Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474542999/">Apply</a></td>
