@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**632 open roles.** 457 in the United States & Canada · 175 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**631 open roles.** 454 in the United States & Canada · 177 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,27 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e8b92c-9eff-4d49-ae25-baa9766c93e7">Grid Modernization Engineering Intern</a></td>
-<td>Loveland, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54277?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54342?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e4e53ae-1782-4648-b60d-5fe8e9e8570f">RF Engineering Content Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54567?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/16d161f0-c464-4d7e-8703-222f9fdec589">Intern - ID1 Manufacturing Engineer</a></td>
@@ -426,6 +405,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdf5ce21-f1fd-4e60-9a54-150bad310533">Research Scientist Intern - Omnilingual - FAIR</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481078356/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdb9f367-45a9-4a3d-bd02-ecadf67281cb">Associate Product Marketing Manager BS/MS Intern, 2027</a></td>
+<td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom<br/>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473352839/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/31bb4bc6-916a-4458-9969-869bad6e2020">FY27 Intern - Multimedia R&amp;D Intern – Video &amp; AI - 6 months, Stockholm (Bromma) - Sweden</a></td>

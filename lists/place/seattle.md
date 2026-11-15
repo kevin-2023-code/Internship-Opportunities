@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f">Internship, Software Engineer, Information Security (Winter/Spring 2027)</a></td>
 <td>Bellevue, WA</td>
@@ -33,13 +40,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
-<td>Seattle, WA<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a869d71-54a0-4f15-9fdb-92b7d23eb99a">Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer</a></td>
 <td>Seattle, WA<br/>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475058356/">Apply</a></td>

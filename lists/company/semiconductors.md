@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**280 open roles.** 191 in the United States & Canada · 89 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**280 open roles.** 190 in the United States & Canada · 90 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -176,13 +176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9637acd9-8815-4d7d-83e9-6a7dca7da4e8">FY27 Intern - Silicon Validation Internship - Canada (16 months)</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467869193/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e">Intern Hardware Engineer Digital PDTE</a></td>
-<td>Tijuana, Baja California, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476806288/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1366,6 +1359,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/41af5edf-bc66-4af8-9f39-441ca23112a5">Software/Firmware Engineering Intern</a></td>
+<td>Petah Tikva, Center District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489379816/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/31bb4bc6-916a-4458-9969-869bad6e2020">FY27 Intern - Multimedia R&amp;D Intern – Video &amp; AI - 6 months, Stockholm (Bromma) - Sweden</a></td>

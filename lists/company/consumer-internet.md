@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**141 open roles.** 105 in the United States & Canada · 36 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**141 open roles.** 103 in the United States & Canada · 38 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3a51fcd9-553c-42a7-b273-03d67a7ad874">AI Perception Intern (PICO) - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475059338/">Apply</a></td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3f8f1aab-46ea-401d-b551-724658cbb6d1">Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474542999/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -124,23 +124,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/76da53b9-d9a1-4851-a75f-ed281f9ae74f">Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474557191/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fa893302-a926-4090-a76b-ca732106ee11">Developer Advocacy Project Intern (PICO) - 2026 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474556225/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d4b9bdd-0e7f-44c2-af17-ed858822becf">Site Reliability Engineer Intern (Data Infra) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474564028/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -764,6 +750,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdf5ce21-f1fd-4e60-9a54-150bad310533">Research Scientist Intern - Omnilingual - FAIR</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481078356/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdb9f367-45a9-4a3d-bd02-ecadf67281cb">Associate Product Marketing Manager BS/MS Intern, 2027</a></td>
+<td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom<br/>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473352839/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/8703e02d-f79c-4240-9881-9ec138aad5d9">Security Software Engineer Intern (Security Assurance) - 2027 Start</a></td>

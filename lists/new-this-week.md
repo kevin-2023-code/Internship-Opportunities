@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**922 open roles.** 731 in the United States & Canada · 191 elsewhere in the world. Everything the employers put up this week.
+**920 open roles.** 725 in the United States & Canada · 195 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/6df7b793-6809-4919-a245-488ed45160ed">Site Reliability Engineer Intern (Global SRE) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455468449/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toyota Automated Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491069256/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
@@ -339,34 +367,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fca26792-2ca7-4cec-88aa-1fb1f1bd9390">AI and Automation Engineer Intern</a></td>
 <td>Plano, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481904796/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toyota Automated Logistics</strong></td>
-<td><a href="https://trueinterview.io/jobs/642aa1ac-40a7-4e24-a58f-f3a9822615a6">Software Engineer Intern</a></td>
-<td>Noblesville, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491058705/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491069256/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -1260,23 +1260,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/76da53b9-d9a1-4851-a75f-ed281f9ae74f">Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474557191/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fa893302-a926-4090-a76b-ca732106ee11">Developer Advocacy Project Intern (PICO) - 2026 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474556225/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d4b9bdd-0e7f-44c2-af17-ed858822becf">Site Reliability Engineer Intern (Data Infra) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474564028/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Celestica</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b57c418-c7e5-49f6-abcf-b05fafe62922">Student Intern, Software Testing</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480491236/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vontier</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9b918a6-9840-48c6-8dca-96f216f7865e">Engineering Intern - Software Quality Assurance Engineering (Summer 2027)</a></td>
+<td>Greensboro, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482035296/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**83 open roles.** 68 in the United States & Canada · 15 elsewhere in the world.
+**84 open roles.** 68 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -505,6 +505,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdf5ce21-f1fd-4e60-9a54-150bad310533">Research Scientist Intern - Omnilingual - FAIR</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481078356/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/f347b44e-4054-49a2-89b1-655bfa8fa27a">Research Scientist Intern - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>

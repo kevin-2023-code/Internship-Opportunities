@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**815 open roles.** 733 in the United States & Canada · 82 elsewhere in the world.
+**814 open roles.** 732 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Michels Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>
-<td>Saskatchewan, Canada, Canada</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ee58516-e57e-4458-9171-9aeb67ca951a">Manufacturing Intern - Summer 2027</a></td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d2887d46-3af8-4aa4-81dd-01d2e3dbc6ba">Software Engineering Intern for CAD/CAE/Tooling</a></td>
 <td>Zürich, Zurich, Switzerland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000157445359-software-engineering-intern-for-cad-cae-tooling">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/0975652a-3ff2-47ac-9e83-22a63c32388d">Intern - Manufacturing Engineer</a></td>
+<td>Biñan City, LAGUNA, Philippines<br/>Kuching, Sarawak, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000157382288-intern-manufacturing-engineer">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 </tbody>

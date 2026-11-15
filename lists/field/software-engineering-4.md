@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,953 open roles.** 1,547 in the United States & Canada · 406 elsewhere in the world.
+**1,953 open roles.** 1,545 in the United States & Canada · 408 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Nova Biomedical</strong></td>
-<td><a href="https://trueinterview.io/jobs/9919a414-5289-463c-9a10-a30839101481">Consumables Engineering Co-Op</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466530531/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ace Hardware Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5c2a660-f45b-4b3f-a621-6043347215d9">IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)</a></td>
-<td>Oak Brook, IL</td>
-<td align="center"><a href="https://acehardware.wd1.myworkdayjobs.com/en-US/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe5275ac-48d1-4b15-bf2f-530477dc7fcf">Intern - AI Engineer Platform</a></td>
@@ -2456,6 +2442,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/41af5edf-bc66-4af8-9f39-441ca23112a5">Software/Firmware Engineering Intern</a></td>
+<td>Petah Tikva, Center District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489379816/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Synopsys Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/064636bd-09a0-40f5-a0ed-585393ac3d8d">Technical Engineering Intern - Design Verification Internship</a></td>
+<td>Hanoi, Hanoi, Vietnam</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483319359/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/35436982-9a6c-4ee3-a84a-14cf19d5e2d5">Software Engineer Intern - NVEX, 2027</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,953 open roles.** 1,547 in the United States & Canada · 406 elsewhere in the world.
+**1,953 open roles.** 1,545 in the United States & Canada · 408 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Greenheck Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/77685a5f-053b-47f8-a6cc-bf4ac6cd29aa">Application Developer Co-op</a></td>
-<td>Schofield, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470163961/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>iRhythm Technologies, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2810060c-8051-4b12-8e34-fba77f8217a3">Embedded SDET Co-Op Full Time Intern January-June 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470101212/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Arconic</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e30eb51-3bdc-4d98-9807-55403c23970f">ServiceNow Developer Intern</a></td>
@@ -2814,6 +2800,20 @@
 <td>Melbourne, FL</td>
 <td align="center"><a href="https://careers.leonardodrs.com/job/Melbourne-2027-Summer-Full-Stack-Software-Engineering-Intern-Melbourne-FL-FL-32935/1446263700/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f">Intern - Software Engineer, Performance Tools (NTD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farmers Mutual Hail Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8e61fe8-f380-477e-b559-652e442834ae">Software Developer Intern</a></td>
+<td>West Des Moines, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481958857/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

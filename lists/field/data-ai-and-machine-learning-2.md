@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**797 open roles.** 580 in the United States & Canada · 217 elsewhere in the world.
+**798 open roles.** 580 in the United States & Canada · 218 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1287,6 +1287,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdf5ce21-f1fd-4e60-9a54-150bad310533">Research Scientist Intern - Omnilingual - FAIR</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481078356/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/31bb4bc6-916a-4458-9969-869bad6e2020">FY27 Intern - Multimedia R&amp;D Intern – Video &amp; AI - 6 months, Stockholm (Bromma) - Sweden</a></td>

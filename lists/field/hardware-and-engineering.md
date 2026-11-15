@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**815 open roles.** 733 in the United States & Canada · 82 elsewhere in the world.
+**814 open roles.** 732 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Toyota Automated Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
@@ -59,13 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a51fcd9-553c-42a7-b273-03d67a7ad874">AI Perception Intern (PICO) - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475059338/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toyota Automated Logistics</strong></td>
-<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -1158,13 +1158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9637acd9-8815-4d7d-83e9-6a7dca7da4e8">FY27 Intern - Silicon Validation Internship - Canada (16 months)</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467869193/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e">Intern Hardware Engineer Digital PDTE</a></td>
-<td>Tijuana, Baja California, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476806288/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e229f20a-705b-47c6-a06a-2ed301e54f16">Electronic Reliability Engineer Co-op (Winter 2027)</a></td>
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Michels Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>
+<td>Saskatchewan, Canada, Canada</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

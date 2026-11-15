@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/b70a9873-e263-45c3-b2c8-8ad66f177b43">Internship - Software Engineer In Test (MOD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483141021/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Toyota Automated Logistics</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
 <td>Louisville, KY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491069256/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/b70a9873-e263-45c3-b2c8-8ad66f177b43">Internship - Software Engineer In Test (MOD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483141021/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

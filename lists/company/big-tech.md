@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**632 open roles.** 457 in the United States & Canada · 175 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**631 open roles.** 454 in the United States & Canada · 177 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/2713ec56-297e-4c0e-942a-d0babd268d27">Software Development Internship (Summer 2027)</a></td>
@@ -38,13 +45,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3f8f1aab-46ea-401d-b551-724658cbb6d1">Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474542999/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer intern (Global Traffic Architecture) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -175,23 +175,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/76da53b9-d9a1-4851-a75f-ed281f9ae74f">Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474557191/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fa893302-a926-4090-a76b-ca732106ee11">Developer Advocacy Project Intern (PICO) - 2026 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474556225/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d4b9bdd-0e7f-44c2-af17-ed858822becf">Site Reliability Engineer Intern (Data Infra) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474564028/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -682,13 +668,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9637acd9-8815-4d7d-83e9-6a7dca7da4e8">FY27 Intern - Silicon Validation Internship - Canada (16 months)</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467869193/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e">Intern Hardware Engineer Digital PDTE</a></td>
-<td>Tijuana, Baja California, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476806288/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2796,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/95cdafdf-f9b9-4c23-8153-11c5cbc3814d">Analog and Mixed Signal IC Design Engineer Intern</a></td>
 <td>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54221?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/87e8b92c-9eff-4d49-ae25-baa9766c93e7">Grid Modernization Engineering Intern</a></td>
+<td>Loveland, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54277?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54342?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3e4e53ae-1782-4648-b60d-5fe8e9e8570f">RF Engineering Content Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54567?lang=en-us">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 </tbody>

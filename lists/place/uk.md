@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**54 open roles.** 12 in the United States & Canada · 42 elsewhere in the world.
+**55 open roles.** 12 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdb9f367-45a9-4a3d-bd02-ecadf67281cb">Associate Product Marketing Manager BS/MS Intern, 2027</a></td>
+<td>London, England, United Kingdom<br/>Dublin, County Dublin, Ireland<br/>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473352839/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）</a></td>

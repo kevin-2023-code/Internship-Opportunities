@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,953 open roles.** 1,547 in the United States & Canada · 406 elsewhere in the world.
+**1,953 open roles.** 1,545 in the United States & Canada · 408 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f">Intern - Software Engineer, Performance Tools (NTD)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Farmers Mutual Hail Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8e61fe8-f380-477e-b559-652e442834ae">Software Developer Intern</a></td>
-<td>West Des Moines, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481958857/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261">Software Engineer Co-op</a></td>
@@ -2813,6 +2799,20 @@
 <td><a href="https://trueinterview.io/jobs/b7d44ef2-15cc-4fa9-ba4f-ce5e30d06c10">2027 Summer Intern: Engineering - Embedded Systems</a></td>
 <td>Portsmouth, NH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448305930/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nova Biomedical</strong></td>
+<td><a href="https://trueinterview.io/jobs/9919a414-5289-463c-9a10-a30839101481">Consumables Engineering Co-Op</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466530531/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ace Hardware Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5c2a660-f45b-4b3f-a621-6043347215d9">IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://acehardware.wd1.myworkdayjobs.com/en-US/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

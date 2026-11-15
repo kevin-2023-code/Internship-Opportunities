@@ -5,9 +5,225 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T12:06:05.196Z",
-  "count": 3965,
+  "listingsChangedAt": "2026-11-15T13:04:03.355Z",
+  "count": 3966,
   "listings": [
+    {
+      "id": "fdf5ce21-f1fd-4e60-9a54-150bad310533",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Omnilingual - FAIR",
+      "locations": [
+        "Paris, Île-de-France, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481078356/",
+      "url": "https://trueinterview.io/jobs/fdf5ce21-f1fd-4e60-9a54-150bad310533",
+      "postedAt": "2026-11-15T12:34:00.000Z",
+      "updatedAt": "2026-11-15T12:34:00.000Z"
+    },
+    {
+      "id": "6df7b793-6809-4919-a245-488ed45160ed",
+      "company": "TikTok",
+      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455468449/",
+      "url": "https://trueinterview.io/jobs/6df7b793-6809-4919-a245-488ed45160ed",
+      "postedAt": "2026-11-15T12:00:00.000Z",
+      "updatedAt": "2026-11-15T12:00:00.000Z"
+    },
+    {
+      "id": "cdb9f367-45a9-4a3d-bd02-ecadf67281cb",
+      "company": "Google",
+      "title": "Associate Product Marketing Manager BS/MS Intern, 2027",
+      "locations": [
+        "Dublin, County Dublin, Ireland",
+        "London, England, United Kingdom",
+        "Hamburg, Hamburg, Germany"
+      ],
+      "cities": [
+        "Dublin",
+        "London",
+        "Hamburg"
+      ],
+      "countries": [
+        "Ireland",
+        "United Kingdom",
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473352839/",
+      "url": "https://trueinterview.io/jobs/cdb9f367-45a9-4a3d-bd02-ecadf67281cb",
+      "postedAt": "2026-11-15T11:58:00.000Z",
+      "updatedAt": "2026-11-15T11:58:00.000Z"
+    },
+    {
+      "id": "41af5edf-bc66-4af8-9f39-441ca23112a5",
+      "company": "Marvell Technology",
+      "title": "Software/Firmware Engineering Intern",
+      "locations": [
+        "Petah Tikva, Center District, Israel"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489379816/",
+      "url": "https://trueinterview.io/jobs/41af5edf-bc66-4af8-9f39-441ca23112a5",
+      "postedAt": "2026-11-15T11:43:00.000Z",
+      "updatedAt": "2026-11-15T11:43:00.000Z"
+    },
+    {
+      "id": "52ae4c5a-0e96-4b2f-b54e-f78cdee2100c",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer",
+      "locations": [
+        "San Jose, CA",
+        "Seattle, WA"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474545813/",
+      "url": "https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c",
+      "postedAt": "2026-11-14T12:06:00.000Z",
+      "updatedAt": "2026-11-15T11:16:00.000Z"
+    },
+    {
+      "id": "c37c7daa-857a-4419-8849-1aca7b3c0750",
+      "company": "Toyota Automated Logistics",
+      "title": "Software Project Engineer Intern (Summer 2027)",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491062538/",
+      "url": "https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750",
+      "postedAt": "2026-11-14T11:43:00.000Z",
+      "updatedAt": "2026-11-15T11:16:00.000Z"
+    },
+    {
+      "id": "e9e683af-810d-40a5-88f6-1c37af5f5436",
+      "company": "Toyota Automated Logistics",
+      "title": "Software QA Co-op (Summer 2027)",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491069256/",
+      "url": "https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436",
+      "postedAt": "2026-11-14T11:43:00.000Z",
+      "updatedAt": "2026-11-15T11:16:00.000Z"
+    },
+    {
+      "id": "064636bd-09a0-40f5-a0ed-585393ac3d8d",
+      "company": "Synopsys Inc",
+      "title": "Technical Engineering Intern - Design Verification Internship",
+      "locations": [
+        "Hanoi, Hanoi, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483319359/",
+      "url": "https://trueinterview.io/jobs/064636bd-09a0-40f5-a0ed-585393ac3d8d",
+      "postedAt": "2026-11-15T09:43:00.000Z",
+      "updatedAt": "2026-11-15T09:43:00.000Z"
+    },
     {
       "id": "92f7732b-1498-46f2-90ee-24f39f048666",
       "company": "Eight Sleep",
@@ -1766,110 +1982,6 @@
       "url": "https://trueinterview.io/jobs/fca26792-2ca7-4cec-88aa-1fb1f1bd9390",
       "postedAt": "2026-11-14T12:19:00.000Z",
       "updatedAt": "2026-11-14T12:19:00.000Z"
-    },
-    {
-      "id": "52ae4c5a-0e96-4b2f-b54e-f78cdee2100c",
-      "company": "ByteDance",
-      "title": "Software Engineer intern (Global Traffic Architecture) - 2027 Summer",
-      "locations": [
-        "San Jose, CA",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4474545813/",
-      "url": "https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c",
-      "postedAt": "2026-11-14T12:06:00.000Z",
-      "updatedAt": "2026-11-14T12:06:00.000Z"
-    },
-    {
-      "id": "642aa1ac-40a7-4e24-a58f-f3a9822615a6",
-      "company": "Toyota Automated Logistics",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Noblesville, IN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491058705/",
-      "url": "https://trueinterview.io/jobs/642aa1ac-40a7-4e24-a58f-f3a9822615a6",
-      "postedAt": "2026-11-14T11:43:00.000Z",
-      "updatedAt": "2026-11-14T11:43:00.000Z"
-    },
-    {
-      "id": "c37c7daa-857a-4419-8849-1aca7b3c0750",
-      "company": "Toyota Automated Logistics",
-      "title": "Software Project Engineer Intern (Summer 2027)",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491062538/",
-      "url": "https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750",
-      "postedAt": "2026-11-14T11:43:00.000Z",
-      "updatedAt": "2026-11-14T11:43:00.000Z"
-    },
-    {
-      "id": "e9e683af-810d-40a5-88f6-1c37af5f5436",
-      "company": "Toyota Automated Logistics",
-      "title": "Software QA Co-op (Summer 2027)",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491069256/",
-      "url": "https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436",
-      "postedAt": "2026-11-14T11:43:00.000Z",
-      "updatedAt": "2026-11-14T11:43:00.000Z"
     },
     {
       "id": "c1b80eb9-c841-4b54-b912-9f87e83b64de",
@@ -5701,33 +5813,6 @@
       "updatedAt": "2026-11-13T10:24:07.000Z"
     },
     {
-      "id": "76da53b9-d9a1-4851-a75f-ed281f9ae74f",
-      "company": "ByteDance",
-      "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4474557191/",
-      "url": "https://trueinterview.io/jobs/76da53b9-d9a1-4851-a75f-ed281f9ae74f",
-      "postedAt": "2026-11-13T10:19:00.000Z",
-      "updatedAt": "2026-11-13T10:19:00.000Z"
-    },
-    {
       "id": "763e5d25-2286-474c-aa2d-1d96d9e496a0",
       "company": "TikTok",
       "title": "Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）",
@@ -5943,33 +6028,6 @@
       "url": "https://trueinterview.io/jobs/e2ec5fea-33d5-4625-a7d6-4d8202ba09e3",
       "postedAt": "2026-11-12T12:42:00.000Z",
       "updatedAt": "2026-11-13T10:05:00.000Z"
-    },
-    {
-      "id": "6d4b9bdd-0e7f-44c2-af17-ed858822becf",
-      "company": "ByteDance",
-      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4474564028/",
-      "url": "https://trueinterview.io/jobs/6d4b9bdd-0e7f-44c2-af17-ed858822becf",
-      "postedAt": "2026-11-13T09:53:00.000Z",
-      "updatedAt": "2026-11-13T09:53:00.000Z"
     },
     {
       "id": "1c6ee5eb-e71f-4fdc-8509-7919c6eb3bec",
@@ -46685,32 +46743,6 @@
       "url": "https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198",
       "postedAt": "2026-10-31T11:47:00.000Z",
       "updatedAt": "2026-10-31T11:47:00.000Z"
-    },
-    {
-      "id": "e2e63de5-6abe-4f5e-9602-0065b3ad200e",
-      "company": "Qualcomm",
-      "title": "Intern Hardware Engineer Digital PDTE",
-      "locations": [
-        "Tijuana, Baja California, Mexico"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Mexico"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476806288/",
-      "url": "https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e",
-      "postedAt": "2026-10-31T11:40:00.000Z",
-      "updatedAt": "2026-10-31T11:40:00.000Z"
     },
     {
       "id": "7bc5a8e6-1b33-4d82-ba0d-6d856138f856",

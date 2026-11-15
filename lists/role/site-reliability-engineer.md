@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d4b9bdd-0e7f-44c2-af17-ed858822becf">Site Reliability Engineer Intern (Data Infra) - 2027 Summer</a></td>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/6df7b793-6809-4919-a245-488ed45160ed">Site Reliability Engineer Intern (Global SRE) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474564028/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455468449/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>T-Mobile</strong></td>

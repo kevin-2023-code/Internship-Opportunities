@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**668 open roles.** 535 in the United States & Canada · 133 elsewhere in the world.
+**666 open roles.** 533 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Toyota Automated Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/2713ec56-297e-4c0e-942a-d0babd268d27">Software Development Internship (Summer 2027)</a></td>
@@ -171,20 +178,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4913d575-94df-4112-bfd9-36df810aa2ec">Summer 2027 Intern:: Software Engineer II</a></td>
 <td>Bentonville, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463957109/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toyota Automated Logistics</strong></td>
-<td><a href="https://trueinterview.io/jobs/642aa1ac-40a7-4e24-a58f-f3a9822615a6">Software Engineer Intern</a></td>
-<td>Noblesville, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491058705/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c37c7daa-857a-4419-8849-1aca7b3c0750">Software Project Engineer Intern (Summer 2027)</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491062538/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -539,13 +532,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/76da53b9-d9a1-4851-a75f-ed281f9ae74f">Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474557191/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fa893302-a926-4090-a76b-ca732106ee11">Developer Advocacy Project Intern (PICO) - 2026 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474556225/">Apply</a></td>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
 <td>Brea, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483416245/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baypath Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
+<td>Crane, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801282/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
