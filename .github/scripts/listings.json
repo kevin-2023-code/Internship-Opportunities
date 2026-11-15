@@ -5,9 +5,115 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T00:12:37.499Z",
-  "count": 3959,
+  "listingsChangedAt": "2026-11-15T01:05:10.745Z",
+  "count": 3962,
   "listings": [
+    {
+      "id": "495afb3b-5484-415b-b650-da6ea8a988f3",
+      "company": "Tesla",
+      "title": "Internship, Mechanical Design Engineer, Energy Infrastructure Power Electronics, Energy Engineering (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491097900/",
+      "url": "https://trueinterview.io/jobs/495afb3b-5484-415b-b650-da6ea8a988f3",
+      "postedAt": "2026-11-15T00:25:00.000Z",
+      "updatedAt": "2026-11-15T00:25:00.000Z"
+    },
+    {
+      "id": "f9cbfabf-6669-47ec-b0e5-a1fa2af9030f",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Information Security (Winter/Spring 2027)",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491208392/",
+      "url": "https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f",
+      "postedAt": "2026-11-15T00:24:00.000Z",
+      "updatedAt": "2026-11-15T00:24:00.000Z"
+    },
+    {
+      "id": "c8406a7f-b067-4c45-96bb-5d22c64af433",
+      "company": "Tesla",
+      "title": "Internship, Electrical Engineer, High Speed Hardware Design, Optimus (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491217097/",
+      "url": "https://trueinterview.io/jobs/c8406a7f-b067-4c45-96bb-5d22c64af433",
+      "postedAt": "2026-11-15T00:23:00.000Z",
+      "updatedAt": "2026-11-15T00:23:00.000Z"
+    },
+    {
+      "id": "fe821e0c-32b0-4d0a-a9c4-49521a228594",
+      "company": "Optimum",
+      "title": "Intern - Cybersecurity Operations",
+      "locations": [
+        "Bethpage, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491098801/",
+      "url": "https://trueinterview.io/jobs/fe821e0c-32b0-4d0a-a9c4-49521a228594",
+      "postedAt": "2026-11-15T00:10:00.000Z",
+      "updatedAt": "2026-11-15T00:10:00.000Z"
+    },
     {
       "id": "92f7732b-1498-46f2-90ee-24f39f048666",
       "company": "Eight Sleep",
@@ -28,7 +134,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -52,10 +158,10 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -79,9 +185,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -107,9 +213,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -132,9 +238,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -246,6 +352,33 @@
       "updatedAt": "2026-11-14T20:15:00.000Z"
     },
     {
+      "id": "31bb4bc6-916a-4458-9969-869bad6e2020",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden",
+      "locations": [
+        "Stockholm, Stockholm County, Sweden"
+      ],
+      "cities": [
+        "Stockholm"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489881896/",
+      "url": "https://trueinterview.io/jobs/31bb4bc6-916a-4458-9969-869bad6e2020",
+      "postedAt": "2026-11-14T19:56:00.000Z",
+      "updatedAt": "2026-11-14T19:56:00.000Z"
+    },
+    {
       "id": "017f3813-7af7-4bf1-a316-192b7dd90371",
       "company": "Martin Marietta",
       "title": "Intern, Data Scientist",
@@ -259,7 +392,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Scientist",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -282,9 +415,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -346,29 +479,31 @@
       "updatedAt": "2026-11-14T19:22:00.000Z"
     },
     {
-      "id": "69740f48-68b4-4732-9cd6-b59a6546340a",
-      "company": "NVIDIA",
-      "title": "Artificial Intelligence Research Intern - Deep Learning",
+      "id": "d2cbdbbb-f1ee-46cc-a579-25704a7b1051",
+      "company": "Camping World",
+      "title": "AI Security Intern",
       "locations": [
-        "Taipei, Taipei City, Taiwan"
+        "Chicago, IL"
       ],
-      "cities": [],
+      "cities": [
+        "Chicago, IL"
+      ],
       "countries": [
-        "Other"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4455490138/",
-      "url": "https://trueinterview.io/jobs/69740f48-68b4-4732-9cd6-b59a6546340a",
-      "postedAt": "2026-11-14T19:09:00.000Z",
-      "updatedAt": "2026-11-14T19:09:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489340839/",
+      "url": "https://trueinterview.io/jobs/d2cbdbbb-f1ee-46cc-a579-25704a7b1051",
+      "postedAt": "2026-11-14T19:16:00.000Z",
+      "updatedAt": "2026-11-14T19:16:00.000Z"
     },
     {
       "id": "35436982-9a6c-4ee3-a84a-14cf19d5e2d5",
@@ -408,9 +543,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -418,31 +553,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4489884905/",
       "url": "https://trueinterview.io/jobs/34564057-401d-4506-87a2-03f77a23eabe",
-      "postedAt": "2026-11-14T19:09:00.000Z",
-      "updatedAt": "2026-11-14T19:09:00.000Z"
-    },
-    {
-      "id": "29f685ed-89a0-4c4c-a892-56d114fd198e",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Neural Reconstruction and Rendering - 2027",
-      "locations": [
-        "Shanghai, Shanghai, China"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490206054/",
-      "url": "https://trueinterview.io/jobs/29f685ed-89a0-4c4c-a892-56d114fd198e",
       "postedAt": "2026-11-14T19:09:00.000Z",
       "updatedAt": "2026-11-14T19:09:00.000Z"
     },
@@ -460,7 +570,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "QA Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -470,31 +580,6 @@
       "url": "https://trueinterview.io/jobs/fab2fca6-5a45-40c4-b6fa-872fb395e54a",
       "postedAt": "2026-11-14T19:09:00.000Z",
       "updatedAt": "2026-11-14T19:09:00.000Z"
-    },
-    {
-      "id": "e9267140-3eea-434e-a7bf-90cca60c9441",
-      "company": "Kaiser Permanente",
-      "title": "Cybersecurity Master's Intern",
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489890810/",
-      "url": "https://trueinterview.io/jobs/e9267140-3eea-434e-a7bf-90cca60c9441",
-      "postedAt": "2026-11-14T18:54:00.000Z",
-      "updatedAt": "2026-11-14T18:54:00.000Z"
     },
     {
       "id": "495d6dea-833b-4860-acda-d230ab1749d1",

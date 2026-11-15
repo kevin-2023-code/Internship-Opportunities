@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**111 open roles.**
+**112 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f">Internship, Software Engineer, Information Security (Winter/Spring 2027)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491208392/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Docusign</strong></td>
 <td><a href="https://trueinterview.io/jobs/be7d3598-8fe6-4f37-ae9e-438a49579e8e">Software Engineering Intern – Self-Service Directory Diagnostics</a></td>

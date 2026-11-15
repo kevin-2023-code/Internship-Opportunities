@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**809 open roles.** 589 in the United States & Canada · 220 elsewhere in the world.
+**807 open roles.** 587 in the United States & Canada · 220 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Centene Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a26c4885-74bb-4773-825f-ca5024612358">AI Engineer Intern (Undergraduate - Summer 2027)</a></td>
-<td>Missouri, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248850/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Capital One</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
-<td>San Jose, CA<br/>New York, NY<br/>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>CodeConductor.AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4d1c809-bf5a-4dc6-b4de-9ed4496ae30b">AI Intern</a></td>
@@ -1351,14 +1337,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/69740f48-68b4-4732-9cd6-b59a6546340a">Artificial Intelligence Research Intern - Deep Learning</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455490138/">Apply</a></td>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/31bb4bc6-916a-4458-9969-869bad6e2020">FY27 Intern - Multimedia R&amp;D Intern – Video &amp; AI - 6 months, Stockholm (Bromma) - Sweden</a></td>
+<td>Stockholm, Stockholm County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489881896/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d5057c1-ce31-4b36-b7b7-968010ef3906">Deep Learning Model and System Optimization Engineering Intern – 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481994381/">Apply</a></td>
@@ -2826,6 +2812,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Baku</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/b2615794-a2c1-4224-9d95-46a890f2a125">Apply</a></td>
 <td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d53e51a-ba2f-466f-a9d7-a70f6c83b52a">Data Scientist Intern - AI Data Quality &amp; Analytics (Autonomous Driving)</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153704599-data-scientist-intern-ai-data-quality-analytics-autonomous-driving-">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/3aebdea2-1212-49be-a089-9a5f44c90c23">Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
+<td>Paris, IDF, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 </tbody>
 </table>

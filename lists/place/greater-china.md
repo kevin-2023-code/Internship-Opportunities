@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**69 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,13 +21,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/69740f48-68b4-4732-9cd6-b59a6546340a">Artificial Intelligence Research Intern - Deep Learning</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455490138/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/35436982-9a6c-4ee3-a84a-14cf19d5e2d5">Software Engineer Intern - NVEX, 2027</a></td>
 <td>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481990635/">Apply</a></td>
@@ -38,13 +31,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/34564057-401d-4506-87a2-03f77a23eabe">Software Engineering Intern, NCCL - 2027</a></td>
 <td>Beijing, Beijing, China<br/>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489884905/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/29f685ed-89a0-4c4c-a892-56d114fd198e">Software Engineering Intern, Neural Reconstruction and Rendering - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490206054/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

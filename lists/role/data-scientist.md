@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**123 open roles.** 102 in the United States & Canada · 21 elsewhere in the world.
+**121 open roles.** 100 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Allied HOA Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/00df2f1d-da01-4487-aae1-7308add9cedd">Data Science &amp; Software Engineering Intern — Summer 2027 (Full-Time)</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489897772/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Martin Marietta</strong></td>
-<td><a href="https://trueinterview.io/jobs/017f3813-7af7-4bf1-a316-192b7dd90371">Intern, Data Scientist</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491202238/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>ICE</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d9bfe28-6dec-45ae-9d3f-8d55d6525797">Summer Internship Program 2027 - Agentic AI Data Science Intern</a></td>

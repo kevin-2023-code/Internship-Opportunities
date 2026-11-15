@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Kaiser Permanente</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9267140-3eea-434e-a7bf-90cca60c9441">Cybersecurity Master's Intern</a></td>
-<td>Pasadena, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489890810/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
+<td><strong>Optimum</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe821e0c-32b0-4d0a-a9c4-49521a228594">Intern - Cybersecurity Operations</a></td>
+<td>Bethpage, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491098801/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>ServiceNow</strong></td>

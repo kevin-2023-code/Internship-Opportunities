@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**641 open roles.** 516 in the United States & Canada · 125 elsewhere in the world.
+**649 open roles.** 522 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bass Pro Shops</strong></td>
+<td><a href="https://trueinterview.io/jobs/241471a4-7b70-447c-8b1a-bd8e2cb8fe2b">IT Developer Intern Summer 2027</a></td>
+<td>Springfield, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468257655/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/05b2c03e-4816-4628-b0ed-615a46e23efc">Content Publishing Developer Intern - Summer 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027</a></td>
+<td>Crane, Indiana, United States</td>
+<td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/1776f4c8-8075-4ebe-b2b8-ffeffedcdad9">Internship, Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484901116/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FlightSafety International</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc166842-4933-4b17-8ccc-8c5be25d70c5">Software Engineer Internship - Summer 2027</a></td>
+<td>Tulsa Metropolitan Area<br/>Broken Arrow, Oklahoma, United States</td>
+<td align="center"><a href="https://careers.flightsafety.com/job/Broken-Arrow-Software-Engineer-%28Simulation-Development%29-Internship-Summer-2027-OK-74012/1442009800/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SOTI</strong></td>
 <td><a href="https://trueinterview.io/jobs/027beb42-ed00-4639-9694-afcc06449592">Software Developer Intern - SOTI XSight (May 2027 12 Months)</a></td>
@@ -844,6 +886,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/35436982-9a6c-4ee3-a84a-14cf19d5e2d5">Software Engineer Intern - NVEX, 2027</a></td>
 <td>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481990635/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/34564057-401d-4506-87a2-03f77a23eabe">Software Engineering Intern, NCCL - 2027</a></td>
+<td>Beijing, Beijing, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489884905/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fab2fca6-5a45-40c4-b6fa-872fb395e54a">Software QA Intern, Spark Rapids - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456058452/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

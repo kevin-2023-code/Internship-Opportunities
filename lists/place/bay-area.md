@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**590 open roles.**
+**592 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/495afb3b-5484-415b-b650-da6ea8a988f3">Internship, Mechanical Design Engineer, Energy Infrastructure Power Electronics, Energy Engineering (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491097900/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8406a7f-b067-4c45-96bb-5d22c64af433">Internship, Electrical Engineer, High Speed Hardware Design, Optimus (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491217097/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, San Francisco<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application">Apply</a></td>
 <td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2">Research Scientist Intern, PhD — Meta Superintelligence Labs</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1510576574212840/">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d">Electrical Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 </tbody>
 </table>

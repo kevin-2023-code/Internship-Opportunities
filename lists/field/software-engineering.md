@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,935 open roles.** 1,532 in the United States & Canada · 403 elsewhere in the world.
+**1,936 open roles.** 1,534 in the United States & Canada · 402 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,11 +20,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Eight Sleep</strong></td>
-<td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
-<td>San Francisco, CA<br/>Washington, DC<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b">Apply</a></td>
-<td align="center">14 Nov 2026</td>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f">Internship, Software Engineer, Information Security (Winter/Spring 2027)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491208392/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6">Summer Internship Program 2027 - Software Engineering Intern</a></td>
 <td>New York, NY<br/>Jacksonville, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483172497/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Allied HOA Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/00df2f1d-da01-4487-aae1-7308add9cedd">Data Science &amp; Software Engineering Intern — Summer 2027 (Full-Time)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489897772/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -76,6 +83,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Martin Marietta</strong></td>
+<td><a href="https://trueinterview.io/jobs/08bb5c77-c5b4-46be-b0c9-e241504d4b87">Intern, Software Data Integration Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491096584/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Highmark Blue Cross Blue Shield of Western New York</strong></td>
 <td><a href="https://trueinterview.io/jobs/a35d6fe6-f623-4e94-a16b-247a4c78f473">Summer 2027 Enterprise Architecture Software Engineer &amp; Architect enGen Undergradute Intern</a></td>
 <td>Pittsburgh, PA</td>
@@ -90,10 +104,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Kaiser Permanente</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9267140-3eea-434e-a7bf-90cca60c9441">Cybersecurity Master's Intern</a></td>
-<td>Pasadena, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489890810/">Apply</a></td>
+<td><strong>Camping World</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2cbdbbb-f1ee-46cc-a579-25704a7b1051">AI Security Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489340839/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/17bc85c2-d8ba-4963-838d-1dc884d76b0d">2027 Summer Intern: Software Engineer - P&amp;T</a></td>
 <td>Maryland Heights, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469518537/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0af92f9-6cb3-4678-ab61-9c3e88687dce">Software Engineering Intern - Summer 2027</a></td>
-<td>Green Bay, WI</td>
-<td align="center"><a href="https://www.click2apply.net/Lo1KLZC2DGpMdH16jcEVOE">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2416388a-21b6-4223-8144-5ccfec4623a4">Site Reliability Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

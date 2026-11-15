@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**809 open roles.** 727 in the United States & Canada · 82 elsewhere in the world.
+**812 open roles.** 730 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7d651be-c785-496c-997f-b8ffc4d156de">Engineering Intern (6 months internship)</a></td>
+<td>Campoverde, Lazio, Italy</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016282473-engineering-intern-6-months-internship-?oga=true">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/29916e1b-d937-4781-b1b8-6d7a07e50099">Internship in Electrical Engineering</a></td>
+<td>Tranås, Jönköpings län, Sweden</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156529125-internship-in-electrical-engineering">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6637ae-baa5-49a5-a568-57c279ca4477">Silicon Summer Intern 2027</a></td>
+<td>Bristol, UK<br/>Cambridge, UK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8879329002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
 <td><a href="https://trueinterview.io/jobs/aaf24f31-1c7e-4369-af43-dd22ec31388b">Intern Industrial Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,935 open roles.** 1,532 in the United States & Canada · 403 elsewhere in the world.
+**1,936 open roles.** 1,534 in the United States & Canada · 402 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@
 <tbody>
 <tr>
 <td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac8fd388-13bc-4d54-9c6e-4005ffc9a4e3">Vehicle Structures &amp; Mechanisms Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476334724/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42ff15cf-4e29-4920-b7c2-e247bacaf091">Launch Fluids and Operations Engineer Intern (Cape Canaveral, FL)</a></td>
+<td>Cape Canaveral, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476341537/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c781328-4ad8-4ef5-9019-dcb39677b455">Propulsion Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476331852/">Apply</a></td>
@@ -2367,13 +2381,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/29f685ed-89a0-4c4c-a892-56d114fd198e">Software Engineering Intern, Neural Reconstruction and Rendering - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490206054/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fab2fca6-5a45-40c4-b6fa-872fb395e54a">Software QA Intern, Spark Rapids - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456058452/">Apply</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c4ff1f10-6093-43b8-9c3a-db9b6c0b5fc0">Software Engineer Intern (Jan to Jun 2027)</a></td>
 <td>SG - Singapore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2548cff5-06c8-4008-991f-b064568fb548">Software Engineer Intern (Summer 2027)</a></td>
-<td>SG - Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

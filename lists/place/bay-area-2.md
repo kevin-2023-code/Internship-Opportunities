@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**590 open roles.**
+**592 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2">Research Scientist Intern, PhD — Meta Superintelligence Labs</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1510576574212840/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d">Electrical Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f2ddd61-4a28-4e77-93c2-5c1209dcc34f">Wireless Hardware Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea">Apply</a></td>

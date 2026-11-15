@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**809 open roles.** 589 in the United States & Canada · 220 elsewhere in the world.
+**807 open roles.** 587 in the United States & Canada · 220 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d53e51a-ba2f-466f-a9d7-a70f6c83b52a">Data Scientist Intern - AI Data Quality &amp; Analytics (Autonomous Driving)</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153704599-data-scientist-intern-ai-data-quality-analytics-autonomous-driving-">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3aebdea2-1212-49be-a089-9a5f44c90c23">Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
-<td>Paris, IDF, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Delivery Hero</strong></td>
 <td><a href="https://trueinterview.io/jobs/c27007d1-9b03-44ab-b6c4-407f755fad77">Intern Data Analyst I People Strategy Global HQ</a></td>

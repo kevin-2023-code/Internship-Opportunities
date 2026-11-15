@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**71 open roles.**
+**72 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Camping World</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2cbdbbb-f1ee-46cc-a579-25704a7b1051">AI Security Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489340839/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Milliman</strong></td>
 <td><a href="https://trueinterview.io/jobs/4288b422-24a5-4e3d-a26e-304eb96d23b8">AI Product Engineer Intern Spring 2027 (Part-time) - CMH Health</a></td>

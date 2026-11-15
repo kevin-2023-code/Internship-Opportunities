@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**67 open roles.** 58 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**70 open roles.** 61 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/495afb3b-5484-415b-b650-da6ea8a988f3">Internship, Mechanical Design Engineer, Energy Infrastructure Power Electronics, Energy Engineering (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491097900/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f">Internship, Software Engineer, Information Security (Winter/Spring 2027)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491208392/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8406a7f-b067-4c45-96bb-5d22c64af433">Internship, Electrical Engineer, High Speed Hardware Design, Optimus (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491217097/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/47062a36-51cc-4a7c-9f06-99f9d65b80d8">Internship, Software Engineer, Core SI Compiler &amp; Runtime (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491014780/">Apply</a></td>

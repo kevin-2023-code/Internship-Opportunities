@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**641 open roles.** 516 in the United States & Canada · 125 elsewhere in the world.
+**649 open roles.** 522 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f">Internship, Software Engineer, Information Security (Winter/Spring 2027)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491208392/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/a464bcda-ee13-41c4-b4b9-483850bdab53">Software Engineering Co-op (Summer/Fall)</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491212070/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Docusign</strong></td>
+<td><a href="https://trueinterview.io/jobs/be7d3598-8fe6-4f37-ae9e-438a49579e8e">Software Engineering Intern – Self-Service Directory Diagnostics</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473373323/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/3adbfc97-b622-4400-9e76-924026bd33a6">Summer Internship Program 2027 - Software Engineering Intern</a></td>
+<td>New York, NY<br/>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483172497/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Allied HOA Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/00df2f1d-da01-4487-aae1-7308add9cedd">Data Science &amp; Software Engineering Intern — Summer 2027 (Full-Time)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489897772/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Nammu</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fea309d-6c21-4089-a005-b93e439f4327">Software Engineer Intern</a></td>
@@ -45,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ecc2b6c9-a3a7-40c3-9233-623485982c99">Summer Internship Program 2027 - Software Developer Intern</a></td>
 <td>Jacksonville, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483189109/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Martin Marietta</strong></td>
+<td><a href="https://trueinterview.io/jobs/08bb5c77-c5b4-46be-b0c9-e241504d4b87">Intern, Software Data Integration Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491096584/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
 <td>Amsterdam, North Holland, Netherlands<br/>London, England, United Kingdom<br/>Montreal, QC<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991196">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bass Pro Shops</strong></td>
-<td><a href="https://trueinterview.io/jobs/241471a4-7b70-447c-8b1a-bd8e2cb8fe2b">IT Developer Intern Summer 2027</a></td>
-<td>Springfield, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468257655/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Great American Insurance Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/05b2c03e-4816-4628-b0ed-615a46e23efc">Content Publishing Developer Intern - Summer 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027</a></td>
-<td>Crane, Indiana, United States</td>
-<td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/1776f4c8-8075-4ebe-b2b8-ffeffedcdad9">Internship, Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484901116/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FlightSafety International</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc166842-4933-4b17-8ccc-8c5be25d70c5">Software Engineer Internship - Summer 2027</a></td>
-<td>Tulsa Metropolitan Area<br/>Broken Arrow, Oklahoma, United States</td>
-<td align="center"><a href="https://careers.flightsafety.com/job/Broken-Arrow-Software-Engineer-%28Simulation-Development%29-Internship-Summer-2027-OK-74012/1442009800/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

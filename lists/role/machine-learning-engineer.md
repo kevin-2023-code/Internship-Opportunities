@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**186 open roles.** 142 in the United States & Canada · 44 elsewhere in the world.
+**185 open roles.** 142 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1025,13 +1025,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/69740f48-68b4-4732-9cd6-b59a6546340a">Artificial Intelligence Research Intern - Deep Learning</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455490138/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1d5057c1-ce31-4b36-b7b7-968010ef3906">Deep Learning Model and System Optimization Engineering Intern – 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481994381/">Apply</a></td>

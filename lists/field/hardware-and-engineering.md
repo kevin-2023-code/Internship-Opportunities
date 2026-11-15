@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**809 open roles.** 727 in the United States & Canada · 82 elsewhere in the world.
+**812 open roles.** 730 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/495afb3b-5484-415b-b650-da6ea8a988f3">Internship, Mechanical Design Engineer, Energy Infrastructure Power Electronics, Energy Engineering (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491097900/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8406a7f-b067-4c45-96bb-5d22c64af433">Internship, Electrical Engineer, High Speed Hardware Design, Optimus (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491217097/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Eight Sleep</strong></td>
+<td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
+<td>San Francisco, CA<br/>Washington, DC<br/>Austin, TX<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Celestica</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a56acb8-3b0c-41d0-95ec-cc91697a1999">Student Intern, Software &amp; Hardware Engineer</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8b9c3f8d-649b-41c7-8c7c-8808337f9483">Battery Engineering Intern, Cell Engineering (PhD)</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/938682979075854/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/4eb2d2b8-f82f-4954-b62f-34af56c0a90f">Embedded Systems Co-Op</a></td>
-<td>Boston, MA<br/>US, MA, Boston, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/599dbfc7-05ac-4080-8a84-29df83d0a33a">Tech Ops Engineer Intern, 2027 Tech Ops Intern</a></td>
-<td>San Diego, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cf2e828-e70c-4019-9189-736000a7aeae">2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)</a></td>
-<td>Gloucester, MA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318930657">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>

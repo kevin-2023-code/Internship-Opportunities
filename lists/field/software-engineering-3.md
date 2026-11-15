@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,935 open roles.** 1,532 in the United States & Canada · 403 elsewhere in the world.
+**1,936 open roles.** 1,534 in the United States & Canada · 402 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/c70bd738-6a0b-4731-8b1e-bd4b9ea3d094">Software Engineering Co-Op, Spring 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459397485/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RE/SPEC Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/044be1c5-afbd-47ca-b009-0c0d6c7cf731">Student Engineering Intern – Water Resources</a></td>
+<td>Denver, Colorado, United States<br/>Anchorage, Alaska, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000158767659-student-engineering-intern-water-resources">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Gcm Grosvenor</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec9c1d27-0cb9-4e98-b541-de4c8cf88cda">2027 Cybersecurity Summer Intern</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/c064d459-68a6-419f-89fc-2179f7afc6ce">Intern/Co-op - Midstream Logistics and Storage Engineering (L&amp;SE) Project Controls (Summer 2027)</a></td>
 <td>Findlay, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467440987/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac8fd388-13bc-4d54-9c6e-4005ffc9a4e3">Vehicle Structures &amp; Mechanisms Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476334724/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42ff15cf-4e29-4920-b7c2-e247bacaf091">Launch Fluids and Operations Engineer Intern (Cape Canaveral, FL)</a></td>
-<td>Cape Canaveral, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476341537/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

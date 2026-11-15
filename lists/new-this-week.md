@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**940 open roles.** 743 in the United States & Canada · 197 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 737 in the United States & Canada · 196 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/495afb3b-5484-415b-b650-da6ea8a988f3">Internship, Mechanical Design Engineer, Energy Infrastructure Power Electronics, Energy Engineering (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491097900/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9cbfabf-6669-47ec-b0e5-a1fa2af9030f">Internship, Software Engineer, Information Security (Winter/Spring 2027)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491208392/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8406a7f-b067-4c45-96bb-5d22c64af433">Internship, Electrical Engineer, High Speed Hardware Design, Optimus (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491217097/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Optimum</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe821e0c-32b0-4d0a-a9c4-49521a228594">Intern - Cybersecurity Operations</a></td>
+<td>Bethpage, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491098801/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
@@ -111,10 +139,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Kaiser Permanente</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9267140-3eea-434e-a7bf-90cca60c9441">Cybersecurity Master's Intern</a></td>
-<td>Pasadena, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489890810/">Apply</a></td>
+<td><strong>Camping World</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2cbdbbb-f1ee-46cc-a579-25704a7b1051">AI Security Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489340839/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>A Igreja de Jesus Cristo dos Santos dos Últimos Dias</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4fa0f8c-1651-433e-b57a-7e1bd2e94bef">AI Paid Intern ( full time or part time)</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489697088/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9295d5f-e825-408b-9984-3878b5c8ecfb">Search Security Strategy Operations Intern (TikTok-Platform Responsibility-Search) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452407941/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>International</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3c201d9-01ed-40fe-8c9a-7864f467da82">AI/ML Intern</a></td>
-<td>Lisle, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487885622/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jobverse.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/12628dd5-945f-4c01-8100-8066161c0e43">AI/ML Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>Sunnyvale, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489680407/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

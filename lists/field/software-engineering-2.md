@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,935 open roles.** 1,532 in the United States & Canada · 403 elsewhere in the world.
+**1,936 open roles.** 1,534 in the United States & Canada · 402 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Schneider</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0af92f9-6cb3-4678-ab61-9c3e88687dce">Software Engineering Intern - Summer 2027</a></td>
+<td>Green Bay, WI</td>
+<td align="center"><a href="https://www.click2apply.net/Lo1KLZC2DGpMdH16jcEVOE">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Varda Space Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2416388a-21b6-4223-8144-5ccfec4623a4">Site Reliability Internship - Summer 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PriVii Care</strong></td>
 <td><a href="https://trueinterview.io/jobs/b14b8913-e3f5-434c-8899-8b11393f47b2">Software Engineer Intern / Fellowship (Frontend, Mobile &amp; Full-Stack)</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/a4169451-0a8b-4104-96d4-b00b1f28ee98">Intern - R&amp;D Test Engineer - Spring or Summer 2027</a></td>
 <td>Devens, MA &amp; Somerville, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Johnson &amp; Johnson MedTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/c70bd738-6a0b-4731-8b1e-bd4b9ea3d094">Software Engineering Co-Op, Spring 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459397485/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RE/SPEC Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/044be1c5-afbd-47ca-b009-0c0d6c7cf731">Student Engineering Intern – Water Resources</a></td>
-<td>Denver, Colorado, United States<br/>Anchorage, Alaska, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000158767659-student-engineering-intern-water-resources">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
