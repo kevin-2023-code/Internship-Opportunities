@@ -32,13 +32,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 14:04 UTC_
+_Last updated: 2026-11-15 15:04 UTC_
 
-**3,147 open internships** from **1,291 employers** · **727 posted in the last 7 days** · refreshed hourly
+**3,146 open internships** from **1,290 employers** · **727 posted in the last 7 days** · refreshed hourly
 
-### Browse 3,147 internships by field
+### Browse 3,146 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (1,543)
+💻 **[Software Engineering](#-software-engineering)** (1,542)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (583)
 
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 1,543.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 1,542.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -2543,7 +2543,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/3042ef5a-b14b-4d02-a3c0-61714912de5e">IT Support Engineer Summer Intern</a></td>
 <td>Wheeling, West Virginia, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000159878934-it-support-engineer-summer-intern">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>WebFX</strong></td>

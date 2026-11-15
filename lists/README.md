@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-15 14:04 UTC_
+_Last updated: 2026-11-15 15:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 232 of the 1,506 employers on this list (31% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 232 of the 1,505 employers on this list (31% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,543 | 408 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,542 | 408 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 731 | 82 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 583 | 218 |
 | [📱 Product & Design](field/product-and-design.md) | 162 | 65 |
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,227 of the 3,966** internships on this list (31%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,227 of the 3,965** internships on this list (31%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **1,227 of the 3,966** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **2,204 of the 3,966** internships on this list (56%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **2,204 of the 3,965** internships on this list (56%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -114,7 +114,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 37 filters hold **2,308 of the 3,966** internships on this list (58%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 37 filters hold **2,308 of the 3,965** internships on this list (58%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -162,7 +162,7 @@ _Between them these 37 filters hold **2,308 of the 3,966** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **963 of the 3,966** internships on this list (24%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **963 of the 3,965** internships on this list (24%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |

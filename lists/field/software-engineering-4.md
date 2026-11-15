@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,951 open roles.** 1,543 in the United States & Canada · 408 elsewhere in the world.
+**1,950 open roles.** 1,542 in the United States & Canada · 408 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2409,13 +2409,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Avery Dennison</strong></td>
-<td><a href="https://trueinterview.io/jobs/82cae454-466d-4447-8508-4b796b4e2870">RFID New Product Development Engineering Intern Summer 2027</a></td>
-<td>Fletcher, North Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AveryDennison/744000149895029-rfid-new-product-development-engineering-intern-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/915ddc55-3de5-4fbf-a833-55039a53a0a5">Frontend Engineer Intern (TikTok Shop by Tokopedia) - 2027 Start</a></td>
+<td>Jakarta, Jakarta, Indonesia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454776280/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

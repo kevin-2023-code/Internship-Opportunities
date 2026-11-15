@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 14:04 UTC_
+_Last updated: 2026-11-15 15:04 UTC_
 
 **819 open internships** from **311 employers** · **195 posted in the last 7 days** · refreshed hourly
 
@@ -685,7 +685,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/41b9e1e1-4807-4756-a7b9-5edba4cdf8ab">Data Engineer Intern</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490728308/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
@@ -1052,10 +1052,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b8fdc8a-0d6a-4ea6-9e5c-1cba224f8b1a">ECLSS V&amp;V Engineer Intern</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/0b8fdc8a-0d6a-4ea6-9e5c-1cba224f8b1a">ECLSS V&amp;V Engineer Intern</a></td>
 <td>Munich, Germany</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/ff522da9-87ba-4e4c-b6ee-7226c76583ba">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>
@@ -1578,14 +1578,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a78fda97-6bed-45d6-860b-6634fc7172a6">Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels</a></td>
 <td>London OR Brussels<br/>Brussels</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f7cfdee1-375a-4564-9c15-a2dc3cdf323c">DeFi Quant Research Intern (Digital Assets Market Making) - Brussels</a></td>
 <td>London OR Brussels<br/>Brussels</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
@@ -1620,7 +1620,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc">2027 Index Rebalancing Quantitative Research Intern</a></td>
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 </tbody>
 </table>
@@ -1766,7 +1766,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d12cc35b-1bf7-4428-9bc7-005b7e77f122">Operations Support Intern – IT &amp; Technology Projects</a></td>
 <td>Abu Dhabi, UAE</td>
 <td align="center"><a href="https://ae.indeed.com/viewjob?jk=e869c8d8b8bb3e9b">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

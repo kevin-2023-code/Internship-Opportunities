@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T14:04:25.469Z",
-  "count": 3966,
+  "listingsChangedAt": "2026-11-15T15:04:14.503Z",
+  "count": 3965,
   "listings": [
     {
       "id": "56a61c43-de68-473f-8f34-a3a57367993a",
@@ -102977,31 +102977,6 @@
       "url": "https://trueinterview.io/jobs/51977b52-7a52-4e76-a996-26363d7c138f",
       "postedAt": "2026-09-16T16:01:30.000Z",
       "updatedAt": "2026-09-16T16:01:30.000Z"
-    },
-    {
-      "id": "82cae454-466d-4447-8508-4b796b4e2870",
-      "company": "Avery Dennison",
-      "title": "RFID New Product Development Engineering Intern Summer 2027",
-      "locations": [
-        "Fletcher, North Carolina, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000149895029-rfid-new-product-development-engineering-intern-summer-2027",
-      "url": "https://trueinterview.io/jobs/82cae454-466d-4447-8508-4b796b4e2870",
-      "postedAt": "2026-09-16T14:56:56.000Z",
-      "updatedAt": "2026-09-16T14:56:56.000Z"
     }
   ]
 }
