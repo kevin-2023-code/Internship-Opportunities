@@ -5,9 +5,43 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T05:04:36.075Z",
+  "listingsChangedAt": "2026-11-15T06:06:37.650Z",
   "count": 3960,
   "listings": [
+    {
+      "id": "92f7732b-1498-46f2-90ee-24f39f048666",
+      "company": "Eight Sleep",
+      "title": "Short-Term Firmware Intern",
+      "locations": [
+        "San Francisco",
+        "New York City",
+        "Washington, DC",
+        "Austin",
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "Washington, DC",
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
+      "url": "https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666",
+      "postedAt": "2026-11-14T23:35:30.000Z",
+      "updatedAt": "2026-11-15T04:32:00.000Z"
+    },
     {
       "id": "495afb3b-5484-415b-b650-da6ea8a988f3",
       "company": "Tesla",
@@ -113,38 +147,6 @@
       "url": "https://trueinterview.io/jobs/fe821e0c-32b0-4d0a-a9c4-49521a228594",
       "postedAt": "2026-11-15T00:10:00.000Z",
       "updatedAt": "2026-11-15T00:10:00.000Z"
-    },
-    {
-      "id": "92f7732b-1498-46f2-90ee-24f39f048666",
-      "company": "Eight Sleep",
-      "title": "Short-Term Firmware Intern",
-      "locations": [
-        "San Francisco",
-        "New York City",
-        "Washington, DC",
-        "Austin"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "Washington, DC",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
-      "url": "https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666",
-      "postedAt": "2026-11-14T23:35:30.000Z",
-      "updatedAt": "2026-11-14T23:35:30.000Z"
     },
     {
       "id": "a464bcda-ee13-41c4-b4b9-483850bdab53",
@@ -302,9 +304,9 @@
       "updatedAt": "2026-11-14T20:57:00.000Z"
     },
     {
-      "id": "1499bfb3-92a5-41f7-ace3-55e884f50cb6",
+      "id": "b87ec5e8-b910-4bd0-abb0-1348cb311edc",
       "company": "Susquehanna International Group",
-      "title": "Quantitative Strategy Developer Internship: Summer 2027",
+      "title": "Trading Operations Analyst Internship: Summer 2027",
       "locations": [
         "Hong Kong, Hong Kong SAR"
       ],
@@ -313,16 +315,16 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Quantitative Finance",
+      "category": "Other",
       "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4433936676/",
-      "url": "https://trueinterview.io/jobs/1499bfb3-92a5-41f7-ace3-55e884f50cb6",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4446705255/",
+      "url": "https://trueinterview.io/jobs/b87ec5e8-b910-4bd0-abb0-1348cb311edc",
       "postedAt": "2026-11-14T20:41:00.000Z",
       "updatedAt": "2026-11-14T20:41:00.000Z"
     },
@@ -6576,6 +6578,31 @@
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
     {
+      "id": "d0a8b722-2197-4e8a-b8b3-7b5ca5d9e301",
+      "company": "CACI International",
+      "title": "Configuration Control/Data Management Co-op - Spring & Summer 2027",
+      "locations": [
+        "Danbury, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://searchcareers.caci.com/careers/job/1443154113599",
+      "url": "https://trueinterview.io/jobs/d0a8b722-2197-4e8a-b8b3-7b5ca5d9e301",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
       "id": "764d54aa-7b10-460b-9440-7cb234142be5",
       "company": "NextEra Energy",
       "title": "Summer Intern - Technical",
@@ -6612,9 +6639,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11627,9 +11654,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -102811,33 +102838,6 @@
       "url": "https://trueinterview.io/jobs/5bca56ff-32e0-44b7-96ce-dfd79e04cfb7",
       "postedAt": "2026-09-16T13:16:29.000Z",
       "updatedAt": "2026-09-16T13:16:29.000Z"
-    },
-    {
-      "id": "3832850e-60a3-47ad-ad00-1e44ae8c6740",
-      "company": "Antares",
-      "title": "Quality Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f",
-      "url": "https://trueinterview.io/jobs/3832850e-60a3-47ad-ad00-1e44ae8c6740",
-      "postedAt": "2026-09-16T05:45:17.000Z",
-      "updatedAt": "2026-09-16T05:45:17.000Z"
     }
   ]
 }
