@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**71 open roles.** 62 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**72 open roles.** 63 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -40,6 +40,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4823044-7216-44ff-8678-568b2e8b45b8">Software Engineer Intern (Spring 2027)</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457019748/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/efe8fda2-d310-4bbc-a942-939cd78ad0d7">Software Systems Validation Intern (Summer 2027)</a></td>
 <td>South San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456457380/">Apply</a></td>
