@@ -5,9 +5,109 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T17:03:45.730Z",
-  "count": 3975,
+  "listingsChangedAt": "2026-11-15T18:05:26.220Z",
+  "count": 3976,
   "listings": [
+    {
+      "id": "d18da591-b3a0-460b-9732-5a1d045eb4d7",
+      "company": "Motorola Solutions",
+      "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Plantation, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466378203/",
+      "url": "https://trueinterview.io/jobs/d18da591-b3a0-460b-9732-5a1d045eb4d7",
+      "postedAt": "2026-11-15T17:29:00.000Z",
+      "updatedAt": "2026-11-15T17:29:00.000Z"
+    },
+    {
+      "id": "01fe54c8-7e46-4c21-a39d-6b6dee1159fd",
+      "company": "Direct Supply",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466394769/",
+      "url": "https://trueinterview.io/jobs/01fe54c8-7e46-4c21-a39d-6b6dee1159fd",
+      "postedAt": "2026-11-15T17:05:00.000Z",
+      "updatedAt": "2026-11-15T17:05:00.000Z"
+    },
+    {
+      "id": "4745ebaf-bb27-444a-9df1-cddd82964c0c",
+      "company": "Direct Supply",
+      "title": "AI Engineer Intern",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466498952/",
+      "url": "https://trueinterview.io/jobs/4745ebaf-bb27-444a-9df1-cddd82964c0c",
+      "postedAt": "2026-11-15T17:04:00.000Z",
+      "updatedAt": "2026-11-15T17:04:00.000Z"
+    },
+    {
+      "id": "040104f1-8bf9-4536-858c-9d72bc7a9b46",
+      "company": "Voloridge Investment Management, LLC",
+      "title": "Quantitative Research Intern 2027",
+      "locations": [
+        "Jupiter, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4429728070/",
+      "url": "https://trueinterview.io/jobs/040104f1-8bf9-4536-858c-9d72bc7a9b46",
+      "postedAt": "2026-11-15T16:52:00.000Z",
+      "updatedAt": "2026-11-15T16:52:00.000Z"
+    },
     {
       "id": "8628ba5e-3f76-4f4b-9e7d-075c16634f63",
       "company": "Microsoft",
@@ -94487,32 +94587,6 @@
       "updatedAt": "2026-10-02T19:12:01.000Z"
     },
     {
-      "id": "ced1ffba-2409-40fe-b6d6-4bf454ea58eb",
-      "company": "C3.ai",
-      "title": "AI Product Manager - MBA Intern (Summer 2027)",
-      "locations": [
-        "Redwood City, California, United States",
-        "Redwood City, California"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
-      "url": "https://trueinterview.io/jobs/ced1ffba-2409-40fe-b6d6-4bf454ea58eb",
-      "postedAt": "2026-10-02T18:52:43.000Z",
-      "updatedAt": "2026-10-02T18:52:43.000Z"
-    },
-    {
       "id": "2faab77d-7098-4122-81c1-2844264de754",
       "company": "HarveyAI",
       "title": "Software Engineering Intern (Winter 2027)",
@@ -103185,58 +103259,6 @@
       "url": "https://trueinterview.io/jobs/a84ba5c4-f6f1-4648-bd87-f07f7289645e",
       "postedAt": "2026-09-16T18:19:24.000Z",
       "updatedAt": "2026-09-16T18:19:24.000Z"
-    },
-    {
-      "id": "74a7fb43-a3d7-4b61-a99f-64914ae41318",
-      "company": "Contoro Inc.",
-      "title": "Robotics Engineer Intern - Test & Validation",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5/application",
-      "url": "https://trueinterview.io/jobs/74a7fb43-a3d7-4b61-a99f-64914ae41318",
-      "postedAt": "2026-09-16T17:35:48.000Z",
-      "updatedAt": "2026-09-16T17:35:48.000Z"
-    },
-    {
-      "id": "536cb1d7-6d64-4eb9-a80f-d6061a985eea",
-      "company": "Eqt Corporation",
-      "title": "Data Engineering Intern",
-      "locations": [
-        "Canonsburg, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008",
-      "url": "https://trueinterview.io/jobs/536cb1d7-6d64-4eb9-a80f-d6061a985eea",
-      "postedAt": "2026-09-16T17:33:36.000Z",
-      "updatedAt": "2026-09-16T17:33:36.000Z"
     }
   ]
 }
