@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T11:03:51.459Z",
-  "count": 3966,
+  "listingsChangedAt": "2026-11-15T12:06:05.196Z",
+  "count": 3965,
   "listings": [
     {
       "id": "92f7732b-1498-46f2-90ee-24f39f048666",
@@ -93981,34 +93981,6 @@
       "url": "https://trueinterview.io/jobs/ba4a538e-d87d-4eb6-b625-09da4a795a55",
       "postedAt": "2026-10-02T22:12:03.000Z",
       "updatedAt": "2026-10-02T22:12:03.000Z"
-    },
-    {
-      "id": "e0e2b676-b8a6-40a1-9696-a5cad7e0f70e",
-      "company": "Affirm",
-      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-      "locations": [
-        "San Francisco, California, United States",
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-      "url": "https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e",
-      "postedAt": "2026-10-02T21:55:47.000Z",
-      "updatedAt": "2026-10-02T21:55:47.000Z"
     },
     {
       "id": "ecb68fef-9661-4212-b0b4-237082b8930b",

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**669 open roles.** 536 in the United States & Canada · 133 elsewhere in the world.
+**668 open roles.** 535 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -735,13 +735,6 @@
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54578?lang=en-us">Apply</a></td>
 <td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Affirm</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e">Software Engineer (Machine Learning) Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>xAI</strong></td>

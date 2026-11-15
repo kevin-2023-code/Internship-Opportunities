@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,954 open roles.** 1,548 in the United States & Canada · 406 elsewhere in the world.
+**1,953 open roles.** 1,547 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1696,13 +1696,6 @@
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Affirm</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e">Software Engineer (Machine Learning) Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c">Spring 2027 Software Engineering Internship/Co-op</a></td>
 <td>Palo Alto, CA</td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6dbcd0e5-9283-4269-b601-f06dfee10b5c">Machine Learning Engineer Project Intern（TikTok Search）- 2026 Start（BS/MS）</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4379670350/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ea38ca39-d041-469f-9e89-bf356d49a9b0">Site Reliability Engineer Intern (Global SRE- GMPT) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447985869/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

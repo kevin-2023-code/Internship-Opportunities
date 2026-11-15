@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**593 open roles.**
+**592 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -791,13 +791,6 @@
 <td>San Jose, CA<br/>Muon San Jose</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256284007">Apply</a></td>
 <td align="center">3 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Affirm</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e">Software Engineer (Machine Learning) Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>xAI</strong></td>
