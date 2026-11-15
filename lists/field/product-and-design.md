@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**227 open roles.** 163 in the United States & Canada · 64 elsewhere in the world.
+**226 open roles.** 162 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6e34d6b-2da3-443f-baa6-d42ec572d0de">Intern - Product Manager</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491086652/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>ICE</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc92bcbe-9ad7-4c3b-93f0-18a4a48f954d">Summer Internship Program 2027 - User Experience (UX) Designer Intern</a></td>

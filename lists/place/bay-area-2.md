@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**594 open roles.**
+**593 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a06c1df-a418-4a60-8ab3-1513195aa794">PhD Research Intern, AI for Climate and Weather Simulation - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397966334">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0cf57911-57be-4a45-a238-aa30b80d073d">Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397988300">Apply</a></td>

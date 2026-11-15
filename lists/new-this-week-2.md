@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**933 open roles.** 739 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**928 open roles.** 737 in the United States & Canada · 191 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Smith+Nephew</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Celestica</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b57c418-c7e5-49f6-abcf-b05fafe62922">Student Intern, Software Testing</a></td>
@@ -2381,13 +2374,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469518537/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5128000-1c3c-4ce1-8f1e-bf1f92968cbf">Video Moderation &amp; Platform Responsibility Product Manager Project Intern (TikTok-Platform Responsibility-Feed Safety) - 2026 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479659776/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2826,6 +2812,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oulu, Finland</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
 <td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Koniag Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
+<td>Greater Minneapolis-St. Paul Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**113 open roles.** 75 in the United States & Canada · 38 elsewhere in the world.
+**112 open roles.** 74 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6e34d6b-2da3-443f-baa6-d42ec572d0de">Intern - Product Manager</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491086652/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/02eea93a-228c-4a8b-bfc1-b079dc0ab45c">AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer</a></td>

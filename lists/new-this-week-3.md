@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**933 open roles.** 739 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**928 open roles.** 737 in the United States & Canada · 191 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Koniag Cyber</strong></td>
-<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
-<td>Greater Minneapolis-St. Paul Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Bybit</strong></td>
 <td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
@@ -925,27 +911,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7d8e1b3a-adf7-457c-b553-ffe5043e801c">Quantitative Research Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452913205/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e8cc3ec-d5d1-4172-85f2-46659936038e">2027 Shanghai FPGA Developer Summer Internship</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450152123/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/274f761e-d024-4a18-a28e-556fabb52da4">2027 Shanghai Software Developer Summer Internship</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450135763/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/165a4d32-589d-4b97-a6ca-244cdac1dbcd">Business Data Analyst Project Intern (GBS) - 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470771410/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

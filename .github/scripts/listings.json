@@ -5,36 +5,9 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T10:04:31.398Z",
-  "count": 3967,
+  "listingsChangedAt": "2026-11-15T11:03:51.459Z",
+  "count": 3966,
   "listings": [
-    {
-      "id": "f6e34d6b-2da3-443f-baa6-d42ec572d0de",
-      "company": "NetApp",
-      "title": "Intern - Product Manager",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491086652/",
-      "url": "https://trueinterview.io/jobs/f6e34d6b-2da3-443f-baa6-d42ec572d0de",
-      "postedAt": "2026-11-15T08:30:00.000Z",
-      "updatedAt": "2026-11-15T08:30:00.000Z"
-    },
     {
       "id": "92f7732b-1498-46f2-90ee-24f39f048666",
       "company": "Eight Sleep",

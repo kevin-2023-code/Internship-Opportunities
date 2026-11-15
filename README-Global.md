@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 10:04 UTC_
+_Last updated: 2026-11-15 11:03 UTC_
 
-**815 open internships** from **310 employers** · **194 posted in the last 7 days** · refreshed hourly
+**815 open internships** from **310 employers** · **191 posted in the last 7 days** · refreshed hourly
 
 ### Browse 815 internships by field
 
@@ -40,9 +40,9 @@ _Last updated: 2026-11-15 10:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 68 &nbsp;·&nbsp; **ByteDance** 20 &nbsp;·&nbsp; **NVIDIA** 20 &nbsp;·&nbsp; **Bosch** 8 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **Optiver** 3 &nbsp;·&nbsp; **Qualcomm** 3 &nbsp;·&nbsp; **Shopee** 3 &nbsp;·&nbsp; **Snowflake** 3
+**TikTok** 67 &nbsp;·&nbsp; **ByteDance** 20 &nbsp;·&nbsp; **NVIDIA** 20 &nbsp;·&nbsp; **Bosch** 8 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **Qualcomm** 3 &nbsp;·&nbsp; **Shopee** 3 &nbsp;·&nbsp; **Snowflake** 3 &nbsp;·&nbsp; **Tencent** 3
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 23 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 22 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (180)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (66)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇩🇪 Berlin, Munich & Germany (28)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (18)](lists/place/anz.md) · [+6 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (194)](lists/new-this-week.md) · [🌐 Remote (15)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (191)](lists/new-this-week.md) · [🌐 Remote (15)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -699,28 +699,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）</a> 🆕</td>
 <td>Singapore, Singapore<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4401884014/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8113e8a0-08f1-476e-b872-170e9cc02481">LLM &amp; Agent Algorithm Intern (Search) - 2027 Start (PhD)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452710257/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/902b6d02-3370-4d31-b1b8-787716854475">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447689264/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/1821f91e-5c18-4031-869b-df662a5af17d">AI Evaluation Project Intern（Corporate Service System）- 2026 Start</a> 🆕</td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474549595/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
@@ -1034,14 +1034,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9272ac0a-c456-4be1-9966-58423bfddb3f">Extracurricular Internship: Mechanical Development and Testing Engineer (f/m/div.)</a> 🆕</td>
 <td>Aveiro, Portugal</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161271710-extracurricular-internship-mechanical-development-and-testing-engineer-f-m-div-">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/108590f6-83cb-4134-a52a-a008c948bd41">Internship - Digitalization &amp; AI for Wiper Blade Testing</a> 🆕</td>
 <td>Tienen, Vlaanderen, Belgium</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161264139-internship-digitalization-ai-for-wiper-blade-testing-">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Neura Robotics</strong></td>
@@ -1111,7 +1111,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9e8cc3ec-d5d1-4172-85f2-46659936038e">2027 Shanghai FPGA Developer Summer Internship</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450152123/">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>Smiths Group</strong></td>
@@ -1247,10 +1247,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2999fd08-3cc8-4feb-9fb4-ba0682a6732c">AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/2999fd08-3cc8-4feb-9fb4-ba0682a6732c">AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4405993593/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Mercari, Inc.</strong></td>
@@ -1508,7 +1508,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4f32f529-c6d0-4489-b7c1-f0ae8f1e9600">Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451200166/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
@@ -1557,14 +1557,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/58583ed9-0dcc-4645-b152-104354969d2c">Quantitative Trading Internship (Summer 2027 - Shanghai)</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467603402/">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a79bfe8-99f6-4b26-835c-6813bb97226d">Quantitative Trading Internship (Taiwan) - 2027</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467389756/">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
@@ -1592,7 +1592,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/021ad960-41f4-4851-9f21-7a4f373520b4">Quantitative Research Internship: Summer 2027</a></td>
 <td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438405881/">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1606,7 +1606,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ab973969-7885-4b44-951d-36aa0aeaf143">Quantitative Research Intern</a></td>
 <td>Singapore, Singapore<br/>London, England, United Kingdom<br/>Chicago, New York City</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7957756">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>TotalEnergies</strong></td>
