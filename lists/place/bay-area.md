@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a></td>
-<td>San Francisco, CA<br/>Washington, DC<br/>Austin, TX<br/>+2 more</td>
+<td>San Francisco, CA<br/>Washington, DC<br/>Austin, TX<br/>+4 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>

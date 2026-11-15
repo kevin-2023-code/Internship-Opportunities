@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 08:06 UTC_
+_Last updated: 2026-11-15 09:04 UTC_
 
 **815 open internships** from **310 employers** · **194 posted in the last 7 days** · refreshed hourly
 
@@ -727,7 +727,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cffece04-3709-4dac-ae3b-0951563722c4">SAP China iXp Intern - AI Application Developer Intern - Open Source Software Compliance - Shanghai</a> 🆕</td>
 <td>Shanghai, Pudong New District, China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161438899-sap-china-ixp-intern-ai-application-developer-intern-open-source-software-compliance-shanghai">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Coherent Corp.</strong></td>
@@ -999,7 +999,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a> 🆕</td>
 <td>Varna, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
@@ -1376,7 +1376,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7fd5477d-e9b3-4c22-a729-2b08b0170a28">Visual Content Designer Intern</a></td>
 <td>Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485302932/">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>CapitaLand Investment (CLI)</strong></td>
@@ -1703,7 +1703,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08536767-cd17-4642-b580-297bf1846bf0">IT Support Intern</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.lever.co/shopback-2/788b92bc-804a-4c4f-9448-203064c0448b">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Sea</strong></td>
@@ -1721,10 +1721,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f225a07-1996-4570-9e17-45bc64d2fabe">IT Resilience &amp; Development Internship</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/1f225a07-1996-4570-9e17-45bc64d2fabe">IT Resilience &amp; Development Internship</a></td>
 <td>Leudelange, Esch-sur-Alzette, Luxembourg</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000161044099-it-resilience-development-internship">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Workato</strong></td>
@@ -1829,7 +1829,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/997c05ae-3d79-423e-8f48-72e29ad93575">IT Specialist Intern (f/m/d)</a></td>
 <td>Munich HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/19e0203c-363c-49b9-8ca7-9fe7f8ce23a7">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 </tbody>
 </table>

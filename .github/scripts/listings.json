@@ -5,9 +5,45 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-15T08:06:17.970Z",
-  "count": 3963,
+  "listingsChangedAt": "2026-11-15T09:04:41.290Z",
+  "count": 3964,
   "listings": [
+    {
+      "id": "92f7732b-1498-46f2-90ee-24f39f048666",
+      "company": "Eight Sleep",
+      "title": "Short-Term Firmware Intern",
+      "locations": [
+        "San Francisco",
+        "New York City",
+        "Washington, DC",
+        "Austin",
+        "San Francisco, CA",
+        "New York, NY",
+        "Greater Syracuse-Auburn Area",
+        "Dallas, TX"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "Washington, DC",
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
+      "url": "https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666",
+      "postedAt": "2026-11-14T23:35:30.000Z",
+      "updatedAt": "2026-11-15T06:12:00.000Z"
+    },
     {
       "id": "2713ec56-297e-4c0e-942a-d0babd268d27",
       "company": "Autodesk",
@@ -34,40 +70,6 @@
       "url": "https://trueinterview.io/jobs/2713ec56-297e-4c0e-942a-d0babd268d27",
       "postedAt": "2026-11-14T17:56:00.000Z",
       "updatedAt": "2026-11-15T05:56:00.000Z"
-    },
-    {
-      "id": "92f7732b-1498-46f2-90ee-24f39f048666",
-      "company": "Eight Sleep",
-      "title": "Short-Term Firmware Intern",
-      "locations": [
-        "San Francisco",
-        "New York City",
-        "Washington, DC",
-        "Austin",
-        "San Francisco, CA",
-        "New York, NY"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "Washington, DC",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
-      "url": "https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666",
-      "postedAt": "2026-11-14T23:35:30.000Z",
-      "updatedAt": "2026-11-15T04:32:00.000Z"
     },
     {
       "id": "495afb3b-5484-415b-b650-da6ea8a988f3",
@@ -72143,6 +72145,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4465571507/",
       "url": "https://trueinterview.io/jobs/8de18120-c9d1-4b18-ba38-1cb7f9d0edf3",
+      "postedAt": "2026-10-28T14:23:00.000Z",
+      "updatedAt": "2026-10-28T14:23:00.000Z"
+    },
+    {
+      "id": "c927cda0-bac8-4a14-86d6-3effa5c6aabf",
+      "company": "STERIS",
+      "title": "Engineering Co-Op - Spring 2027",
+      "locations": [
+        "Montgomery, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466558857/",
+      "url": "https://trueinterview.io/jobs/c927cda0-bac8-4a14-86d6-3effa5c6aabf",
       "postedAt": "2026-10-28T14:23:00.000Z",
       "updatedAt": "2026-10-28T14:23:00.000Z"
     },

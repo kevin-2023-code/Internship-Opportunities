@@ -32,13 +32,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-15 08:06 UTC_
+_Last updated: 2026-11-15 09:04 UTC_
 
-**3,148 open internships** from **1,293 employers** · **735 posted in the last 7 days** · refreshed hourly
+**3,149 open internships** from **1,293 employers** · **735 posted in the last 7 days** · refreshed hourly
 
-### Browse 3,148 internships by field
+### Browse 3,149 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (1,545)
+💻 **[Software Engineering](#-software-engineering)** (1,546)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (581)
 
@@ -68,7 +68,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Software Engineer (535)](lists/role/software-engineer.md) · [AI Engineer (172)](lists/role/ai-engineer.md) · [Machine Learning Engineer (141)](lists/role/machine-learning-engineer.md) · [Hardware Engineer (110)](lists/role/hardware-engineer.md) · [Data Scientist (101)](lists/role/data-scientist.md) · [Security Engineer (91)](lists/role/security-engineer.md) · [Product Manager (74)](lists/role/product-manager.md) · [Research Scientist (68)](lists/role/research-scientist.md) · [Data Engineer (66)](lists/role/data-engineer.md) · [Embedded Engineer (63)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (593)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (164)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (160)](lists/place/boston.md) · [🗽 New York City (144)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (109)](lists/place/seattle.md) · [🎸 Austin (90)](lists/place/austin.md) · [🏛️ Washington DC & Northern Virginia (89)](lists/place/washington-dc.md) · [🤠 Dallas–Fort Worth (84)](lists/place/dallas-fort-worth.md) · [🌬️ Chicago (71)](lists/place/chicago.md) · [🏔️ Denver, Boulder & Colorado (66)](lists/place/denver-boulder.md) · [+16 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (593)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (164)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (160)](lists/place/boston.md) · [🗽 New York City (144)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (109)](lists/place/seattle.md) · [🎸 Austin (90)](lists/place/austin.md) · [🏛️ Washington DC & Northern Virginia (89)](lists/place/washington-dc.md) · [🤠 Dallas–Fort Worth (85)](lists/place/dallas-fort-worth.md) · [🌬️ Chicago (71)](lists/place/chicago.md) · [🏔️ Denver, Boulder & Colorado (66)](lists/place/denver-boulder.md) · [+16 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (735)](lists/new-this-week.md) · [🌐 Remote (37)](lists/remote.md)
 
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 1,545.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 1,546.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1200,7 +1200,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f7732b-1498-46f2-90ee-24f39f048666">Short-Term Firmware Intern</a> 🆕</td>
-<td>San Francisco, CA<br/>Washington, DC<br/>Austin, TX<br/>+2 more</td>
+<td>San Francisco, CA<br/>Washington, DC<br/>Austin, TX<br/>+4 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b">Apply</a></td>
 <td align="center">0d</td>
 </tr>

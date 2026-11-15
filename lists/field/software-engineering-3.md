@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,951 open roles.** 1,545 in the United States & Canada · 406 elsewhere in the world.
+**1,952 open roles.** 1,546 in the United States & Canada · 406 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2606,6 +2606,13 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>STERIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/c927cda0-bac8-4a14-86d6-3effa5c6aabf">Engineering Co-Op - Spring 2027</a></td>
+<td>Montgomery, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466558857/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f5c2a660-f45b-4b3f-a621-6043347215d9">IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)</a></td>
 <td>Oak Brook, IL</td>
 <td align="center"><a href="https://acehardware.wd1.myworkdayjobs.com/en-US/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe5275ac-48d1-4b15-bf2f-530477dc7fcf">Intern - AI Engineer Platform</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878352/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
