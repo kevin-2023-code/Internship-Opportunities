@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**84 open roles.** 63 in the United States & Canada · 21 elsewhere in the world.
+**85 open roles.** 64 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Commonwealth of Kentucky</strong></td>
+<td><a href="https://trueinterview.io/jobs/a10415b9-f9b9-4d13-8879-d4e8e7b2678f">Team Kentucky Internship Program - Kentucky Public Pensions Authority – Service Desk Branch</a></td>
+<td>Frankfort, KY, US</td>
+<td align="center"><a href="https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82613?c=kypersonnelcabinet">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Optimum</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe821e0c-32b0-4d0a-a9c4-49521a228594">Intern - Cybersecurity Operations</a></td>

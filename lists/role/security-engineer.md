@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**110 open roles.** 89 in the United States & Canada · 21 elsewhere in the world.
+**109 open roles.** 88 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -558,13 +558,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tevora</strong></td>
-<td><a href="https://trueinterview.io/jobs/664b408c-b63e-4168-aec1-264993627df7">Cybersecurity Internship Winter 2027 - Threat</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5d836ca5-9e25-4731-8475-8a6b3cae2879">Cybersecurity Internship Winter 2027 - Solutions</a></td>
 <td>Irvine, CA<br/>Fairfax, VA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3">Apply</a></td>

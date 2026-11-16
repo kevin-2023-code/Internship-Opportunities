@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**70 open roles.** 62 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**71 open roles.** 63 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067">Summer 2027 Engineering (General) Internship</a></td>
+<td>USA VA Falls Church, United States of America<br/>USA MD Gaithersburg</td>
+<td align="center"><a href="https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3e28cb3-70d8-4987-8a61-62f127f1eee7">Research AI Engineer Intern 2027</a></td>

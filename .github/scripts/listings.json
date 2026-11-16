@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T14:15:58.265Z",
+  "listingsChangedAt": "2026-11-16T15:05:17.839Z",
   "count": 3961,
   "listings": [
     {
@@ -683,6 +683,35 @@
       "updatedAt": "2026-11-16T05:19:00.000Z"
     },
     {
+      "id": "caa2c607-2556-4444-8368-3a291f666124",
+      "company": "Central Insurance Companies",
+      "title": "Data Engineering Intern",
+      "locations": [
+        "Van Wert, OH 45891, USA",
+        "Dublin, OH, USA"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "United States",
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.dayforcehcm.com/en-US/centralins/CANDIDATEPORTAL/jobs/6955",
+      "url": "https://trueinterview.io/jobs/caa2c607-2556-4444-8368-3a291f666124",
+      "postedAt": "2026-11-16T05:00:00.000Z",
+      "updatedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
       "id": "4dc5c3a7-de07-40ad-a96b-65b8408d8765",
       "company": "Shopee",
       "title": "Backend Engineer Intern, Data Infrastructure - Big Data Platform (Spring 2027)",
@@ -864,6 +893,57 @@
       "url": "https://trueinterview.io/jobs/4d417ec4-0f91-4116-95c5-61ed1352f89a",
       "postedAt": "2026-11-16T00:26:00.000Z",
       "updatedAt": "2026-11-16T00:26:00.000Z"
+    },
+    {
+      "id": "a10415b9-f9b9-4d13-8879-d4e8e7b2678f",
+      "company": "Commonwealth of Kentucky",
+      "title": "Team Kentucky Internship Program - Kentucky Public Pensions Authority – Service Desk Branch",
+      "locations": [
+        "Frankfort, KY, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82613?c=kypersonnelcabinet",
+      "url": "https://trueinterview.io/jobs/a10415b9-f9b9-4d13-8879-d4e8e7b2678f",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "updatedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "dc82fcde-9235-4354-93c1-e5a7f8cf9067",
+      "company": "General Dynamics Information Technology",
+      "title": "Summer 2027 Engineering (General) Internship",
+      "locations": [
+        "USA VA Falls Church, United States of America",
+        "USA MD Gaithersburg"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
+      "url": "https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "updatedAt": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "7dcbd2dc-59d5-4980-aa21-e2710995923d",
@@ -15483,6 +15563,31 @@
       "url": "https://trueinterview.io/jobs/2d7cd666-7efb-4464-80e1-5337ea37c578",
       "postedAt": "2026-11-11T14:25:00.000Z",
       "updatedAt": "2026-11-11T14:25:00.000Z"
+    },
+    {
+      "id": "e838a7fb-7b09-49cc-be91-89add62288e5",
+      "company": "Isar Aerospace Se",
+      "title": "Intern AI & Data Transformation",
+      "locations": [
+        "Parsdorf, Bavaria, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5033512101",
+      "url": "https://trueinterview.io/jobs/e838a7fb-7b09-49cc-be91-89add62288e5",
+      "postedAt": "2026-11-11T13:14:04.000Z",
+      "updatedAt": "2026-11-11T13:14:04.000Z"
     },
     {
       "id": "178787b0-00cb-4425-a8b4-fd1af06579f8",
@@ -93134,101 +93239,6 @@
       "url": "https://trueinterview.io/jobs/c1f046da-ec4a-4c29-9b6a-68523ff2c1f7",
       "postedAt": "2026-10-06T09:14:32.000Z",
       "updatedAt": "2026-10-06T09:14:32.000Z"
-    },
-    {
-      "id": "835be3c8-3d91-4f3f-8169-1411a25e1c21",
-      "company": "Neura Robotics",
-      "title": "Robotic Foundation Model Engineer Intern (Human)",
-      "locations": [
-        "Metzingen / Riederich"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/neura-robotics-gmbh/aa9a0895-f66b-4a5f-b933-ceca706d0e5c",
-      "url": "https://trueinterview.io/jobs/835be3c8-3d91-4f3f-8169-1411a25e1c21",
-      "postedAt": "2026-10-06T06:36:27.000Z",
-      "updatedAt": "2026-10-06T06:36:27.000Z"
-    },
-    {
-      "id": "537b9859-c6d8-4e38-9734-446604d5146f",
-      "company": "Apple",
-      "title": "PHY Cellular Firmware Engineer Internship",
-      "locations": [
-        "München, Deutschland"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001",
-      "url": "https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f",
-      "postedAt": "2026-10-06T05:00:00.000Z",
-      "updatedAt": "2026-10-06T05:00:00.000Z"
-    },
-    {
-      "id": "6a3f96db-a3e9-49c3-86fa-fccd5653a75d",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027)",
-      "locations": [
-        "In-Office"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "url": "https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d",
-      "postedAt": "2026-10-06T02:42:06.000Z",
-      "updatedAt": "2026-10-06T02:42:06.000Z"
-    },
-    {
-      "id": "664b408c-b63e-4168-aec1-264993627df7",
-      "company": "Tevora",
-      "title": "Cybersecurity Internship Winter 2027 - Threat",
-      "locations": [
-        "Irvine, CA",
-        "Fairfax, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968",
-      "url": "https://trueinterview.io/jobs/664b408c-b63e-4168-aec1-264993627df7",
-      "postedAt": "2026-10-06T00:26:35.000Z",
-      "updatedAt": "2026-10-06T00:26:35.000Z"
     },
     {
       "id": "5d836ca5-9e25-4731-8475-8a6b3cae2879",

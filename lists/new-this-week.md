@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**924 open roles.** 714 in the United States & Canada · 210 elsewhere in the world. Everything the employers put up this week.
+**926 open roles.** 715 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -118,6 +118,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Central Insurance Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/caa2c607-2556-4444-8368-3a291f666124">Data Engineering Intern</a></td>
+<td>Dublin, OH, USA<br/>Van Wert, OH 45891, USA</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/centralins/CANDIDATEPORTAL/jobs/6955">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Auspex AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d085ffa-28ec-4c98-abdb-6872cae54cac">AI Engineering Intern (Experience-Based)</a></td>
 <td>United States</td>
@@ -150,6 +157,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4d417ec4-0f91-4116-95c5-61ed1352f89a">Internship, Software Integration Engineer, Service Tooling (Winter/Spring 2027)</a></td>
 <td>Fremont, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491268797/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth of Kentucky</strong></td>
+<td><a href="https://trueinterview.io/jobs/a10415b9-f9b9-4d13-8879-d4e8e7b2678f">Team Kentucky Internship Program - Kentucky Public Pensions Authority – Service Desk Branch</a></td>
+<td>Frankfort, KY, US</td>
+<td align="center"><a href="https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82613?c=kypersonnelcabinet">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067">Summer 2027 Engineering (General) Internship</a></td>
+<td>USA VA Falls Church, United States of America<br/>USA MD Gaithersburg</td>
+<td align="center"><a href="https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09907012-5bce-439f-9c97-fa85f838153d">Software Engineering Intern - 2027 Summer Internship</a></td>
 <td>Schaumburg, IL</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valstad Shipworks</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bf08763-1f2d-442e-9dcf-8991fa4858a7">Software Engineering Intern, 3D &amp; Manufacturing Applications</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490048068/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0f9d57f-04e6-4771-85c9-d4f746c0c300">2027 Summer Embedded SW Engineering Intern</a></td>
-<td>Schaumburg, IL</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MKS Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f21182c6-6dc1-4c60-9c3a-2c4f1eeecd0c">2027 Summer Software Engineer Co-op</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>
