@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T09:06:48.451Z",
+  "listingsChangedAt": "2026-11-16T10:05:22.027Z",
   "count": 3957,
   "listings": [
+    {
+      "id": "071fbe2e-78de-492d-ada3-919b65d71451",
+      "company": "Enervexa PowerLabs",
+      "title": "Intern, Software Engineering (R20319)",
+      "locations": [
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489732247/",
+      "url": "https://trueinterview.io/jobs/071fbe2e-78de-492d-ada3-919b65d71451",
+      "postedAt": "2026-11-16T08:30:00.000Z",
+      "updatedAt": "2026-11-16T08:30:00.000Z"
+    },
     {
       "id": "18153888-3275-4c84-b6b3-e1a81bac0690",
       "company": "NeuroSpark AI",
@@ -3901,31 +3928,6 @@
       "updatedAt": "2026-11-14T09:06:22.000Z"
     },
     {
-      "id": "dee769e2-e4f3-4cd9-b47a-7a3a8f67e31b",
-      "company": "CNH",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Sioux Falls, SD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4483172756/",
-      "url": "https://trueinterview.io/jobs/dee769e2-e4f3-4cd9-b47a-7a3a8f67e31b",
-      "postedAt": "2026-11-14T09:05:00.000Z",
-      "updatedAt": "2026-11-14T09:05:00.000Z"
-    },
-    {
       "id": "ba73a6f5-986c-4b8c-a6bf-2901ce2f084f",
       "company": "RouteOne",
       "title": "Software Engineer Intern - Java - Summer 2027",
@@ -4026,6 +4028,31 @@
       "url": "https://trueinterview.io/jobs/6b371947-a67f-4857-a912-72ea28d942b1",
       "postedAt": "2026-11-14T06:38:00.000Z",
       "updatedAt": "2026-11-14T06:38:00.000Z"
+    },
+    {
+      "id": "dafd39ae-0760-4096-9fb6-caf9efd57627",
+      "company": "Collins Aerospace",
+      "title": "Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)",
+      "locations": [
+        "Burnsville, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.rtx.com/global/en/job/01874254",
+      "url": "https://trueinterview.io/jobs/dafd39ae-0760-4096-9fb6-caf9efd57627",
+      "postedAt": "2026-11-14T06:00:00.000Z",
+      "updatedAt": "2026-11-14T06:00:00.000Z"
     },
     {
       "id": "4328a039-67aa-4ff9-bb53-8e46eeb91cda",
@@ -27794,31 +27821,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4459552786/",
       "url": "https://trueinterview.io/jobs/966d2341-1439-4066-a321-59d8dc9d149d",
-      "postedAt": "2026-11-06T15:36:31.000Z",
-      "updatedAt": "2026-11-06T15:36:31.000Z"
-    },
-    {
-      "id": "00ddc021-2345-489b-8e5e-7da222e9488c",
-      "company": "Symbotic",
-      "title": "Co-op - Software Engineer",
-      "locations": [
-        "Wilmington, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4470984232/",
-      "url": "https://trueinterview.io/jobs/00ddc021-2345-489b-8e5e-7da222e9488c",
       "postedAt": "2026-11-06T15:36:31.000Z",
       "updatedAt": "2026-11-06T15:36:31.000Z"
     },

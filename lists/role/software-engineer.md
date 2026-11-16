@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**680 open roles.** 539 in the United States & Canada · 141 elsewhere in the world.
+**679 open roles.** 538 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enervexa PowerLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/071fbe2e-78de-492d-ada3-919b65d71451">Intern, Software Engineering (R20319)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489732247/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>RoboNex 88 Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/93030922-a943-4fc3-bdc6-53cd3cfa467c">Software Engineering Intern (2027 Spring)</a></td>
@@ -318,13 +325,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bd84c6ad-2aa3-4b14-849e-af6deb327d1f">University - 2027 Summer Games Software Developer Intern - Huntsville, AL</a></td>
 <td>Huntsville, AL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474319860/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CNH</strong></td>
-<td><a href="https://trueinterview.io/jobs/dee769e2-e4f3-4cd9-b47a-7a3a8f67e31b">Software Engineering Intern</a></td>
-<td>Sioux Falls, SD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483172756/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -1861,13 +1861,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Symbotic</strong></td>
-<td><a href="https://trueinterview.io/jobs/00ddc021-2345-489b-8e5e-7da222e9488c">Co-op - Software Engineer</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470984232/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Bloom</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0becf81-1fa8-4f7e-b182-2423ec56d630">Software Engineer Intern (Zebra Technologies)</a></td>
 <td>New York, NY</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
 <td>Centreville, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f">Intern - Software Engineer, Performance Tools (NTD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

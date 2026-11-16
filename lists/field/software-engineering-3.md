@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
+**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>GenPark</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Tevora</strong></td>
 <td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/397cdf4a-b3d4-489a-9b12-5c7bb1b861dd">Components Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482510762/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/21e51ebf-2f60-4b10-98e6-168c2a5526a6">Factory Test Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476333861/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

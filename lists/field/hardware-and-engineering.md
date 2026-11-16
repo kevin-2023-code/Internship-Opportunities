@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**806 open roles.** 721 in the United States & Canada · 85 elsewhere in the world.
+**807 open roles.** 722 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -122,6 +122,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c6e193cc-fdd5-4083-a556-2cd6d8ab57bb">Embedded Software Engineer Intern — Lidar</a></td>
 <td>Bozeman, MT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491010536/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/dafd39ae-0760-4096-9fb6-caf9efd57627">Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)</a></td>
+<td>Burnsville, MN</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01874254">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c66924b-933e-4648-903e-6e36f8489f41">Summer Intern - Piping Mechanical Engineering</a></td>
 <td>Rock Hill, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475120429/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FEDERAL HOME LOAN BANK OF INDIANAPOLIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bb5e923-643e-410a-9db4-416fa24685b3">Automation Quality Engineer Intern</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://fhlbi.wd1.myworkdayjobs.com/en-US/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

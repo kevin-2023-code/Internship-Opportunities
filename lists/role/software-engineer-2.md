@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**680 open roles.** 539 in the United States & Canada · 141 elsewhere in the world.
+**679 open roles.** 538 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f">Intern - Software Engineer, Performance Tools (NTD)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Farmers Mutual Hail Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8e61fe8-f380-477e-b559-652e442834ae">Software Developer Intern</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
+**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enervexa PowerLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/071fbe2e-78de-492d-ada3-919b65d71451">Intern, Software Engineering (R20319)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489732247/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NeuroSpark AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/18153888-3275-4c84-b6b3-e1a81bac0690">AI Inference Interns (Engineer / GTM)</a></td>
@@ -451,13 +458,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bd84c6ad-2aa3-4b14-849e-af6deb327d1f">University - 2027 Summer Games Software Developer Intern - Huntsville, AL</a></td>
 <td>Huntsville, AL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474319860/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CNH</strong></td>
-<td><a href="https://trueinterview.io/jobs/dee769e2-e4f3-4cd9-b47a-7a3a8f67e31b">Software Engineering Intern</a></td>
-<td>Sioux Falls, SD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483172756/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>

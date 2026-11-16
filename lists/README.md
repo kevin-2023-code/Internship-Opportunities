@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-16 09:06 UTC_
+_Last updated: 2026-11-16 10:05 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 227 of the 1,500 employers on this list (30% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -32,8 +32,8 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,540 | 416 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 721 | 85 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,539 | 416 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 722 | 85 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 584 | 216 |
 | [📱 Product & Design](field/product-and-design.md) | 155 | 65 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 65 | 26 |
@@ -79,13 +79,13 @@ _Between them these 23 filters hold **1,204 of the 3,957** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **2,211 of the 3,957** internships on this list (56%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **2,210 of the 3,957** internships on this list (56%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 539 | 141 |
+| [Software Engineer](role/software-engineer.md) | 538 | 141 |
 | [AI Engineer](role/ai-engineer.md) | 178 | 87 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 142 | 42 |
 | [Data Scientist](role/data-scientist.md) | 101 | 21 |
@@ -121,8 +121,8 @@ _Between them these 37 filters hold **2,296 of the 3,957** internships on this l
 | [🌉 SF Bay Area](place/bay-area.md) | 578 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🇸🇬 Singapore](place/singapore.md) | 0 | 187 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 162 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
-| [🎓 Boston & Cambridge](place/boston.md) | 160 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
-| [🗽 New York City](place/new-york.md) | 141 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
+| [🎓 Boston & Cambridge](place/boston.md) | 159 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
+| [🗽 New York City](place/new-york.md) | 142 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🌲 Seattle & Puget Sound](place/seattle.md) | 107 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
 | [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 90 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
 | [🎸 Austin](place/austin.md) | 86 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
@@ -162,11 +162,11 @@ _Between them these 37 filters hold **2,296 of the 3,957** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **964 of the 3,957** internships on this list (24%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **958 of the 3,957** internships on this list (24%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 719 | 206 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 713 | 206 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 35 | 14 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

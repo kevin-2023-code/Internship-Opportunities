@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**925 open roles.** 719 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**919 open roles.** 713 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enervexa PowerLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/071fbe2e-78de-492d-ada3-919b65d71451">Intern, Software Engineering (R20319)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489732247/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NeuroSpark AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/18153888-3275-4c84-b6b3-e1a81bac0690">AI Inference Interns (Engineer / GTM)</a></td>
@@ -748,13 +755,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>CNH</strong></td>
-<td><a href="https://trueinterview.io/jobs/dee769e2-e4f3-4cd9-b47a-7a3a8f67e31b">Software Engineering Intern</a></td>
-<td>Sioux Falls, SD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483172756/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>RouteOne</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba73a6f5-986c-4b8c-a6bf-2901ce2f084f">Software Engineer Intern - Java - Summer 2027</a></td>
 <td>Farmington Hills, MI</td>
@@ -780,6 +780,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6b371947-a67f-4857-a912-72ea28d942b1">Cyber AI Engineering Intern (Spring 2027)</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491024186/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/dafd39ae-0760-4096-9fb6-caf9efd57627">Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)</a></td>
+<td>Burnsville, MN</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01874254">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72c6f234-718a-42a9-a3f9-2f73777b49f0">Research Intern — Neural Network Training and Hardware–Software Co-Design</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488248124/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bask Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/270c4e2c-16be-4f07-99d0-4fd00314483b">Backend Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/82FEDB84F7">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

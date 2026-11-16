@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**806 open roles.** 721 in the United States & Canada · 85 elsewhere in the world.
+**807 open roles.** 722 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>FEDERAL HOME LOAN BANK OF INDIANAPOLIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bb5e923-643e-410a-9db4-416fa24685b3">Automation Quality Engineer Intern</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://fhlbi.wd1.myworkdayjobs.com/en-US/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>UPS</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5">2027 Americas Region Industrial Engineering Summer Intern</a></td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Parvomay, BULGARIA, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9383e25-315a-43f1-9efb-33a96a7461cb">Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M</a></td>
-<td>Levallois-Perret, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154062390-internship-quality-engineer-and-consultant-for-sap-build-process-automation-f-m">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

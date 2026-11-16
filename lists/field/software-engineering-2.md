@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
+**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -548,14 +548,7 @@
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Symbotic</strong></td>
-<td><a href="https://trueinterview.io/jobs/00ddc021-2345-489b-8e5e-7da222e9488c">Co-op - Software Engineer</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470984232/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55f30f89-4a32-44ed-94e3-721db1a911b1">Back End Developer Intern - NY POK JS - 2027</a></td>
 <td>Poughkeepsie, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477332170/">Apply</a></td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.teck.com/job/Vancouver-Cloud-Platform-Developer-Co-op-Brit/1446600200/?feedId=223000">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GenPark</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
