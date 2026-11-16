@@ -21,10 +21,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Revolut</strong></td>
-<td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (Technical)</a></td>
-<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom</td>
+<td><a href="https://trueinterview.io/jobs/cfdb3aa6-2514-41a5-bcbd-65a6471ae681">Internship Programme 2027: Product Designer</a></td>
+<td>Porto, Porto, Portugal<br/>Poland<br/>Portugal</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4418824787/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (UX)</a></td>
+<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4418835490/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Nexthink</strong></td>
@@ -116,13 +123,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33228">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Revolut</strong></td>
-<td><a href="https://trueinterview.io/jobs/918fba57-4d83-40bd-ba54-0e10d4cc820d">Internship Programme 2027: Software Engineer (Java)</a></td>
-<td>Porto, Porto, Portugal<br/>United Kingdom<br/>Poland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4419099411/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>WALLBOX</strong></td>

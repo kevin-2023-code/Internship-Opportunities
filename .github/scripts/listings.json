@@ -5,9 +5,223 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T16:05:00.339Z",
-  "count": 3960,
+  "listingsChangedAt": "2026-11-16T17:04:23.836Z",
+  "count": 3966,
   "listings": [
+    {
+      "id": "db125254-1736-46dd-84b6-05b24df6e488",
+      "company": "Health Care Service Corporation",
+      "title": "Early Careers - Automation Programmer Intern",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475331867/",
+      "url": "https://trueinterview.io/jobs/db125254-1736-46dd-84b6-05b24df6e488",
+      "postedAt": "2026-11-16T16:12:00.000Z",
+      "updatedAt": "2026-11-16T16:12:00.000Z"
+    },
+    {
+      "id": "87b32b69-1ff2-45ef-be6e-4a2a66887b7b",
+      "company": "Elevated Web Design",
+      "title": "Python Software Engineering Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489793050/",
+      "url": "https://trueinterview.io/jobs/87b32b69-1ff2-45ef-be6e-4a2a66887b7b",
+      "postedAt": "2026-11-16T16:03:00.000Z",
+      "updatedAt": "2026-11-16T16:03:00.000Z"
+    },
+    {
+      "id": "2beff269-af6e-4e0d-bab7-fb1aed3f8a93",
+      "company": "Altar'd State",
+      "title": "Spring 2027 IT Ecommerce Product Owner Intern",
+      "locations": [
+        "Knoxville, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490664295/",
+      "url": "https://trueinterview.io/jobs/2beff269-af6e-4e0d-bab7-fb1aed3f8a93",
+      "postedAt": "2026-11-16T15:20:00.000Z",
+      "updatedAt": "2026-11-16T15:20:00.000Z"
+    },
+    {
+      "id": "116da000-a859-4523-95ef-4f54c7a3a128",
+      "company": "Addepar",
+      "title": "Technical Product Management Intern (ADX) - Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
+      "url": "https://trueinterview.io/jobs/116da000-a859-4523-95ef-4f54c7a3a128",
+      "postedAt": "2026-11-16T14:35:35.000Z",
+      "updatedAt": "2026-11-16T14:35:35.000Z"
+    },
+    {
+      "id": "85b5926f-9b95-4a9c-adea-b39bc1bd840a",
+      "company": "Bosch",
+      "title": "Internship in Project and Production Engineering",
+      "locations": [
+        "Tranås, Jönköpings län, Sweden"
+      ],
+      "cities": [],
+      "countries": [
+        "Sweden"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161819523-internship-in-project-and-production-engineering",
+      "url": "https://trueinterview.io/jobs/85b5926f-9b95-4a9c-adea-b39bc1bd840a",
+      "postedAt": "2026-11-16T14:16:44.000Z",
+      "updatedAt": "2026-11-16T14:16:44.000Z"
+    },
+    {
+      "id": "e8d3df32-f038-4779-9584-0343e30a5273",
+      "company": "Bosch",
+      "title": "Internship in Production and Process Engineering",
+      "locations": [
+        "Tranås, Jönköpings län, Sweden"
+      ],
+      "cities": [],
+      "countries": [
+        "Sweden"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161820109-internship-in-production-and-process-engineering",
+      "url": "https://trueinterview.io/jobs/e8d3df32-f038-4779-9584-0343e30a5273",
+      "postedAt": "2026-11-16T14:16:07.000Z",
+      "updatedAt": "2026-11-16T14:16:07.000Z"
+    },
+    {
+      "id": "cfdb3aa6-2514-41a5-bcbd-65a6471ae681",
+      "company": "Revolut",
+      "title": "Internship Programme 2027: Product Designer",
+      "locations": [
+        "Porto, Porto, Portugal",
+        "Poland",
+        "Portugal"
+      ],
+      "cities": [
+        "Porto"
+      ],
+      "countries": [
+        "Portugal",
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4418824787/",
+      "url": "https://trueinterview.io/jobs/cfdb3aa6-2514-41a5-bcbd-65a6471ae681",
+      "postedAt": "2026-11-16T12:15:00.000Z",
+      "updatedAt": "2026-11-16T14:15:00.000Z"
+    },
+    {
+      "id": "cece9d36-6310-4854-9eab-e469c899ea60",
+      "company": "Revolut",
+      "title": "Internship Programme 2027: Product Owner (UX)",
+      "locations": [
+        "United Arab Emirates",
+        "United Kingdom",
+        "Porto, Porto, Portugal",
+        "Portugal"
+      ],
+      "cities": [
+        "Porto"
+      ],
+      "countries": [
+        "United Arab Emirates",
+        "United Kingdom",
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4418835490/",
+      "url": "https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60",
+      "postedAt": "2026-11-15T19:42:00.000Z",
+      "updatedAt": "2026-11-16T14:15:00.000Z"
+    },
     {
       "id": "506d8520-6d56-4c13-a22b-a601a1704955",
       "company": "Irradiant Technologies",
@@ -288,6 +502,31 @@
       "url": "https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53",
       "postedAt": "2026-11-16T11:24:00.000Z",
       "updatedAt": "2026-11-16T11:24:00.000Z"
+    },
+    {
+      "id": "ac486659-bf31-4b1a-8846-9f2b25d4063d",
+      "company": "Sharkninja",
+      "title": "Electronical Engineer Intern",
+      "locations": [
+        "UK - London, Battersea Power Station"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006",
+      "url": "https://trueinterview.io/jobs/ac486659-bf31-4b1a-8846-9f2b25d4063d",
+      "postedAt": "2026-11-16T11:09:41.000Z",
+      "updatedAt": "2026-11-16T11:09:41.000Z"
     },
     {
       "id": "2fa4e610-2cf6-4c97-b34b-09d89d9c1dee",
@@ -1049,37 +1288,6 @@
       "url": "https://trueinterview.io/jobs/8628ba5e-3f76-4f4b-9e7d-075c16634f63",
       "postedAt": "2026-11-15T16:35:00.000Z",
       "updatedAt": "2026-11-15T20:08:00.000Z"
-    },
-    {
-      "id": "cece9d36-6310-4854-9eab-e469c899ea60",
-      "company": "Revolut",
-      "title": "Internship Programme 2027: Product Owner (Technical)",
-      "locations": [
-        "United Arab Emirates",
-        "United Kingdom",
-        "Porto, Porto, Portugal"
-      ],
-      "cities": [
-        "Porto"
-      ],
-      "countries": [
-        "United Arab Emirates",
-        "United Kingdom",
-        "Portugal"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4418835490/",
-      "url": "https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60",
-      "postedAt": "2026-11-15T19:42:00.000Z",
-      "updatedAt": "2026-11-15T19:42:00.000Z"
     },
     {
       "id": "58bbda41-ca67-4aaf-a682-6c36f557ab3c",
@@ -73288,38 +73496,6 @@
       "updatedAt": "2026-10-28T15:15:04.000Z"
     },
     {
-      "id": "918fba57-4d83-40bd-ba54-0e10d4cc820d",
-      "company": "Revolut",
-      "title": "Internship Programme 2027: Software Engineer (Java)",
-      "locations": [
-        "United Kingdom",
-        "Poland",
-        "Portugal",
-        "Porto, Porto, Portugal"
-      ],
-      "cities": [
-        "Porto"
-      ],
-      "countries": [
-        "United Kingdom",
-        "Poland",
-        "Portugal"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4419099411/",
-      "url": "https://trueinterview.io/jobs/918fba57-4d83-40bd-ba54-0e10d4cc820d",
-      "postedAt": "2026-10-28T14:16:00.000Z",
-      "updatedAt": "2026-10-28T15:13:00.000Z"
-    },
-    {
       "id": "62641aba-38e3-4960-bb0c-add09792c76a",
       "company": "GMRE",
       "title": "Web Application Developer Intern",
@@ -84985,31 +85161,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/19938?lang=en-us",
       "url": "https://trueinterview.io/jobs/d481ae67-242f-49a6-b6ad-f0f31aff1123",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "78aafd37-42d2-467a-9eaa-82729f79100e",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Embedded Software Engineering Intern",
-      "locations": [
-        "Roseville, California, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
-      "url": "https://trueinterview.io/jobs/78aafd37-42d2-467a-9eaa-82729f79100e",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
