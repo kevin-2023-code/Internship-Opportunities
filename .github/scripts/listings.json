@@ -5,9 +5,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T00:14:46.865Z",
-  "count": 3940,
+  "listingsChangedAt": "2026-11-16T01:06:41.910Z",
+  "count": 3943,
   "listings": [
+    {
+      "id": "57f20ae5-14b4-4f7c-b69f-956954f9fced",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Build & Simulation Platform (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491269711/",
+      "url": "https://trueinterview.io/jobs/57f20ae5-14b4-4f7c-b69f-956954f9fced",
+      "postedAt": "2026-11-16T00:26:00.000Z",
+      "updatedAt": "2026-11-16T00:26:00.000Z"
+    },
+    {
+      "id": "7117d892-4a5a-4b15-914d-b8a66766d791",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Infotainment Platforms Validation (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491275422/",
+      "url": "https://trueinterview.io/jobs/7117d892-4a5a-4b15-914d-b8a66766d791",
+      "postedAt": "2026-11-16T00:26:00.000Z",
+      "updatedAt": "2026-11-16T00:26:00.000Z"
+    },
+    {
+      "id": "4d417ec4-0f91-4116-95c5-61ed1352f89a",
+      "company": "Tesla",
+      "title": "Internship, Software Integration Engineer, Service Tooling (Winter/Spring 2027)",
+      "locations": [
+        "Fremont, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491268797/",
+      "url": "https://trueinterview.io/jobs/4d417ec4-0f91-4116-95c5-61ed1352f89a",
+      "postedAt": "2026-11-16T00:26:00.000Z",
+      "updatedAt": "2026-11-16T00:26:00.000Z"
+    },
     {
       "id": "e0be761b-e62f-4534-8a64-455dc8033f7c",
       "company": "MediaTek",
@@ -23,9 +102,9 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Full-Stack Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -50,7 +129,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -75,9 +154,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -134,7 +213,7 @@
       "category": "Other",
       "family": "Hardware & Engineering",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -156,9 +235,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -181,9 +260,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -206,9 +285,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
