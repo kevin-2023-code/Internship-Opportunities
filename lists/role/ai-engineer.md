@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**264 open roles.** 176 in the United States & Canada · 88 elsewhere in the world.
+**265 open roles.** 177 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Origin Medical</strong></td>
+<td><a href="https://trueinterview.io/jobs/73f02812-71cc-4f2c-8201-d3c685f37153">AI Research Intern (Deep Learning &amp; Medical Imaging)</a></td>
+<td>Oklahoma City, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490259435/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Auspex AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d085ffa-28ec-4c98-abdb-6872cae54cac">AI Engineering Intern (Experience-Based)</a></td>
