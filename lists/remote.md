@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**50 open roles.** 35 in the United States & Canada · 15 elsewhere in the world. Postings the pipeline classified as remote.
+**49 open roles.** 35 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -294,13 +294,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/numa/jobs/4504052009">Apply</a></td>
 <td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/21456431-9aa7-4351-9c25-5e5b9dd216f6">ML Intern</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7">Apply</a></td>
-<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Spearmint technologies</strong></td>

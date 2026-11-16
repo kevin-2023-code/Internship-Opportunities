@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**804 open roles.** 719 in the United States & Canada · 85 elsewhere in the world.
+**806 open roles.** 721 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UPS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5">2027 Americas Region Industrial Engineering Summer Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467894974/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graymatter Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/60c2e68f-2358-4ed1-9fe2-84c238066418">Robotics Engineering Intern: Systems &amp; Applications - IMMEDIATE START</a></td>
+<td>Los Angeles - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lydian</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6">Mechanical Engineer Co-op</a></td>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Levallois-Perret, Île-de-France, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154062390-internship-quality-engineer-and-consultant-for-sap-build-process-automation-f-m">Apply</a></td>
 <td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b44322c-6ef2-44d6-868c-258dfbb4ac62">Quality Engineering Intern m/f/d</a></td>
-<td>Freising, Bayern, Germany</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015981">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e">Product Development Engineer - Intern</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 </tbody>
 </table>

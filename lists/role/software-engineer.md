@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**679 open roles.** 538 in the United States & Canada · 141 elsewhere in the world.
+**680 open roles.** 539 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1651,6 +1651,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Ryan, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Warner Bros. Discovery</strong></td>
 <td><a href="https://trueinterview.io/jobs/09a0682e-4c10-4ee2-84b1-d2d324357bde">WB Games Software Engineering Co-op: Needham, MA - January-May 2027</a></td>
 <td>Needham, MA</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
 <td>Centreville, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f">Intern - Software Engineer, Performance Tools (NTD)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

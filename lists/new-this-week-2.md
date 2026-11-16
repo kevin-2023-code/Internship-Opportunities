@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**925 open roles.** 717 in the United States & Canada · 208 elsewhere in the world. Everything the employers put up this week.
+**925 open roles.** 719 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zillow</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ee9666a-5774-405f-b498-9a98bf12949a">Applied Scientist (Economics) Intern</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482024753/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ribbon Communications</strong></td>
 <td><a href="https://trueinterview.io/jobs/0c4032d2-6b5a-4277-9983-d6e101afe050">AI Engineer- Co-Op</a></td>
@@ -1983,6 +1990,13 @@
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Ryan, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>The Armor Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/18e49d04-2650-4ace-a890-fc1c7486553a">IT Co-op</a></td>
 <td>Mason, OH</td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
 <td>Greater Minneapolis-St. Paul Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bybit</strong></td>
-<td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
-<td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

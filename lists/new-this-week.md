@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**925 open roles.** 717 in the United States & Canada · 208 elsewhere in the world. Everything the employers put up this week.
+**925 open roles.** 719 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/18153888-3275-4c84-b6b3-e1a81bac0690">AI Inference Interns (Engineer / GTM)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490256946/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Origin Medical</strong></td>
 <td><a href="https://trueinterview.io/jobs/73f02812-71cc-4f2c-8201-d3c685f37153">AI Research Intern (Deep Learning &amp; Medical Imaging)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/270c4e2c-16be-4f07-99d0-4fd00314483b">Backend Engineering Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://apply.workable.com/j/82FEDB84F7">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zillow</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ee9666a-5774-405f-b498-9a98bf12949a">Applied Scientist (Economics) Intern</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482024753/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

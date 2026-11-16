@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**159 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -218,6 +218,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fcfa3c69-ed6b-4207-8932-4949297c923b">Manufacturing Test Engineer Co-Op</a></td>
 <td>Waltham, MA</td>
 <td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Manufacturing-Test-Engineer-Co-Op_R3360">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ryan, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/18153888-3275-4c84-b6b3-e1a81bac0690">AI Inference Interns (Engineer / GTM)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490256946/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>RoboNex 88 Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/93030922-a943-4fc3-bdc6-53cd3cfa467c">Software Engineering Intern (2027 Spring)</a></td>
 <td>Rochester, NY</td>
@@ -2708,17 +2715,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Nexteer Automotive</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d10fba5-049c-4cbd-ac2b-ee3cd5aef66e">Electrical Applications Engineer Co-Op 2026</a></td>
-<td>Saginaw, MI</td>
-<td align="center"><a href="https://jobs.nexteer.com/job/Saginaw-Electrical-Applications-Engineer-Co-Op-2026-MI/1449164200/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ROHDE &amp; SCHWARZ GmbH &amp; Co. KG</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d9fae29-74a3-4c01-bf9a-fcf4078c4521">Summer Intern- Software Engineering ATC, Hillsboro, OR</a></td>
-<td>Hillsboro, OR</td>
-<td align="center"><a href="https://www.rohde-schwarz.com/de/karriere/stellenangebote/summer-intern-software-engineering-atc-hillsboro-or_251563-1716992.html">Apply</a></td>
+<td><strong>Ryan, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

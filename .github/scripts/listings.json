@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T08:15:25.456Z",
-  "count": 3956,
+  "listingsChangedAt": "2026-11-16T09:06:48.451Z",
+  "count": 3957,
   "listings": [
+    {
+      "id": "18153888-3275-4c84-b6b3-e1a81bac0690",
+      "company": "NeuroSpark AI",
+      "title": "AI Inference Interns (Engineer / GTM)",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490256946/",
+      "url": "https://trueinterview.io/jobs/18153888-3275-4c84-b6b3-e1a81bac0690",
+      "postedAt": "2026-11-16T07:49:00.000Z",
+      "updatedAt": "2026-11-16T07:49:00.000Z"
+    },
     {
       "id": "73f02812-71cc-4f2c-8201-d3c685f37153",
       "company": "Origin Medical",
@@ -17530,29 +17555,6 @@
       "updatedAt": "2026-11-10T21:02:28.000Z"
     },
     {
-      "id": "21456431-9aa7-4351-9c25-5e5b9dd216f6",
-      "company": "Clera",
-      "title": "ML Intern",
-      "locations": [
-        "remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
-      "url": "https://trueinterview.io/jobs/21456431-9aa7-4351-9c25-5e5b9dd216f6",
-      "postedAt": "2026-11-10T21:01:58.000Z",
-      "updatedAt": "2026-11-10T21:01:58.000Z"
-    },
-    {
       "id": "38c77847-078d-4b33-a407-fb2553cf0af7",
       "company": "Rakuten Kobo Inc.",
       "title": "Software Developer Intern (Dublin)",
@@ -22825,7 +22827,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -22900,7 +22902,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -22909,6 +22911,31 @@
       "source": "indeed",
       "applyUrl": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/summer-intern-software-engineering-atc-hillsboro-or_251563-1716992.html",
       "url": "https://trueinterview.io/jobs/7d9fae29-74a3-4c01-bf9a-fcf4078c4521",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
+    },
+    {
+      "id": "6dfcf577-258f-4d7d-a63c-fa4fafcb744c",
+      "company": "Ryan, LLC",
+      "title": "Summer 2027 Intern, Application Development",
+      "locations": [
+        "Burlington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810",
+      "url": "https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },

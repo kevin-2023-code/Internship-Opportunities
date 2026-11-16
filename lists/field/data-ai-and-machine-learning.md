@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**801 open roles.** 584 in the United States & Canada · 217 elsewhere in the world.
+**800 open roles.** 584 in the United States & Canada · 216 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 3 · [Page 2 →](data-ai-and-machine-learning-2.md)</sub>
+<sub>Page 1 of 2 · [Page 2 →](data-ai-and-machine-learning-2.md)</sub>
 
 ## United States & Canada
 
@@ -2822,6 +2822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tbody>
 </table>
 
-<sub>Page 1 of 3 · [Page 2 →](data-ai-and-machine-learning-2.md)</sub>
+<sub>Page 1 of 2 · [Page 2 →](data-ai-and-machine-learning-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

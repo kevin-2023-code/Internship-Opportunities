@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**804 open roles.** 719 in the United States & Canada · 85 elsewhere in the world.
+**806 open roles.** 721 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -853,10 +853,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Nexteer Automotive</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d10fba5-049c-4cbd-ac2b-ee3cd5aef66e">Electrical Applications Engineer Co-Op 2026</a></td>
+<td>Saginaw, MI</td>
+<td align="center"><a href="https://jobs.nexteer.com/job/Saginaw-Electrical-Applications-Engineer-Co-Op-2026-MI/1449164200/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Quality Vision International</strong></td>
 <td><a href="https://trueinterview.io/jobs/099a6876-f1cb-4bb8-a21f-e68e9d6e4b27">Electrical Engineer Co-op</a></td>
 <td>Rochester, NY</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4652257/OGPOptical-Gaging-Products/Electrical-Engineer-Coop">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ROHDE &amp; SCHWARZ GmbH &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d9fae29-74a3-4c01-bf9a-fcf4078c4521">Summer Intern- Software Engineering ATC, Hillsboro, OR</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.rohde-schwarz.com/de/karriere/stellenangebote/summer-intern-software-engineering-atc-hillsboro-or_251563-1716992.html">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7bb5e923-643e-410a-9db4-416fa24685b3">Automation Quality Engineer Intern</a></td>
 <td>Indianapolis, IN</td>
 <td align="center"><a href="https://fhlbi.wd1.myworkdayjobs.com/en-US/FHLBI_Careers/job/Indianapolis/Automation-Quality-Engineer-Intern_R633">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UPS</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5">2027 Americas Region Industrial Engineering Summer Intern</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467894974/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Graymatter Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c2e68f-2358-4ed1-9fe2-84c238066418">Robotics Engineering Intern: Systems &amp; Applications - IMMEDIATE START</a></td>
-<td>Los Angeles - HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
