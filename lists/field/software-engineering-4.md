@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
+**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/21e51ebf-2f60-4b10-98e6-168c2a5526a6">Factory Test Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476333861/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/29b79905-4e5c-4918-92b6-39c4abe43577">Weld Development Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476340602/">Apply</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e39eae36-a8dc-4179-b8de-ce703e64dacd">[Mobile Software Engineer] Intern (Global Live Revenue) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451417044/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f857556b-d562-4dac-abec-323957c33b06">Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4273232112/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

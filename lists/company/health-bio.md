@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**26 open roles.** 20 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**27 open roles.** 20 in the United States & Canada · 7 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -171,6 +171,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/da668c29-b091-4c73-b473-56513b256b37">Motion Designer Intern</a></td>
+<td>Boulogne-Billancourt, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016867416--motion-designer-intern">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2027370d-a4fd-4e02-a66a-01c7c0300c4c">Engineering Internship Program (Chemical, Electromechanical, Data science, AI)</a></td>
 <td>Heredia, Heredia Province, Costa Rica</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016703746-engineering-internship-program-chemical-electromechanical-data-science-ai-">Apply</a></td>

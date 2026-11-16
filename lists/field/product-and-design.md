@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**220 open roles.** 155 in the United States & Canada · 65 elsewhere in the world.
+**223 open roles.** 157 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/85624c4f-519e-4316-9336-3378c5979aca">AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456616801/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2ffae94-8468-41da-b46c-8be990b06051">Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456608852/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/56a61c43-de68-473f-8f34-a3a57367993a">UX/UI Design Intern - Summer 2027</a></td>
@@ -1114,6 +1128,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/da668c29-b091-4c73-b473-56513b256b37">Motion Designer Intern</a></td>
+<td>Boulogne-Billancourt, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016867416--motion-designer-intern">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Revolut</strong></td>
 <td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (Technical)</a></td>

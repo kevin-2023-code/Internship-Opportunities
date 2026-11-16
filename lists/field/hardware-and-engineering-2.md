@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**808 open roles.** 722 in the United States & Canada · 86 elsewhere in the world.
+**809 open roles.** 723 in the United States & Canada · 86 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Westinghouse Electric Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c66924b-933e-4648-903e-6e36f8489f41">Summer Intern - Piping Mechanical Engineering</a></td>
+<td>Rock Hill, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475120429/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>FEDERAL HOME LOAN BANK OF INDIANAPOLIS</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bb5e923-643e-410a-9db4-416fa24685b3">Automation Quality Engineer Intern</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/29916e1b-d937-4781-b1b8-6d7a07e50099">Internship in Electrical Engineering</a></td>
 <td>Tranås, Jönköpings län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156529125-internship-in-electrical-engineering">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Graphcore</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a6637ae-baa5-49a5-a568-57c279ca4477">Silicon Summer Intern 2027</a></td>
-<td>Bristol, UK<br/>Cambridge, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8879329002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

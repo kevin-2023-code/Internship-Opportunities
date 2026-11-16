@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**110 open roles.** 70 in the United States & Canada · 40 elsewhere in the world.
+**112 open roles.** 72 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/85624c4f-519e-4316-9336-3378c5979aca">AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456616801/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2ffae94-8468-41da-b46c-8be990b06051">Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456608852/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/02eea93a-228c-4a8b-bfc1-b079dc0ab45c">AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452416865/">Apply</a></td>

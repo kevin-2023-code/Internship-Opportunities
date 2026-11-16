@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**91 open roles.** 65 in the United States & Canada · 26 elsewhere in the world.
+**90 open roles.** 65 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -518,13 +518,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452913205/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d">Quantitative Trader Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930184/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Point72</strong></td>

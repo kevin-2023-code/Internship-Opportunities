@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**8 open roles.** 4 in the United States & Canada · 4 elsewhere in the world.
+**7 open roles.** 4 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,13 +63,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489712837/">Apply</a></td>
 <td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d">Quantitative Trader Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930184/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Point72</strong></td>

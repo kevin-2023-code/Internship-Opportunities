@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**919 open roles.** 713 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**918 open roles.** 712 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bask Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f2aabfe-692d-4db9-9f02-daec8ddfa0d8">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/7D927CB619">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/840fd08c-a8ae-43bd-b805-7af9957bbb0c">Product Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/4B6FCDB473">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/026f877d-9e80-46e9-9f94-cf065fca9b52">Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c6f234-718a-42a9-a3f9-2f73777b49f0">Research Intern — Neural Network Training and Hardware–Software Co-Design</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488248124/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bask Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/270c4e2c-16be-4f07-99d0-4fd00314483b">Backend Engineering Intern</a> 🌐</td>
@@ -2171,41 +2199,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463351620/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Nuvo</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f84c5e4-77c4-4b75-9579-729d584f51ce">Software Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463709485/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arine</strong></td>
-<td><a href="https://trueinterview.io/jobs/75210565-c7c7-46d6-bbc2-ebd8a50ea2d8">AI Engineering Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488770773/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>New York Power Authority</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5bd3763-2615-4494-bb0f-30a6eb17a156">Cybersecurity Intern</a></td>
-<td>White Plains, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488770722/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f6772722-e966-47d0-a496-4d19c439d312">AI Engineer Intern</a></td>
-<td>White Plains, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488774438/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/8615be8a-c6bb-4d60-81a4-adb408042568">Quantitative Research Intern (BS/MS) - Summer 2027</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4434675309/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2218,6 +2211,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/da668c29-b091-4c73-b473-56513b256b37">Motion Designer Intern</a></td>
+<td>Boulogne-Billancourt, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016867416--motion-designer-intern">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/de7f2d46-a36d-4090-8fd2-0f2466375d2e">INTERNSHIP - NAND Cell Characterization &amp; AI Tools</a></td>

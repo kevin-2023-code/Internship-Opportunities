@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**919 open roles.** 713 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**918 open roles.** 712 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Springs Window Fashions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53">Textile Engineering Analytics &amp; Software Internship - summer 2027</a></td>
+<td>Middleton, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455040778/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fa4e610-2cf6-4c97-b34b-09d89d9c1dee">Co-Op - AI DSP Applied Research</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475383150/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/85624c4f-519e-4316-9336-3378c5979aca">AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456616801/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2ffae94-8468-41da-b46c-8be990b06051">Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456608852/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Enervexa PowerLabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/071fbe2e-78de-492d-ada3-919b65d71451">Intern, Software Engineering (R20319)</a></td>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be5b63f9-f3a4-4d43-9519-4fc15a6ea47d">Laser Firmware Intern - Summer 2027</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bask Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f2aabfe-692d-4db9-9f02-daec8ddfa0d8">Software Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/7D927CB619">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/840fd08c-a8ae-43bd-b805-7af9957bbb0c">Product Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/4B6FCDB473">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/026f877d-9e80-46e9-9f94-cf065fca9b52">Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/72c6f234-718a-42a9-a3f9-2f73777b49f0">Research Intern — Neural Network Training and Hardware–Software Co-Design</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488248124/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

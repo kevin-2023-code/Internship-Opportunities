@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
+**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Springs Window Fashions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53">Textile Engineering Analytics &amp; Software Internship - summer 2027</a></td>
+<td>Middleton, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455040778/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Enervexa PowerLabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/071fbe2e-78de-492d-ada3-919b65d71451">Intern, Software Engineering (R20319)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9df20e74-72eb-4108-9152-3254e5021b35">Embedded Software Engineer Intern</a></td>
 <td>Bridgeton, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486696394/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nissan Motor Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8d6ccd3-08b4-4016-8342-49dc2fa46e33">Robotics Programmer Intern - Summer 2027 - Smyrna, TN</a></td>
-<td>Smyrna, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480882532/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 </tbody>

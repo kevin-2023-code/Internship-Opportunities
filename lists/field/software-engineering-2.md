@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
+**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nissan Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8d6ccd3-08b4-4016-8342-49dc2fa46e33">Robotics Programmer Intern - Summer 2027 - Smyrna, TN</a></td>
+<td>Smyrna, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480882532/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Appian</strong></td>
 <td><a href="https://trueinterview.io/jobs/08317074-1e12-413e-aaf6-f9b44dc4cf6e">Software Engineering Intern</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.teck.com/job/Vancouver-Cloud-Platform-Developer-Co-op-Brit/1446600200/?feedId=223000">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GenPark</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

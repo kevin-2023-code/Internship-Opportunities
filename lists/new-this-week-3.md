@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**919 open roles.** 713 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**918 open roles.** 712 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -841,13 +841,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e1209f4d-3f83-447b-aa2c-c3066f9d7ae4">Extracurricular Internship: Python and AI Development Engineer (f/m/div)</a></td>
 <td>Padua, Veneto, Italy</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480821983/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930185/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 </tbody>

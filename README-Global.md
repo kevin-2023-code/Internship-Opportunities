@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-16 11:05 UTC_
+_Last updated: 2026-11-16 12:09 UTC_
 
 **830 open internships** from **308 employers** · **206 posted in the last 7 days** · refreshed hourly
 
@@ -30,9 +30,9 @@ _Last updated: 2026-11-16 11:05 UTC_
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (86)
 
-📱 **[Product & Design](#-product--design)** (65)
+📱 **[Product & Design](#-product--design)** (66)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (26)
+📈 **[Quantitative Finance](#-quantitative-finance)** (25)
 
 🧰 **[IT & Support](#-it--support)** (21)
 
@@ -54,7 +54,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🧑‍💻 **By role** — [Software Engineer (141)](lists/role/software-engineer.md) · [AI Engineer (87)](lists/role/ai-engineer.md) · [Machine Learning Engineer (42)](lists/role/machine-learning-engineer.md) · [Product Manager (40)](lists/role/product-manager.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Security Engineer (21)](lists/role/security-engineer.md) · [Data Engineer (15)](lists/role/data-engineer.md) · [Research Scientist (15)](lists/role/research-scientist.md) · [Embedded Engineer (14)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (187)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (67)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+6 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (187)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (66)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+6 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (206)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
@@ -147,7 +147,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/41af5edf-bc66-4af8-9f39-441ca23112a5">Software/Firmware Engineering Intern</a> 🆕</td>
 <td>Petah Tikva, Center District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489379816/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
@@ -1218,6 +1218,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/da668c29-b091-4c73-b473-56513b256b37">Motion Designer Intern</a> 🆕</td>
+<td>Boulogne-Billancourt, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016867416--motion-designer-intern">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Revolut</strong></td>
 <td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (Technical)</a> 🆕</td>
 <td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom</td>
@@ -1240,10 +1247,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74725b3b-1ac8-4b26-9220-9a0567ea4c58">AI Product Design Intern (TikTok-Design)-2027 Start</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/74725b3b-1ac8-4b26-9220-9a0567ea4c58">AI Product Design Intern (TikTok-Design)-2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447692215/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1341,7 +1348,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d710b258-9bb5-4ae5-80b4-506439b93629">Business Program Manager MBA Intern, 2027</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477508989/">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Singtel</strong></td>
@@ -1383,13 +1390,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7148c953-9665-437e-bb02-42da7923d47c">Intern, Digital &amp; Technology (Data &amp; AI) (UI/UX &amp; Product Research)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485297057/">Apply</a></td>
-<td align="center">17d</td>
-</tr>
-<tr>
-<td><strong>Kärcher</strong></td>
-<td><a href="https://trueinterview.io/jobs/46266620-df9b-4323-b69b-05772d5225f4">Praktikum / Internship User Experience Research (Digital Channel Marketing)</a></td>
-<td>Winnenden, Deutschland</td>
-<td align="center"><a href="https://careers.kaercher.com/job/Winnenden-Praktikum-Internship-User-Experience-Research-%28Digital-Channel-Marketing%29-71364/1375035855/">Apply</a></td>
 <td align="center">17d</td>
 </tr>
 </tbody>
@@ -1471,7 +1471,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 34 of 65.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 34 of 66.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -1516,13 +1516,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452913205/">Apply</a></td>
 <td align="center">8d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d">Quantitative Trader Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930184/">Apply</a></td>
-<td align="center">9d</td>
 </tr>
 <tr>
 <td><strong>Point72</strong></td>
@@ -1599,7 +1592,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/21711b37-06e4-4906-a9bc-c27ee3fee0cf">Quantitative Systematic Trading Internship: Summer 2027</a></td>
 <td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438410723/">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>DRW</strong></td>

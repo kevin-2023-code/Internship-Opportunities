@@ -5,9 +5,138 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T11:05:39.740Z",
-  "count": 3958,
+  "listingsChangedAt": "2026-11-16T12:09:59.093Z",
+  "count": 3962,
   "listings": [
+    {
+      "id": "4f30bda8-6c39-4c0b-8715-5fb1e5f01b53",
+      "company": "Springs Window Fashions",
+      "title": "Textile Engineering Analytics & Software Internship - summer 2027",
+      "locations": [
+        "Middleton, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455040778/",
+      "url": "https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53",
+      "postedAt": "2026-11-16T11:24:00.000Z",
+      "updatedAt": "2026-11-16T11:24:00.000Z"
+    },
+    {
+      "id": "2fa4e610-2cf6-4c97-b34b-09d89d9c1dee",
+      "company": "Collins Aerospace",
+      "title": "Co-Op - AI DSP Applied Research",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475383150/",
+      "url": "https://trueinterview.io/jobs/2fa4e610-2cf6-4c97-b34b-09d89d9c1dee",
+      "postedAt": "2026-11-16T11:08:00.000Z",
+      "updatedAt": "2026-11-16T11:08:00.000Z"
+    },
+    {
+      "id": "85624c4f-519e-4316-9336-3378c5979aca",
+      "company": "TikTok",
+      "title": "AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456616801/",
+      "url": "https://trueinterview.io/jobs/85624c4f-519e-4316-9336-3378c5979aca",
+      "postedAt": "2026-11-16T10:35:00.000Z",
+      "updatedAt": "2026-11-16T10:35:00.000Z"
+    },
+    {
+      "id": "f2ffae94-8468-41da-b46c-8be990b06051",
+      "company": "TikTok",
+      "title": "Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456608852/",
+      "url": "https://trueinterview.io/jobs/f2ffae94-8468-41da-b46c-8be990b06051",
+      "postedAt": "2026-11-16T09:35:00.000Z",
+      "updatedAt": "2026-11-16T09:35:00.000Z"
+    },
+    {
+      "id": "da668c29-b091-4c73-b473-56513b256b37",
+      "company": "Abbvie",
+      "title": "Motion Designer Intern",
+      "locations": [
+        "Boulogne-Billancourt, Île-de-France, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016867416--motion-designer-intern",
+      "url": "https://trueinterview.io/jobs/da668c29-b091-4c73-b473-56513b256b37",
+      "postedAt": "2026-11-16T09:14:53.000Z",
+      "updatedAt": "2026-11-16T09:14:53.000Z"
+    },
     {
       "id": "de7f2d46-a36d-4090-8fd2-0f2466375d2e",
       "company": "Micron Technology",
@@ -26408,31 +26537,6 @@
       "url": "https://trueinterview.io/jobs/58528065-3e6c-47be-9c60-cf9cbe9ed1d1",
       "postedAt": "2026-11-06T20:49:40.000Z",
       "updatedAt": "2026-11-06T20:49:40.000Z"
-    },
-    {
-      "id": "2f7de81a-9e66-439f-a172-87dbcceb776d",
-      "company": "IMC Trading",
-      "title": "Quantitative Trader Intern 2027",
-      "locations": [
-        "Hong Kong, Hong Kong SAR"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Trader",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4452930184/",
-      "url": "https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d",
-      "postedAt": "2026-11-06T20:43:00.000Z",
-      "updatedAt": "2026-11-06T20:43:00.000Z"
     },
     {
       "id": "a311e3fc-4765-424c-bbb7-8eaf2257a483",
