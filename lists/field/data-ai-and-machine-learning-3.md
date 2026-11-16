@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**804 open roles.** 585 in the United States & Canada · 219 elsewhere in the world.
+**803 open roles.** 584 in the United States & Canada · 219 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NCS</strong></td>
-<td><a href="https://trueinterview.io/jobs/7de40d5d-7ac1-4ada-9b47-c03c4789e499">[Uni - Jan till Jun 2027] Robotics and Physical AI Engineer Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>ALTEN</strong></td>
 <td><a href="https://trueinterview.io/jobs/3fd589f6-03aa-43ad-af14-9dd4bca04d73">Stage Innovation : Ingénieur Computer Vision / Véhicule Autonome Coopératif</a></td>

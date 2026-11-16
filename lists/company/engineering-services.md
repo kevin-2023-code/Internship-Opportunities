@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**44 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**43 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -317,13 +317,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lexington, KY, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95798">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bec603ea-682e-4279-973f-a51821b56759">Civil Engineering Intern (Transmission) - Spring/Summer 2027</a></td>
-<td>Freeport, ME, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95630">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>
