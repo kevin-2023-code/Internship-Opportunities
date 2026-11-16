@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**160 open roles.**
+**154 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1094,48 +1094,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Somerville, MA</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/5da51a3b-0f1c-422f-9f68-59f3b7368fe4">Engineering &amp; Technology Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3a9d9e21-eca2-4b43-91ae-2dd69974529f">Product Design Engineering Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d45b8766-4d41-4357-9608-e01c2935c7d8">Mechanical Engineering Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/05492c27-87e2-4a6b-b318-176c6a5aac81">Mechanical Engineering Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e11024af-f77f-4aa1-a09e-d0307d28986a">Engineering &amp; Technology Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a81f8e3f-809f-4b97-80e8-b93f78755569">Product Design Engineering Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

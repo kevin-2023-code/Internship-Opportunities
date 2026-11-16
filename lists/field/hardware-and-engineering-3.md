@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**805 open roles.** 719 in the United States & Canada · 86 elsewhere in the world.
+**802 open roles.** 716 in the United States & Canada · 86 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,27 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e">Product Development Engineer - Intern</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Smiths Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc87eb22-afaf-44f1-bc74-079dcc248f92">Industrial Engineering Intern (Paid Internship)</a></td>
-<td>Johor Bahru, Johor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151755369-industrial-engineering-intern-paid-internship-">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ce7d70a4-c0a3-41ad-872b-08e90b0d1e83">Product Development Ford Champ (Intern)</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405">Apply</a></td>

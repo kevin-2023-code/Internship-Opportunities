@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**122 open roles.** 99 in the United States & Canada · 23 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**117 open roles.** 93 in the United States & Canada · 24 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -668,48 +668,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/5da51a3b-0f1c-422f-9f68-59f3b7368fe4">Engineering &amp; Technology Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3a9d9e21-eca2-4b43-91ae-2dd69974529f">Product Design Engineering Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d45b8766-4d41-4357-9608-e01c2935c7d8">Mechanical Engineering Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/05492c27-87e2-4a6b-b318-176c6a5aac81">Mechanical Engineering Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e11024af-f77f-4aa1-a09e-d0307d28986a">Engineering &amp; Technology Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a81f8e3f-809f-4b97-80e8-b93f78755569">Product Design Engineering Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -867,6 +825,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08562cd6-d049-46ba-af31-7b5978f908b7">AI-First Engineering Intern</a></td>
 <td>Baku</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/b2615794-a2c1-4224-9d95-46a890f2a125">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

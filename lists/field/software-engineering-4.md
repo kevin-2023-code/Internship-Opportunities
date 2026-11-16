@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,955 open roles.** 1,539 in the United States & Canada · 416 elsewhere in the world.
+**1,955 open roles.** 1,536 in the United States & Canada · 419 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1634,6 +1634,13 @@
 </tr>
 <tr>
 <td><strong>Tevora</strong></td>
+<td><a href="https://trueinterview.io/jobs/664b408c-b63e-4168-aec1-264993627df7">Cybersecurity Internship Winter 2027 - Threat</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5d836ca5-9e25-4731-8475-8a6b3cae2879">Cybersecurity Internship Winter 2027 - Solutions</a></td>
 <td>Irvine, CA<br/>Fairfax, VA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3">Apply</a></td>
@@ -2360,34 +2367,6 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/5da51a3b-0f1c-422f-9f68-59f3b7368fe4">Engineering &amp; Technology Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3a9d9e21-eca2-4b43-91ae-2dd69974529f">Product Design Engineering Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e11024af-f77f-4aa1-a09e-d0307d28986a">Engineering &amp; Technology Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a81f8e3f-809f-4b97-80e8-b93f78755569">Product Design Engineering Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a8818637-56c8-44f9-b3c5-589a4deb73ec">Network Reliability Engineer Intern (Network Infrastructure) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473993080/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6a91bc9-e780-4750-bd16-f5359d3fbfe3">AI Security Analysis Intern (TikTok Shop-Security)- 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448544019/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e39eae36-a8dc-4179-b8de-ce703e64dacd">[Mobile Software Engineer] Intern (Global Live Revenue) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451417044/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f857556b-d562-4dac-abec-323957c33b06">Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4273232112/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

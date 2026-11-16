@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**805 open roles.** 719 in the United States & Canada · 86 elsewhere in the world.
+**802 open roles.** 716 in the United States & Canada · 86 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2227,27 +2227,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992102003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/d45b8766-4d41-4357-9608-e01c2935c7d8">Mechanical Engineering Co-op Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/05492c27-87e2-4a6b-b318-176c6a5aac81">Mechanical Engineering Intern Opportunities</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Quantinuum</strong></td>
-<td><a href="https://trueinterview.io/jobs/4effb0f4-a999-4ce4-80d5-d5dc1f78eebf">Mechanical Engineering Intern for Photonics Physics Package R&amp;D - 996</a></td>
-<td>US Broomfield, CO</td>
-<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/d36cdf8b-3100-4e0f-9b8b-2177a62cd822">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2826,6 +2805,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Freising, Bayern, Germany</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015981">Apply</a></td>
 <td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e">Product Development Engineer - Intern</a></td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc87eb22-afaf-44f1-bc74-079dcc248f92">Industrial Engineering Intern (Paid Internship)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151755369-industrial-engineering-intern-paid-internship-">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a></td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 </tbody>
 </table>

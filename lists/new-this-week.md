@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**926 open roles.** 715 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
+**922 open roles.** 711 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1749,10 +1749,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Trane Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/71752ba6-ea8e-43d8-b471-d1dd815914ab">Product Management Engineering Co-op</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://careers.tranetechnologies.com/global/en/job/JR-10435">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>United States Steel</strong></td>
 <td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
 <td>Munhall, PA</td>
 <td align="center"><a href="https://sjobs.brassring.com/TGNewUI/Search/Home/Homewithpreload?partnerid=25307&amp;siteid=5238&amp;Pagetype=jobdetails&amp;jobid=3395824">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Watts Water Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/972a53ec-3f0a-4843-a9af-36ffd8e8347a">Product Management Co-op, Jan-June 2027</a></td>
+<td>Menomonee Falls, WI</td>
+<td align="center"><a href="https://wattswater.wd5.myworkdayjobs.com/External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f5f728df-009d-42ef-9dad-d8baf0b74007">Software Development Intern</a></td>
 <td>Chicago, IL<br/>Bellevue, WA<br/>Milwaukee, WI<br/>+17 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488630786/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Prox Shopping</strong></td>
-<td><a href="https://trueinterview.io/jobs/e01d0de6-1c8e-4de6-8c93-d20f97248706">Software Engineering (Cloud Computing) Intern | Unpaid</a></td>
-<td>Santa Monica, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489043259/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/09907012-5bce-439f-9c97-fa85f838153d">Software Engineering Intern - 2027 Summer Internship</a></td>
-<td>Schaumburg, IL</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

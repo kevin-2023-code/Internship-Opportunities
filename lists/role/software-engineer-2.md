@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**679 open roles.** 538 in the United States & Canada · 141 elsewhere in the world.
+**680 open roles.** 538 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1901,6 +1901,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28">Intern Software Developer - Warsaw 2027</a></td>
 <td>Warsaw</td>
 <td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8045124&amp;gh_jid=8045124">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

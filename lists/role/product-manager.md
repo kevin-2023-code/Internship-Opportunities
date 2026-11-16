@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**113 open roles.** 72 in the United States & Canada · 41 elsewhere in the world.
+**115 open roles.** 74 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,7 +46,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Trane Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/71752ba6-ea8e-43d8-b471-d1dd815914ab">Product Management Engineering Co-op</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://careers.tranetechnologies.com/global/en/job/JR-10435">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Watts Water Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/972a53ec-3f0a-4843-a9af-36ffd8e8347a">Product Management Co-op, Jan-June 2027</a></td>
+<td>Menomonee Falls, WI</td>
+<td align="center"><a href="https://wattswater.wd5.myworkdayjobs.com/External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/08453364-e8da-4c18-a773-6abea81aa6b5">Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4421486327/">Apply</a></td>

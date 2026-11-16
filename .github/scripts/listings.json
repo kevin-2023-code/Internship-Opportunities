@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T15:05:17.839Z",
-  "count": 3961,
+  "listingsChangedAt": "2026-11-16T16:05:00.339Z",
+  "count": 3960,
   "listings": [
     {
       "id": "506d8520-6d56-4c13-a22b-a601a1704955",
@@ -8566,6 +8566,31 @@
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
     {
+      "id": "71752ba6-ea8e-43d8-b471-d1dd815914ab",
+      "company": "Trane Technologies",
+      "title": "Product Management Engineering Co-op",
+      "locations": [
+        "Grand Rapids, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.tranetechnologies.com/global/en/job/JR-10435",
+      "url": "https://trueinterview.io/jobs/71752ba6-ea8e-43d8-b471-d1dd815914ab",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
       "id": "37b2b745-ee87-43a0-8bc0-c3bc8398e2aa",
       "company": "United States Steel",
       "title": "Software Engineering Intern, AI-Assisted Development",
@@ -8587,6 +8612,31 @@
       "source": "indeed",
       "applyUrl": "https://sjobs.brassring.com/TGNewUI/Search/Home/Homewithpreload?partnerid=25307&siteid=5238&Pagetype=jobdetails&jobid=3395824",
       "url": "https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "972a53ec-3f0a-4843-a9af-36ffd8e8347a",
+      "company": "Watts Water Technologies",
+      "title": "Product Management Co-op, Jan-June 2027",
+      "locations": [
+        "Menomonee Falls, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://wattswater.wd5.myworkdayjobs.com/External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1",
+      "url": "https://trueinterview.io/jobs/972a53ec-3f0a-4843-a9af-36ffd8e8347a",
       "postedAt": "2026-11-13T06:00:00.000Z",
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
@@ -93241,6 +93291,101 @@
       "updatedAt": "2026-10-06T09:14:32.000Z"
     },
     {
+      "id": "835be3c8-3d91-4f3f-8169-1411a25e1c21",
+      "company": "Neura Robotics",
+      "title": "Robotic Foundation Model Engineer Intern (Human)",
+      "locations": [
+        "Metzingen / Riederich"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/neura-robotics-gmbh/aa9a0895-f66b-4a5f-b933-ceca706d0e5c",
+      "url": "https://trueinterview.io/jobs/835be3c8-3d91-4f3f-8169-1411a25e1c21",
+      "postedAt": "2026-10-06T06:36:27.000Z",
+      "updatedAt": "2026-10-06T06:36:27.000Z"
+    },
+    {
+      "id": "537b9859-c6d8-4e38-9734-446604d5146f",
+      "company": "Apple",
+      "title": "PHY Cellular Firmware Engineer Internship",
+      "locations": [
+        "München, Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001",
+      "url": "https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f",
+      "postedAt": "2026-10-06T05:00:00.000Z",
+      "updatedAt": "2026-10-06T05:00:00.000Z"
+    },
+    {
+      "id": "6a3f96db-a3e9-49c3-86fa-fccd5653a75d",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (2027)",
+      "locations": [
+        "In-Office"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "url": "https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d",
+      "postedAt": "2026-10-06T02:42:06.000Z",
+      "updatedAt": "2026-10-06T02:42:06.000Z"
+    },
+    {
+      "id": "664b408c-b63e-4168-aec1-264993627df7",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Threat",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968",
+      "url": "https://trueinterview.io/jobs/664b408c-b63e-4168-aec1-264993627df7",
+      "postedAt": "2026-10-06T00:26:35.000Z",
+      "updatedAt": "2026-10-06T00:26:35.000Z"
+    },
+    {
       "id": "5d836ca5-9e25-4731-8475-8a6b3cae2879",
       "company": "Tevora",
       "title": "Cybersecurity Internship Winter 2027 - Solutions",
@@ -102629,181 +102774,6 @@
       "url": "https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
       "postedAt": "2026-09-17T17:57:47.000Z",
       "updatedAt": "2026-09-17T17:57:47.000Z"
-    },
-    {
-      "id": "5da51a3b-0f1c-422f-9f68-59f3b7368fe4",
-      "company": "Sharkninja",
-      "title": "Engineering & Technology Co-op Opportunities",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713854006",
-      "url": "https://trueinterview.io/jobs/5da51a3b-0f1c-422f-9f68-59f3b7368fe4",
-      "postedAt": "2026-09-17T15:27:47.000Z",
-      "updatedAt": "2026-09-17T15:27:47.000Z"
-    },
-    {
-      "id": "3a9d9e21-eca2-4b43-91ae-2dd69974529f",
-      "company": "Sharkninja",
-      "title": "Product Design Engineering Co-op Opportunities",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006",
-      "url": "https://trueinterview.io/jobs/3a9d9e21-eca2-4b43-91ae-2dd69974529f",
-      "postedAt": "2026-09-17T15:27:25.000Z",
-      "updatedAt": "2026-09-17T15:27:25.000Z"
-    },
-    {
-      "id": "d45b8766-4d41-4357-9608-e01c2935c7d8",
-      "company": "Sharkninja",
-      "title": "Mechanical Engineering Co-op Opportunities",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713783006",
-      "url": "https://trueinterview.io/jobs/d45b8766-4d41-4357-9608-e01c2935c7d8",
-      "postedAt": "2026-09-17T15:26:33.000Z",
-      "updatedAt": "2026-09-17T15:26:33.000Z"
-    },
-    {
-      "id": "05492c27-87e2-4a6b-b318-176c6a5aac81",
-      "company": "Sharkninja",
-      "title": "Mechanical Engineering Intern Opportunities",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006",
-      "url": "https://trueinterview.io/jobs/05492c27-87e2-4a6b-b318-176c6a5aac81",
-      "postedAt": "2026-09-17T15:25:56.000Z",
-      "updatedAt": "2026-09-17T15:25:56.000Z"
-    },
-    {
-      "id": "e11024af-f77f-4aa1-a09e-d0307d28986a",
-      "company": "Sharkninja",
-      "title": "Engineering & Technology Intern Opportunities",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713857006",
-      "url": "https://trueinterview.io/jobs/e11024af-f77f-4aa1-a09e-d0307d28986a",
-      "postedAt": "2026-09-17T15:25:28.000Z",
-      "updatedAt": "2026-09-17T15:25:28.000Z"
-    },
-    {
-      "id": "4effb0f4-a999-4ce4-80d5-d5dc1f78eebf",
-      "company": "Quantinuum",
-      "title": "Mechanical Engineering Intern for Photonics Physics Package R&D - 996",
-      "locations": [
-        "US Broomfield, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/quantinuum/d36cdf8b-3100-4e0f-9b8b-2177a62cd822",
-      "url": "https://trueinterview.io/jobs/4effb0f4-a999-4ce4-80d5-d5dc1f78eebf",
-      "postedAt": "2026-09-17T15:23:25.000Z",
-      "updatedAt": "2026-09-17T15:23:25.000Z"
-    },
-    {
-      "id": "a81f8e3f-809f-4b97-80e8-b93f78755569",
-      "company": "Sharkninja",
-      "title": "Product Design Engineering Intern Opportunities",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006",
-      "url": "https://trueinterview.io/jobs/a81f8e3f-809f-4b97-80e8-b93f78755569",
-      "postedAt": "2026-09-17T15:22:49.000Z",
-      "updatedAt": "2026-09-17T15:22:49.000Z"
     }
   ]
 }

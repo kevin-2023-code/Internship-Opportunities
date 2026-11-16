@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**926 open roles.** 715 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
+**922 open roles.** 711 in the United States & Canada · 211 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Prox Shopping</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01d0de6-1c8e-4de6-8c93-d20f97248706">Software Engineering (Cloud Computing) Intern | Unpaid</a></td>
+<td>Santa Monica, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489043259/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/09907012-5bce-439f-9c97-fa85f838153d">Software Engineering Intern - 2027 Summer Internship</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Valstad Shipworks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bf08763-1f2d-442e-9dcf-8991fa4858a7">Software Engineering Intern, 3D &amp; Manufacturing Applications</a></td>
@@ -2178,48 +2192,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488811108/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9">Intern Data Engineer - Data Services - 2027</a></td>
-<td>Baton Rouge, LA<br/>Monroe, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451257884/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3448b0a3-6ba0-4445-a905-5a9b741324d1">Intern Application Developer – Salesforce - 2027</a></td>
-<td>Baton Rouge, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450860194/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f9085db9-c1ae-494b-8bda-65642714af5b">Intern Application Developer 2027 – DPE</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451264816/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13940705-1dcf-41ee-9a6d-0a7bccfdcd0f">Intern Developer – Adobe 2027</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451254860/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c564233e-2311-4e0c-bb04-5b2f9e6a5efe">Intern Data Engineers - AI &amp; Analytics - 2027</a></td>
-<td>Baton Rouge, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451280746/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Simon Property Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fb59e13-0711-48ba-8605-25add32a266a">Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463398644/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2826,6 +2798,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oulu, Finland</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019766">Apply</a></td>
 <td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/154fb64f-94b2-4838-ae61-e4f7176c806e">Layout Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012986">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4433b4d6-0158-41ec-a6d7-05e32e3062c7">Validation Engineering Intern</a></td>
+<td>Oulu, Finland</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Koniag Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
+<td>Greater Minneapolis-St. Paul Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
 </table>
