@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdec0bfc-bfee-4404-a322-697bc9802d2c">Displays Engineer Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pylon</strong></td>
 <td><a href="https://trueinterview.io/jobs/065aa621-97df-4cb8-a270-4f83a87df55e">Software Engineer, Intern</a></td>
 <td>San Francisco, CA</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/23480fe8-3468-4dc9-ae2e-7c202c27e17b">Electromechanical Design Engineering Intern (Summer 2027)</a></td>
 <td>Palo Alto, California<br/>Vancouver, BC<br/>Irvine, California<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Multiply Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad79f562-d143-47fd-813f-61dab7bbeb6a">Mechanical Engineering Co-op/Intern (Spring 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.lever.co/multiplylabs/4a95d36f-6ea3-4044-a6ab-5c2c1d4997a5">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 </tbody>
