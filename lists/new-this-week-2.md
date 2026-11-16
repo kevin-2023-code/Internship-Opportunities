@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**915 open roles.** 713 in the United States & Canada · 202 elsewhere in the world. Everything the employers put up this week.
+**917 open roles.** 713 in the United States & Canada · 204 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/a84276ba-c54a-4bc5-a959-dfaa5744ef50">Rendering Technical Art Intern, League of Legends - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356830?gh_jid=8356830">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ICF</strong></td>
+<td><a href="https://trueinterview.io/jobs/79e21a8d-fd18-41c5-b5b4-84bebd8ea348">2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489020766/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/0da88028-3701-4e8b-8cef-04fa3ab0fd18">Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356789?gh_jid=8356789">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Constellation</strong></td>
 <td><a href="https://trueinterview.io/jobs/8982e819-102f-4255-9742-7a2de85af8f3">2027 Summer Quantitative Analytics &amp; Data Science Intern (Baltimore, MD)</a></td>
@@ -1843,21 +1864,7 @@
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6fe98dfd-7f99-4178-af0f-9a1e882708b8">Quantitative Trader Intern - Summer 2027</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4434662673/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Crowe</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
-<td>Chicago, IL<br/>New York, NY<br/>Dallas, TX<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
 <td>Austin, TX<br/>Denver, CO<br/>Chicago, IL<br/>+33 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
@@ -2199,13 +2206,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454814310/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/dde08523-3156-4fef-910c-162b23029ae3">Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486678432/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2218,6 +2218,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dc5c3a7-de07-40ad-a96b-65b8408d8765">Backend Engineer Intern, Data Infrastructure - Big Data Platform (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490269212/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f74035f8-0a6b-493a-9a5a-2c3d3f22eae2">IT Compliance &amp; Cybersecurity Intern, Financial Service (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490267278/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>AECOM</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dcbd2dc-59d5-4980-aa21-e2710995923d">Civil Engineering Intern - Civil &amp; GET</a></td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b4e9224f-2493-4b28-8580-e4291953f039">AI Agent Engineer Intern (Search) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452746940/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b3b07757-ee89-42cd-bcee-532f69281954">Backend Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447699661/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d2a48c62-d327-47ed-80a7-056b693d6880">Data Operations - AI Data Operations Project Intern (PGC &amp; Emerging Products) - 2026 Start (BS/MS）</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4437553774/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

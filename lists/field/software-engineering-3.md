@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,950 open roles.** 1,538 in the United States & Canada · 412 elsewhere in the world.
+**1,953 open roles.** 1,540 in the United States & Canada · 413 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>GenPark</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tevora</strong></td>
+<td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2f820346-f8a9-43b1-9cdd-088480d3c247">Cybersecurity Internship Summer 2027 - Solutions</a></td>
 <td>Irvine, CA<br/>Fairfax, VA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d">Apply</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/397cdf4a-b3d4-489a-9b12-5c7bb1b861dd">Components Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482510762/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/21e51ebf-2f60-4b10-98e6-168c2a5526a6">Factory Test Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476333861/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/29b79905-4e5c-4918-92b6-39c4abe43577">Weld Development Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476340602/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

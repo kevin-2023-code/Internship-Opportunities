@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**915 open roles.** 713 in the United States & Canada · 202 elsewhere in the world. Everything the employers put up this week.
+**917 open roles.** 713 in the United States & Canada · 204 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoboNex 88 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/93030922-a943-4fc3-bdc6-53cd3cfa467c">Software Engineering Intern (2027 Spring)</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489704871/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VIAVI Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/13464dae-5934-4f9e-8f70-a6ccef22fe08">Software Engineering Co-op</a></td>
+<td>Germantown, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490272050/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Auspex AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d085ffa-28ec-4c98-abdb-6872cae54cac">AI Engineering Intern (Experience-Based)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482928600/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Oakridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/056d0dc0-7f2c-412c-a612-0596c17e004e">Software Engineer Intern for Film Production Startup Founded by Sony alumni</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/292788de-8ab1-42ce-8812-c64dd89228dc">IT Support Internship - 2027</a></td>
 <td>Dallas, TX, 75225</td>
 <td align="center"><a href="https://recruiting.ultipro.com/WHI1006WPL/JobBoard/bf9b8b62-5ece-4a4f-aa1f-97eba460105c/OpportunityDetail?opportunityId=29367856-1d55-4e3a-b75b-89196373a3d3">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/a84276ba-c54a-4bc5-a959-dfaa5744ef50">Rendering Technical Art Intern, League of Legends - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356830?gh_jid=8356830">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ICF</strong></td>
-<td><a href="https://trueinterview.io/jobs/79e21a8d-fd18-41c5-b5b4-84bebd8ea348">2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489020766/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/0da88028-3701-4e8b-8cef-04fa3ab0fd18">Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356789?gh_jid=8356789">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,950 open roles.** 1,538 in the United States & Canada · 412 elsewhere in the world.
+**1,953 open roles.** 1,540 in the United States & Canada · 413 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@
 <tbody>
 <tr>
 <td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/21e51ebf-2f60-4b10-98e6-168c2a5526a6">Factory Test Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476333861/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/29b79905-4e5c-4918-92b6-39c4abe43577">Weld Development Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476340602/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2a13d69d-ed67-444a-a5a0-67e9057f8510">Software Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476337648/">Apply</a></td>
@@ -2394,6 +2408,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dc5c3a7-de07-40ad-a96b-65b8408d8765">Backend Engineer Intern, Data Infrastructure - Big Data Platform (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490269212/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af">CUDA Full Stack &amp; AI Test Dev Intern - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea38ca39-d041-469f-9e89-bf356d49a9b0">Site Reliability Engineer Intern (Global SRE- GMPT) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447985869/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/915ddc55-3de5-4fbf-a833-55039a53a0a5">Frontend Engineer Intern (TikTok Shop by Tokopedia) - 2027 Start</a></td>
-<td>Jakarta, Jakarta, Indonesia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454776280/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

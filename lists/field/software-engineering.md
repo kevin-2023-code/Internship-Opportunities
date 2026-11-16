@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,950 open roles.** 1,538 in the United States & Canada · 412 elsewhere in the world.
+**1,953 open roles.** 1,540 in the United States & Canada · 413 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoboNex 88 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/93030922-a943-4fc3-bdc6-53cd3cfa467c">Software Engineering Intern (2027 Spring)</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489704871/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VIAVI Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/13464dae-5934-4f9e-8f70-a6ccef22fe08">Software Engineering Co-op</a></td>
+<td>Germantown, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490272050/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Oakridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/056d0dc0-7f2c-412c-a612-0596c17e004e">Software Engineer Intern for Film Production Startup Founded by Sony alumni</a></td>
@@ -2652,10 +2666,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Crowe</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
-<td>Chicago, IL<br/>New York, NY<br/>Dallas, TX<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
+<td><strong>DaobrewAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/08317074-1e12-413e-aaf6-f9b44dc4cf6e">Software Engineering Intern</a></td>
 <td>McLean, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4444702579/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nuvo</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f84c5e4-77c4-4b75-9579-729d584f51ce">Software Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463709485/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>New York Power Authority</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5bd3763-2615-4494-bb0f-30a6eb17a156">Cybersecurity Intern</a></td>
-<td>White Plains, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488770722/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 </tbody>

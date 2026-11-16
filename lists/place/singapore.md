@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**182 open roles.**
+**184 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dc5c3a7-de07-40ad-a96b-65b8408d8765">Backend Engineer Intern, Data Infrastructure - Big Data Platform (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490269212/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f74035f8-0a6b-493a-9a5a-2c3d3f22eae2">IT Compliance &amp; Cybersecurity Intern, Financial Service (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490267278/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>MediaTek</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0be761b-e62f-4534-8a64-455dc8033f7c">[2027 Internship] Full Stack Software Engineer Intern</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,950 open roles.** 1,538 in the United States & Canada · 412 elsewhere in the world.
+**1,953 open roles.** 1,540 in the United States & Canada · 413 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nuvo</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f84c5e4-77c4-4b75-9579-729d584f51ce">Software Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463709485/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>New York Power Authority</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5bd3763-2615-4494-bb0f-30a6eb17a156">Cybersecurity Intern</a></td>
+<td>White Plains, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488770722/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Zurn Elkay Water Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/939ac533-4ee9-4405-8082-0724d5219226">Embedded Firmware Intern (Summer 2027)</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.teck.com/job/Vancouver-Cloud-Platform-Developer-Co-op-Brit/1446600200/?feedId=223000">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GenPark</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tevora</strong></td>
-<td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

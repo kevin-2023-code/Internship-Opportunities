@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**91 open roles.** 66 in the United States & Canada · 25 elsewhere in the world.
+**90 open roles.** 65 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7d3be3ac-e1c7-4daf-9378-34c42c87d566">Quantitative Research Intern (PhD) - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4434668479/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6fe98dfd-7f99-4178-af0f-9a1e882708b8">Quantitative Trader Intern - Summer 2027</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4434662673/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

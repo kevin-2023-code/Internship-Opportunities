@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Auspex AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d085ffa-28ec-4c98-abdb-6872cae54cac">AI Engineering Intern (Experience-Based)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482928600/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Direct Supply</strong></td>
 <td><a href="https://trueinterview.io/jobs/4745ebaf-bb27-444a-9df1-cddd82964c0c">AI Engineer Intern</a></td>
 <td>Milwaukee, WI</td>
@@ -955,13 +962,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ae788f60-27cc-4f42-bccb-a5d751b9eae2">Summer 2027 Internship Program: Machine Learning Engineering - Brooklyn, NY</a></td>
 <td>Brooklyn, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487133305/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DaobrewAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

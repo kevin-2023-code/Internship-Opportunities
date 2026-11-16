@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**672 open roles.** 534 in the United States & Canada · 138 elsewhere in the world.
+**674 open roles.** 536 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoboNex 88 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/93030922-a943-4fc3-bdc6-53cd3cfa467c">Software Engineering Intern (2027 Spring)</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489704871/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VIAVI Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/13464dae-5934-4f9e-8f70-a6ccef22fe08">Software Engineering Co-op</a></td>
+<td>Germantown, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490272050/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Oakridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/056d0dc0-7f2c-412c-a612-0596c17e004e">Software Engineer Intern for Film Production Startup Founded by Sony alumni</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261">Software Engineer Co-op</a></td>
 <td>New Providence, New Jersey, United States<br/>New Providence, NJ</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b">Software Test Engineer Intern</a></td>
-<td>Waltham, Massachusetts, United States</td>
-<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813568250-software-test-engineer-intern-waltham-us-ma-usa">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158811580-sap-ixp-intern-agile-developer-business-data-cloud">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**109 open roles.** 90 in the United States & Canada · 19 elsewhere in the world.
+**109 open roles.** 89 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332">Cybersecurity Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488788761/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Crowe</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
-<td>Chicago, IL<br/>New York, NY<br/>Dallas, TX<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -659,6 +652,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/f74035f8-0a6b-493a-9a5a-2c3d3f22eae2">IT Compliance &amp; Cybersecurity Intern, Financial Service (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490267278/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/8703e02d-f79c-4240-9881-9ec138aad5d9">Security Software Engineer Intern (Security Assurance) - 2027 Start</a></td>

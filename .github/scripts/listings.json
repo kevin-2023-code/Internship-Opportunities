@@ -5,9 +5,138 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T05:06:12.307Z",
-  "count": 3946,
+  "listingsChangedAt": "2026-11-16T06:11:17.116Z",
+  "count": 3949,
   "listings": [
+    {
+      "id": "93030922-a943-4fc3-bdc6-53cd3cfa467c",
+      "company": "RoboNex 88 Technologies",
+      "title": "Software Engineering Intern (2027 Spring)",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489704871/",
+      "url": "https://trueinterview.io/jobs/93030922-a943-4fc3-bdc6-53cd3cfa467c",
+      "postedAt": "2026-11-16T05:19:00.000Z",
+      "updatedAt": "2026-11-16T05:19:00.000Z"
+    },
+    {
+      "id": "4dc5c3a7-de07-40ad-a96b-65b8408d8765",
+      "company": "Shopee",
+      "title": "Backend Engineer Intern, Data Infrastructure - Big Data Platform (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490269212/",
+      "url": "https://trueinterview.io/jobs/4dc5c3a7-de07-40ad-a96b-65b8408d8765",
+      "postedAt": "2026-11-16T04:57:00.000Z",
+      "updatedAt": "2026-11-16T04:57:00.000Z"
+    },
+    {
+      "id": "f74035f8-0a6b-493a-9a5a-2c3d3f22eae2",
+      "company": "Shopee",
+      "title": "IT Compliance & Cybersecurity Intern, Financial Service (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490267278/",
+      "url": "https://trueinterview.io/jobs/f74035f8-0a6b-493a-9a5a-2c3d3f22eae2",
+      "postedAt": "2026-11-16T04:39:00.000Z",
+      "updatedAt": "2026-11-16T04:39:00.000Z"
+    },
+    {
+      "id": "13464dae-5934-4f9e-8f70-a6ccef22fe08",
+      "company": "VIAVI Solutions",
+      "title": "Software Engineering Co-op",
+      "locations": [
+        "Germantown, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490272050/",
+      "url": "https://trueinterview.io/jobs/13464dae-5934-4f9e-8f70-a6ccef22fe08",
+      "postedAt": "2026-11-16T04:32:00.000Z",
+      "updatedAt": "2026-11-16T04:32:00.000Z"
+    },
+    {
+      "id": "7d085ffa-28ec-4c98-abdb-6872cae54cac",
+      "company": "Auspex AI",
+      "title": "AI Engineering Intern (Experience-Based)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482928600/",
+      "url": "https://trueinterview.io/jobs/7d085ffa-28ec-4c98-abdb-6872cae54cac",
+      "postedAt": "2026-11-16T04:23:00.000Z",
+      "updatedAt": "2026-11-16T04:23:00.000Z"
+    },
     {
       "id": "056d0dc0-7f2c-412c-a612-0596c17e004e",
       "company": "Oakridge",
@@ -22146,33 +22275,6 @@
       "updatedAt": "2026-11-09T10:59:00.000Z"
     },
     {
-      "id": "6fe98dfd-7f99-4178-af0f-9a1e882708b8",
-      "company": "IMC Trading",
-      "title": "Quantitative Trader Intern - Summer 2027",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Trader",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4434662673/",
-      "url": "https://trueinterview.io/jobs/6fe98dfd-7f99-4178-af0f-9a1e882708b8",
-      "postedAt": "2026-11-09T09:31:00.000Z",
-      "updatedAt": "2026-11-09T09:31:00.000Z"
-    },
-    {
       "id": "26f785b0-2cc9-4a1c-bfed-87d366d5a847",
       "company": "Susquehanna International Group",
       "title": "Quantitative Research Internship - PhD",
@@ -22199,37 +22301,6 @@
       "url": "https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847",
       "postedAt": "2026-11-09T09:31:00.000Z",
       "updatedAt": "2026-11-09T09:31:00.000Z"
-    },
-    {
-      "id": "6a30a79d-05df-446c-a551-0a58c438c67a",
-      "company": "Crowe",
-      "title": "Cybersecurity Intern",
-      "locations": [
-        "Dallas, TX",
-        "Chicago, IL",
-        "New York, NY",
-        "Indianapolis, IN"
-      ],
-      "cities": [
-        "Chicago, IL",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4454857439/",
-      "url": "https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a",
-      "postedAt": "2026-11-08T09:10:00.000Z",
-      "updatedAt": "2026-11-09T09:03:00.000Z"
     },
     {
       "id": "7ed981cc-1799-4317-ba63-ba02cfcb6379",
@@ -22340,9 +22411,9 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,

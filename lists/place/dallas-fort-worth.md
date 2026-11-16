@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**83 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -117,13 +117,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Crowe</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
-<td>Dallas, TX<br/>Chicago, IL<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
 <td>Plano, TX<br/>Dallas, TX<br/>Austin, TX<br/>+33 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
