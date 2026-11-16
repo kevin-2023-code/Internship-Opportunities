@@ -5,9 +5,109 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T21:04:36.728Z",
-  "count": 3969,
+  "listingsChangedAt": "2026-11-16T23:04:44.497Z",
+  "count": 3974,
   "listings": [
+    {
+      "id": "8ec712e2-4ae7-4e0c-9648-8e81b7642729",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 Structural Analysis Engineer Internship",
+      "locations": [
+        "San Leandro, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009",
+      "url": "https://trueinterview.io/jobs/8ec712e2-4ae7-4e0c-9648-8e81b7642729",
+      "postedAt": "2026-11-16T19:42:48.000Z",
+      "updatedAt": "2026-11-16T19:42:48.000Z"
+    },
+    {
+      "id": "9d0d65c6-882a-4a4f-9d9e-7dcb6ae8029f",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 Vacuum Systems Engineering Internship",
+      "locations": [
+        "San Leandro, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009",
+      "url": "https://trueinterview.io/jobs/9d0d65c6-882a-4a4f-9d9e-7dcb6ae8029f",
+      "postedAt": "2026-11-16T19:41:38.000Z",
+      "updatedAt": "2026-11-16T19:41:38.000Z"
+    },
+    {
+      "id": "279ef509-5b7c-4a6d-b864-94ee4cddd6cb",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship",
+      "locations": [
+        "San Leandro, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009",
+      "url": "https://trueinterview.io/jobs/279ef509-5b7c-4a6d-b864-94ee4cddd6cb",
+      "postedAt": "2026-11-16T19:41:16.000Z",
+      "updatedAt": "2026-11-16T19:41:16.000Z"
+    },
+    {
+      "id": "74635427-69c3-4a10-8899-28e9f93d426a",
+      "company": "Pacific Fusion",
+      "title": "Summer 2027 HPC/DevOps Engineering Intern",
+      "locations": [
+        "San Leandro, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009",
+      "url": "https://trueinterview.io/jobs/74635427-69c3-4a10-8899-28e9f93d426a",
+      "postedAt": "2026-11-16T19:40:27.000Z",
+      "updatedAt": "2026-11-16T19:40:27.000Z"
+    },
     {
       "id": "3a445e15-4751-45f0-886f-6655ba9bbe2b",
       "company": "M3",
@@ -84,6 +184,31 @@
       "url": "https://trueinterview.io/jobs/e1ec7797-8d1c-44cd-acd9-079dde1520f3",
       "postedAt": "2026-11-16T16:45:44.000Z",
       "updatedAt": "2026-11-16T16:45:44.000Z"
+    },
+    {
+      "id": "17ac2859-7396-4a7b-bddc-259e6d658b71",
+      "company": "Sharkninja",
+      "title": "Summer 2027: HW UX/UI Design Intern (May through August)",
+      "locations": [
+        "Needham, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006",
+      "url": "https://trueinterview.io/jobs/17ac2859-7396-4a7b-bddc-259e6d658b71",
+      "postedAt": "2026-11-16T16:16:27.000Z",
+      "updatedAt": "2026-11-16T16:16:27.000Z"
     },
     {
       "id": "db125254-1736-46dd-84b6-05b24df6e488",
