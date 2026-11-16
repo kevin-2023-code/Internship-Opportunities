@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T19:04:31.559Z",
-  "count": 3966,
+  "listingsChangedAt": "2026-11-16T20:04:54.076Z",
+  "count": 3970,
   "listings": [
     {
       "id": "3a445e15-4751-45f0-886f-6655ba9bbe2b",
@@ -57,6 +57,33 @@
       "url": "https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921",
       "postedAt": "2026-11-16T16:54:00.000Z",
       "updatedAt": "2026-11-16T16:54:00.000Z"
+    },
+    {
+      "id": "e1ec7797-8d1c-44cd-acd9-079dde1520f3",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - Data & Platform, Technical Support",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161864589-sap-ixp-intern-data-platform-technical-support",
+      "url": "https://trueinterview.io/jobs/e1ec7797-8d1c-44cd-acd9-079dde1520f3",
+      "postedAt": "2026-11-16T16:45:44.000Z",
+      "updatedAt": "2026-11-16T16:45:44.000Z"
     },
     {
       "id": "db125254-1736-46dd-84b6-05b24df6e488",
@@ -132,6 +159,33 @@
       "url": "https://trueinterview.io/jobs/48de2750-a3ed-423b-8dd7-fd4fb3131d33",
       "postedAt": "2026-11-16T15:56:00.000Z",
       "updatedAt": "2026-11-16T15:56:00.000Z"
+    },
+    {
+      "id": "c6afb623-ebb6-4a99-aa60-f0448f68415e",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - Full-stack Software Developer",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161851189-sap-ixp-intern-full-stack-software-developer",
+      "url": "https://trueinterview.io/jobs/c6afb623-ebb6-4a99-aa60-f0448f68415e",
+      "postedAt": "2026-11-16T15:55:03.000Z",
+      "updatedAt": "2026-11-16T15:55:03.000Z"
     },
     {
       "id": "cdec0bfc-bfee-4404-a322-697bc9802d2c",
@@ -96904,6 +96958,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54649?lang=en-us",
       "url": "https://trueinterview.io/jobs/c92b54b1-839d-4c4f-8509-80410060f601",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "66f8ae87-2358-4abf-a19b-2228ba2890eb",
+      "company": "Keysight",
+      "title": "Software Development Intern",
+      "locations": [
+        "Pleasant Grove, Utah, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54671?lang=en-us",
+      "url": "https://trueinterview.io/jobs/66f8ae87-2358-4abf-a19b-2228ba2890eb",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "5d37dd43-cdb6-4f9d-9cc4-462fc0232c78",
+      "company": "Lam Research",
+      "title": "Summer 2027 - Process Engineering Intern - PhD",
+      "locations": [
+        "Fremont, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.lamresearch.com/careers/job/1099556374769",
+      "url": "https://trueinterview.io/jobs/5d37dd43-cdb6-4f9d-9cc4-462fc0232c78",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
