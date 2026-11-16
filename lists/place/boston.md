@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**158 open roles.**
+**159 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dd980830-0f87-4fe8-8fec-1f9164140975">Advanced Manufacturing Engineering Co-Op</a></td>
 <td>Waltham, MA</td>
 <td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MIT Lincoln Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/650c3803-3761-4248-988d-8c7aff1443b2">IT CO-OP, Advanced Sensors and Techniques (January - June 2027) - Group 09-92</a></td>
+<td>Lexington, MA</td>
+<td align="center"><a href="https://careers.ll.mit.edu/job/Lexington-IT-CO-OP%2C-Advanced-Sensors-and-Techniques-%28January-June-2027%29-Group-09-92-MA-02420/1450677600/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

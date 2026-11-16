@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T04:06:12.544Z",
-  "count": 3944,
+  "listingsChangedAt": "2026-11-16T05:06:12.307Z",
+  "count": 3946,
   "listings": [
+    {
+      "id": "056d0dc0-7f2c-412c-a612-0596c17e004e",
+      "company": "Oakridge",
+      "title": "Software Engineer Intern for Film Production Startup Founded by Sony alumni",
+      "locations": [
+        "Los Angeles Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490255372/",
+      "url": "https://trueinterview.io/jobs/056d0dc0-7f2c-412c-a612-0596c17e004e",
+      "postedAt": "2026-11-16T04:04:00.000Z",
+      "updatedAt": "2026-11-16T04:04:00.000Z"
+    },
     {
       "id": "57f20ae5-14b4-4f7c-b69f-956954f9fced",
       "company": "Tesla",
@@ -7558,6 +7583,31 @@
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
     {
+      "id": "650c3803-3761-4248-988d-8c7aff1443b2",
+      "company": "MIT Lincoln Laboratory",
+      "title": "IT CO-OP, Advanced Sensors and Techniques (January - June 2027) - Group 09-92",
+      "locations": [
+        "Lexington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.ll.mit.edu/job/Lexington-IT-CO-OP%2C-Advanced-Sensors-and-Techniques-%28January-June-2027%29-Group-09-92-MA-02420/1450677600/",
+      "url": "https://trueinterview.io/jobs/650c3803-3761-4248-988d-8c7aff1443b2",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
       "id": "764d54aa-7b10-460b-9440-7cb234142be5",
       "company": "NextEra Energy",
       "title": "Summer Intern - Technical",
@@ -12241,7 +12291,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
