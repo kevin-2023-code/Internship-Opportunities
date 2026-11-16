@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**798 open roles.** 715 in the United States & Canada · 83 elsewhere in the world.
+**799 open roles.** 715 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2232,6 +2232,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dcbd2dc-59d5-4980-aa21-e2710995923d">Civil Engineering Intern - Civil &amp; GET</a></td>
+<td>Perth, Western Australia, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161691198-civil-engineering-intern-civil-get">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>MediaTek</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0be761b-e62f-4534-8a64-455dc8033f7c">[2027 Internship] Full Stack Software Engineer Intern</a></td>

@@ -287,10 +287,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bc799c9-9b5f-4436-9413-1976b8df483f">Research Scientist Intern - Content Seal - FAIR</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481082217/">Apply</a></td>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/abf688ad-5d81-43c6-840d-c11e23e0a370">【Class of 2028 &amp; 2029／Internship】Software Development Engineers , Amazon International Stores</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455793957/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>

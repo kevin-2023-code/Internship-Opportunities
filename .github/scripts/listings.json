@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T01:06:41.910Z",
-  "count": 3943,
+  "listingsChangedAt": "2026-11-16T02:06:53.161Z",
+  "count": 3944,
   "listings": [
     {
       "id": "57f20ae5-14b4-4f7c-b69f-956954f9fced",
@@ -86,6 +86,31 @@
       "url": "https://trueinterview.io/jobs/4d417ec4-0f91-4116-95c5-61ed1352f89a",
       "postedAt": "2026-11-16T00:26:00.000Z",
       "updatedAt": "2026-11-16T00:26:00.000Z"
+    },
+    {
+      "id": "7dcbd2dc-59d5-4980-aa21-e2710995923d",
+      "company": "AECOM",
+      "title": "Civil Engineering Intern - Civil & GET",
+      "locations": [
+        "Perth, Western Australia, Australia"
+      ],
+      "cities": [],
+      "countries": [
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161691198-civil-engineering-intern-civil-get",
+      "url": "https://trueinterview.io/jobs/7dcbd2dc-59d5-4980-aa21-e2710995923d",
+      "postedAt": "2026-11-15T22:35:08.000Z",
+      "updatedAt": "2026-11-15T22:35:08.000Z"
     },
     {
       "id": "e0be761b-e62f-4534-8a64-455dc8033f7c",
@@ -374,31 +399,29 @@
       "updatedAt": "2026-11-15T16:52:00.000Z"
     },
     {
-      "id": "4bc799c9-9b5f-4436-9413-1976b8df483f",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Content Seal - FAIR",
+      "id": "1bd742a4-49c8-4c72-9051-c9b8b008b8cc",
+      "company": "Constellation",
+      "title": "2027 Summer Information Technology Software Development Intern (Remote)",
       "locations": [
-        "Paris, Île-de-France, France"
+        "Baltimore, MD"
       ],
-      "cities": [
-        "Paris"
-      ],
+      "cities": [],
       "countries": [
-        "France"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4481082217/",
-      "url": "https://trueinterview.io/jobs/4bc799c9-9b5f-4436-9413-1976b8df483f",
-      "postedAt": "2026-11-15T16:28:00.000Z",
-      "updatedAt": "2026-11-15T16:28:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465196845/",
+      "url": "https://trueinterview.io/jobs/1bd742a4-49c8-4c72-9051-c9b8b008b8cc",
+      "postedAt": "2026-11-15T16:46:00.000Z",
+      "updatedAt": "2026-11-15T16:46:00.000Z"
     },
     {
       "id": "51a71a86-8121-4451-baa5-640d626d37d3",
@@ -426,6 +449,33 @@
       "url": "https://trueinterview.io/jobs/51a71a86-8121-4451-baa5-640d626d37d3",
       "postedAt": "2026-11-15T16:17:00.000Z",
       "updatedAt": "2026-11-15T16:17:00.000Z"
+    },
+    {
+      "id": "8522e918-198d-433b-94c3-1d10953318b6",
+      "company": "Tencent",
+      "title": "WeChat - Data & AI Analytics Intern (Summer 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490247012/",
+      "url": "https://trueinterview.io/jobs/8522e918-198d-433b-94c3-1d10953318b6",
+      "postedAt": "2026-11-15T16:11:00.000Z",
+      "updatedAt": "2026-11-15T16:11:00.000Z"
     },
     {
       "id": "d4009e23-3fe2-4c94-844c-a5e423719648",
@@ -464,9 +514,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -517,7 +567,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Machine Learning Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -528,31 +578,31 @@
       "updatedAt": "2026-11-15T15:00:00.000Z"
     },
     {
-      "id": "7f8c3434-918f-43af-b397-49aa2f672d16",
-      "company": "IBM",
-      "title": "Storage Systems Research Scientist Intern 2027",
+      "id": "abf688ad-5d81-43c6-840d-c11e23e0a370",
+      "company": "Amazon",
+      "title": "【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores",
       "locations": [
-        "San Jose, CA"
+        "Tokyo, Japan"
       ],
       "cities": [
-        "San Jose, CA"
+        "Tokyo"
       ],
       "countries": [
-        "United States"
+        "Japan"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4464233988/",
-      "url": "https://trueinterview.io/jobs/7f8c3434-918f-43af-b397-49aa2f672d16",
-      "postedAt": "2026-11-15T14:59:00.000Z",
-      "updatedAt": "2026-11-15T14:59:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455793957/",
+      "url": "https://trueinterview.io/jobs/abf688ad-5d81-43c6-840d-c11e23e0a370",
+      "postedAt": "2026-11-15T14:39:00.000Z",
+      "updatedAt": "2026-11-15T14:39:00.000Z"
     },
     {
       "id": "9e1cda6d-846e-4726-a8e6-b8790745f6b3",
@@ -592,7 +642,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Data & AI",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -619,7 +669,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -646,7 +696,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -102315,34 +102365,6 @@
       "url": "https://trueinterview.io/jobs/a81f8e3f-809f-4b97-80e8-b93f78755569",
       "postedAt": "2026-09-17T15:22:49.000Z",
       "updatedAt": "2026-09-17T15:22:49.000Z"
-    },
-    {
-      "id": "efb0063f-237a-468c-8a3a-a571bc66f4ee",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern (2027) - Austin, TX",
-      "locations": [
-        "In-Office",
-        "Austin, TX, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
-      "url": "https://trueinterview.io/jobs/efb0063f-237a-468c-8a3a-a571bc66f4ee",
-      "postedAt": "2026-09-17T01:57:53.000Z",
-      "updatedAt": "2026-09-17T01:57:53.000Z"
     }
   ]
 }

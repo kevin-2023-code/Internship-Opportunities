@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**224 open roles.** 157 in the United States & Canada · 67 elsewhere in the world.
+**222 open roles.** 156 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>TalentRise Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7e4d595-dc4e-4ca2-b66d-c2449944261d">Digital Product Designer Intern</a></td>
-<td>Ada Township, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489391524/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/56a61c43-de68-473f-8f34-a3a57367993a">UX/UI Design Intern - Summer 2027</a></td>
@@ -1137,13 +1130,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b9a5ecd-47ec-4f0c-a9a6-2919a6b06f94">Associate Product Manager BS/MS Intern, 2027</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473357617/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cdb9f367-45a9-4a3d-bd02-ecadf67281cb">Associate Product Marketing Manager BS/MS Intern, 2027</a></td>
 <td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom<br/>Hamburg, Hamburg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473352839/">Apply</a></td>

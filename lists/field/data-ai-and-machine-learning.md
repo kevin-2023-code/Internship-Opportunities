@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**802 open roles.** 584 in the United States & Canada · 218 elsewhere in the world.
+**801 open roles.** 583 in the United States & Canada · 218 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -41,13 +41,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f8c3434-918f-43af-b397-49aa2f672d16">Storage Systems Research Scientist Intern 2027</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464233988/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>The Campbell's Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e1cda6d-846e-4726-a8e6-b8790745f6b3">Agentic AI Engineer Co-Op</a></td>
 <td>United States</td>
@@ -55,10 +48,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/c297a9b3-8372-4da7-b9e9-0547b80c9bc2">ML Systems Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466482930/">Apply</a></td>
+<td><strong>TalentRise Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7e4d595-dc4e-4ca2-b66d-c2449944261d">Digital Product Designer Intern</a></td>
+<td>Ada Township, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489391524/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a26c4885-74bb-4773-825f-ca5024612358">AI Engineer Intern (Undergraduate - Summer 2027)</a></td>
 <td>Missouri, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485248850/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
