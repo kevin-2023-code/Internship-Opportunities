@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**113 open roles.** 101 in the United States & Canada · 12 elsewhere in the world.
+**111 open roles.** 99 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HPE Aruba Networking</strong></td>
+<td><a href="https://trueinterview.io/jobs/3af84745-aa25-42f4-976e-448a95185bf8">ASIC Verification/Design Engineering Intern</a></td>
+<td>Roseville, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490616104/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Reliable Robotics Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c9ff155-edf5-4d33-8dae-b0b3111ddbc7">FPGA Engineering Intern (Summer 2027)</a></td>
@@ -163,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467869193/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HPE Aruba Networking</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4303432-9367-4adb-b8d1-1305f27c8530">ASIC Verification Engineering Intern</a></td>
-<td>Roseville, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485260369/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Jacobs</strong></td>
@@ -452,13 +452,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/819d7eab-3f07-4a17-8f2d-ee140afb8600">ASIC Engineer Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b7d8472-681a-469d-abe8-64d3f1d35cb9">Mechanical Engineering Intern</a></td>
 <td>Ann Arbor, MI, United States of America</td>
@@ -471,13 +464,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Roseville, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ab6c72f9-c22d-4b2d-8014-28b5ee67f096">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>

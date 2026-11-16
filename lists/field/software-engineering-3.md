@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,956 open roles.** 1,538 in the United States & Canada · 418 elsewhere in the world.
+**1,957 open roles.** 1,538 in the United States & Canada · 419 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1e073fe-c212-4772-ba1b-6e683bb6fc6d">Software Engineering Intern, Cloud Platform (Summer 2027)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481185474/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Teck Resources Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/ab7db9a7-5792-4595-9bcf-be7ed0e58ed3">Software Engineer – 2027 Internship Program (June Start)</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483889315/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parker Hannifin</strong></td>
-<td><a href="https://trueinterview.io/jobs/946fbab6-f0cd-4acf-8948-88c2a9f135e1">Rotary Actuator Engineering Co-op - Spring 2027</a></td>
-<td>Wadsworth, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467937100/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

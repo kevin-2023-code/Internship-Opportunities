@@ -5,9 +5,86 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T13:14:49.024Z",
-  "count": 3963,
+  "listingsChangedAt": "2026-11-16T14:15:58.265Z",
+  "count": 3961,
   "listings": [
+    {
+      "id": "506d8520-6d56-4c13-a22b-a601a1704955",
+      "company": "Irradiant Technologies",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489758872/",
+      "url": "https://trueinterview.io/jobs/506d8520-6d56-4c13-a22b-a601a1704955",
+      "postedAt": "2026-11-16T13:44:00.000Z",
+      "updatedAt": "2026-11-16T13:44:00.000Z"
+    },
+    {
+      "id": "3af84745-aa25-42f4-976e-448a95185bf8",
+      "company": "HPE Aruba Networking",
+      "title": "ASIC Verification/Design Engineering Intern",
+      "locations": [
+        "Roseville, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490616104/",
+      "url": "https://trueinterview.io/jobs/3af84745-aa25-42f4-976e-448a95185bf8",
+      "postedAt": "2026-11-16T12:50:00.000Z",
+      "updatedAt": "2026-11-16T12:50:00.000Z"
+    },
+    {
+      "id": "8a5e43ae-a4e3-45ef-ab40-4576d06576f2",
+      "company": "Shopee",
+      "title": "Product Manager Intern, Traffic & Content - Core Service (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489729872/",
+      "url": "https://trueinterview.io/jobs/8a5e43ae-a4e3-45ef-ab40-4576d06576f2",
+      "postedAt": "2026-11-16T12:32:00.000Z",
+      "updatedAt": "2026-11-16T12:32:00.000Z"
+    },
     {
       "id": "fc4b6123-123a-4d04-99af-cea07b3910ad",
       "company": "Qualcomm",
@@ -57,6 +134,33 @@
       "url": "https://trueinterview.io/jobs/a3e20be9-bcad-4c7c-9be3-c0ba319baf8c",
       "postedAt": "2026-11-16T11:58:00.000Z",
       "updatedAt": "2026-11-16T11:58:00.000Z"
+    },
+    {
+      "id": "a0ffc1e0-51e3-487f-8528-07690c24d217",
+      "company": "Whippy",
+      "title": "Forward Deployed Engineer – Intern",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/whippy/58ae891a-e3d5-41c0-940c-2b3e1ca63435",
+      "url": "https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217",
+      "postedAt": "2026-11-16T11:57:43.000Z",
+      "updatedAt": "2026-11-16T11:57:43.000Z"
     },
     {
       "id": "ecfd6aa9-63be-4bd7-829d-73e13ae1d261",
@@ -55862,31 +55966,6 @@
       "updatedAt": "2026-10-30T00:16:00.000Z"
     },
     {
-      "id": "b4303432-9367-4adb-b8d1-1305f27c8530",
-      "company": "HPE Aruba Networking",
-      "title": "ASIC Verification Engineering Intern",
-      "locations": [
-        "Roseville, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485260369/",
-      "url": "https://trueinterview.io/jobs/b4303432-9367-4adb-b8d1-1305f27c8530",
-      "postedAt": "2026-10-30T00:10:00.000Z",
-      "updatedAt": "2026-10-30T00:10:00.000Z"
-    },
-    {
       "id": "f386cbea-0893-484b-97a3-d7fb1cc95c01",
       "company": "Marathon Petroleum Corporation",
       "title": "Process Optimization Engineer I - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion)",
@@ -89071,31 +89150,6 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
-      "id": "55a511da-4ba3-4c3d-8725-6e6f781ee1bc",
-      "company": "Hewlett Packard Enterprise",
-      "title": "VLSI Design Verification Masters Level Intern",
-      "locations": [
-        "Ft. Collins, Colorado, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425",
-      "url": "https://trueinterview.io/jobs/55a511da-4ba3-4c3d-8725-6e6f781ee1bc",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
       "id": "b10e7997-7773-41e3-897c-6a42f124e433",
       "company": "Intel",
       "title": "Module Development Engineer PhD Intern New 2027",
@@ -90108,31 +90162,6 @@
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
     {
-      "id": "767a2a06-bf69-4c79-858a-bee824f16520",
-      "company": "Hewlett Packard Enterprise",
-      "title": "VLSI Design Verification Intern",
-      "locations": [
-        "Ft. Collins, Colorado, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399",
-      "url": "https://trueinterview.io/jobs/767a2a06-bf69-4c79-858a-bee824f16520",
-      "postedAt": "2026-10-12T00:00:00.000Z",
-      "updatedAt": "2026-10-12T00:00:00.000Z"
-    },
-    {
       "id": "ee82d091-5cd5-4b2d-99d8-17735c74cce7",
       "company": "Hewlett Packard Enterprise",
       "title": "VLSI Logic Design Intern",
@@ -91030,33 +91059,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318630081",
       "url": "https://trueinterview.io/jobs/b28b86b0-cb8e-46fc-87d8-b16441f34101",
-      "postedAt": "2026-10-09T00:00:00.000Z",
-      "updatedAt": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "id": "819d7eab-3f07-4a17-8f2d-ee140afb8600",
-      "company": "Hewlett Packard Enterprise",
-      "title": "ASIC Engineer Intern",
-      "locations": [
-        "Sunnyvale, California, United States of America"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555",
-      "url": "https://trueinterview.io/jobs/819d7eab-3f07-4a17-8f2d-ee140afb8600",
       "postedAt": "2026-10-09T00:00:00.000Z",
       "updatedAt": "2026-10-09T00:00:00.000Z"
     },
@@ -92459,33 +92461,6 @@
       "url": "https://trueinterview.io/jobs/a4798952-13f5-432c-804b-0e901a3f843d",
       "postedAt": "2026-10-07T00:43:39.000Z",
       "updatedAt": "2026-10-07T00:43:39.000Z"
-    },
-    {
-      "id": "ab6c72f9-c22d-4b2d-8014-28b5ee67f096",
-      "company": "Hewlett Packard Enterprise",
-      "title": "ASIC Design Engineer Intern",
-      "locations": [
-        "Sunnyvale, California, United States of America"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180",
-      "url": "https://trueinterview.io/jobs/ab6c72f9-c22d-4b2d-8014-28b5ee67f096",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
       "id": "374079d0-c4e6-425b-9d1a-d6a3939a67c5",
@@ -94603,31 +94578,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Infrastructure-Deployment-Automation-Intern_1213406",
       "url": "https://trueinterview.io/jobs/3c5113f3-3381-4709-b016-2cb99bbc1aaa",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "a016b52a-f0bc-4584-bd1a-467cf591c910",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Systems Software Engineer Intern",
-      "locations": [
-        "Bloomington, Minnesota, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401",
-      "url": "https://trueinterview.io/jobs/a016b52a-f0bc-4584-bd1a-467cf591c910",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,956 open roles.** 1,538 in the United States & Canada · 418 elsewhere in the world.
+**1,957 open roles.** 1,538 in the United States & Canada · 419 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Parker Hannifin</strong></td>
+<td><a href="https://trueinterview.io/jobs/946fbab6-f0cd-4acf-8948-88c2a9f135e1">Rotary Actuator Engineering Co-op - Spring 2027</a></td>
+<td>Wadsworth, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467937100/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Avynera Studios</strong></td>
 <td><a href="https://trueinterview.io/jobs/397cdf4a-b3d4-489a-9b12-5c7bb1b861dd">Components Engineer Intern</a></td>
@@ -1738,13 +1745,6 @@
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a016b52a-f0bc-4584-bd1a-467cf591c910">Systems Software Engineer Intern</a></td>
-<td>Bloomington, Minnesota, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fd8cb0e-7890-45ba-b7be-d1c346d1d991">Enterprise Software Development (EDA Tools) Intern</a></td>
 <td>Santa Rosa, California, United States</td>
@@ -2394,6 +2394,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Whippy</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217">Forward Deployed Engineer – Intern</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/whippy/58ae891a-e3d5-41c0-940c-2b3e1ca63435">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/ecfd6aa9-63be-4bd7-829d-73e13ae1d261">2026 Intern- Software Development Wireless Communication Engineer</a></td>
 <td>Shanghai, Shanghai, China</td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d6a91bc9-e780-4750-bd16-f5359d3fbfe3">AI Security Analysis Intern (TikTok Shop-Security)- 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448544019/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e39eae36-a8dc-4179-b8de-ce703e64dacd">[Mobile Software Engineer] Intern (Global Live Revenue) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451417044/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

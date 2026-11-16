@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**159 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Irradiant Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/506d8520-6d56-4c13-a22b-a601a1704955">Software Engineering Intern</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489758872/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Merck</strong></td>
 <td><a href="https://trueinterview.io/jobs/51dcca64-836c-4185-81c5-3e90e5aac472">2027 Future Talent Program - Data, AI, and Genome Sciences - Intern</a></td>

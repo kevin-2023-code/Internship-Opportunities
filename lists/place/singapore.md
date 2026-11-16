@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**187 open roles.**
+**188 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a5e43ae-a4e3-45ef-ab40-4576d06576f2">Product Manager Intern, Traffic &amp; Content - Core Service (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489729872/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/09c2fd82-8be3-4253-b943-ee4747b1aacb">Full Stack Software Engineer Intern</a></td>

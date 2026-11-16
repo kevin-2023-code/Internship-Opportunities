@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**920 open roles.** 712 in the United States & Canada · 208 elsewhere in the world. Everything the employers put up this week.
+**924 open roles.** 714 in the United States & Canada · 210 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Irradiant Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/506d8520-6d56-4c13-a22b-a601a1704955">Software Engineering Intern</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489758872/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HPE Aruba Networking</strong></td>
+<td><a href="https://trueinterview.io/jobs/3af84745-aa25-42f4-976e-448a95185bf8">ASIC Verification/Design Engineering Intern</a></td>
+<td>Roseville, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490616104/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3e20be9-bcad-4c7c-9be3-c0ba319baf8c">2027 Summer Intern - Software Engineering - Onsite</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f21182c6-6dc1-4c60-9c3a-2c4f1eeecd0c">2027 Summer Software Engineer Co-op</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valstad Shipworks</strong></td>
-<td><a href="https://trueinterview.io/jobs/c620d903-a051-4def-bf52-30841f6c5d56">Robotics Software Intern, Manipulation &amp; Simulation</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490037494/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa09b796-31d0-485c-a719-cdc5b857cd05">2027 (Summer) - Manufacturing - Manufacturing Test Software Intern</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

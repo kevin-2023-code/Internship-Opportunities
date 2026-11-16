@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**920 open roles.** 712 in the United States & Canada · 208 elsewhere in the world. Everything the employers put up this week.
+**924 open roles.** 714 in the United States & Canada · 210 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Valstad Shipworks</strong></td>
+<td><a href="https://trueinterview.io/jobs/c620d903-a051-4def-bf52-30841f6c5d56">Robotics Software Intern, Manipulation &amp; Simulation</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490037494/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa09b796-31d0-485c-a719-cdc5b857cd05">2027 (Summer) - Manufacturing - Manufacturing Test Software Intern</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Labconco</strong></td>
 <td><a href="https://trueinterview.io/jobs/c71cecc1-ba69-49d1-804b-4986ad35a111">IT Internship - Paid</a></td>
@@ -2212,6 +2226,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a5e43ae-a4e3-45ef-ab40-4576d06576f2">Product Manager Intern, Traffic &amp; Content - Core Service (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489729872/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc4b6123-123a-4d04-99af-cea07b3910ad">2026 Intern-Embodied Intelligence Algorithms Research Engineer</a></td>
 <td>Beijing, Beijing, China</td>
@@ -2219,7 +2240,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Whippy</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217">Forward Deployed Engineer – Intern</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/whippy/58ae891a-e3d5-41c0-940c-2b3e1ca63435">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/ecfd6aa9-63be-4bd7-829d-73e13ae1d261">2026 Intern- Software Development Wireless Communication Engineer</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4379655938/">Apply</a></td>
@@ -2798,34 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oulu, Finland</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012986">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4433b4d6-0158-41ec-a6d7-05e32e3062c7">Validation Engineering Intern</a></td>
-<td>Oulu, Finland</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Koniag Cyber</strong></td>
-<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
-<td>Greater Minneapolis-St. Paul Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bybit</strong></td>
-<td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
-<td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
 </table>
