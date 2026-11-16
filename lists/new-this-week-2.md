@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**930 open roles.** 715 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 718 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Farmers Mutual Hail Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2627ff6-c5ef-451a-8e36-e83100f0a4a9">AI Intern</a></td>
+<td>West Des Moines, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489056137/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f5ceacd-63bd-46d6-b65c-7a55a58799e2">Spring 2027: Product Performance Test Engineer Co-op (January through June)</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Genentech</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e7d6797-98fe-4c9f-94ac-ae6feebdaba2">2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490043391/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Riot Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/f798d973-b9d4-460f-a321-0cd515bcea7c">Machine Learning Engineering Intern (Masters/PhD) - Summer 2027</a></td>
@@ -2233,6 +2254,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1">Software Engineer Internship</a></td>
+<td>Lodz, Poland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/972cc1dd-d8c1-46d1-83c6-fd92b0da60a7">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b5926f-9b95-4a9c-adea-b39bc1bd840a">Internship in Project and Production Engineering</a></td>
 <td>Tranås, Jönköpings län, Sweden</td>
@@ -2258,6 +2286,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (UX)</a></td>
 <td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4418835490/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Keyrock</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834">DeFi Quant Trader Intern (Credit) - London</a></td>
+<td>London OR Brussels<br/>Brussels</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2790,41 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9f4ec037-f708-4540-ab84-53125b9c18d3">Backend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4372871560/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6c05da99-674d-406b-ab33-869290e9ed63">Frontend Software Engineer Intern (TikTok Foundation) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438322557/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e19f74bd-f724-454d-a058-c1b7b9f6681a">Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448507994/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/870d6fab-401c-4927-9add-91fe74789853">Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439824936/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267">Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447983859/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Renesas</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a></td>
-<td>Varna, Bulgaria</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

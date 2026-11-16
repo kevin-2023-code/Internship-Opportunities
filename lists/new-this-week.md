@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**930 open roles.** 715 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 718 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>bioMérieux</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921">Machine Learning Co-Op</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489799250/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Health Care Service Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/db125254-1736-46dd-84b6-05b24df6e488">Early Careers - Automation Programmer Intern</a></td>
 <td>Richardson, TX</td>
@@ -31,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/87b32b69-1ff2-45ef-be6e-4a2a66887b7b">Python Software Engineering Internship</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489793050/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Envita Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/48de2750-a3ed-423b-8dd7-fd4fb3131d33">Data Scientist Intern, Applied AI</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466367137/">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -199,6 +213,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067">Summer 2027 Engineering (General) Internship</a></td>
 <td>USA VA Falls Church, United States of America<br/>USA MD Gaithersburg</td>
 <td align="center"><a href="https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/79c0923c-997e-4319-af11-4fd5a82eab32">Intern - Product Owner</a></td>
+<td>Arlington, TX, United States</td>
+<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/559f8a31-2e21-4ebc-b255-7428846d2f34">Software Engineering Intern</a></td>
 <td>Lawrence, KS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490054131/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Farmers Mutual Hail Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2627ff6-c5ef-451a-8e36-e83100f0a4a9">AI Intern</a></td>
-<td>West Des Moines, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489056137/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f5ceacd-63bd-46d6-b65c-7a55a58799e2">Spring 2027: Product Performance Test Engineer Co-op (January through June)</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Genentech</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e7d6797-98fe-4c9f-94ac-ae6feebdaba2">2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments</a></td>
-<td>South San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490043391/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

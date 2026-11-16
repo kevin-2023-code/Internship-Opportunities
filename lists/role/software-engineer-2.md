@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**680 open roles.** 539 in the United States & Canada · 141 elsewhere in the world.
+**680 open roles.** 538 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -981,13 +981,6 @@
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740553">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Nuclear Promise X</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f">Software Developer Intern</a></td>
-<td>Ontario</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1000,6 +993,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1">Software Engineer Internship</a></td>
+<td>Lodz, Poland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/972cc1dd-d8c1-46d1-83c6-fd92b0da60a7">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/ecfd6aa9-63be-4bd7-829d-73e13ae1d261">2026 Intern- Software Development Wireless Communication Engineer</a></td>

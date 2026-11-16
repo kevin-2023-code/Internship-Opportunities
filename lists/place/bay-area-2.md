@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**578 open roles.**
+**577 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1253,13 +1253,6 @@
 <td>Santa Clara, CA, US<br/>San Diego, CA, US<br/>Boxborough, MA, US<br/>+1 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740637">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12">Hardware Product Management Intern - Fall 2026/Winter 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

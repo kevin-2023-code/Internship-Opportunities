@@ -46,6 +46,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/79c0923c-997e-4319-af11-4fd5a82eab32">Intern - Product Owner</a></td>
+<td>Arlington, TX, United States</td>
+<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/56a61c43-de68-473f-8f34-a3a57367993a">UX/UI Design Intern - Summer 2027</a></td>
 <td>Valley City, OH</td>
@@ -1136,13 +1143,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741706">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12">Hardware Product Management Intern - Fall 2026/Winter 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

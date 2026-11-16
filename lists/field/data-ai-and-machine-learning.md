@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**802 open roles.** 584 in the United States & Canada · 218 elsewhere in the world.
+**803 open roles.** 586 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>bioMérieux</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921">Machine Learning Co-Op</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489799250/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Envita Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/48de2750-a3ed-423b-8dd7-fd4fb3131d33">Data Scientist Intern, Applied AI</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466367137/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Artmac</strong></td>
 <td><a href="https://trueinterview.io/jobs/7647f3b3-387b-4805-b8e8-7f36d596217f">Full-Stack AI Engineering Intern</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7b86f257-a094-4ad1-8f4a-da90fdc0a328">Computer Vision Engineering Intern (Bilingual: English/Mandarin)</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484803720/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Donaldson</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd121b23-ef7a-4d8c-844c-3a6d5326ef0a">Graduate Intern - Modeling and Data Science</a></td>
-<td>Bloomington, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485299157/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790573/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

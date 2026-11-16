@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T17:04:23.836Z",
-  "count": 3966,
+  "listingsChangedAt": "2026-11-16T18:06:24.391Z",
+  "count": 3968,
   "listings": [
+    {
+      "id": "ba55cd42-ba04-405a-86c4-798a9c449921",
+      "company": "bioMérieux",
+      "title": "Machine Learning Co-Op",
+      "locations": [
+        "Durham, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489799250/",
+      "url": "https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921",
+      "postedAt": "2026-11-16T16:54:00.000Z",
+      "updatedAt": "2026-11-16T16:54:00.000Z"
+    },
     {
       "id": "db125254-1736-46dd-84b6-05b24df6e488",
       "company": "Health Care Service Corporation",
@@ -57,6 +82,31 @@
       "url": "https://trueinterview.io/jobs/87b32b69-1ff2-45ef-be6e-4a2a66887b7b",
       "postedAt": "2026-11-16T16:03:00.000Z",
       "updatedAt": "2026-11-16T16:03:00.000Z"
+    },
+    {
+      "id": "48de2750-a3ed-423b-8dd7-fd4fb3131d33",
+      "company": "Envita Solutions",
+      "title": "Data Scientist Intern, Applied AI",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466367137/",
+      "url": "https://trueinterview.io/jobs/48de2750-a3ed-423b-8dd7-fd4fb3131d33",
+      "postedAt": "2026-11-16T15:56:00.000Z",
+      "updatedAt": "2026-11-16T15:56:00.000Z"
     },
     {
       "id": "2beff269-af6e-4e0d-bab7-fb1aed3f8a93",
@@ -109,6 +159,31 @@
       "url": "https://trueinterview.io/jobs/116da000-a859-4523-95ef-4f54c7a3a128",
       "postedAt": "2026-11-16T14:35:35.000Z",
       "updatedAt": "2026-11-16T14:35:35.000Z"
+    },
+    {
+      "id": "a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1",
+      "company": "TomTom",
+      "title": "Software Engineer Internship",
+      "locations": [
+        "Lodz, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/972cc1dd-d8c1-46d1-83c6-fd92b0da60a7",
+      "url": "https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1",
+      "postedAt": "2026-11-16T14:19:46.000Z",
+      "updatedAt": "2026-11-16T14:19:46.000Z"
     },
     {
       "id": "85b5926f-9b95-4a9c-adea-b39bc1bd840a",
@@ -246,6 +321,35 @@
       "url": "https://trueinterview.io/jobs/506d8520-6d56-4c13-a22b-a601a1704955",
       "postedAt": "2026-11-16T13:44:00.000Z",
       "updatedAt": "2026-11-16T13:44:00.000Z"
+    },
+    {
+      "id": "5dedd64b-c83e-460f-834a-1e02c9dd2834",
+      "company": "Keyrock",
+      "title": "DeFi Quant Trader Intern (Credit) - London",
+      "locations": [
+        "London",
+        "Brussels",
+        "London OR Brussels"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
+      "url": "https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834",
+      "postedAt": "2026-11-16T13:02:21.000Z",
+      "updatedAt": "2026-11-16T13:02:21.000Z"
     },
     {
       "id": "3af84745-aa25-42f4-976e-448a95185bf8",
@@ -1181,6 +1285,31 @@
       "source": "career-sites",
       "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
       "url": "https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "updatedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "79c0923c-997e-4319-af11-4fd5a82eab32",
+      "company": "GM Financial",
+      "title": "Intern - Product Owner",
+      "locations": [
+        "Arlington, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247",
+      "url": "https://trueinterview.io/jobs/79c0923c-997e-4319-af11-4fd5a82eab32",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "updatedAt": "2026-11-16T00:00:00.000Z"
     },
@@ -45012,33 +45141,6 @@
       "url": "https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b",
       "postedAt": "2026-11-02T09:15:15.000Z",
       "updatedAt": "2026-11-02T09:15:15.000Z"
-    },
-    {
-      "id": "a0223064-7a5c-403c-a07d-702c27f339f4",
-      "company": "SIA",
-      "title": "Final year internship - Data Scientist & AI Consultant",
-      "locations": [
-        "Paris, Île-de-France, France"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000159070239-final-year-internship-data-scientist-ai-consultant",
-      "url": "https://trueinterview.io/jobs/a0223064-7a5c-403c-a07d-702c27f339f4",
-      "postedAt": "2026-11-02T08:21:12.000Z",
-      "updatedAt": "2026-11-02T08:21:12.000Z"
     },
     {
       "id": "8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
@@ -102875,56 +102977,6 @@
       "url": "https://trueinterview.io/jobs/3e0431d6-f58b-4323-9a8c-2c0487463b96",
       "postedAt": "2026-09-17T18:16:30.000Z",
       "updatedAt": "2026-09-17T18:16:30.000Z"
-    },
-    {
-      "id": "1580c88f-fafd-4959-b746-0e0de4d8ae12",
-      "company": "Skydio",
-      "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
-      "locations": [
-        "San Mateo, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application",
-      "url": "https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12",
-      "postedAt": "2026-09-17T17:59:25.000Z",
-      "updatedAt": "2026-09-17T17:59:25.000Z"
-    },
-    {
-      "id": "7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
-      "company": "Nuclear Promise X",
-      "title": "Software Developer Intern",
-      "locations": [
-        "Ontario"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application",
-      "url": "https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
-      "postedAt": "2026-09-17T17:57:47.000Z",
-      "updatedAt": "2026-09-17T17:57:47.000Z"
     }
   ]
 }

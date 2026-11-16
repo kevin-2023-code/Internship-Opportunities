@@ -18,21 +18,21 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-16 17:04 UTC_
+_Last updated: 2026-11-16 18:06 UTC_
 
-**839 open internships** from **310 employers** · **215 posted in the last 7 days** · refreshed hourly
+**840 open internships** from **311 employers** · **215 posted in the last 7 days** · refreshed hourly
 
-### Browse 839 internships by field
+### Browse 840 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (420)
+💻 **[Software Engineering](#-software-engineering)** (421)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (218)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (217)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (87)
 
 📱 **[Product & Design](#-product--design)** (68)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (25)
+📈 **[Quantitative Finance](#-quantitative-finance)** (26)
 
 🧰 **[IT & Support](#-it--support)** (21)
 
@@ -40,9 +40,9 @@ _Last updated: 2026-11-16 17:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 67 &nbsp;·&nbsp; **NVIDIA** 21 &nbsp;·&nbsp; **ByteDance** 20 &nbsp;·&nbsp; **Bosch** 10 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **Qualcomm** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Susquehanna International Group** 4 &nbsp;·&nbsp; **Tencent** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3
+**TikTok** 67 &nbsp;·&nbsp; **ByteDance** 20 &nbsp;·&nbsp; **NVIDIA** 20 &nbsp;·&nbsp; **Bosch** 10 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **Qualcomm** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Susquehanna International Group** 4 &nbsp;·&nbsp; **Tencent** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 25 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 24 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -52,9 +52,9 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (186)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (96)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (44)](lists/company/hardware-devices.md) · [📱 Consumer internet & media (37)](lists/company/consumer-internet.md) · [🏗️ Large tech (1,000–9,999) (25)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (20)](lists/company/quant-trading.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (14)](lists/company/mid-size-tech.md) · [💳 Fintech, payments & crypto (12)](lists/company/fintech.md) · [☁️ Developer tools, cloud & data infrastructure (11)](lists/company/dev-infra.md) · [+11 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (141)](lists/role/software-engineer.md) · [AI Engineer (87)](lists/role/ai-engineer.md) · [Machine Learning Engineer (42)](lists/role/machine-learning-engineer.md) · [Product Manager (41)](lists/role/product-manager.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Security Engineer (21)](lists/role/security-engineer.md) · [Research Scientist (16)](lists/role/research-scientist.md) · [Data Engineer (15)](lists/role/data-engineer.md) · [Embedded Engineer (15)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (142)](lists/role/software-engineer.md) · [AI Engineer (87)](lists/role/ai-engineer.md) · [Machine Learning Engineer (42)](lists/role/machine-learning-engineer.md) · [Product Manager (41)](lists/role/product-manager.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Security Engineer (21)](lists/role/security-engineer.md) · [Data Scientist (20)](lists/role/data-scientist.md) · [Research Scientist (16)](lists/role/research-scientist.md) · [Data Engineer (15)](lists/role/data-engineer.md) · [Embedded Engineer (15)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (188)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (69)](lists/place/greater-china.md) · [🇬🇧 London & the UK (43)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+6 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (188)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (69)](lists/place/greater-china.md) · [🇬🇧 London & the UK (44)](lists/place/uk.md) · [🇫🇷 Paris & France (33)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+6 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (215)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
@@ -79,6 +79,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1">Software Engineer Internship</a> 🆕</td>
+<td>Lodz, Poland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/972cc1dd-d8c1-46d1-83c6-fd92b0da60a7">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b5926f-9b95-4a9c-adea-b39bc1bd840a">Internship in Project and Production Engineering</a> 🆕</td>
@@ -245,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8703e02d-f79c-4240-9881-9ec138aad5d9">Security Software Engineer Intern (Security Assurance) - 2027 Start</a> 🆕</td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475049711/">Apply</a></td>
-<td align="center">2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fe86db5d-d962-44e5-98f0-67e3b8c7e685">Enterprise Services AI Agent Engineer Project Intern (Corporate Service System - Global Travel) - 2026 Start（BS/MS）</a> 🆕</td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474546807/">Apply</a></td>
 <td align="center">2d</td>
 </tr>
 </tbody>
@@ -620,7 +620,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 420.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 421.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -955,7 +955,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 44 of 218.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 44 of 217.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1483,6 +1483,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Keyrock</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834">DeFi Quant Trader Intern (Credit) - London</a> 🆕</td>
+<td>London OR Brussels<br/>Brussels</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/410dd58a-c987-41ff-b68f-59a63bf341a9">Quantitative Trader Internship: November 2027</a> 🆕</td>
 <td>Sydney, New South Wales, Australia</td>
@@ -1522,7 +1529,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17">2027 Trader Summer Intern (12-week program)</a></td>
 <td>Tokyo, Tokyo, Japan<br/>Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488199206/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Point72 Asset Management</strong></td>

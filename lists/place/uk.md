@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**55 open roles.** 12 in the United States & Canada · 43 elsewhere in the world.
+**56 open roles.** 12 in the United States & Canada · 44 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keyrock</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834">DeFi Quant Trader Intern (Credit) - London</a></td>
+<td>London OR Brussels<br/>Brussels</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac486659-bf31-4b1a-8846-9f2b25d4063d">Electronical Engineer Intern</a></td>

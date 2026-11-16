@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**930 open roles.** 715 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 718 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c05da99-674d-406b-ab33-869290e9ed63">Frontend Software Engineer Intern (TikTok Foundation) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438322557/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e19f74bd-f724-454d-a058-c1b7b9f6681a">Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448507994/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/870d6fab-401c-4927-9add-91fe74789853">Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439824936/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267">Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447983859/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a></td>
+<td>Varna, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/cffece04-3709-4dac-ae3b-0951563722c4">SAP China iXp Intern - AI Application Developer Intern - Open Source Software Compliance - Shanghai</a></td>
@@ -911,20 +946,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0">Compute System Arch AI Infra Intern - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462655354/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/03b6f2bf-d877-4bc2-99d1-93fff8499edf">ASIC Design and Verification Intern, SOC - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462336375/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364">Deep Learning Internship</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4405127940/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 </tbody>

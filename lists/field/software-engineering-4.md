@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,957 open roles.** 1,537 in the United States & Canada · 420 elsewhere in the world.
+**1,957 open roles.** 1,536 in the United States & Canada · 421 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2367,13 +2367,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987042003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Nuclear Promise X</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f">Software Developer Intern</a></td>
-<td>Ontario</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2386,6 +2379,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1">Software Engineer Internship</a></td>
+<td>Lodz, Poland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/972cc1dd-d8c1-46d1-83c6-fd92b0da60a7">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b5926f-9b95-4a9c-adea-b39bc1bd840a">Internship in Project and Production Engineering</a></td>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**63 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>bioMérieux</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921">Machine Learning Co-Op</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489799250/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Martin Marietta</strong></td>
 <td><a href="https://trueinterview.io/jobs/017f3813-7af7-4bf1-a316-192b7dd90371">Intern, Data Scientist</a></td>

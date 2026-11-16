@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**802 open roles.** 584 in the United States & Canada · 218 elsewhere in the world.
+**803 open roles.** 586 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Donaldson</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd121b23-ef7a-4d8c-844c-3a6d5326ef0a">Graduate Intern - Modeling and Data Science</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485299157/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790573/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Centene Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/a26c4885-74bb-4773-825f-ca5024612358">AI Engineer Intern (Undergraduate - Summer 2027)</a></td>
@@ -1995,13 +2009,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0223064-7a5c-403c-a07d-702c27f339f4">Final year internship - Data Scientist &amp; AI Consultant</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159070239-final-year-internship-data-scientist-ai-consultant">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/f408eada-6af1-4210-95c6-e436a041cbf9">SLAM / Computer Vision Intern, RIVR</a></td>
 <td>Zürich, Switzerland</td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ALTEN</strong></td>
-<td><a href="https://trueinterview.io/jobs/3fd589f6-03aa-43ad-af14-9dd4bca04d73">Stage Innovation : Ingénieur Computer Vision / Véhicule Autonome Coopératif</a></td>
-<td>Sèvres, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151636109-stage-innovation-ingenieur-computer-vision-vehicule-autonome-cooperatif">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>

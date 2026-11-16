@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**122 open roles.** 101 in the United States & Canada · 21 elsewhere in the world.
+**122 open roles.** 102 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Envita Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/48de2750-a3ed-423b-8dd7-fd4fb3131d33">Data Scientist Intern, Applied AI</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466367137/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Merck</strong></td>
 <td><a href="https://trueinterview.io/jobs/51dcca64-836c-4185-81c5-3e90e5aac472">2027 Future Talent Program - Data, AI, and Genome Sciences - Intern</a></td>
@@ -770,13 +777,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Geneva, Geneva, Switzerland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CERN/744000159629244-short-term-internship-2027-data-science-ai-analytics">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0223064-7a5c-403c-a07d-702c27f339f4">Final year internship - Data Scientist &amp; AI Consultant</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159070239-final-year-internship-data-scientist-ai-consultant">Apply</a></td>
-<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>HP</strong></td>
