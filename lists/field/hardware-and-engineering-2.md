@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**803 open roles.** 718 in the United States & Canada · 85 elsewhere in the world.
+**804 open roles.** 719 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lydian</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6">Mechanical Engineer Co-op</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lydian/9a3b543c-cee8-4fd9-b5e5-5d44a6f994ef/application">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>UPS</strong></td>
 <td><a href="https://trueinterview.io/jobs/95f28c1e-48ab-463e-addc-ec5b4bf8ba49">Summer 2027 Industrial Engineering Co-Op</a></td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676">Apply</a></td>
 <td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Smiths Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc87eb22-afaf-44f1-bc74-079dcc248f92">Industrial Engineering Intern (Paid Internship)</a></td>
-<td>Johor Bahru, Johor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151755369-industrial-engineering-intern-paid-internship-">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

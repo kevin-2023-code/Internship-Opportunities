@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**674 open roles.** 536 in the United States & Canada · 138 elsewhere in the world.
+**677 open roles.** 537 in the United States & Canada · 140 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261">Software Engineer Co-op</a></td>
+<td>New Providence, New Jersey, United States<br/>New Providence, NJ</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b">Software Test Engineer Intern</a></td>
@@ -979,6 +986,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/09c2fd82-8be3-4253-b943-ee4747b1aacb">Full Stack Software Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491292346/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/49eb51cb-e721-4ad3-81f2-ebc0b1672f8b">Software Engineer Intern - Backend</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491298025/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af">CUDA Full Stack &amp; AI Test Dev Intern - 2027</a></td>

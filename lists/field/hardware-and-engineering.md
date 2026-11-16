@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**803 open roles.** 718 in the United States & Canada · 85 elsewhere in the world.
+**804 open roles.** 719 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -266,6 +266,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Skyworks Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee89a9bb-4046-4613-b3ff-4a9fe580e9eb">BAW Design (Winter/Spring Co-Op)</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://careers.skyworksinc.com/job/BAW-Design-%28WinterSpring-Co-Op%29/78509-en_US">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9599410e-0967-4964-9125-0bab50ceefcc">RF Applications (Winter/Spring Co-Op)</a></td>
 <td>Woburn, MA</td>
 <td align="center"><a href="https://careers.skyworksinc.com/job/RF-Applications-%28WinterSpring-Co-Op%29/78475-en_US">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/60c2e68f-2358-4ed1-9fe2-84c238066418">Robotics Engineering Intern: Systems &amp; Applications - IMMEDIATE START</a></td>
 <td>Los Angeles - HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lydian</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6">Mechanical Engineer Co-op</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lydian/9a3b543c-cee8-4fd9-b5e5-5d44a6f994ef/application">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

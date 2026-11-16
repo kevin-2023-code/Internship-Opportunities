@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**109 open roles.** 89 in the United States & Canada · 20 elsewhere in the world.
+**110 open roles.** 89 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -652,6 +652,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/db9e4404-d704-4285-8b46-326efb8c55ae">Cybersecurity Risk Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491298029/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/f74035f8-0a6b-493a-9a5a-2c3d3f22eae2">IT Compliance &amp; Cybersecurity Intern, Financial Service (Spring 2027)</a></td>

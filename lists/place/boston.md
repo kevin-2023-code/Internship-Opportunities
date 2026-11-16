@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**159 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -61,6 +61,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Skyworks Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee89a9bb-4046-4613-b3ff-4a9fe580e9eb">BAW Design (Winter/Spring Co-Op)</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://careers.skyworksinc.com/job/BAW-Design-%28WinterSpring-Co-Op%29/78509-en_US">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9599410e-0967-4964-9125-0bab50ceefcc">RF Applications (Winter/Spring Co-Op)</a></td>
 <td>Woburn, MA</td>
 <td align="center"><a href="https://careers.skyworksinc.com/job/RF-Applications-%28WinterSpring-Co-Op%29/78475-en_US">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**917 open roles.** 713 in the United States & Canada · 204 elsewhere in the world. Everything the employers put up this week.
+**922 open roles.** 715 in the United States & Canada · 207 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1624,6 +1624,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Skyworks Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee89a9bb-4046-4613-b3ff-4a9fe580e9eb">BAW Design (Winter/Spring Co-Op)</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://careers.skyworksinc.com/job/BAW-Design-%28WinterSpring-Co-Op%29/78509-en_US">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9599410e-0967-4964-9125-0bab50ceefcc">RF Applications (Winter/Spring Co-Op)</a></td>
 <td>Woburn, MA</td>
 <td align="center"><a href="https://careers.skyworksinc.com/job/RF-Applications-%28WinterSpring-Co-Op%29/78475-en_US">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0c4032d2-6b5a-4277-9983-d6e101afe050">AI Engineer- Co-Op</a></td>
 <td>Westford, MA</td>
 <td align="center"><a href="https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Whitley Penn</strong></td>
-<td><a href="https://trueinterview.io/jobs/292788de-8ab1-42ce-8812-c64dd89228dc">IT Support Internship - 2027</a></td>
-<td>Dallas, TX, 75225</td>
-<td align="center"><a href="https://recruiting.ultipro.com/WHI1006WPL/JobBoard/bf9b8b62-5ece-4a4f-aa1f-97eba460105c/OpportunityDetail?opportunityId=29367856-1d55-4e3a-b75b-89196373a3d3">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**28 open roles.** 19 in the United States & Canada · 9 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**31 open roles.** 19 in the United States & Canada · 12 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -162,6 +162,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/09c2fd82-8be3-4253-b943-ee4747b1aacb">Full Stack Software Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491292346/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/49eb51cb-e721-4ad3-81f2-ebc0b1672f8b">Software Engineer Intern - Backend</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491298025/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/db9e4404-d704-4285-8b46-326efb8c55ae">Cybersecurity Risk Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491298029/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Airwallex</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4ff1f10-6093-43b8-9c3a-db9b6c0b5fc0">Software Engineer Intern (Jan to Jun 2027)</a></td>

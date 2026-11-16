@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,953 open roles.** 1,540 in the United States & Canada · 413 elsewhere in the world.
+**1,956 open roles.** 1,540 in the United States & Canada · 416 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2408,6 +2408,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/09c2fd82-8be3-4253-b943-ee4747b1aacb">Full Stack Software Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491292346/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/49eb51cb-e721-4ad3-81f2-ebc0b1672f8b">Software Engineer Intern - Backend</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491298025/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/db9e4404-d704-4285-8b46-326efb8c55ae">Cybersecurity Risk Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491298029/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/4dc5c3a7-de07-40ad-a96b-65b8408d8765">Backend Engineer Intern, Data Infrastructure - Big Data Platform (Spring 2027)</a></td>
 <td>Singapore, Singapore</td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f857556b-d562-4dac-abec-323957c33b06">Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4273232112/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b9c3753c-c388-4bdb-9608-a306db995afd">Cybersecurity Engineer Project Intern (TikTok Shop) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454770282/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6dbcd0e5-9283-4269-b601-f06dfee10b5c">Machine Learning Engineer Project Intern（TikTok Search）- 2026 Start（BS/MS）</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4379670350/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ea38ca39-d041-469f-9e89-bf356d49a9b0">Site Reliability Engineer Intern (Global SRE- GMPT) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447985869/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

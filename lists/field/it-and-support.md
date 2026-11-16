@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**83 open roles.** 62 in the United States & Canada · 21 elsewhere in the world.
+**84 open roles.** 63 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,6 +141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df95231c-6ec9-4fb8-b692-faff11d872e1">Intern, Accessibility Analyst</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://recruiting.ultipro.com/LCI1000LCIN/JobBoard/f344a078-07a4-443e-af53-91e477cf7d3f/OpportunityDetail?opportunityId=d4050644-9c8a-423d-b591-d2dd7258f70e">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Armor Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/18e49d04-2650-4ace-a890-fc1c7486553a">IT Co-op</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.thearmorgroup.com/Jobs/?gnk=job&amp;gni=8a78879e93dc39710193e0765c5715ca&amp;gns=Indeed+Free">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

@@ -5,9 +5,90 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T06:11:17.116Z",
-  "count": 3949,
+  "listingsChangedAt": "2026-11-16T07:10:25.716Z",
+  "count": 3954,
   "listings": [
+    {
+      "id": "09c2fd82-8be3-4253-b943-ee4747b1aacb",
+      "company": "PayPal",
+      "title": "Full Stack Software Engineer Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491292346/",
+      "url": "https://trueinterview.io/jobs/09c2fd82-8be3-4253-b943-ee4747b1aacb",
+      "postedAt": "2026-11-16T06:22:00.000Z",
+      "updatedAt": "2026-11-16T06:22:00.000Z"
+    },
+    {
+      "id": "49eb51cb-e721-4ad3-81f2-ebc0b1672f8b",
+      "company": "PayPal",
+      "title": "Software Engineer Intern - Backend",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491298025/",
+      "url": "https://trueinterview.io/jobs/49eb51cb-e721-4ad3-81f2-ebc0b1672f8b",
+      "postedAt": "2026-11-16T06:22:00.000Z",
+      "updatedAt": "2026-11-16T06:22:00.000Z"
+    },
+    {
+      "id": "db9e4404-d704-4285-8b46-326efb8c55ae",
+      "company": "PayPal",
+      "title": "Cybersecurity Risk Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491298029/",
+      "url": "https://trueinterview.io/jobs/db9e4404-d704-4285-8b46-326efb8c55ae",
+      "postedAt": "2026-11-16T05:59:00.000Z",
+      "updatedAt": "2026-11-16T05:59:00.000Z"
+    },
     {
       "id": "93030922-a943-4fc3-bdc6-53cd3cfa467c",
       "company": "RoboNex 88 Technologies",
@@ -7783,6 +7864,31 @@
       "source": "indeed",
       "applyUrl": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/job/14467",
       "url": "https://trueinterview.io/jobs/a0f1026b-15d3-489d-91f8-ce2c022b0370",
+      "postedAt": "2026-11-13T06:00:00.000Z",
+      "updatedAt": "2026-11-13T06:00:00.000Z"
+    },
+    {
+      "id": "ee89a9bb-4046-4613-b3ff-4a9fe580e9eb",
+      "company": "Skyworks Solutions",
+      "title": "BAW Design (Winter/Spring Co-Op)",
+      "locations": [
+        "Andover, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.skyworksinc.com/job/BAW-Design-%28WinterSpring-Co-Op%29/78509-en_US",
+      "url": "https://trueinterview.io/jobs/ee89a9bb-4046-4613-b3ff-4a9fe580e9eb",
       "postedAt": "2026-11-13T06:00:00.000Z",
       "updatedAt": "2026-11-13T06:00:00.000Z"
     },
@@ -22640,7 +22746,7 @@
       "category": "Other",
       "family": "Hardware & Engineering",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -22672,6 +22778,31 @@
       "source": "indeed",
       "applyUrl": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/summer-intern-software-engineering-atc-hillsboro-or_251563-1716992.html",
       "url": "https://trueinterview.io/jobs/7d9fae29-74a3-4c01-bf9a-fcf4078c4521",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
+    },
+    {
+      "id": "18e49d04-2650-4ace-a890-fc1c7486553a",
+      "company": "The Armor Group",
+      "title": "IT Co-op",
+      "locations": [
+        "Mason, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.thearmorgroup.com/Jobs/?gnk=job&gni=8a78879e93dc39710193e0765c5715ca&gns=Indeed+Free",
+      "url": "https://trueinterview.io/jobs/18e49d04-2650-4ace-a890-fc1c7486553a",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
@@ -22712,9 +22843,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
