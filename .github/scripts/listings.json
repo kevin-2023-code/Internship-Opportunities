@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T02:06:53.161Z",
-  "count": 3944,
+  "listingsChangedAt": "2026-11-16T03:06:29.569Z",
+  "count": 3942,
   "listings": [
     {
       "id": "57f20ae5-14b4-4f7c-b69f-956954f9fced",
@@ -802,7 +802,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Research Scientist",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -841,33 +841,6 @@
       "updatedAt": "2026-11-15T12:38:00.000Z"
     },
     {
-      "id": "fdf5ce21-f1fd-4e60-9a54-150bad310533",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Omnilingual - FAIR",
-      "locations": [
-        "Paris, Île-de-France, France"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4481078356/",
-      "url": "https://trueinterview.io/jobs/fdf5ce21-f1fd-4e60-9a54-150bad310533",
-      "postedAt": "2026-11-15T12:34:00.000Z",
-      "updatedAt": "2026-11-15T12:34:00.000Z"
-    },
-    {
       "id": "6df7b793-6809-4919-a245-488ed45160ed",
       "company": "TikTok",
       "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
@@ -895,37 +868,31 @@
       "updatedAt": "2026-11-15T12:00:00.000Z"
     },
     {
-      "id": "cdb9f367-45a9-4a3d-bd02-ecadf67281cb",
-      "company": "Google",
-      "title": "Associate Product Marketing Manager BS/MS Intern, 2027",
+      "id": "72ce9e67-8fe4-4eeb-a767-b36d0bc14529",
+      "company": "ByteDance",
+      "title": "Applied Research Intern - AI Safety Security - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
       "locations": [
-        "Dublin, County Dublin, Ireland",
-        "London, England, United Kingdom",
-        "Hamburg, Hamburg, Germany"
+        "San Jose, CA"
       ],
       "cities": [
-        "Dublin",
-        "London",
-        "Hamburg"
+        "San Jose, CA"
       ],
       "countries": [
-        "Ireland",
-        "United Kingdom",
-        "Germany"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4473352839/",
-      "url": "https://trueinterview.io/jobs/cdb9f367-45a9-4a3d-bd02-ecadf67281cb",
-      "postedAt": "2026-11-15T11:58:00.000Z",
-      "updatedAt": "2026-11-15T11:58:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475049704/",
+      "url": "https://trueinterview.io/jobs/72ce9e67-8fe4-4eeb-a767-b36d0bc14529",
+      "postedAt": "2026-11-15T11:48:00.000Z",
+      "updatedAt": "2026-11-15T11:48:00.000Z"
     },
     {
       "id": "41af5edf-bc66-4af8-9f39-441ca23112a5",
@@ -941,7 +908,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Embedded Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1032,33 +999,6 @@
       "updatedAt": "2026-11-15T11:16:00.000Z"
     },
     {
-      "id": "0ab80bd3-d099-4163-86de-cfa66c30fdfa",
-      "company": "ByteDance",
-      "title": "Machine Learning Research Scientist Intern (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475044993/",
-      "url": "https://trueinterview.io/jobs/0ab80bd3-d099-4163-86de-cfa66c30fdfa",
-      "postedAt": "2026-11-15T10:58:00.000Z",
-      "updatedAt": "2026-11-15T10:58:00.000Z"
-    },
-    {
       "id": "2416585d-cf38-4d4b-b9ee-c1e2157ee12c",
       "company": "ByteDance",
       "title": "Solutions Architect Intern (BytePlus, Japan) - 2027 Start",
@@ -1101,7 +1041,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Platform Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1153,7 +1093,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1164,6 +1104,36 @@
       "url": "https://trueinterview.io/jobs/064636bd-09a0-40f5-a0ed-585393ac3d8d",
       "postedAt": "2026-11-15T09:43:00.000Z",
       "updatedAt": "2026-11-15T09:43:00.000Z"
+    },
+    {
+      "id": "f406a9f5-fa6b-4cca-804e-d4d071403dbb",
+      "company": "Eight Sleep",
+      "title": "Field Service Engineer (Contract or Intern)",
+      "locations": [
+        "San Francisco",
+        "Los Angeles",
+        "New York City"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f",
+      "url": "https://trueinterview.io/jobs/f406a9f5-fa6b-4cca-804e-d4d071403dbb",
+      "postedAt": "2026-11-15T07:55:57.000Z",
+      "updatedAt": "2026-11-15T07:55:57.000Z"
     },
     {
       "id": "2713ec56-297e-4c0e-942a-d0babd268d27",
@@ -76926,35 +76896,6 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/lydian/9a3b543c-cee8-4fd9-b5e5-5d44a6f994ef/application",
       "url": "https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "id": "98d1c45c-1cb8-4e36-bc0e-add605e2fdd1",
-      "company": "Manulife",
-      "title": "Operations & Data Analyst Co-op (8 Months)",
-      "locations": [
-        "Toronto, Ontario, Canada",
-        "Waterloo, Ontario, Canada"
-      ],
-      "cities": [
-        "Toronto, ON",
-        "Waterloo, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
-      "url": "https://trueinterview.io/jobs/98d1c45c-1cb8-4e36-bc0e-add605e2fdd1",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
