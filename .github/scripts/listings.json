@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T10:05:22.027Z",
-  "count": 3957,
+  "listingsChangedAt": "2026-11-16T11:05:39.740Z",
+  "count": 3958,
   "listings": [
+    {
+      "id": "de7f2d46-a36d-4090-8fd2-0f2466375d2e",
+      "company": "Micron Technology",
+      "title": "INTERNSHIP - NAND Cell Characterization & AI Tools",
+      "locations": [
+        "Vimercate, Lombardy, Italy"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465402626/",
+      "url": "https://trueinterview.io/jobs/de7f2d46-a36d-4090-8fd2-0f2466375d2e",
+      "postedAt": "2026-11-16T09:05:00.000Z",
+      "updatedAt": "2026-11-16T09:05:00.000Z"
+    },
     {
       "id": "071fbe2e-78de-492d-ada3-919b65d71451",
       "company": "Enervexa PowerLabs",

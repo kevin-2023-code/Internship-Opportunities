@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**275 open roles.** 183 in the United States & Canada · 92 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**276 open roles.** 183 in the United States & Canada · 93 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1310,6 +1310,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/de7f2d46-a36d-4090-8fd2-0f2466375d2e">INTERNSHIP - NAND Cell Characterization &amp; AI Tools</a></td>
+<td>Vimercate, Lombardy, Italy</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465402626/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/20ea68c3-1bb1-406e-a627-6c7d97a036af">CUDA Full Stack &amp; AI Test Dev Intern - 2027</a></td>
