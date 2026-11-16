@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T20:04:54.076Z",
-  "count": 3970,
+  "listingsChangedAt": "2026-11-16T21:04:36.728Z",
+  "count": 3969,
   "listings": [
     {
       "id": "3a445e15-4751-45f0-886f-6655ba9bbe2b",
@@ -1365,6 +1365,31 @@
       "source": "career-sites",
       "applyUrl": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82613?c=kypersonnelcabinet",
       "url": "https://trueinterview.io/jobs/a10415b9-f9b9-4d13-8879-d4e8e7b2678f",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "updatedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "fef3ec11-660b-41e8-ba81-480854a7260d",
+      "company": "Gdh",
+      "title": "Engineering Intern - Mechanical",
+      "locations": [
+        "Chester, Cheshire, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28956",
+      "url": "https://trueinterview.io/jobs/fef3ec11-660b-41e8-ba81-480854a7260d",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "updatedAt": "2026-11-16T00:00:00.000Z"
     },
@@ -10078,6 +10103,31 @@
       "url": "https://trueinterview.io/jobs/255fa8c9-212e-4c51-8fde-8109077a0b5a",
       "postedAt": "2026-11-12T19:19:06.000Z",
       "updatedAt": "2026-11-12T19:19:06.000Z"
+    },
+    {
+      "id": "892be69e-6a20-4b0e-b9ee-0c7bb5297b12",
+      "company": "Zoox",
+      "title": "Service Designer Intern [Summer 2027]",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a",
+      "url": "https://trueinterview.io/jobs/892be69e-6a20-4b0e-b9ee-0c7bb5297b12",
+      "postedAt": "2026-11-12T18:58:54.000Z",
+      "updatedAt": "2026-11-12T18:58:54.000Z"
     },
     {
       "id": "19108cf8-d8b6-4fa7-b3b6-29507b511ddf",
@@ -59764,31 +59814,6 @@
       "updatedAt": "2026-10-29T17:20:00.000Z"
     },
     {
-      "id": "00b3abb8-97dd-4fd4-bd3d-4d1589c15867",
-      "company": "AECOM",
-      "title": "Electrical Engineering Intern",
-      "locations": [
-        "Roanoke, Virginia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158577089-electrical-engineering-intern",
-      "url": "https://trueinterview.io/jobs/00b3abb8-97dd-4fd4-bd3d-4d1589c15867",
-      "postedAt": "2026-10-29T17:19:34.000Z",
-      "updatedAt": "2026-10-29T17:19:34.000Z"
-    },
-    {
       "id": "befb8b75-f0bb-4aa3-b140-358c85e979a5",
       "company": "Bose Corporation",
       "title": "Embedded Software Engineer Co-op - Audio Tech",
@@ -102985,54 +103010,6 @@
       "url": "https://trueinterview.io/jobs/9f0e6263-a49c-474e-a057-c37652d7653f",
       "postedAt": "2026-09-17T23:21:05.000Z",
       "updatedAt": "2026-09-17T23:21:05.000Z"
-    },
-    {
-      "id": "33ea0f89-148c-4e49-8a7f-b666a8948bbe",
-      "company": "Abridge",
-      "title": "Software Engineering Intern, Spring",
-      "locations": [
-        "SF Office"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application",
-      "url": "https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe",
-      "postedAt": "2026-09-17T21:03:39.000Z",
-      "updatedAt": "2026-09-17T21:03:39.000Z"
-    },
-    {
-      "id": "9ddd3f4b-591a-4250-93fc-668000af1d8e",
-      "company": "JPMorgan Chase",
-      "title": "2027 Asset Wealth Management Machine Learning Engineer - Summer Associate",
-      "locations": [
-        "Jersey City, NJ, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885",
-      "url": "https://trueinterview.io/jobs/9ddd3f4b-591a-4250-93fc-668000af1d8e",
-      "postedAt": "2026-09-17T20:56:00.000Z",
-      "updatedAt": "2026-09-17T20:56:00.000Z"
     }
   ]
 }

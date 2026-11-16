@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**935 open roles.** 721 in the United States & Canada · 214 elsewhere in the world. Everything the employers put up this week.
+**936 open roles.** 721 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2078,6 +2078,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/892be69e-6a20-4b0e-b9ee-0c7bb5297b12">Service Designer Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TotalEnergies</strong></td>
 <td><a href="https://trueinterview.io/jobs/19108cf8-d8b6-4fa7-b3b6-29507b511ddf">Power Performance Quantitative Intern</a></td>
 <td>Houston, TX</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/10eb1dc9-56d4-4aaa-a0c6-68a78866c3dd">Data Engineer Co-Op</a></td>
 <td>Atlanta, GA<br/>Framingham, MA<br/>Bloomfield Hills, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490047992/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bloom Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f62e69d-6fa8-4560-bd95-2a14f294e638">AI Solutions Engineer Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
