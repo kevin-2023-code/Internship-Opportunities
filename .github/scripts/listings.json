@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T03:06:29.569Z",
-  "count": 3942,
+  "listingsChangedAt": "2026-11-16T04:06:12.544Z",
+  "count": 3944,
   "listings": [
     {
       "id": "57f20ae5-14b4-4f7c-b69f-956954f9fced",
@@ -1283,7 +1283,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1292,6 +1292,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4475088301/",
       "url": "https://trueinterview.io/jobs/138b5afc-c39a-4c33-8a89-b6153c24b9e6",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "updatedAt": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "9e506696-dc23-4fc6-bae5-8ecf2cc4dbcc",
+      "company": "Infineon Technologies",
+      "title": "Internship - Data and Workflows for AI Usage in Unit Process Development (f/m/div)",
+      "locations": [
+        "Dresden, Saxony, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483330763/",
+      "url": "https://trueinterview.io/jobs/9e506696-dc23-4fc6-bae5-8ecf2cc4dbcc",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "updatedAt": "2026-11-15T00:00:00.000Z"
     },
@@ -1309,7 +1334,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3700,7 +3725,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -76896,6 +76921,35 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/lydian/9a3b543c-cee8-4fd9-b5e5-5d44a6f994ef/application",
       "url": "https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "98d1c45c-1cb8-4e36-bc0e-add605e2fdd1",
+      "company": "Manulife",
+      "title": "Operations & Data Analyst Co-op (8 Months)",
+      "locations": [
+        "Toronto, Ontario, Canada",
+        "Waterloo, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON",
+        "Waterloo, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
+      "url": "https://trueinterview.io/jobs/98d1c45c-1cb8-4e36-bc0e-add605e2fdd1",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },

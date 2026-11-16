@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,947 open roles.** 1,536 in the United States & Canada · 411 elsewhere in the world.
+**1,949 open roles.** 1,537 in the United States & Canada · 412 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Tevora</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f6b9d03-5c01-4aa3-b17d-76b2a82c5c89">Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d71e7b94-9f17-482d-a48d-ef550f9f28ec">Cybersecurity Internship Summer 2027 - Payments</a></td>
 <td>Fairfax, VA<br/>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721">Apply</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2a13d69d-ed67-444a-a5a0-67e9057f8510">Software Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476337648/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6eb25e83-e7b3-40e0-bc01-c38f81bf092e">Components Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476351089/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

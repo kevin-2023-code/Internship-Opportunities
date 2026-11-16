@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**30 open roles.** 24 in the United States & Canada · 6 elsewhere in the world.
+**31 open roles.** 25 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/432ed9ed-c226-425e-9deb-e7949767addf">Python Backend Developer Intern – Energy Flexibility Platform</a></td>
 <td>Princeton, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482365970/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAS</strong></td>
+<td><a href="https://trueinterview.io/jobs/059f7a94-9135-4bc1-a99c-992d5e8be51b">Summer 2027 - Software Developer Intern (Go/Golang Experience)</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://careers-sas.icims.com/jobs/42797/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
