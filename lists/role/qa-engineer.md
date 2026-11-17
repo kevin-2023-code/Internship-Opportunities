@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**53 open roles.** 40 in the United States & Canada · 13 elsewhere in the world.
+**54 open roles.** 40 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -309,6 +309,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f8f53e9-cf25-4c7e-a930-bf19450e778a">Software Development Engineer in Test Project Intern (QA) - 2026 Start (BS/MS)</a></td>

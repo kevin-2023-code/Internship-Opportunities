@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**600 open roles.** 414 in the United States & Canada · 186 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**603 open roles.** 413 in the United States & Canada · 190 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
@@ -125,6 +118,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/a61be99b-a2bc-4f32-ad3b-f8a462080e9f">IOS Engineer Intern (Global Payment) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475508975/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/951f6c56-d31a-4e77-bcad-7b220b9386b0">Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475516623/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Workday</strong></td>
+<td><a href="https://trueinterview.io/jobs/978f8017-5b2c-472c-9352-1a38938ac234">Intern, UI/UX Product Manager</a></td>
+<td>Heredia, Heredia, Costa Rica</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490139806/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc4b6123-123a-4d04-99af-cea07b3910ad">2026 Intern-Embodied Intelligence Algorithms Research Engineer</a></td>

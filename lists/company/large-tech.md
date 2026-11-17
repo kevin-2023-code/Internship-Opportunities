@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**120 open roles.** 95 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**119 open roles.** 94 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -375,14 +375,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>

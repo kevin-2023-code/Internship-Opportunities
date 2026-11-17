@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6707317-fca5-444b-8034-c05bd057eb4a">2027 Machine Learning Engineering Graduate Intern</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490457809/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ibotta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51a71a86-8121-4451-baa5-640d626d37d3">Software Engineer Intern</a></td>
 <td>Denver, CO</td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9df109c-e5e6-4269-b358-625bdce57796">Automation Test-INTERN</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488571000/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seagate Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda">Intern - Embedded Firmware in Seagate Research Group</a></td>
-<td>Longmont, CO<br/>Shakopee, MN</td>
-<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15521">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

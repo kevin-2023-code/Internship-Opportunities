@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**17 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/79823bf2-f398-4b95-acd6-c13905350675">AI Reinforcement Training Intern (TikTok Platform Responsibility) - 2027 Start</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482953199/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Whippy</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217">Forward Deployed Engineer – Intern</a></td>

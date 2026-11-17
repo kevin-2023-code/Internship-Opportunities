@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**153 open roles.**
+**155 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>S&amp;P Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/63e7109f-8d54-444e-864e-9e55261c347f">Machine Learning Engineer - Summer Intern 2027</a></td>
+<td>Cambridge, MA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490948515/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kensho Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/46e9e8df-95eb-494a-9a4a-8bf33ce4b0b0">Machine Learning Engineer - Summer Intern 2027</a></td>
+<td>Cambridge, MA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490954961/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5e0d158-d8e7-4aec-9e6d-26dc7d96fd84">State Street Investment Management - Data Scientist - Summer Internship 2027</a></td>
+<td>Boston, Massachusetts</td>
+<td align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/17ac2859-7396-4a7b-bddc-259e6d658b71">Summer 2027: HW UX/UI Design Intern (May through August)</a></td>
@@ -93,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Quincy, Massachusetts</td>
 <td align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lightmatter</strong></td>
-<td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Wabtec</strong></td>

@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45166480?domain=micron.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Farnsworth Group, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/562a83eb-f663-4b37-b6ff-00b082602dea">Civil or Mechanical Engineering Telecom Co-Op (Jan – Aug 2027)</a></td>
 <td>St Louis, MO<br/>Lisle, IL</td>
@@ -2225,13 +2232,6 @@
 <td><a href="https://trueinterview.io/jobs/d604a1bb-2410-4601-8fac-e834395f67dc">Roadway Intern- Summer 2027</a></td>
 <td>Lexington, KY, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95798">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CESO, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6f81265-a774-4c52-9000-ee97aae54154">2027 Co-Op - Civil Engineering Roadway/Traffic</a></td>
-<td>Columbus, OH<br/>Cincinnati, OH</td>
-<td align="center"><a href="https://jobs.lever.co/ceso/7edf5249-5dbc-4051-9664-2ec26fa1a577">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

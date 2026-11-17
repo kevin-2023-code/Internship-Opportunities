@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**17 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/94e7c4e8-c92d-4b4b-9cce-cbbe3a1d035a">Intern, Software Developer, Stagiaire en Développement Logiciel</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490940989/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>

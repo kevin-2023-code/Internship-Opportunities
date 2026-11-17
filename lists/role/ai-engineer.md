@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**261 open roles.** 175 in the United States & Canada · 86 elsewhere in the world.
+**262 open roles.** 175 in the United States & Canada · 87 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Carnegie Mellon University</strong></td>
+<td><a href="https://trueinterview.io/jobs/44d31874-ed24-41f1-aceb-139c7d889a2e">AI Engineer Intern - Mission Innovation Lab (Summer 2027)</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490957159/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Software Engineering Institute | Carnegie Mellon University</strong></td>
+<td><a href="https://trueinterview.io/jobs/0555d279-5b06-4e11-831d-df4795da1e94">AI Engineer Intern - Mission Innovation Lab (Summer 2027)</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490956675/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/137d27dc-6897-43b2-9468-51ad0ab6f0ad">2027 Summer Intern: Engineering - AI Software</a></td>
+<td>Herndon, VA, US, 20171</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=Hubbell&amp;rcm_site_locale=en_US&amp;career_job_req_id=105483">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NeuroSpark AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/18153888-3275-4c84-b6b3-e1a81bac0690">AI Inference Interns (Engineer / GTM)</a></td>
@@ -89,13 +110,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dbfb255-8bec-41bb-913c-061e233a346f">Agent Evaluation &amp; Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475060276/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/aa1e40a0-6a9c-4d7b-a176-9aeb6bde0d4f">Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475066037/">Apply</a></td>
@@ -205,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Aurora, IL</td>
 <td align="center"><a href="https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lightmatter</strong></td>
-<td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Bask Health</strong></td>
@@ -603,13 +610,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8f25862a-b95d-4031-b9f4-155bb12b0878">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
 <td>London, England, United Kingdom<br/>Warsaw, Mazowieckie, Poland<br/>Montreal, QC<br/>+3 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488452035/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/3cb1e897-a30c-47df-a28c-7054f5614c7f">Summer 2027 AI Engineering Internship</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://careers.t-mobile.com/summer-2027-ai-engineering-internship/job/95013BF8369E1F444FC52713EF9F18A9">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -1254,6 +1254,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/79823bf2-f398-4b95-acd6-c13905350675">AI Reinforcement Training Intern (TikTok Platform Responsibility) - 2027 Start</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482953199/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/2416585d-cf38-4d4b-b9ee-c1e2157ee12c">Solutions Architect Intern (BytePlus, Japan) - 2027 Start</a></td>

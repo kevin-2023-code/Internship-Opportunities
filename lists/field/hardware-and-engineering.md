@@ -20,6 +20,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/32447c7f-e6ad-4556-83e6-fd904d557a59">ASIC &amp; FPGA Design Engineer - Intern</a></td>
+<td>Liverpool, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490474098/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/17a0bc9c-2b71-4d70-80d2-d05e1f19404f">Reliability Engineer Intern - N5</a></td>
+<td>Orlando, FL<br/>Greater Orlando</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490465454/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CoreSite</strong></td>
+<td><a href="https://trueinterview.io/jobs/f156637a-e8a2-42b3-8bc3-2e4c96deeab8">Summer Intern - Network Reliability Engineering Intern</a></td>
+<td>Secaucus, New Jersey</td>
+<td align="center"><a href="https://jobs.jobvite.com/coresite-careers/job/oXq2AfwJ">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pacific Fusion</strong></td>
 <td><a href="https://trueinterview.io/jobs/8ec712e2-4ae7-4e0c-9648-8e81b7642729">Summer 2027 Structural Analysis Engineer Internship</a></td>
 <td>San Leandro, CA</td>
@@ -223,13 +244,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/10273e28-1413-462b-a7f7-f0f4684706ba">2027 Summer Intern: Engineering (Firmware) - Farmington, CT</a></td>
-<td>Farmington, CT, US, 06032</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=Hubbell&amp;rcm_site_locale=en_US&amp;career_job_req_id=107043">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Reliable Robotics Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf8efcad-84a4-4203-8d10-c086841e59a1">Flight Test Integration Engineer Intern (Summer 2027)</a></td>
 <td>Mountain View, CA</td>
@@ -276,13 +290,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c80253a3-62ee-4e1c-8461-b7c9302167ab">Reliablilty Engineering Intern (Summer 2027)</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/9e609f4f-cf1c-4171-9140-54e05c5195de">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seagate Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda">Intern - Embedded Firmware in Seagate Research Group</a></td>
-<td>Longmont, CO<br/>Shakopee, MN</td>
-<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15521">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e1318446-f08f-4109-9e17-78b6192011dd">Electrical Engineer Intern</a></td>
 <td>Clifton, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484453608/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45166480?domain=micron.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

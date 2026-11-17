@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**90 open roles.**
+**91 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bloomberg Industry Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8557de46-0a4e-4d3c-b7d7-83c46d4712cd">Data Analyst Intern</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490967302/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/137d27dc-6897-43b2-9468-51ad0ab6f0ad">2027 Summer Intern: Engineering - AI Software</a></td>
+<td>Herndon, VA, US, 20171</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=Hubbell&amp;rcm_site_locale=en_US&amp;career_job_req_id=105483">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Integration Innovation, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab70e8b5-ca8e-4328-a8ce-9fc0e386b147">RF Engineer Intern with Security Clearance</a></td>
@@ -498,13 +512,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MANTECH</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**37 open roles.** 26 in the United States & Canada · 11 elsewhere in the world.
+**38 open roles.** 27 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/7846662d-ebae-4672-b5d3-67ee4af2ba88">SAP iXp Intern - Full-stack Software Developer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490119048/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/56339849-c244-468a-8051-c8926d61e809">Full-Stack Software Engineering Intern</a></td>

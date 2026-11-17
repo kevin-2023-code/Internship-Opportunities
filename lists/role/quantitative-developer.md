@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**41 open roles.** 31 in the United States & Canada · 10 elsewhere in the world.
+**42 open roles.** 32 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Societe Generale</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0189a17-6991-44f9-937a-8db50f208c40">Internship - Equity Derivatives Quantitative Pricing</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483775162/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ICE</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1f7af4e-c12f-4620-bd72-8787161d90a5">Summer Internship Program 2027 - Quantitative Engineer Intern</a></td>

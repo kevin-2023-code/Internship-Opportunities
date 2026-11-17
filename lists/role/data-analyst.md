@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**96 open roles.** 58 in the United States & Canada · 38 elsewhere in the world.
+**100 open roles.** 62 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bloomberg Industry Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8557de46-0a4e-4d3c-b7d7-83c46d4712cd">Data Analyst Intern</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490967302/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Gorbel</strong></td>
+<td><a href="https://trueinterview.io/jobs/01a37e9c-a8a9-49a7-b934-1d052c192021">Data BI Analyst Co-Op</a></td>
+<td>Victor, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490966511/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/21386910-b602-42c1-897c-758d2136b27d">Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475848057/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Seagate Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/539bd651-f444-46ce-9dc2-b3c1febd4e27">Engineering Data Analyst Intern</a></td>
+<td>Shakopee, United States</td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15528">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Camping World</strong></td>
 <td><a href="https://trueinterview.io/jobs/36117eb6-2062-486f-96a4-ced61ada56ab">Data Analyst Intern</a></td>

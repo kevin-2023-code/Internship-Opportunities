@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,948 open roles.** 1,525 in the United States & Canada · 423 elsewhere in the world.
+**1,952 open roles.** 1,525 in the United States & Canada · 427 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Freeleaps</strong></td>
+<td><a href="https://trueinterview.io/jobs/e891a7e1-8694-406a-b176-abdf19e9abcd">Software Developer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487691446/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DaobrewAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BWX Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/54e63acd-ddb5-45bc-aabf-eb14c057acee">Intern - Applications Development</a></td>
+<td>Lynchburg, VA</td>
+<td align="center"><a href="https://careers.bwxt.com/job/Lynchburg-Intern-Applications-Development-VA-24501/1449049000/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ryan, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477834689/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6">Cloud Advance Admin/Developer Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468827632/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

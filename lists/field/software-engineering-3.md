@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,948 open roles.** 1,525 in the United States & Canada · 423 elsewhere in the world.
+**1,952 open roles.** 1,525 in the United States & Canada · 427 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477834689/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lennox</strong></td>
+<td><a href="https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6">Cloud Advance Admin/Developer Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468827632/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/335c6bf8-628a-4da3-9660-4888a16b78bd">University - 2027 Summer Games Software Developer Intern - Charleston, SC</a></td>
@@ -1465,13 +1486,6 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bda8b54-57b6-4361-a530-c6fa0fc7f6a6">Summer 2027: Software Engineering Intern - Full Stack</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467798523/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Magna International</strong></td>
 <td><a href="https://trueinterview.io/jobs/508b7cb8-b4e9-45aa-af3e-ee0168be9493">Intern - Engineering ADAS Perception Features</a></td>
 <td>Auburn Hills, MI</td>
@@ -2781,13 +2795,6 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
 <td>Long Beach, CA</td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/d02a78a1-632b-476f-b099-af690135e4e2">Field Engineer Intern (Summer 2027 Internship)</a></td>
 <td>West Fargo, ND</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483570560/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Old Mission</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

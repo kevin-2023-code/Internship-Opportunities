@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**579 open roles.**
+**577 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cohesity</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8f68dad-f33d-495d-bd6d-9895822d4801">Software Engineering Intern (Summer 2027)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483748289/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/21386910-b602-42c1-897c-758d2136b27d">Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475848057/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/30c5d9c4-7d8c-4d4f-b13d-964fa382ebf7">Client Security &amp; Data Foundation Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490943817/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/2666b6c8-b1b1-47f5-a625-0cd843098146">UX Designer Intern [Summer 2027]</a></td>
@@ -154,13 +175,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36587c06-1d61-41ac-b583-7dc4c5c69346">GPU/AI Application Platform Engineer Intern (Server Platform) - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475046833/">Apply</a></td>
@@ -276,13 +290,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5f2c95a9-345f-4e45-b988-af2841ea942e">Software Development Engineer Intern (Network Automation) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475064143/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5dbfb255-8bec-41bb-913c-061e233a346f">Agent Evaluation &amp; Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475060276/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
@@ -1574,13 +1581,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/83a634c3-4b9e-4314-8d9d-0a2d8934af54">Research Scientist Intern (Enterprise AI Agent) - 2026 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462778970/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff2caac9-be9d-4723-bb8d-128a475f6a14">POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
@@ -2568,14 +2568,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
@@ -2792,14 +2785,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco - United States - San Francisco, California 94104 United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b9c3f8d-649b-41c7-8c7c-8808337f9483">Battery Engineering Intern, Cell Engineering (PhD)</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/938682979075854/">Apply</a></td>
@@ -2818,6 +2804,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/88bfa1a0-6fd0-4040-95f2-18ddced675c6">Analog Design Eng Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/268f6f6e-fc78-472a-9a80-8683f5658af5">Developer Productivity Intern [Winter 2027]</a></td>
+<td>San Jose, CA, HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4724521006">Apply</a></td>
+<td align="center">24 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**189 open roles.** 144 in the United States & Canada · 45 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**190 open roles.** 144 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1037,6 +1037,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/39259725-7a5a-40bb-b760-c8a519e5396b">Product Design Engineering Intern</a></td>

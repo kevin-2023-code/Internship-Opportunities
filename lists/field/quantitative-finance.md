@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**91 open roles.** 65 in the United States & Canada · 26 elsewhere in the world.
+**93 open roles.** 66 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Societe Generale</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0189a17-6991-44f9-937a-8db50f208c40">Internship - Equity Derivatives Quantitative Pricing</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483775162/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Voloridge Investment Management, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/040104f1-8bf9-4536-858c-9d72bc7a9b46">Quantitative Research Intern 2027</a></td>
@@ -484,6 +491,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea27421c-2e5d-47d0-b262-82f52d09a81a">Trader Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447168956/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Keyrock</strong></td>
 <td><a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834">DeFi Quant Trader Intern (Credit) - London</a></td>

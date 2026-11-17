@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**187 open roles.**
+**192 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6ad6035-79ce-4e43-a0e9-f581ba704893">Data Science Intern (Data Analytics &amp; AI)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475584506/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/a61be99b-a2bc-4f32-ad3b-f8a462080e9f">IOS Engineer Intern (Global Payment) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475508975/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4663a6bc-ea85-4661-9d1a-29c03ea9dc89">Product Manager Intern - Regional BI &amp; Planning (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491176020/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b661369a-b560-4dfc-bad8-7fae713f38ce">Product Manager Intern, Workplace Efficiency - People Team (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490191300/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/951f6c56-d31a-4e77-bcad-7b220b9386b0">Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475516623/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a5e43ae-a4e3-45ef-ab40-4576d06576f2">Product Manager Intern, Traffic &amp; Content - Core Service (Spring 2027)</a></td>

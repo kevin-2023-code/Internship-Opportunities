@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**22 open roles.** 14 in the United States & Canada · 8 elsewhere in the world.
+**23 open roles.** 14 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -129,6 +129,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/a61be99b-a2bc-4f32-ad3b-f8a462080e9f">IOS Engineer Intern (Global Payment) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475508975/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5eec8a13-585d-4cb7-8918-01507cff7d3b">Android Engineer Intern (Global Payment) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475067010/">Apply</a></td>

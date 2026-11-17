@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Lattica</strong></td>
+<td><a href="https://trueinterview.io/jobs/61e1c09f-d0e6-4d0b-8974-23263c618f1b">Software Engineering Intern (Winter 2026)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://app.dover.com/apply/lattica/1672c7f1-d4e4-4959-a719-11b5ba8a784a">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bask Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2fe442e-4b05-45ad-ba1f-a1b10d15f927">AI Engineering Intern</a> 🌐</td>
 <td>Remote — United States</td>
@@ -135,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://nomadgcs.bamboohr.com/careers/506?postedDate=2026-10-27">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>United Concordia Dental</strong></td>

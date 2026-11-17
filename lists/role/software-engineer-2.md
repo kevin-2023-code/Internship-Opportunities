@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**696 open roles.** 552 in the United States & Canada · 144 elsewhere in the world.
+**696 open roles.** 551 in the United States & Canada · 145 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>L3Harris Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6">Intern, Information Security Systems Engineer (Salt Lake City, UT)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478081281/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Pacific Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/b676a847-a7d0-4329-a542-c497d0801f47">Summer 2027 Software Engineering Internship</a></td>
@@ -436,13 +443,6 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
 <td>Long Beach, CA</td>
@@ -496,13 +496,6 @@
 <td><a href="https://trueinterview.io/jobs/fb5d3e84-4adc-40f4-8aa6-fbf3fa57a4f9">Application Engineer Intern</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://jobs.janushenderson.com/job/Denver-Application-Engineer-Intern-CO-80206/1444442600/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MANTECH</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1091,6 +1084,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1515723-e132-4496-aef1-e7d8b00e6f22">Software Engineer Intern</a></td>
+<td>Warsaw, Mazowieckie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491560136/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Clo Virtual Fashion</strong></td>
 <td><a href="https://trueinterview.io/jobs/f001d58a-5edc-4669-94c0-f96428759a59">Software Engineer Intern</a></td>

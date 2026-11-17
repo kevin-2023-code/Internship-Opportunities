@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**221 open roles.** 156 in the United States & Canada · 65 elsewhere in the world.
+**222 open roles.** 156 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1122,18 +1122,25 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Revolut</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfdb3aa6-2514-41a5-bcbd-65a6471ae681">Internship Programme 2027: Product Designer</a></td>
-<td>Porto, Porto, Portugal<br/>Poland<br/>Portugal</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4418824787/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4663a6bc-ea85-4661-9d1a-29c03ea9dc89">Product Manager Intern - Regional BI &amp; Planning (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491176020/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cece9d36-6310-4854-9eab-e469c899ea60">Internship Programme 2027: Product Owner (UX)</a></td>
-<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>United Kingdom<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4418835490/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
+<td><a href="https://trueinterview.io/jobs/b661369a-b560-4dfc-bad8-7fae713f38ce">Product Manager Intern, Workplace Efficiency - People Team (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490191300/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Workday</strong></td>
+<td><a href="https://trueinterview.io/jobs/978f8017-5b2c-472c-9352-1a38938ac234">Intern, UI/UX Product Manager</a></td>
+<td>Heredia, Heredia, Costa Rica</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490139806/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Shopee</strong></td>

@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**160 open roles.**
+**161 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ee2bb5b-d00a-4d6e-a6aa-e8919faea778">2027 Machine Learning Engineer Undergrad Intern</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490471137/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3e20be9-bcad-4c7c-9be3-c0ba319baf8c">2027 Summer Intern - Software Engineering - Onsite</a></td>

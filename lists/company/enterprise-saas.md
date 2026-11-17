@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**80 open roles.** 64 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**80 open roles.** 63 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/94e7c4e8-c92d-4b4b-9cce-cbbe3a1d035a">Intern, Software Developer, Stagiaire en Développement Logiciel</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490940989/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/7846662d-ebae-4672-b5d3-67ee4af2ba88">SAP iXp Intern - Full-stack Software Developer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490119048/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebce66e8-4361-477a-b8a5-cbd857016c5e">Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)</a></td>
@@ -291,25 +305,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bda8b54-57b6-4361-a530-c6fa0fc7f6a6">Summer 2027: Software Engineering Intern - Full Stack</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467798523/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/349a5600-0752-490b-8fbd-6faa13b9d1b1">PhD Intern, Security Engineer (2027)</a></td>
 <td>San Francisco, CA • New York, NY, US</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Ashby</strong></td>
@@ -338,13 +338,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Pleasanton, California, United States</td>
 <td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Palantir</strong></td>
@@ -477,6 +470,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Workday</strong></td>
+<td><a href="https://trueinterview.io/jobs/978f8017-5b2c-472c-9352-1a38938ac234">Intern, UI/UX Product Manager</a></td>
+<td>Heredia, Heredia, Costa Rica</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490139806/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/3f63123b-e011-475b-ba3c-4b514ed14251">Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities</a></td>

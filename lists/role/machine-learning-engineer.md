@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**182 open roles.** 140 in the United States & Canada · 42 elsewhere in the world.
+**187 open roles.** 145 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ee2bb5b-d00a-4d6e-a6aa-e8919faea778">2027 Machine Learning Engineer Undergrad Intern</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490471137/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e6707317-fca5-444b-8034-c05bd057eb4a">2027 Machine Learning Engineering Graduate Intern</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490457809/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>S&amp;P Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/63e7109f-8d54-444e-864e-9e55261c347f">Machine Learning Engineer - Summer Intern 2027</a></td>
+<td>Cambridge, MA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490948515/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kensho Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/46e9e8df-95eb-494a-9a4a-8bf33ce4b0b0">Machine Learning Engineer - Summer Intern 2027</a></td>
+<td>Cambridge, MA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490954961/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/04e36008-cf37-4833-8b69-28ceda5d5a6f">2027 Summer Intern, AI/ML Engineer, Mapping (PhD)</a></td>
+<td>Warren, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475872856/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/30c5d9c4-7d8c-4d4f-b13d-964fa382ebf7">Client Security &amp; Data Foundation Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490943817/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hendrickson</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dd61d33-e1fd-4ef2-9050-2f29c840f4b7">Machine Learning Co-Op (Fall 2027)</a></td>
@@ -870,13 +912,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>QUADRIC PTY LTD</strong></td>

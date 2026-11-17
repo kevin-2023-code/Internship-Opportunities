@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**8 open roles.** 4 in the United States & Canada · 4 elsewhere in the world.
+**9 open roles.** 4 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea27421c-2e5d-47d0-b262-82f52d09a81a">Trader Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447168956/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Keyrock</strong></td>
 <td><a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834">DeFi Quant Trader Intern (Credit) - London</a></td>

@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**137 open roles.**
+**139 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>S&amp;P Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/63e7109f-8d54-444e-864e-9e55261c347f">Machine Learning Engineer - Summer Intern 2027</a></td>
+<td>New York, NY<br/>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490948515/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kensho Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/46e9e8df-95eb-494a-9a4a-8bf33ce4b0b0">Machine Learning Engineer - Summer Intern 2027</a></td>
+<td>New York, NY<br/>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490954961/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Societe Generale</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0189a17-6991-44f9-937a-8db50f208c40">Internship - Equity Derivatives Quantitative Pricing</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483775162/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/56339849-c244-468a-8051-c8926d61e809">Full-Stack Software Engineering Intern</a></td>
@@ -561,13 +582,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dda6aa5b-9502-435d-b5a7-534cfe7ba230">Project Engineer Intern</a></td>
 <td>New York, NY<br/>Jersey City, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465904136/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bda8b54-57b6-4361-a530-c6fa0fc7f6a6">Summer 2027: Software Engineering Intern - Full Stack</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467798523/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

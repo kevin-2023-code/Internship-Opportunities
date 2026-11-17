@@ -2,11 +2,11 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**795 open roles.** 582 in the United States & Canada · 213 elsewhere in the world.
+**805 open roles.** 590 in the United States & Canada · 215 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 2</sub>
+<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 3 · [Page 3 →](data-ai-and-machine-learning-3.md)</sub>
 
 ## United States & Canada
 
@@ -15,6 +15,69 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/79978bed-7a41-4cce-8c96-78e512935130">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
+<td>Rensselaer, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485293764/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10">2027 Summer Intern Genomics, Computational Biology &amp; Translational Data Science</a></td>
+<td>Tarrytown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297710/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc13e61-faef-4ebf-85bc-796dc65c85ac">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485286737/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a></td>
+<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Marvin Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4296b483-6ab9-482d-bd5c-1fe3beb125e8">INTERN (AI DEVELOPER)</a></td>
+<td>Inglewood, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405870/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Philo Homes</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b86f257-a094-4ad1-8f4a-da90fdc0a328">Computer Vision Engineering Intern (Bilingual: English/Mandarin)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484803720/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Donaldson</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd121b23-ef7a-4d8c-844c-3a6d5326ef0a">Graduate Intern - Modeling and Data Science</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485299157/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790573/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centene Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a26c4885-74bb-4773-825f-ca5024612358">AI Engineer Intern (Undergraduate - Summer 2027)</a></td>
+<td>Missouri, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248850/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Capital One</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
@@ -709,13 +772,6 @@
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99">Services Data Science Graduate Intern</a></td>
 <td>TX, United States</td>
@@ -1301,6 +1357,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6ad6035-79ce-4e43-a0e9-f581ba704893">Data Science Intern (Data Analytics &amp; AI)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475584506/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/79823bf2-f398-4b95-acd6-c13905350675">AI Reinforcement Training Intern (TikTok Platform Responsibility) - 2027 Start</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482953199/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tencent</strong></td>
 <td><a href="https://trueinterview.io/jobs/8522e918-198d-433b-94c3-1d10953318b6">WeChat - Data &amp; AI Analytics Intern (Summer 2027)</a></td>
@@ -2757,44 +2827,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Delivery Hero</strong></td>
-<td><a href="https://trueinterview.io/jobs/c27007d1-9b03-44ab-b6c4-407f755fad77">Intern Data Analyst I People Strategy Global HQ</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000152474589-intern-data-analyst-i-people-strategy-global-hq">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Govsignals</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3137908-8fe3-4fcb-90ed-a338ee86c9b5">ENGINEERING INTERN</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NCS</strong></td>
-<td><a href="https://trueinterview.io/jobs/7de40d5d-7ac1-4ada-9b47-c03c4789e499">[Uni - Jan till Jun 2027] Robotics and Physical AI Engineer Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ALTEN</strong></td>
-<td><a href="https://trueinterview.io/jobs/3fd589f6-03aa-43ad-af14-9dd4bca04d73">Stage Innovation : Ingénieur Computer Vision / Véhicule Autonome Coopératif</a></td>
-<td>Sèvres, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000151636109-stage-innovation-ingenieur-computer-vision-vehicule-autonome-cooperatif">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Telli</strong></td>
-<td><a href="https://trueinterview.io/jobs/71d4717a-95eb-47a1-b926-c61cb3b5cd40">Internship - Deployment Strategist</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/telli/821f603f-69f5-475e-8200-56120cae7241/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
-<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 2</sub>
+<sub>[← Page 1](data-ai-and-machine-learning.md) · Page 2 of 3 · [Page 3 →](data-ai-and-machine-learning-3.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

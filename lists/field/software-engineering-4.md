@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,948 open roles.** 1,525 in the United States & Canada · 423 elsewhere in the world.
+**1,952 open roles.** 1,525 in the United States & Canada · 427 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Old Mission</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
@@ -195,13 +202,6 @@
 <td><a href="https://trueinterview.io/jobs/7cb80617-87a4-4448-ad76-5ba6d9ae9ff1">Engineering Internship - Fire Protection</a></td>
 <td>Dallas, TX<br/>Tulsa, OK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5428797008">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MANTECH</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2303,6 +2303,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1515723-e132-4496-aef1-e7d8b00e6f22">Software Engineer Intern</a></td>
+<td>Warsaw, Mazowieckie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491560136/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/a61be99b-a2bc-4f32-ad3b-f8a462080e9f">IOS Engineer Intern (Global Payment) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475508975/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/951f6c56-d31a-4e77-bcad-7b220b9386b0">Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475516623/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/39259725-7a5a-40bb-b760-c8a519e5396b">Product Design Engineering Intern</a></td>
 <td>UK - London, Battersea Power Station</td>
@@ -2797,34 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b9c3753c-c388-4bdb-9608-a306db995afd">Cybersecurity Engineer Project Intern (TikTok Shop) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454770282/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6dbcd0e5-9283-4269-b601-f06dfee10b5c">Machine Learning Engineer Project Intern（TikTok Search）- 2026 Start（BS/MS）</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4379670350/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ea38ca39-d041-469f-9e89-bf356d49a9b0">Site Reliability Engineer Intern (Global SRE- GMPT) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447985869/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

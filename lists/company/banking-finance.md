@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**18 open roles.** 12 in the United States & Canada · 6 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1515723-e132-4496-aef1-e7d8b00e6f22">Software Engineer Intern</a></td>
+<td>Warsaw, Mazowieckie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491560136/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/0779a64e-2067-404e-88b1-8429a86aed94">2027 Machine Learning Center of Excellence (NLP) - Internship</a></td>

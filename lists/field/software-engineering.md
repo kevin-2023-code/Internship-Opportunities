@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,948 open roles.** 1,525 in the United States & Canada · 423 elsewhere in the world.
+**1,952 open roles.** 1,525 in the United States & Canada · 427 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cohesity</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8f68dad-f33d-495d-bd6d-9895822d4801">Software Engineering Intern (Summer 2027)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483748289/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/94e7c4e8-c92d-4b4b-9cce-cbbe3a1d035a">Intern, Software Developer, Stagiaire en Développement Logiciel</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490940989/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/7846662d-ebae-4672-b5d3-67ee4af2ba88">SAP iXp Intern - Full-stack Software Developer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490119048/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/56339849-c244-468a-8051-c8926d61e809">Full-Stack Software Engineering Intern</a></td>
@@ -59,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/23877ac9-2521-4895-b761-b5ba5105b99f">Systems &amp; Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)</a></td>
 <td>Mountain View, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000161930950-systems-infrastructure-engineer-intern-masters-summer-2027-mountain-view-ca-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lattica</strong></td>
+<td><a href="https://trueinterview.io/jobs/61e1c09f-d0e6-4d0b-8974-23263c618f1b">Software Engineering Intern (Winter 2026)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://app.dover.com/apply/lattica/1672c7f1-d4e4-4959-a719-11b5ba8a784a">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -269,13 +297,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6df7b793-6809-4919-a245-488ed45160ed">Site Reliability Engineer Intern (Global SRE) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455468449/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a51d1aee-473d-462d-8e06-f781baa3e7b4">Enterprise Operations Software Internship</a></td>
 <td>Spring, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488843667/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Freeleaps</strong></td>
-<td><a href="https://trueinterview.io/jobs/e891a7e1-8694-406a-b176-abdf19e9abcd">Software Developer Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487691446/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DaobrewAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BWX Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/54e63acd-ddb5-45bc-aabf-eb14c057acee">Intern - Applications Development</a></td>
-<td>Lynchburg, VA</td>
-<td align="center"><a href="https://careers.bwxt.com/job/Lynchburg-Intern-Applications-Development-VA-24501/1449049000/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

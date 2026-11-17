@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**107 open roles.**
+**105 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/52ae4c5a-0e96-4b2f-b54e-f78cdee2100c">Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer</a></td>
-<td>Seattle, WA<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545813/">Apply</a></td>
-<td align="center">15 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/226c66fb-781c-4e0e-85bd-00d63f57824c">Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475061222/">Apply</a></td>
@@ -215,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/3cb1e897-a30c-47df-a28c-7054f5614c7f">Summer 2027 AI Engineering Internship</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://careers.t-mobile.com/summer-2027-ai-engineering-internship/job/95013BF8369E1F444FC52713EF9F18A9">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6845ceaa-dc5d-48b6-b1ef-3610f3589914">Summer 2027 Software Engineer HR Data Products Internship</a></td>
 <td>Bellevue, WA</td>
 <td align="center"><a href="https://careers.t-mobile.com/summer-2027-software-engineer-hr-data-products-internship/job/0E6A1B5A2FFE7163DD8D9BDCDEC8033B">Apply</a></td>
