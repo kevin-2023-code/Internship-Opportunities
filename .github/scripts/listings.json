@@ -5,9 +5,37 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T01:05:42.626Z",
+  "listingsChangedAt": "2026-11-17T02:06:41.437Z",
   "count": 3954,
   "listings": [
+    {
+      "id": "810a96a3-bd49-4ff3-8f58-bc4558f74490",
+      "company": "Anduril Industries",
+      "title": "2027 Mission Operations Engineer Intern",
+      "locations": [
+        "Honolulu, Hawaii, United States",
+        "Washington, District of Columbia, United States"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+      "url": "https://trueinterview.io/jobs/810a96a3-bd49-4ff3-8f58-bc4558f74490",
+      "postedAt": "2026-11-16T23:37:28.000Z",
+      "updatedAt": "2026-11-16T23:37:28.000Z"
+    },
     {
       "id": "64d70c6c-0a7a-4c1a-989a-21c8c941b488",
       "company": "Keyrock",
@@ -278,7 +306,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -327,9 +355,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -381,7 +409,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Full-Stack Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -418,31 +446,6 @@
       "url": "https://trueinterview.io/jobs/cdec0bfc-bfee-4404-a322-697bc9802d2c",
       "postedAt": "2026-11-16T15:52:55.000Z",
       "updatedAt": "2026-11-16T15:52:55.000Z"
-    },
-    {
-      "id": "2beff269-af6e-4e0d-bab7-fb1aed3f8a93",
-      "company": "Altar'd State",
-      "title": "Spring 2027 IT Ecommerce Product Owner Intern",
-      "locations": [
-        "Knoxville, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490664295/",
-      "url": "https://trueinterview.io/jobs/2beff269-af6e-4e0d-bab7-fb1aed3f8a93",
-      "postedAt": "2026-11-16T15:20:00.000Z",
-      "updatedAt": "2026-11-16T15:20:00.000Z"
     },
     {
       "id": "116da000-a859-4523-95ef-4f54c7a3a128",

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**799 open roles.** 712 in the United States & Canada · 87 elsewhere in the world.
+**800 open roles.** 713 in the United States & Canada · 87 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amrize</strong></td>
+<td><a href="https://trueinterview.io/jobs/e44002ab-301d-439a-bae6-d29092586bb3">Electrical Engineer Intern (Summer 2027)</a></td>
+<td>Whitehall, PA<br/>Hagerstown, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474407108/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Fenner Precision Polymers</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee1d4325-258e-4e40-a4b5-e68cac133fd8">Electrical Engineer Intern - Summer 2027</a></td>

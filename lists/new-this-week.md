@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/810a96a3-bd49-4ff3-8f58-bc4558f74490">2027 Mission Operations Engineer Intern</a></td>
+<td>Washington, DC<br/>Honolulu, Hawaii, United States<br/>Washington, District of Columbia, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pacific Fusion</strong></td>
 <td><a href="https://trueinterview.io/jobs/8ec712e2-4ae7-4e0c-9648-8e81b7642729">Summer 2027 Structural Analysis Engineer Internship</a></td>
 <td>San Leandro, CA</td>
@@ -115,13 +122,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cdec0bfc-bfee-4404-a322-697bc9802d2c">Displays Engineer Intern (Summer 2027)</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Altar'd State</strong></td>
-<td><a href="https://trueinterview.io/jobs/2beff269-af6e-4e0d-bab7-fb1aed3f8a93">Spring 2027 IT Ecommerce Product Owner Intern</a></td>
-<td>Knoxville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490664295/">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
