@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T04:06:01.365Z",
+  "listingsChangedAt": "2026-11-17T05:04:47.010Z",
   "count": 3956,
   "listings": [
     {
@@ -59,6 +59,33 @@
       "url": "https://trueinterview.io/jobs/56339849-c244-468a-8051-c8926d61e809",
       "postedAt": "2026-11-17T01:02:47.000Z",
       "updatedAt": "2026-11-17T01:02:47.000Z"
+    },
+    {
+      "id": "f001d58a-5edc-4669-94c0-f96428759a59",
+      "company": "Clo Virtual Fashion",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Seoul"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/clovirtualfashion/f5646a27-cca4-4205-88e9-8a563af5a0ff",
+      "url": "https://trueinterview.io/jobs/f001d58a-5edc-4669-94c0-f96428759a59",
+      "postedAt": "2026-11-17T00:03:14.000Z",
+      "updatedAt": "2026-11-17T00:03:14.000Z"
     },
     {
       "id": "5dc00de7-85f0-4e32-bfe0-db3c580774bd",
@@ -1429,9 +1456,9 @@
         "Ireland"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1663,7 +1690,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1689,7 +1716,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1698,31 +1725,6 @@
       "source": "career-sites",
       "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
       "url": "https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067",
-      "postedAt": "2026-11-16T00:00:00.000Z",
-      "updatedAt": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "79c0923c-997e-4319-af11-4fd5a82eab32",
-      "company": "GM Financial",
-      "title": "Intern - Product Owner",
-      "locations": [
-        "Arlington, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247",
-      "url": "https://trueinterview.io/jobs/79c0923c-997e-4319-af11-4fd5a82eab32",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "updatedAt": "2026-11-16T00:00:00.000Z"
     },
