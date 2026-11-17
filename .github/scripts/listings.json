@@ -5,36 +5,85 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T02:06:41.437Z",
-  "count": 3954,
+  "listingsChangedAt": "2026-11-17T03:06:04.403Z",
+  "count": 3957,
   "listings": [
     {
-      "id": "810a96a3-bd49-4ff3-8f58-bc4558f74490",
-      "company": "Anduril Industries",
-      "title": "2027 Mission Operations Engineer Intern",
+      "id": "2666b6c8-b1b1-47f5-a625-0cd843098146",
+      "company": "Zoox",
+      "title": "UX Designer Intern [Summer 2027]",
       "locations": [
-        "Honolulu, Hawaii, United States",
-        "Washington, District of Columbia, United States"
+        "Foster City, CA"
       ],
-      "cities": [
-        "Washington, DC"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Data & AI",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
-      "url": "https://trueinterview.io/jobs/810a96a3-bd49-4ff3-8f58-bc4558f74490",
-      "postedAt": "2026-11-16T23:37:28.000Z",
-      "updatedAt": "2026-11-16T23:37:28.000Z"
+      "applyUrl": "https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93",
+      "url": "https://trueinterview.io/jobs/2666b6c8-b1b1-47f5-a625-0cd843098146",
+      "postedAt": "2026-11-17T01:59:51.000Z",
+      "updatedAt": "2026-11-17T01:59:51.000Z"
+    },
+    {
+      "id": "56339849-c244-468a-8051-c8926d61e809",
+      "company": "Clera",
+      "title": "Full-Stack Software Engineering Intern",
+      "locations": [
+        "New York"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
+      "url": "https://trueinterview.io/jobs/56339849-c244-468a-8051-c8926d61e809",
+      "postedAt": "2026-11-17T01:02:47.000Z",
+      "updatedAt": "2026-11-17T01:02:47.000Z"
+    },
+    {
+      "id": "5dc00de7-85f0-4e32-bfe0-db3c580774bd",
+      "company": "Minitab",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "State College, Pennsylvania, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/minitab/jobs/8200708003",
+      "url": "https://trueinterview.io/jobs/5dc00de7-85f0-4e32-bfe0-db3c580774bd",
+      "postedAt": "2026-11-16T22:00:00.000Z",
+      "updatedAt": "2026-11-16T22:00:00.000Z"
     },
     {
       "id": "64d70c6c-0a7a-4c1a-989a-21c8c941b488",
@@ -462,7 +511,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -512,7 +561,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -623,9 +672,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -15584,6 +15633,34 @@
       "url": "https://trueinterview.io/jobs/79e21a8d-fd18-41c5-b5b4-84bebd8ea348",
       "postedAt": "2026-11-11T19:07:00.000Z",
       "updatedAt": "2026-11-11T19:07:00.000Z"
+    },
+    {
+      "id": "7e219776-2d97-41d7-a115-d0a3b74e36a1",
+      "company": "Brex",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "locations": [
+        "San Francisco, California, United States",
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+      "url": "https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1",
+      "postedAt": "2026-11-11T16:23:25.000Z",
+      "updatedAt": "2026-11-11T19:00:00.000Z"
     },
     {
       "id": "0da88028-3701-4e8b-8cef-04fa3ab0fd18",
