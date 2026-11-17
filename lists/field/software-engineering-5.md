@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,949 open roles.** 1,528 in the United States & Canada · 421 elsewhere in the world.
+**1,949 open roles.** 1,527 in the United States & Canada · 422 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
@@ -344,6 +337,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452930185/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf34ad32-d416-47f5-aab1-bc464e6c67f2">Software Intern: Linux/Yocto</a></td>
+<td>Pudong, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463311556/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>

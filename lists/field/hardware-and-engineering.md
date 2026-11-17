@@ -986,6 +986,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zurn Elkay Water Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/939ac533-4ee9-4405-8082-0724d5219226">Embedded Firmware Intern (Summer 2027)</a></td>
+<td>Milwaukee, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470712874/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>York Space Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e61ca80-a934-4b46-b9eb-93f028bc90f5">Flight Software Engineering Intern</a></td>
 <td>Greenwood Village, CO</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e1318446-f08f-4109-9e17-78b6192011dd">Electrical Engineer Intern</a></td>
 <td>Clifton, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484453608/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45166480?domain=micron.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

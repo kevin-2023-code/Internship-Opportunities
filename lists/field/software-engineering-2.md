@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,949 open roles.** 1,528 in the United States & Canada · 421 elsewhere in the world.
+**1,949 open roles.** 1,527 in the United States & Canada · 422 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -118,13 +118,6 @@
 <td><a href="https://trueinterview.io/jobs/73b782db-f034-40c8-a12c-03a37f4d3558">Software Development Intern-RR</a></td>
 <td>Round Rock, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462342718/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zurn Elkay Water Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/939ac533-4ee9-4405-8082-0724d5219226">Embedded Firmware Intern (Summer 2027)</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470712874/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6">Cloud Advance Admin/Developer Intern</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468827632/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/335c6bf8-628a-4da3-9660-4888a16b78bd">University - 2027 Summer Games Software Developer Intern - Charleston, SC</a></td>
+<td>Charleston, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460518284/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,949 open roles.** 1,528 in the United States & Canada · 421 elsewhere in the world.
+**1,949 open roles.** 1,527 in the United States & Canada · 422 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea38ca39-d041-469f-9e89-bf356d49a9b0">Site Reliability Engineer Intern (Global SRE- GMPT) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447985869/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

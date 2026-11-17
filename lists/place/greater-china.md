@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**70 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -227,6 +227,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452930185/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf34ad32-d416-47f5-aab1-bc464e6c67f2">Software Intern: Linux/Yocto</a></td>
+<td>Pudong, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463311556/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T09:06:09.205Z",
+  "listingsChangedAt": "2026-11-17T09:38:17.883Z",
   "count": 3951,
   "listings": [
     {
@@ -25190,6 +25190,31 @@
       "updatedAt": "2026-11-08T10:42:00.000Z"
     },
     {
+      "id": "cf34ad32-d416-47f5-aab1-bc464e6c67f2",
+      "company": "NXP Semiconductors",
+      "title": "Software Intern: Linux/Yocto",
+      "locations": [
+        "Pudong, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463311556/",
+      "url": "https://trueinterview.io/jobs/cf34ad32-d416-47f5-aab1-bc464e6c67f2",
+      "postedAt": "2026-11-08T10:24:00.000Z",
+      "updatedAt": "2026-11-08T10:24:00.000Z"
+    },
+    {
       "id": "4f32f529-c6d0-4489-b7c1-f0ae8f1e9600",
       "company": "Optiver",
       "title": "Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
@@ -25227,7 +25252,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -86952,31 +86977,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
       "url": "https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "247a9fc0-9806-440d-8340-024319d38475",
-      "company": "Intel",
-      "title": "Process Integ and Yield Eng PhD Intern Grade 029",
-      "locations": [
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084",
-      "url": "https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },

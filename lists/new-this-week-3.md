@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**919 open roles.** 703 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
+**918 open roles.** 703 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -841,13 +841,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b2c20dfd-e0e2-4e29-995d-babe6afc5e19">AI Evaluation &amp; Enablement Specialist Intern (TikTok ADSO) - 2027 Start</a></td>
 <td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479964916/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

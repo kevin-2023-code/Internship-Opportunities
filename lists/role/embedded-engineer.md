@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**76 open roles.** 61 in the United States & Canada · 15 elsewhere in the world.
+**77 open roles.** 61 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -497,6 +497,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bucharest, Bucharest, Romania</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4399250880/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cf34ad32-d416-47f5-aab1-bc464e6c67f2">Software Intern: Linux/Yocto</a></td>
+<td>Pudong, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463311556/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>

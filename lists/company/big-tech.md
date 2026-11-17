@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**600 open roles.** 414 in the United States & Canada · 186 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**600 open roles.** 413 in the United States & Canada · 187 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1546,13 +1546,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475">Process Integ and Yield Eng PhD Intern Grade 029</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/3dc3a4df-d20c-4c86-b45c-667c66902740">Intern - Optical Design Software &amp; Automation Engineer (PhD Level)</a></td>
 <td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763">EMC Engineer Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20216?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
