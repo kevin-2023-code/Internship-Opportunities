@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**120 open roles.** 95 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**119 open roles.** 95 in the United States & Canada · 24 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -861,13 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>DE-Berlin-Trion Building</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8">Apply</a></td>
 <td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gameloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ae6329-2ca1-4faa-b50c-99327baa6c78">UI UX Designer Intern</a></td>
-<td>Hanoi, Ha Noi, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000150312827-ui-ux-designer-intern">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

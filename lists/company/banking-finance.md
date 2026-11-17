@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**18 open roles.** 12 in the United States & Canada · 6 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,13 +150,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c1f24c6-2dd8-4d35-b793-1adc013ae572">Software Engineering Intern</a></td>
-<td>Cyberjaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000157956149-software-engineering-intern">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/45808ad7-cd61-4b6d-9af3-646c8ee9e71e">AI Developer Intern</a></td>
 <td>Cyberjaya, Selangor, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156347739-ai-developer-intern">Apply</a></td>
