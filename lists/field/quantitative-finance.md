@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**92 open roles.** 65 in the United States & Canada · 27 elsewhere in the world.
+**91 open roles.** 65 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -486,13 +486,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Keyrock</strong></td>
-<td><a href="https://trueinterview.io/jobs/64d70c6c-0a7a-4c1a-989a-21c8c941b488">Innovation Quant Developer Intern (DeFi/Corporate Development) - London</a></td>
-<td>London OR Brussels</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834">DeFi Quant Trader Intern (Credit) - London</a></td>
 <td>London OR Brussels<br/>Brussels</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03">Apply</a></td>

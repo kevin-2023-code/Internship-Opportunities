@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,955 open roles.** 1,533 in the United States & Canada · 422 elsewhere in the world.
+**1,951 open roles.** 1,528 in the United States & Canada · 423 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,30 +21,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ec712e2-4ae7-4e0c-9648-8e81b7642729">Summer 2027 Structural Analysis Engineer Internship</a></td>
-<td>San Leandro, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505980009">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9d0d65c6-882a-4a4f-9d9e-7dcb6ae8029f">Summer 2027 Vacuum Systems Engineering Internship</a></td>
-<td>San Leandro, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/74635427-69c3-4a10-8899-28e9f93d426a">Summer 2027 HPC/DevOps Engineering Intern</a></td>
 <td>San Leandro, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b0baa04-4686-4a1e-a9c7-c92647c0748b">Intern - Municipal Engineering</a></td>
-<td>Oakville, Ontario, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161893169-intern-municipal-engineering-">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2796,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
 <td>Burlington, MA</td>
 <td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Warner Bros. Discovery</strong></td>
+<td><a href="https://trueinterview.io/jobs/09a0682e-4c10-4ee2-84b1-d2d324357bde">WB Games Software Engineering Co-op: Needham, MA - January-May 2027</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://careers.wbd.com/jp/ja/job/WAMEGLOBALR000109901EXTERNALJAJP/WB-Games-Software-Engineering-Co-op-Needham-MA-January-May-2027">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GenPark</strong></td>
+<td><a href="https://trueinterview.io/jobs/359b4f89-1c6a-4be4-a881-5ba7d433a578">Backend Developer Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487672333/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/03458906-fa4a-443f-bb3b-d154e988a7a7">Internship, Software Engineer, Finance Programs (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488814462/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

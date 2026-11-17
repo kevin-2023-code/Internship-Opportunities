@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**42 open roles.** 28 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**43 open roles.** 29 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008">Apply</a></td>
 <td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008">Apply</a></td>
+<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>

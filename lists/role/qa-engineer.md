@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**55 open roles.** 42 in the United States & Canada · 13 elsewhere in the world.
+**53 open roles.** 40 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>M3</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a445e15-4751-45f0-886f-6655ba9bbe2b">Intern-Quality Engineering (SDET)</a></td>
-<td>Lawrenceville, Georgia, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/m3/jobs/8201335003">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Toyota Automated Logistics</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9e683af-810d-40a5-88f6-1c37af5f5436">Software QA Co-op (Summer 2027)</a></td>
@@ -295,13 +288,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a">Quality Assurance Test Engineer Intern</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100">Manufacturing Software Test Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>

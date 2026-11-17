@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**678 open roles.** 536 in the United States & Canada · 142 elsewhere in the world.
+**679 open roles.** 537 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>M3</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a445e15-4751-45f0-886f-6655ba9bbe2b">Intern-Quality Engineering (SDET)</a></td>
+<td>Lawrenceville, Georgia, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/m3/jobs/8201335003">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Health Care Service Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/db125254-1736-46dd-84b6-05b24df6e488">Early Careers - Automation Programmer Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4125a702-b7d5-48e8-8fa0-cb23e0e2d7c8">University - 2027 Summer Games Software Developer Intern - San Diego, CA</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459829472/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad">University, 2027 Summer Games Software Developer Intern - McLean, VA</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459884945/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

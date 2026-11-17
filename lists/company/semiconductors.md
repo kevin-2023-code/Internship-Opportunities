@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**268 open roles.** 172 in the United States & Canada · 96 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**269 open roles.** 173 in the United States & Canada · 96 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -47,6 +47,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Lightmatter</strong></td>
+<td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/340ed76d-a94f-42a3-afbf-61c1052d7197">Package Layout Automation Internship - Summer 2027</a></td>
 <td>San Francisco, CA<br/>Mountain View, CA</td>
 <td align="center"><a href="https://grnh.se/60vuz6g78us">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**936 open roles.** 720 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
+**934 open roles.** 718 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -27,7 +27,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb90047f-5ca5-4d34-b21f-c124fa13590f">Clinical Research Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000161861679-clinical-research-engineering-intern">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pacific Fusion</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d0d65c6-882a-4a4f-9d9e-7dcb6ae8029f">Summer 2027 Vacuum Systems Engineering Internship</a></td>
 <td>San Leandro, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009">Apply</a></td>
@@ -59,13 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a445e15-4751-45f0-886f-6655ba9bbe2b">Intern-Quality Engineering (SDET)</a></td>
 <td>Lawrenceville, Georgia, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/m3/jobs/8201335003">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>bioMérieux</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921">Machine Learning Co-Op</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489799250/">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -290,6 +290,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79c0923c-997e-4319-af11-4fd5a82eab32">Intern - Product Owner</a></td>
 <td>Arlington, TX, United States</td>
 <td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>J.D. Irving, Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/e257e534-45d4-488e-8636-ad73b4f6c832">Mechanical Engineering Student/Co-op- Winter 2027</a></td>
+<td>Dartmouth, NS, Canada</td>
+<td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12863">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2057,6 +2064,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Lightmatter</strong></td>
+<td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Muon Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c892dee-cae7-43bb-ad17-52cb8ed2dab4">Security Engineering Intern (Summer 2027)</a></td>
 <td>Mountain View, CA</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5aa4e9e5-e469-4d79-a747-066e2f25563a">Assoc Security Engineering &amp; Automation Intern</a></td>
 <td>Santa Clara, CALIFORNIA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161209810-assoc-security-engineering-automation-intern-">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CHAMP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6d2cb62-723d-4a28-93dd-f5e23f9942b5">Frontend Engineer Intern</a></td>
-<td>Cleveland, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490083223/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ServiceNow</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec728ddc-83ac-422e-8d7f-db6cfd723a5c">Assoc AI Engineering (Cloud Security Automation) Intern</a></td>
-<td>Santa Clara, CALIFORNIA, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

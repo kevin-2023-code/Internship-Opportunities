@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**15 open roles.** 11 in the United States & Canada · 4 elsewhere in the world.
+**16 open roles.** 12 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pacific Fusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/74635427-69c3-4a10-8899-28e9f93d426a">Summer 2027 HPC/DevOps Engineering Intern</a></td>
+<td>San Leandro, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Vontier</strong></td>
 <td><a href="https://trueinterview.io/jobs/76586f6d-5266-4209-a951-97805aef24a2">Engineering Intern - DevOps (Summer 2027)</a></td>

@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T00:11:32.878Z",
+  "listingsChangedAt": "2026-11-17T01:05:42.626Z",
   "count": 3954,
   "listings": [
     {
@@ -24,7 +24,7 @@
       ],
       "remote": "onsite",
       "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
+      "family": "Software",
       "role": "Quantitative Developer",
       "seniority": "intern",
       "level": "newgrad",
@@ -49,9 +49,9 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -60,6 +60,33 @@
       "url": "https://trueinterview.io/jobs/8ec712e2-4ae7-4e0c-9648-8e81b7642729",
       "postedAt": "2026-11-16T19:42:48.000Z",
       "updatedAt": "2026-11-16T19:42:48.000Z"
+    },
+    {
+      "id": "eb90047f-5ca5-4d34-b21f-c124fa13590f",
+      "company": "Intuitive Surgical",
+      "title": "Clinical Research Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000161861679-clinical-research-engineering-intern",
+      "url": "https://trueinterview.io/jobs/eb90047f-5ca5-4d34-b21f-c124fa13590f",
+      "postedAt": "2026-11-16T16:32:30.000Z",
+      "updatedAt": "2026-11-16T19:41:41.000Z"
     },
     {
       "id": "9d0d65c6-882a-4a4f-9d9e-7dcb6ae8029f",
@@ -74,9 +101,9 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -123,10 +150,10 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -174,7 +201,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -200,7 +227,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "QA Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -210,31 +237,6 @@
       "url": "https://trueinterview.io/jobs/3a445e15-4751-45f0-886f-6655ba9bbe2b",
       "postedAt": "2026-11-16T17:38:16.000Z",
       "updatedAt": "2026-11-16T17:38:16.000Z"
-    },
-    {
-      "id": "ba55cd42-ba04-405a-86c4-798a9c449921",
-      "company": "bioMérieux",
-      "title": "Machine Learning Co-Op",
-      "locations": [
-        "Durham, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489799250/",
-      "url": "https://trueinterview.io/jobs/ba55cd42-ba04-405a-86c4-798a9c449921",
-      "postedAt": "2026-11-16T16:54:00.000Z",
-      "updatedAt": "2026-11-16T16:54:00.000Z"
     },
     {
       "id": "e1ec7797-8d1c-44cd-acd9-079dde1520f3",
@@ -253,7 +255,7 @@
       "category": "Other",
       "family": "IT & Support",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -1644,6 +1646,31 @@
       "source": "ats-boards",
       "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247",
       "url": "https://trueinterview.io/jobs/79c0923c-997e-4319-af11-4fd5a82eab32",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "updatedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "e257e534-45d4-488e-8636-ad73b4f6c832",
+      "company": "J.D. Irving, Limited",
+      "title": "Mechanical Engineering Student/Co-op- Winter 2027",
+      "locations": [
+        "Dartmouth, NS, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12863",
+      "url": "https://trueinterview.io/jobs/e257e534-45d4-488e-8636-ad73b4f6c832",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "updatedAt": "2026-11-16T00:00:00.000Z"
     },
@@ -10054,6 +10081,33 @@
       "url": "https://trueinterview.io/jobs/446f6336-73cb-4256-b53e-e8c2f32243c3",
       "postedAt": "2026-11-12T23:37:00.000Z",
       "updatedAt": "2026-11-12T23:37:00.000Z"
+    },
+    {
+      "id": "e70b0ebf-29e3-46b4-a2d0-efac93d5e488",
+      "company": "Lightmatter",
+      "title": "Data & AI Platform, Intern - Summer 2027",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
+      "url": "https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488",
+      "postedAt": "2026-11-12T22:36:03.000Z",
+      "updatedAt": "2026-11-12T23:10:06.000Z"
     },
     {
       "id": "8c892dee-cae7-43bb-ad17-52cb8ed2dab4",
@@ -24408,31 +24462,6 @@
       "source": "ats-boards",
       "applyUrl": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13244",
       "url": "https://trueinterview.io/jobs/e9369538-e035-4cb5-8223-84491b5065ef",
-      "postedAt": "2026-11-09T00:00:00.000Z",
-      "updatedAt": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "id": "d65d478c-a6b9-4009-a2d4-fedf68cda51e",
-      "company": "J.D. Irving, Limited",
-      "title": "Production Norms Engineering Student/Co-op- Winter 2027",
-      "locations": [
-        "Halifax, NS, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13263",
-      "url": "https://trueinterview.io/jobs/d65d478c-a6b9-4009-a2d4-fedf68cda51e",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "updatedAt": "2026-11-09T00:00:00.000Z"
     },
@@ -89274,33 +89303,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872469002?gh_jid=8872469002",
       "url": "https://trueinterview.io/jobs/986c4f87-6a3f-400e-85f9-82a58d933254",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "af36f8da-0da8-47f4-bcba-c8e87fcd4100",
-      "company": "wing",
-      "title": "Manufacturing Software Test Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872468002?gh_jid=8872468002",
-      "url": "https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
