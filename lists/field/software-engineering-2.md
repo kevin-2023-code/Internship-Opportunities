@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>MT</strong></td>
+<td><a href="https://trueinterview.io/jobs/e274cd07-58c9-420c-89fc-580382d66a99">Summer 2027 Intern - Embedded Software Engineering (Oakland, CA)</a></td>
+<td>Oakland, CA</td>
+<td align="center"><a href="https://jobs.mt.com/en/job/oakland/summer-2027-intern-embedded-software-engineering-oakland-ca/36870/103074580208">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ryan, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
 <td>Burlington, MA</td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

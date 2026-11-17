@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>PACK Power, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/d02a78a1-632b-476f-b099-af690135e4e2">Field Engineer Intern (Summer 2027 Internship)</a></td>
 <td>West Fargo, ND</td>
@@ -2332,13 +2339,6 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/NPX/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415">Space Mechanical Design Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2373,6 +2373,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc4b6123-123a-4d04-99af-cea07b3910ad">2026 Intern-Embodied Intelligence Algorithms Research Engineer</a></td>
+<td>Beijing, Beijing, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379653921/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Whippy</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217">Forward Deployed Engineer – Intern</a></td>
 <td>Dublin, Ireland</td>
@@ -2391,13 +2398,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bf4b3225-5d4c-4315-a970-2f616c7c0ed5">2026 Intern-Embedded System Testing Engineer</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4379659765/">Apply</a></td>
-<td align="center">16 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac486659-bf31-4b1a-8846-9f2b25d4063d">Electronical Engineer Intern</a></td>
-<td>UK - London, Battersea Power Station</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>

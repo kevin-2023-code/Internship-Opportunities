@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T03:06:04.403Z",
-  "count": 3957,
+  "listingsChangedAt": "2026-11-17T04:06:01.365Z",
+  "count": 3956,
   "listings": [
     {
       "id": "2666b6c8-b1b1-47f5-a625-0cd843098146",
@@ -779,7 +779,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -803,9 +803,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -880,9 +880,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -946,6 +946,31 @@
       "updatedAt": "2026-11-16T11:43:00.000Z"
     },
     {
+      "id": "c9dec767-c1d1-4a2d-ba46-ec36e063b6d2",
+      "company": "Altec",
+      "title": "Information Services Software Development Internship Summer 2027",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466397634/",
+      "url": "https://trueinterview.io/jobs/c9dec767-c1d1-4a2d-ba46-ec36e063b6d2",
+      "postedAt": "2026-11-16T11:30:00.000Z",
+      "updatedAt": "2026-11-16T11:30:00.000Z"
+    },
+    {
       "id": "4f30bda8-6c39-4c0b-8715-5fb1e5f01b53",
       "company": "Springs Window Fashions",
       "title": "Textile Engineering Analytics & Software Internship - summer 2027",
@@ -958,7 +983,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -983,7 +1008,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9999,31 +10024,6 @@
       "source": "ats-boards",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015",
       "url": "https://trueinterview.io/jobs/b514549a-b9fd-478f-a01a-9bed4e171a1e",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "updatedAt": "2026-11-13T00:00:00.000Z"
-    },
-    {
-      "id": "9915931f-a0da-42d1-86b5-5ac6d16eafe0",
-      "company": "Texas Instruments",
-      "title": "Test Engineering intern - PhD",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019536",
-      "url": "https://trueinterview.io/jobs/9915931f-a0da-42d1-86b5-5ac6d16eafe0",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "updatedAt": "2026-11-13T00:00:00.000Z"
     },
@@ -102661,33 +102661,6 @@
       "url": "https://trueinterview.io/jobs/4517f3cb-2253-471f-bbfa-7f861ac686c5",
       "postedAt": "2026-09-18T08:42:23.000Z",
       "updatedAt": "2026-09-18T08:42:23.000Z"
-    },
-    {
-      "id": "7a3142fa-b07c-4620-b2b4-8bac6f282415",
-      "company": "Antares",
-      "title": "Space Mechanical Design Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81",
-      "url": "https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415",
-      "postedAt": "2026-09-18T03:20:18.000Z",
-      "updatedAt": "2026-09-18T03:20:18.000Z"
     }
   ]
 }

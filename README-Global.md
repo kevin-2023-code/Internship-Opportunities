@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-17 03:06 UTC_
+_Last updated: 2026-11-17 04:06 UTC_
 
 **841 open internships** from **310 employers** · **215 posted in the last 7 days** · refreshed hourly
 
@@ -26,9 +26,9 @@ _Last updated: 2026-11-17 03:06 UTC_
 
 💻 **[Software Engineering](#-software-engineering)** (422)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (217)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (216)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (88)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (89)
 
 📱 **[Product & Design](#-product--design)** (67)
 
@@ -101,6 +101,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc4b6123-123a-4d04-99af-cea07b3910ad">2026 Intern-Embodied Intelligence Algorithms Research Engineer</a> 🆕</td>
+<td>Beijing, Beijing, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379653921/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Whippy</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217">Forward Deployed Engineer – Intern</a> 🆕</td>
 <td>Dublin, Ireland</td>
@@ -119,13 +126,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bf4b3225-5d4c-4315-a970-2f616c7c0ed5">2026 Intern-Embedded System Testing Engineer</a> 🆕</td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4379659765/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac486659-bf31-4b1a-8846-9f2b25d4063d">Electronical Engineer Intern</a> 🆕</td>
-<td>UK - London, Battersea Power Station</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -632,13 +632,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc4b6123-123a-4d04-99af-cea07b3910ad">2026 Intern-Embodied Intelligence Algorithms Research Engineer</a> 🆕</td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4379653921/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
 <td><strong>Tencent</strong></td>
 <td><a href="https://trueinterview.io/jobs/8522e918-198d-433b-94c3-1d10953318b6">WeChat - Data &amp; AI Analytics Intern (Summer 2027)</a> 🆕</td>
 <td>Singapore, Singapore</td>
@@ -806,6 +799,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4401866474/">Apply</a></td>
 <td align="center">4d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8423e8df-d2c3-4c55-8d3b-2e832bc2ed87">AI Infrastructure Engineer Intern (TikTok Recommendation Architecture) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447921047/">Apply</a></td>
+<td align="center">4d</td>
+</tr>
 </tbody>
 </table>
 
@@ -955,7 +955,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 44 of 217.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 44 of 216.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -978,6 +978,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e8d3df32-f038-4779-9584-0343e30a5273">Internship in Production and Process Engineering</a> 🆕</td>
 <td>Tranås, Jönköpings län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161820109-internship-in-production-and-process-engineering">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac486659-bf31-4b1a-8846-9f2b25d4063d">Electronical Engineer Intern</a> 🆕</td>
+<td>UK - London, Battersea Power Station</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -1134,13 +1141,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern">Apply</a></td>
 <td align="center">7d</td>
 </tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/a752fbb1-106f-4b74-b12b-62f0c5d7fb06">Software Intern Student - RealTime Drivers</a></td>
-<td>Bucharest, Bucharest, Romania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4399250880/">Apply</a></td>
-<td align="center">7d</td>
-</tr>
 </tbody>
 </table>
 
@@ -1206,7 +1206,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 32 of 88.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 32 of 89.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1327,7 +1327,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5f2c7110-ca3a-450a-a73b-1c9909eabc69">Advertising Product Manager Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450229237/">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Ubisoft</strong></td>

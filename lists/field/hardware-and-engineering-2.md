@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**801 open roles.** 713 in the United States & Canada · 88 elsewhere in the world.
+**802 open roles.** 713 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2233,6 +2233,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac486659-bf31-4b1a-8846-9f2b25d4063d">Electronical Engineer Intern</a></td>
+<td>UK - London, Battersea Power Station</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/de7f2d46-a36d-4090-8fd2-0f2466375d2e">INTERNSHIP - NAND Cell Characterization &amp; AI Tools</a></td>
 <td>Vimercate, Lombardy, Italy</td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ce7d70a4-c0a3-41ad-872b-08e90b0d1e83">Product Development Ford Champ (Intern)</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 </tbody>

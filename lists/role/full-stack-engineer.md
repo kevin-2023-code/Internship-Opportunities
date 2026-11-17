@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**37 open roles.** 26 in the United States & Canada · 11 elsewhere in the world.
+**38 open roles.** 27 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d">Apply</a></td>
 <td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Artmac</strong></td>
+<td><a href="https://trueinterview.io/jobs/7647f3b3-387b-4805-b8e8-7f36d596217f">Full-Stack AI Engineering Intern</a></td>
+<td>Prosper, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489739627/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Zipline</strong></td>

@@ -181,6 +181,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Altec</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9dec767-c1d1-4a2d-ba46-ec36e063b6d2">Information Services Software Development Internship Summer 2027</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466397634/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Springs Window Fashions</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53">Textile Engineering Analytics &amp; Software Internship - summer 2027</a></td>
 <td>Middleton, WI</td>
@@ -2047,13 +2054,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b514549a-b9fd-478f-a01a-9bed4e171a1e">Product Engineering Failure Analysis Intern</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016015">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9915931f-a0da-42d1-86b5-5ac6d16eafe0">Test Engineering intern - PhD</a></td>
-<td>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019536">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

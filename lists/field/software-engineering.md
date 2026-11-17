@@ -97,6 +97,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Artmac</strong></td>
+<td><a href="https://trueinterview.io/jobs/7647f3b3-387b-4805-b8e8-7f36d596217f">Full-Stack AI Engineering Intern</a></td>
+<td>Prosper, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489739627/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pylon</strong></td>
 <td><a href="https://trueinterview.io/jobs/065aa621-97df-4cb8-a270-4f83a87df55e">Software Engineer, Intern</a></td>
 <td>San Francisco, CA</td>
@@ -104,10 +111,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Springs Window Fashions</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53">Textile Engineering Analytics &amp; Software Internship - summer 2027</a></td>
-<td>Middleton, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455040778/">Apply</a></td>
+<td><strong>Altec</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9dec767-c1d1-4a2d-ba46-ec36e063b6d2">Information Services Software Development Internship Summer 2027</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466397634/">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b">V&amp;V Systems Engineer Co-op</a></td>
 <td>Lawrence, MA</td>
 <td align="center"><a href="https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MT</strong></td>
-<td><a href="https://trueinterview.io/jobs/e274cd07-58c9-420c-89fc-580382d66a99">Summer 2027 Intern - Embedded Software Engineering (Oakland, CA)</a></td>
-<td>Oakland, CA</td>
-<td align="center"><a href="https://jobs.mt.com/en/job/oakland/summer-2027-intern-embedded-software-engineering-oakland-ca/36870/103074580208">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>
