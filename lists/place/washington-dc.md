@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**95 open roles.**
+**94 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -674,13 +674,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Rockville, Maryland, United States<br/>Toronto, Ontario, Canada<br/>Kansas City, Missouri, United States<br/>+1 more</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151608019-mechanical-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3175504-1945-4ae2-b0c7-d2a1584750be">Lighting Design Intern - Summer 2027</a></td>
-<td>Arlington, VA, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95805">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

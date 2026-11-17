@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**36 open roles.** 16 in the United States & Canada · 20 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**37 open roles.** 17 in the United States & Canada · 20 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,6 +93,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Amsterdam, North Holland, Netherlands<br/>London, England, United Kingdom<br/>Montreal, QC<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991196">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Man Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c0d8134-0522-41bd-949b-c455550bedfe">Systematic Quant Intern</a></td>
+<td>Boston, MA<br/>Massachusetts, Massachusetts</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Point72</strong></td>
