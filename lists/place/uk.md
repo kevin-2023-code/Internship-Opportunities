@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**58 open roles.** 12 in the United States & Canada · 46 elsewhere in the world.
+**57 open roles.** 12 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -336,13 +336,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Data---AI-Analyst-Internship_JR104472">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hiya</strong></td>
-<td><a href="https://trueinterview.io/jobs/a79668f8-1118-4774-b794-da13db98e28a">Engineering Intern (London, Summer 2027)</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Renesas</strong></td>

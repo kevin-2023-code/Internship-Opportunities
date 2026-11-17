@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Reflect Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe">Flight Software Engineering Intern</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461352157/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Health Care Service Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/ade1afa9-7ccd-4788-a4d8-013d383d15d3">Early Careers - Cybersecurity Operations Intern</a></td>
 <td>Chicago, IL</td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/fd4b8b84-c0db-457e-b97e-70a63eaa5365">Intern - Mechanical Design Engineer</a></td>
 <td>Newport News, VA<br/>St Paul, MN<br/>Ronkonkoma, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484492197/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Related Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/17feb347-397e-46f8-9a2d-2bc2b51f8cd4">2027 Summer Analyst, Engineering (Data Centers)</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476347413/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

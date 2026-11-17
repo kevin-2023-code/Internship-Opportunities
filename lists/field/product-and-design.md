@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**222 open roles.** 156 in the United States & Canada · 66 elsewhere in the world.
+**223 open roles.** 157 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Crown Equipment Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/20a1fe3f-48da-4b5f-8966-054837b88f1a">UX Interaction Design Co-op - Summer 2027</a></td>
+<td>New Bremen, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483721139/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/85624c4f-519e-4316-9336-3378c5979aca">AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer</a></td>

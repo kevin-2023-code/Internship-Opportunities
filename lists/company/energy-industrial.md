@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**22 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**23 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Valmont Industries, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a770378c-e38a-4a5c-903f-9f558e2ee0f2">Operations Data Analyst Intern</a></td>
+<td>Valley, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483589818/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Pacific Fusion</strong></td>
 <td><a href="https://trueinterview.io/jobs/8ec712e2-4ae7-4e0c-9648-8e81b7642729">Summer 2027 Structural Analysis Engineer Internship</a></td>

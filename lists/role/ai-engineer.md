@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**263 open roles.** 175 in the United States & Canada · 88 elsewhere in the world.
+**265 open roles.** 176 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0555d279-5b06-4e11-831d-df4795da1e94">AI Engineer Intern - Mission Innovation Lab (Summer 2027)</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490956675/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNDP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0282fad-2cdd-48ea-8563-dcc0a12f49a5">Internship – AI Developer (5 positions) (IMS/ADB)</a></td>
+<td>Montreal, QC, Canada</td>
+<td align="center"><a href="https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/37817">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1254,6 +1261,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/929d0af0-00a9-45af-9b83-c504a3094c79">Extracurricular Internship: AI Software Engineer (f/m/div.)</a></td>
+<td>Aveiro, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000162122629-extracurricular-internship-ai-software-engineer-f-m-div-">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b3fc574-7f03-42b9-bf25-6e354ebeba39">GenAI Field Application Engineer Intern</a></td>

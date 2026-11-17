@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**810 open roles.** 594 in the United States & Canada · 216 elsewhere in the world.
+**814 open roles.** 597 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8872328-c065-48b4-ad37-fab4ef5802c3">Internship - Machine Learning (Foundation Models)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200685035-4170?board_id=JB001">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Delivery Hero</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e64db9b-c72e-40ce-a03a-140ddac2cd69">Data Analyst Intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000154651959-data-analyst-intern">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lyceum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e971910-b44e-431c-97b6-7b8eb244df43">Forward Deployed Engineer – AI Inference (Intern)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyceum/7483d9e7-f14f-4315-81a9-dc560419d749">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d50d46b-b66c-41f0-af62-8c6aad4d5f60">[Uni - Jan till Jun 2027] Business &amp; Strategy Analyst Intern (AI and Smart Systems)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001472450--uni-jan-till-jun-2027-business-strategy-analyst-intern-ai-and-smart-systems-">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lesaffre</strong></td>
 <td><a href="https://trueinterview.io/jobs/b3838f36-1106-4f98-9d0f-bee5d14d2afb">INTERNSHIP - Data engineering &amp; AI-ready software architecture</a></td>

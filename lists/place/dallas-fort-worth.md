@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**85 open roles.**
+**86 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Birdseye Security Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/19d0e9a0-cca9-422f-ad27-0e0162671a3e">Intern Computer Vision (Dallas)</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490479102/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Michaels Stores</strong></td>
 <td><a href="https://trueinterview.io/jobs/46d1f204-0c7d-470f-bff0-a02120519d15">Intern - Digital eCommerce Engineering</a></td>

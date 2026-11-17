@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**110 open roles.** 98 in the United States & Canada · 12 elsewhere in the world.
+**111 open roles.** 98 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -715,6 +715,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harmattan Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/962acb01-955c-45e6-ab56-c4c5e16fb5b4">FPGA Engineer Intern</a></td>
+<td>Lausanne</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/7e07eb82-d1e7-4258-b0d6-7371b26f5923">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Arm</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4009e23-3fe2-4c94-844c-a5e423719648">FPGA Intern</a></td>

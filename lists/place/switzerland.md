@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**32 open roles.** 1 in the United States & Canada · 31 elsewhere in the world.
+**33 open roles.** 1 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harmattan Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/962acb01-955c-45e6-ab56-c4c5e16fb5b4">FPGA Engineer Intern</a></td>
+<td>Lausanne</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/7e07eb82-d1e7-4258-b0d6-7371b26f5923">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CERN</strong></td>
 <td><a href="https://trueinterview.io/jobs/36c00f7e-a39f-44f7-8ed5-d837d727603a">Short Term Internship 2027 - Mechanical Engineering</a></td>

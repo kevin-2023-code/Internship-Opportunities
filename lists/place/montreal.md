@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**18 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94e7c4e8-c92d-4b4b-9cce-cbbe3a1d035a">Intern, Software Developer, Stagiaire en Développement Logiciel</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490940989/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNDP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0282fad-2cdd-48ea-8563-dcc0a12f49a5">Internship – AI Developer (5 positions) (IMS/ADB)</a></td>
+<td>Montreal, QC, Canada</td>
+<td align="center"><a href="https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/37817">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

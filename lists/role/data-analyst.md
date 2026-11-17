@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**101 open roles.** 63 in the United States & Canada · 38 elsewhere in the world.
+**102 open roles.** 64 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Valmont Industries, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a770378c-e38a-4a5c-903f-9f558e2ee0f2">Operations Data Analyst Intern</a></td>
+<td>Valley, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483589818/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bloomberg Industry Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/8557de46-0a4e-4d3c-b7d7-83c46d4712cd">Data Analyst Intern</a></td>
