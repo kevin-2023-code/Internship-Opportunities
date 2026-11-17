@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**100 open roles.** 61 in the United States & Canada · 39 elsewhere in the world.
+**98 open roles.** 59 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dec7df6-0fd8-4a1e-b256-cd231fc27508">Data Analyst Intern</a></td>
 <td>Princeton, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489486713/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb11b16f-ae55-4265-9c8a-9d31623027da">Data Analyst Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -218,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/10cd629f-ac34-4ea8-8943-90351bf72428">Data Analyst Intern</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485004895/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/0763aa70-d870-4114-900f-abfabcf82664">Advertising Business Data Analyst Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

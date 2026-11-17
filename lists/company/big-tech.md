@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**610 open roles.** 424 in the United States & Canada · 186 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**598 open roles.** 412 in the United States & Canada · 186 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

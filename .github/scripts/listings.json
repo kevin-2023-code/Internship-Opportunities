@@ -5,9 +5,37 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-16T23:04:44.497Z",
-  "count": 3974,
+  "listingsChangedAt": "2026-11-17T00:11:32.878Z",
+  "count": 3954,
   "listings": [
+    {
+      "id": "64d70c6c-0a7a-4c1a-989a-21c8c941b488",
+      "company": "Keyrock",
+      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+      "locations": [
+        "London",
+        "London OR Brussels"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+      "url": "https://trueinterview.io/jobs/64d70c6c-0a7a-4c1a-989a-21c8c941b488",
+      "postedAt": "2026-11-16T21:34:10.000Z",
+      "updatedAt": "2026-11-16T21:34:10.000Z"
+    },
     {
       "id": "8ec712e2-4ae7-4e0c-9648-8e81b7642729",
       "company": "Pacific Fusion",
@@ -107,6 +135,56 @@
       "url": "https://trueinterview.io/jobs/74635427-69c3-4a10-8899-28e9f93d426a",
       "postedAt": "2026-11-16T19:40:27.000Z",
       "updatedAt": "2026-11-16T19:40:27.000Z"
+    },
+    {
+      "id": "e12062d4-fcba-44c7-ba99-c7f340cccea6",
+      "company": "Toku",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Chile"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Toku/098023ef-b13d-4cdf-bc4f-dc1e61bfe6f1",
+      "url": "https://trueinterview.io/jobs/e12062d4-fcba-44c7-ba99-c7f340cccea6",
+      "postedAt": "2026-11-16T19:38:48.000Z",
+      "updatedAt": "2026-11-16T19:38:48.000Z"
+    },
+    {
+      "id": "5b0baa04-4686-4a1e-a9c7-c92647c0748b",
+      "company": "Veolia",
+      "title": "Intern - Municipal Engineering",
+      "locations": [
+        "Oakville, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161893169-intern-municipal-engineering-",
+      "url": "https://trueinterview.io/jobs/5b0baa04-4686-4a1e-a9c7-c92647c0748b",
+      "postedAt": "2026-11-16T19:09:44.000Z",
+      "updatedAt": "2026-11-16T19:09:44.000Z"
     },
     {
       "id": "3a445e15-4751-45f0-886f-6655ba9bbe2b",
@@ -20375,33 +20453,6 @@
       "updatedAt": "2026-11-10T14:26:56.000Z"
     },
     {
-      "id": "eb11b16f-ae55-4265-9c8a-9d31623027da",
-      "company": "The New York Times",
-      "title": "Data Analyst Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
-      "url": "https://trueinterview.io/jobs/eb11b16f-ae55-4265-9c8a-9d31623027da",
-      "postedAt": "2026-11-09T22:26:15.000Z",
-      "updatedAt": "2026-11-10T14:26:00.000Z"
-    },
-    {
       "id": "12f735d7-9bc0-4058-b144-aca2c47e09dd",
       "company": "Groupe Managem",
       "title": "Internship Offer - Data Finance Engineer",
@@ -20424,33 +20475,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4223499576/",
       "url": "https://trueinterview.io/jobs/12f735d7-9bc0-4058-b144-aca2c47e09dd",
       "postedAt": "2026-11-10T14:19:00.000Z",
-      "updatedAt": "2026-11-10T14:19:00.000Z"
-    },
-    {
-      "id": "524487ef-1cb1-4411-aa79-0483ddc1ba65",
-      "company": "The New York Times",
-      "title": "ML Scientist Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
-      "url": "https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65",
-      "postedAt": "2026-11-09T22:26:36.000Z",
       "updatedAt": "2026-11-10T14:19:00.000Z"
     },
     {
@@ -27593,33 +27617,6 @@
       "updatedAt": "2026-11-06T20:40:00.000Z"
     },
     {
-      "id": "fc008e54-1a64-4bc4-8188-7a3f62de4dbc",
-      "company": "The New York Times",
-      "title": "Backend Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005",
-      "url": "https://trueinterview.io/jobs/fc008e54-1a64-4bc4-8188-7a3f62de4dbc",
-      "postedAt": "2026-11-06T20:39:56.000Z",
-      "updatedAt": "2026-11-06T20:39:56.000Z"
-    },
-    {
       "id": "77a18733-7599-43e9-b28c-b2676eab14a1",
       "company": "Avicena Tech",
       "title": "Hardware Automation Software Engineering Intern",
@@ -27854,60 +27851,6 @@
       "url": "https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a",
       "postedAt": "2026-11-06T20:12:43.000Z",
       "updatedAt": "2026-11-06T20:12:43.000Z"
-    },
-    {
-      "id": "8815e542-1f9a-4c37-a6f1-13b69b99d1ba",
-      "company": "The New York Times",
-      "title": "Full-Stack Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005",
-      "url": "https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba",
-      "postedAt": "2026-11-06T20:12:40.000Z",
-      "updatedAt": "2026-11-06T20:12:40.000Z"
-    },
-    {
-      "id": "cb22a16b-d76d-47bf-b299-b431120d1761",
-      "company": "The New York Times",
-      "title": "Frontend Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005",
-      "url": "https://trueinterview.io/jobs/cb22a16b-d76d-47bf-b299-b431120d1761",
-      "postedAt": "2026-11-06T20:12:26.000Z",
-      "updatedAt": "2026-11-06T20:12:26.000Z"
     },
     {
       "id": "6f36b88f-3c6a-4c63-86b9-2f3be3010a04",
@@ -40632,34 +40575,6 @@
       "url": "https://trueinterview.io/jobs/c6e52851-17b0-4da6-b4b0-50a46f7ed592",
       "postedAt": "2026-11-03T16:35:45.000Z",
       "updatedAt": "2026-11-03T16:35:45.000Z"
-    },
-    {
-      "id": "0763aa70-d870-4114-900f-abfabcf82664",
-      "company": "The New York Times",
-      "title": "Advertising Business Data Analyst Intern",
-      "locations": [
-        "New York, New York, United States",
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005",
-      "url": "https://trueinterview.io/jobs/0763aa70-d870-4114-900f-abfabcf82664",
-      "postedAt": "2026-11-03T16:16:14.000Z",
-      "updatedAt": "2026-11-03T16:16:14.000Z"
     },
     {
       "id": "49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
@@ -93389,32 +93304,6 @@
       "updatedAt": "2026-10-06T22:23:39.000Z"
     },
     {
-      "id": "ed6f45a9-85e1-4f21-8142-aac568cdf0eb",
-      "company": "Clēnera, Llc",
-      "title": "Engineering Intern (Summer 2027)",
-      "locations": [
-        "Boise, Idaho, United States",
-        "Boise"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/clenera/jobs/5259447007",
-      "url": "https://trueinterview.io/jobs/ed6f45a9-85e1-4f21-8142-aac568cdf0eb",
-      "postedAt": "2026-10-06T22:15:33.000Z",
-      "updatedAt": "2026-10-06T22:15:33.000Z"
-    },
-    {
       "id": "640aee41-ab6c-4488-8ea7-9c607952b5d0",
       "company": "Clēnera, Llc",
       "title": "Data Engineering Intern (January 2027)",
@@ -102717,424 +102606,6 @@
       "url": "https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415",
       "postedAt": "2026-09-18T03:20:18.000Z",
       "updatedAt": "2026-09-18T03:20:18.000Z"
-    },
-    {
-      "id": "a1cf0378-ca49-4ab0-a04e-0f20e1cbe648",
-      "company": "IDEMIA",
-      "title": "Software Engineering Internship - Enrollment and Credentialing Services",
-      "locations": [
-        "Brentwood, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://uscareers-idemia.icims.com/jobs/8642/job",
-      "url": "https://trueinterview.io/jobs/a1cf0378-ca49-4ab0-a04e-0f20e1cbe648",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
-      "company": "Keysight",
-      "title": "R&D Embedded Software Intern",
-      "locations": [
-        "US-CO-Col Springs-Bldg C",
-        "Colorado Springs, Colorado, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54353?lang=en-us",
-      "url": "https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "8791d541-8066-4f69-8524-5de9a2953931",
-      "company": "Micron Technology",
-      "title": "Intern - TSE KEG Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44544643",
-      "url": "https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "87ad6c2d-3bb1-4b96-b6a0-d02f4939826c",
-      "company": "QUALCOMM",
-      "title": "Automotive Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740553",
-      "url": "https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "b0e07528-fb47-4e9b-acf5-6462ade20f64",
-      "company": "QUALCOMM",
-      "title": "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Austin, TX, US",
-        "Boxborough, MA, US",
-        "Tempe, AZ, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740649",
-      "url": "https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "0add9d47-9d5b-4236-bb83-2c674de6a937",
-      "company": "QUALCOMM",
-      "title": "IT Infrastructure & Cloud Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741668",
-      "url": "https://trueinterview.io/jobs/0add9d47-9d5b-4236-bb83-2c674de6a937",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "0517ed62-e4f1-40fb-a43b-ec6ff4a935f9",
-      "company": "QUALCOMM",
-      "title": "Mechanical Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Austin, TX, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741704",
-      "url": "https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "ebbadf26-92c6-487c-af2a-3b5413407158",
-      "company": "QUALCOMM",
-      "title": "Multimedia Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740640",
-      "url": "https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
-      "company": "QUALCOMM",
-      "title": "Product Management Internship - Summer 2027",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741706",
-      "url": "https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "f6d90095-a873-470d-8433-8cfbc563fd04",
-      "company": "QUALCOMM",
-      "title": "Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740540",
-      "url": "https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "56b14be8-a36d-4475-ab0d-74ddd3df8bd5",
-      "company": "QUALCOMM",
-      "title": "RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Tempe, AZ, US",
-        "Irvine, CA, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740912",
-      "url": "https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "37a8fa74-c2b0-4689-ae17-4ee7438a1d12",
-      "company": "QUALCOMM",
-      "title": "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740636",
-      "url": "https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "0982926c-1b41-49e8-b2a8-63051fc38acc",
-      "company": "QUALCOMM",
-      "title": "Wireless Systems Engineering Internship - Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Boxborough, MA, US",
-        "NJ,US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740637",
-      "url": "https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "850c8505-47ac-4f9b-b249-78432c0f1b57",
-      "company": "Rundoo",
-      "title": "Product Manager Intern",
-      "locations": [
-        "Redwood City"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application",
-      "url": "https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57",
-      "postedAt": "2026-09-17T23:58:03.000Z",
-      "updatedAt": "2026-09-17T23:58:03.000Z"
-    },
-    {
-      "id": "cba04e3c-6b18-4444-a81a-18f33d4195e6",
-      "company": "Rocket Lab Corporation",
-      "title": "R&D Engineering Intern Summer 2027",
-      "locations": [
-        "Albuquerque, NM",
-        "SolAero Office"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7996576003",
-      "url": "https://trueinterview.io/jobs/cba04e3c-6b18-4444-a81a-18f33d4195e6",
-      "postedAt": "2026-09-17T23:23:13.000Z",
-      "updatedAt": "2026-09-17T23:23:13.000Z"
-    },
-    {
-      "id": "9f0e6263-a49c-474e-a057-c37652d7653f",
-      "company": "Rocket Lab Corporation",
-      "title": "Optical Engineering Intern Summer 2027",
-      "locations": [
-        "Tucson, AZ",
-        "Geost Main"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
-      "url": "https://trueinterview.io/jobs/9f0e6263-a49c-474e-a057-c37652d7653f",
-      "postedAt": "2026-09-17T23:21:05.000Z",
-      "updatedAt": "2026-09-17T23:21:05.000Z"
     }
   ]
 }

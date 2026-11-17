@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**162 open roles.**
+**161 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1142,13 +1142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415">Space Mechanical Design Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
-<td>Irvine, CA, US<br/>San Diego, CA, US<br/>Tempe, AZ, US<br/>+1 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**16 open roles.** 13 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**15 open roles.** 13 in the United States & Canada · 2 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -133,13 +133,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stuttgart Schockenriedstr. 17</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
 <td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rundoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>
-<td>Redwood City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

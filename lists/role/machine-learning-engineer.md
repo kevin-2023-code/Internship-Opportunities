@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**184 open roles.** 142 in the United States & Canada · 42 elsewhere in the world.
+**183 open roles.** 141 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -225,13 +225,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c64ec06d-34fe-4eb8-be6d-c61f5927fd34">Machine Learning Research Intern (Summer 2027)</a></td>
 <td>San Francisco Bay Area<br/>New York City Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481290867/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65">ML Scientist Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

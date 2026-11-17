@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**72 open roles.** 68 in the United States & Canada · 4 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**70 open roles.** 66 in the United States & Canada · 4 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -478,20 +478,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, TX</td>
 <td align="center"><a href="https://jobs.lever.co/espace/a9147805-46e7-4b43-bbea-738a1fa1c88c/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba04e3c-6b18-4444-a81a-18f33d4195e6">R&amp;D Engineering Intern Summer 2027</a></td>
-<td>Albuquerque, NM<br/>SolAero Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996576003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9f0e6263-a49c-474e-a057-c37652d7653f">Optical Engineering Intern Summer 2027</a></td>
-<td>Tucson, AZ<br/>Geost Main</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992102003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

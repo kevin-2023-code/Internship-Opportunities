@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**941 open roles.** 726 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
+**936 open roles.** 720 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/74635427-69c3-4a10-8899-28e9f93d426a">Summer 2027 HPC/DevOps Engineering Intern</a></td>
 <td>San Leandro, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b0baa04-4686-4a1e-a9c7-c92647c0748b">Intern - Municipal Engineering</a></td>
+<td>Oakville, Ontario, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161893169-intern-municipal-engineering-">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec728ddc-83ac-422e-8d7f-db6cfd723a5c">Assoc AI Engineering (Cloud Security Automation) Intern</a></td>
 <td>Santa Clara, CALIFORNIA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>New Vision Co-op</strong></td>
-<td><a href="https://trueinterview.io/jobs/af8e1b38-93b9-425d-8e3c-94f4ae43b685">Information Technology Intern</a></td>
-<td>38438 210th Street, Brewster, MN, 56119, US</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4659227?listingId=8105d05f-7a2c-42c1-8490-f60a7c37db80">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

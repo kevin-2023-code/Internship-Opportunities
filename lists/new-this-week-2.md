@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**941 open roles.** 726 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
+**936 open roles.** 720 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>New Vision Co-op</strong></td>
+<td><a href="https://trueinterview.io/jobs/af8e1b38-93b9-425d-8e3c-94f4ae43b685">Information Technology Intern</a></td>
+<td>38438 210th Street, Brewster, MN, 56119, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4659227?listingId=8105d05f-7a2c-42c1-8490-f60a7c37db80">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SK hynix memory solutions America Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e479779-7138-40a0-8613-879f99039e6d">Embedded Software Engineer Intern</a></td>
@@ -1360,24 +1367,10 @@
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb11b16f-ae55-4265-9c8a-9d31623027da">Data Analyst Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Groupe Managem</strong></td>
 <td><a href="https://trueinterview.io/jobs/12f735d7-9bc0-4058-b144-aca2c47e09dd">Internship Offer - Data Finance Engineer</a></td>
 <td>Massachusetts, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4223499576/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65">ML Scientist Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2262,41 +2255,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488801842/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Hoost</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf9cf5cd-17c2-4c06-af52-ae7a8049bcb9">Software Engineer Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488814382/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>J.D. Irving, Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9369538-e035-4cb5-8223-84491b5065ef">Engineering Co-Op Student Summer 2027</a></td>
-<td>Sussex, NB, Canada<br/>Chipman, NB, Canada<br/>Truro, NS, Canada<br/>+1 more</td>
-<td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13244">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d65d478c-a6b9-4009-a2d4-fedf68cda51e">Production Norms Engineering Student/Co-op- Winter 2027</a></td>
-<td>Halifax, NS, Canada</td>
-<td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13263">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4">Quality Engineering Intern - Santa Clara</a></td>
-<td>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5e83a04-0265-496e-a94f-41e234a53117">Civil/Structural Engineering (Substation) Intern - Spring 2027</a></td>
-<td>Duluth, GA, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99071">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2309,6 +2267,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keyrock</strong></td>
+<td><a href="https://trueinterview.io/jobs/64d70c6c-0a7a-4c1a-989a-21c8c941b488">Innovation Quant Developer Intern (DeFi/Corporate Development) - London</a></td>
+<td>London OR Brussels</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toku</strong></td>
+<td><a href="https://trueinterview.io/jobs/e12062d4-fcba-44c7-ba99-c7f340cccea6">Software Engineer Intern</a></td>
+<td>Chile</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Toku/098023ef-b13d-4cdf-bc4f-dc1e61bfe6f1">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TomTom</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1">Software Engineer Internship</a></td>
@@ -2825,6 +2797,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6acf4192-bb67-4ebc-89d4-e81fe7374744">Machine Learning Ops Engineer Intern (Ads Infra) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448200242/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa4552df-3e66-465c-8827-cecc1b98b72b">Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474553401/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）</a></td>
+<td>Singapore, Singapore<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401884014/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8113e8a0-08f1-476e-b872-170e9cc02481">LLM &amp; Agent Algorithm Intern (Search) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452710257/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/902b6d02-3370-4d31-b1b8-787716854475">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447689264/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

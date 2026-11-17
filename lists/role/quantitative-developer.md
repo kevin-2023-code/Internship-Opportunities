@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**40 open roles.** 31 in the United States & Canada · 9 elsewhere in the world.
+**41 open roles.** 31 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -246,6 +246,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keyrock</strong></td>
+<td><a href="https://trueinterview.io/jobs/64d70c6c-0a7a-4c1a-989a-21c8c941b488">Innovation Quant Developer Intern (DeFi/Corporate Development) - London</a></td>
+<td>London OR Brussels</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>
