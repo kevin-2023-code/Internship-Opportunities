@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T22:04:43.118Z",
-  "count": 4006,
+  "listingsChangedAt": "2026-11-17T23:04:33.900Z",
+  "count": 4005,
   "listings": [
     {
       "id": "6e05ef0a-fbae-4459-b365-9ea27e56f3fa",
@@ -2132,6 +2132,31 @@
       "source": "ats-boards",
       "applyUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006017",
       "url": "https://trueinterview.io/jobs/cc29ec22-1907-4080-8e78-3ec127768738",
+      "postedAt": "2026-11-17T00:00:00.000Z",
+      "updatedAt": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "cfbe6548-183d-4958-911c-0397a55bf2fb",
+      "company": "Gdh",
+      "title": "Engineering Intern - Process",
+      "locations": [
+        "Chester, Cheshire, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28957",
+      "url": "https://trueinterview.io/jobs/cfbe6548-183d-4958-911c-0397a55bf2fb",
       "postedAt": "2026-11-17T00:00:00.000Z",
       "updatedAt": "2026-11-17T00:00:00.000Z"
     },
@@ -103898,58 +103923,6 @@
       "url": "https://trueinterview.io/jobs/2887a173-48d0-422c-aca8-c06e3d290371",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
-    },
-    {
-      "id": "ec62f64c-0196-496a-a8e7-00676e7fb1a2",
-      "company": "Achievers",
-      "title": "Software Engineering Co-op - Winter 2027",
-      "locations": [
-        "Toronto"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply",
-      "url": "https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2",
-      "postedAt": "2026-09-18T22:56:50.000Z",
-      "updatedAt": "2026-09-18T22:56:50.000Z"
-    },
-    {
-      "id": "d3739cf7-ad4e-4d4d-a70a-9996f58d33c1",
-      "company": "E Space",
-      "title": "Technical Intern: Equipment Commissioning Support (Korean/English)",
-      "locations": [
-        "Arlington, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/espace/a9147805-46e7-4b43-bbea-738a1fa1c88c/apply",
-      "url": "https://trueinterview.io/jobs/d3739cf7-ad4e-4d4d-a70a-9996f58d33c1",
-      "postedAt": "2026-09-18T22:56:07.000Z",
-      "updatedAt": "2026-09-18T22:56:07.000Z"
     }
   ]
 }
