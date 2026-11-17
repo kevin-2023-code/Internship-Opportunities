@@ -545,7 +545,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Olsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/42f134d3-b731-4333-b576-2190b4459cd4">Structural Engineering Internship - Facilities</a></td>
-<td>Dallas, TX<br/>Fort Worth, TX</td>
+<td>Dallas, TX<br/>Fort Worth, TX<br/>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5441485008">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>

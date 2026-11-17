@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**192 open roles.** 150 in the United States & Canada · 42 elsewhere in the world.
+**194 open roles.** 152 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Falcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/d65c8aec-8656-40c7-b71a-708ea54237cb">AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491724320/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5e722dc-5384-4c93-b5d6-357c357cec2e">2027 Machine Learning Engineer Intern</a></td>
+<td>Santa Ana, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Falcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/7052da51-d4a7-420e-b32a-6c335dcde8ae">AI/ML Software Engineer Graduate Intern - AI/CAD Integration</a></td>
