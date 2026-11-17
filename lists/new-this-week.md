@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**936 open roles.** 720 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
+**922 open roles.** 706 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -32,6 +32,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d">Apply</a></td>
 <td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebce66e8-4361-477a-b8a5-cbd857016c5e">Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)</a></td>
+<td>Santa Clara, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161936128-associate-forward-deployed-solution-engineer-intern-bachelors-summer-2027-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a17c8511-25e5-40c1-8c5a-7f20d3eeb438">Forward Deployed Solution Engineer Intern (Masters Summer 2027)</a></td>
+<td>Santa Clara, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161936020-forward-deployed-solution-engineer-intern-masters-summer-2027-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/23877ac9-2521-4895-b761-b5ba5105b99f">Systems &amp; Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000161930950-systems-infrastructure-engineer-intern-masters-summer-2027-mountain-view-ca-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Minitab</strong></td>
@@ -1889,24 +1910,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Trane Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/71752ba6-ea8e-43d8-b471-d1dd815914ab">Product Management Engineering Co-op</a></td>
-<td>Grand Rapids, MI</td>
-<td align="center"><a href="https://careers.tranetechnologies.com/global/en/job/JR-10435">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>United States Steel</strong></td>
 <td><a href="https://trueinterview.io/jobs/37b2b745-ee87-43a0-8bc0-c3bc8398e2aa">Software Engineering Intern, AI-Assisted Development</a></td>
 <td>Munhall, PA</td>
 <td align="center"><a href="https://sjobs.brassring.com/TGNewUI/Search/Home/Homewithpreload?partnerid=25307&amp;siteid=5238&amp;Pagetype=jobdetails&amp;jobid=3395824">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Watts Water Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/972a53ec-3f0a-4843-a9af-36ffd8e8347a">Product Management Co-op, Jan-June 2027</a></td>
-<td>Menomonee Falls, WI</td>
-<td align="center"><a href="https://wattswater.wd5.myworkdayjobs.com/External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5a2629ef-736d-49bf-8f30-cb4669703cce">Intern, Backend Engineering</a></td>
 <td>Cleveland, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490082260/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ServiceNow</strong></td>
-<td><a href="https://trueinterview.io/jobs/28c6931d-c492-48a5-b6bb-a42615244599">Assoc Detection Engineering Intern</a></td>
-<td>Kirkland, Washington, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161210069-assoc-detection-engineering-intern-">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,952 open roles.** 1,530 in the United States & Canada · 422 elsewhere in the world.
+**1,955 open roles.** 1,533 in the United States & Canada · 422 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,6 +25,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d">Apply</a></td>
 <td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebce66e8-4361-477a-b8a5-cbd857016c5e">Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)</a></td>
+<td>Santa Clara, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161936128-associate-forward-deployed-solution-engineer-intern-bachelors-summer-2027-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a17c8511-25e5-40c1-8c5a-7f20d3eeb438">Forward Deployed Solution Engineer Intern (Masters Summer 2027)</a></td>
+<td>Santa Clara, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161936020-forward-deployed-solution-engineer-intern-masters-summer-2027-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/23877ac9-2521-4895-b761-b5ba5105b99f">Systems &amp; Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000161930950-systems-infrastructure-engineer-intern-masters-summer-2027-mountain-view-ca-">Apply</a></td>
+<td align="center">16 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Minitab</strong></td>
@@ -2792,31 +2813,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>FedEx</strong></td>
-<td><a href="https://trueinterview.io/jobs/a034e3b3-df2e-402d-a764-6b06fabe72fb">Computer Science Engineer Co-op (Spring 2027)</a></td>
-<td>Moon Township, PA</td>
-<td align="center"><a href="https://careers.fedex.com/computer-science-engineer-co-op-spring-2027/job/P25-395098-1">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Fresenius Medical Care</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b">V&amp;V Systems Engineer Co-op</a></td>
 <td>Lawrence, MA</td>
 <td align="center"><a href="https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MT</strong></td>
-<td><a href="https://trueinterview.io/jobs/e274cd07-58c9-420c-89fc-580382d66a99">Summer 2027 Intern - Embedded Software Engineering (Oakland, CA)</a></td>
-<td>Oakland, CA</td>
-<td align="center"><a href="https://jobs.mt.com/en/job/oakland/summer-2027-intern-embedded-software-engineering-oakland-ca/36870/103074580208">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ryan, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dfcf577-258f-4d7d-a63c-fa4fafcb744c">Summer 2027 Intern, Application Development</a></td>
-<td>Burlington, MA</td>
-<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>
