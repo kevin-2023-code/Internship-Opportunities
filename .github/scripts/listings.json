@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T09:38:17.883Z",
-  "count": 3951,
+  "listingsChangedAt": "2026-11-17T11:04:29.970Z",
+  "count": 3949,
   "listings": [
     {
       "id": "2666b6c8-b1b1-47f5-a625-0cd843098146",
@@ -25277,7 +25277,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -25288,31 +25288,6 @@
       "url": "https://trueinterview.io/jobs/aea5e559-a3e8-464d-b8d7-9172ca0d2380",
       "postedAt": "2026-11-08T09:30:00.000Z",
       "updatedAt": "2026-11-08T09:41:00.000Z"
-    },
-    {
-      "id": "8b442d76-1bd8-4acf-9d4c-7e46945d2a4f",
-      "company": "Liberty Mutual Insurance",
-      "title": "Cybersecurity & Technology Audit Internship (Summer 2027)",
-      "locations": [
-        "Portsmouth, NH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4472098666/",
-      "url": "https://trueinterview.io/jobs/8b442d76-1bd8-4acf-9d4c-7e46945d2a4f",
-      "postedAt": "2026-11-08T09:31:00.000Z",
-      "updatedAt": "2026-11-08T09:31:00.000Z"
     },
     {
       "id": "9a91fe96-2180-4850-8613-fa181f0ca573",
@@ -25328,7 +25303,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Embedded Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -25408,8 +25383,8 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -25417,33 +25392,6 @@
       "url": "https://trueinterview.io/jobs/cb1d3e80-a8d8-4dd6-a2ca-4724f788ca35",
       "postedAt": "2026-11-08T09:08:00.000Z",
       "updatedAt": "2026-11-08T09:08:00.000Z"
-    },
-    {
-      "id": "45ef8a5d-1500-4595-9a96-d879e717d18c",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Muse Post-Training & Flywheel (PhD)",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486667980/",
-      "url": "https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c",
-      "postedAt": "2026-11-08T08:17:00.000Z",
-      "updatedAt": "2026-11-08T08:17:00.000Z"
     },
     {
       "id": "49bc9f5b-45e7-478c-9cfb-871e9f8db6cd",
@@ -59866,34 +59814,6 @@
       "updatedAt": "2026-10-29T17:27:30.000Z"
     },
     {
-      "id": "92b9d2e8-9dd3-442b-b028-0e39ae8900d5",
-      "company": "Hasbro",
-      "title": "2027 Spring - Electrical Engineering Co-op (Jan - July 2027)",
-      "locations": [
-        "Boston, MA",
-        "Boston, Massachusetts, United States"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/hasbro/jobs/4472128009",
-      "url": "https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5",
-      "postedAt": "2026-10-29T17:25:00.000Z",
-      "updatedAt": "2026-10-29T17:25:00.000Z"
-    },
-    {
       "id": "efd2c855-b001-45aa-b656-f6f620ea79f6",
       "company": "Arconic",
       "title": "Quality Control Engineering Intern",
@@ -86977,6 +86897,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
       "url": "https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "247a9fc0-9806-440d-8340-024319d38475",
+      "company": "Intel",
+      "title": "Process Integ and Yield Eng PhD Intern Grade 029",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084",
+      "url": "https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },

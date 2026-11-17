@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**188 open roles.**
+**187 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -641,13 +641,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480924029/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c">Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486667980/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>

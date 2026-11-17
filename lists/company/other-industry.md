@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**8 open roles.** 7 in the United States & Canada · 1 elsewhere in the world. A real classification that none of the other sectors covers.
+**7 open roles.** 6 in the United States & Canada · 1 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
 <td>Boston, Massachusetts, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472758009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
-<td>Boston, Massachusetts, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472128009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
