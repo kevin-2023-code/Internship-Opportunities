@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T19:04:55.089Z",
-  "count": 4002,
+  "listingsChangedAt": "2026-11-17T20:04:53.467Z",
+  "count": 4001,
   "listings": [
+    {
+      "id": "7052da51-d4a7-420e-b32a-6c335dcde8ae",
+      "company": "Falcomm",
+      "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491704944/",
+      "url": "https://trueinterview.io/jobs/7052da51-d4a7-420e-b32a-6c335dcde8ae",
+      "postedAt": "2026-11-17T18:51:00.000Z",
+      "updatedAt": "2026-11-17T18:51:00.000Z"
+    },
     {
       "id": "19d0e9a0-cca9-422f-ad27-0e0162671a3e",
       "company": "Birdseye Security Solutions",
@@ -42409,33 +42436,6 @@
       "url": "https://trueinterview.io/jobs/5b2481e9-81cd-43ff-bfcb-bb9497bc49da",
       "postedAt": "2026-11-03T16:37:44.000Z",
       "updatedAt": "2026-11-03T16:37:44.000Z"
-    },
-    {
-      "id": "c6e52851-17b0-4da6-b4b0-50a46f7ed592",
-      "company": "SIA",
-      "title": "Final year internship - DevOps / Platform Engineer",
-      "locations": [
-        "Paris, Île-de-France, France"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000159443899-final-year-internship-devops-platform-engineer",
-      "url": "https://trueinterview.io/jobs/c6e52851-17b0-4da6-b4b0-50a46f7ed592",
-      "postedAt": "2026-11-03T16:35:45.000Z",
-      "updatedAt": "2026-11-03T16:35:45.000Z"
     },
     {
       "id": "49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
@@ -103819,33 +103819,6 @@
       "url": "https://trueinterview.io/jobs/d604a1bb-2410-4601-8fac-e834395f67dc",
       "postedAt": "2026-09-18T20:15:22.000Z",
       "updatedAt": "2026-09-18T20:15:22.000Z"
-    },
-    {
-      "id": "a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b",
-      "company": "Fable Security",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "San Francisco, CA (Hybrid)"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application",
-      "url": "https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b",
-      "postedAt": "2026-09-18T20:04:36.000Z",
-      "updatedAt": "2026-09-18T20:04:36.000Z"
     }
   ]
 }
