@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**799 open roles.** 583 in the United States & Canada · 216 elsewhere in the world.
+**798 open roles.** 582 in the United States & Canada · 216 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Centene Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a26c4885-74bb-4773-825f-ca5024612358">AI Engineer Intern (Undergraduate - Summer 2027)</a></td>
-<td>Missouri, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248850/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Capital One</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
@@ -1666,10 +1659,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8dfabaf-bfa3-406d-87a1-e5b8489af8c2">FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4426970152/">Apply</a></td>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b616848-8d45-4011-b56d-e6aac9babb8c">Robotic AI Intern</a></td>
+<td>Beijing, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000160530279-robotic-ai-intern">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
