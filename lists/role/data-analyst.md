@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**100 open roles.** 62 in the United States & Canada · 38 elsewhere in the world.
+**101 open roles.** 63 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -28,7 +28,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Gorbel</strong></td>
 <td><a href="https://trueinterview.io/jobs/01a37e9c-a8a9-49a7-b934-1d052c192021">Data BI Analyst Co-Op</a></td>
 <td>Victor, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490966511/">Apply</a></td>
+<td align="center"><a href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Data-BI-Analyst-Co-Op_REQ-2026-2266">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f977f2c-3354-4187-8d09-d581b4d29d26">Intern - Segment Marketing Data Analyst</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491153904/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

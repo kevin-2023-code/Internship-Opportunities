@@ -20,9 +20,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Minitab</strong></td>
 <td><a href="https://trueinterview.io/jobs/5dc00de7-85f0-4e32-bfe0-db3c580774bd">Software Engineering Intern</a></td>
-<td>State College, Pennsylvania, United States</td>
+<td>State College, Pennsylvania, United States<br/>State College, PA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/8200708003">Apply</a></td>
-<td align="center">16 Nov 2026</td>
+<td align="center">17 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Lightmatter</strong></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**109 open roles.** 97 in the United States & Canada · 12 elsewhere in the world.
+**110 open roles.** 98 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3af84745-aa25-42f4-976e-448a95185bf8">ASIC Verification/Design Engineering Intern</a></td>
 <td>Roseville, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490616104/">Apply</a></td>
+<td align="center">16 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tektronix</strong></td>
+<td><a href="https://trueinterview.io/jobs/c496bd41-58ec-4621-9f9f-a8839fcfd5b5">Hardware Verification Engineer Co-Op (Spring 2027)</a></td>
+<td>Solon, OH</td>
+<td align="center"><a href="https://ralliant.eightfold.ai/careers/job/1133915744216">Apply</a></td>
 <td align="center">16 Nov 2026</td>
 </tr>
 <tr>
