@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T11:04:29.970Z",
+  "listingsChangedAt": "2026-11-17T12:06:48.416Z",
   "count": 3949,
   "listings": [
+    {
+      "id": "39259725-7a5a-40bb-b760-c8a519e5396b",
+      "company": "Sharkninja",
+      "title": "Product Design Engineering Intern",
+      "locations": [
+        "UK - London, Battersea Power Station"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726667006",
+      "url": "https://trueinterview.io/jobs/39259725-7a5a-40bb-b760-c8a519e5396b",
+      "postedAt": "2026-11-17T09:19:41.000Z",
+      "updatedAt": "2026-11-17T09:19:41.000Z"
+    },
     {
       "id": "2666b6c8-b1b1-47f5-a625-0cd843098146",
       "company": "Zoox",
@@ -88231,31 +88256,6 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application",
       "url": "https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836",
-      "postedAt": "2026-10-15T00:00:00.000Z",
-      "updatedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "ff2c3535-2470-49ad-8426-73c46192789b",
-      "company": "solink",
-      "title": "Software Engineer Co-op, Apps",
-      "locations": [
-        "Ottawa Office"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application",
-      "url": "https://trueinterview.io/jobs/ff2c3535-2470-49ad-8426-73c46192789b",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
