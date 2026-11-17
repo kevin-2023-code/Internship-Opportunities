@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T14:04:59.929Z",
-  "count": 3948,
+  "listingsChangedAt": "2026-11-17T15:05:16.634Z",
+  "count": 3949,
   "listings": [
     {
       "id": "39259725-7a5a-40bb-b760-c8a519e5396b",
@@ -138,6 +138,31 @@
       "url": "https://trueinterview.io/jobs/f001d58a-5edc-4669-94c0-f96428759a59",
       "postedAt": "2026-11-17T00:03:14.000Z",
       "updatedAt": "2026-11-17T00:03:14.000Z"
+    },
+    {
+      "id": "cc29ec22-1907-4080-8e78-3ec127768738",
+      "company": "BHE (Berkshire Hathaway Energy)",
+      "title": "Intern - Engineering",
+      "locations": [
+        "Omaha, NE, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006017",
+      "url": "https://trueinterview.io/jobs/cc29ec22-1907-4080-8e78-3ec127768738",
+      "postedAt": "2026-11-17T00:00:00.000Z",
+      "updatedAt": "2026-11-17T00:00:00.000Z"
     },
     {
       "id": "ebce66e8-4361-477a-b8a5-cbd857016c5e",

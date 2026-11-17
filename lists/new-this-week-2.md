@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**907 open roles.** 698 in the United States & Canada · 209 elsewhere in the world. Everything the employers put up this week.
+**904 open roles.** 698 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>CHAMP</strong></td>
+<td><a href="https://trueinterview.io/jobs/b16abac2-6980-43dc-82e6-4589dfd1f2b8">Intern, Data Analyst</a></td>
+<td>Cleveland, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490088168/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a2629ef-736d-49bf-8f30-cb4669703cce">Intern, Backend Engineering</a></td>
 <td>Cleveland, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490082260/">Apply</a></td>
@@ -2092,13 +2099,6 @@
 <td><a href="https://trueinterview.io/jobs/2c4da381-912e-490e-8740-1808df9928d2">Mechanical Engineering Intern</a></td>
 <td>Roanoke, Virginia, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160640529-mechanical-engineering-intern">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kensington</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f4699bc-7254-4405-ab53-7a8b937e7161">BI/Data Analyst Intern</a></td>
-<td>Toronto, ON, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>
