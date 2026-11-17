@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T12:06:48.416Z",
-  "count": 3949,
+  "listingsChangedAt": "2026-11-17T14:04:59.929Z",
+  "count": 3948,
   "listings": [
     {
       "id": "39259725-7a5a-40bb-b760-c8a519e5396b",
@@ -102462,31 +102462,6 @@
       "url": "https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3",
       "postedAt": "2026-09-18T15:11:06.000Z",
       "updatedAt": "2026-09-18T15:11:06.000Z"
-    },
-    {
-      "id": "7804ad1d-0c76-4985-af66-e3a40056bf5d",
-      "company": "Nuclear Promise X",
-      "title": "Design Engineering Intern",
-      "locations": [
-        "Ontario"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/NPX/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb",
-      "url": "https://trueinterview.io/jobs/7804ad1d-0c76-4985-af66-e3a40056bf5d",
-      "postedAt": "2026-09-18T13:47:03.000Z",
-      "updatedAt": "2026-09-18T13:47:03.000Z"
     }
   ]
 }
