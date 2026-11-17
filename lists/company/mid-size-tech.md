@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**44 open roles.** 30 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**43 open roles.** 29 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -218,13 +218,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2">Software Engineering Co-op - Winter 2027</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3">Hardware Test Engineering Intern (Winter/Spring 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

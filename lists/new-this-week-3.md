@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**904 open roles.** 698 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**896 open roles.** 691 in the United States & Canada · 205 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,55 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2d416319-b116-478b-9999-e0f48f65d1c1">LLM &amp; Agent Algorithm Project Intern (Search) - 2026 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4432642955/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f347b44e-4054-49a2-89b1-655bfa8fa27a">Research Scientist Intern - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401867441/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/734a20e7-7445-4481-8bf9-df137614e500">Security &amp; Threat Management Project Intern (Global Security) - 2026 Start (BS/MS)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4432207903/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b4e9224f-2493-4b28-8580-e4291953f039">AI Agent Engineer Intern (Search) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452746940/">Apply</a></td>
@@ -736,13 +687,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c">Intern - Local IT</a></td>
 <td>Guadalajara - Periférico, Jalisco, Mexico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000160658859-intern-local-it">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/234821f9-d49c-4e79-a859-a1805e9f4ce2">Software Function Developer intern</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

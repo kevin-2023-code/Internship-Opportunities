@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-17 15:05 UTC_
+_Last updated: 2026-11-17 16:05 UTC_
 
-**839 open internships** from **311 employers** · **206 posted in the last 7 days** · refreshed hourly
+**839 open internships** from **311 employers** · **205 posted in the last 7 days** · refreshed hourly
 
 ### Browse 839 internships by field
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-17 15:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 64 &nbsp;·&nbsp; **ByteDance** 19 &nbsp;·&nbsp; **NVIDIA** 19 &nbsp;·&nbsp; **Bosch** 8 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Tencent** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **PayPal** 3
+**TikTok** 64 &nbsp;·&nbsp; **ByteDance** 19 &nbsp;·&nbsp; **NVIDIA** 19 &nbsp;·&nbsp; **Bosch** 7 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **SAP IT Business Systeme** 5 &nbsp;·&nbsp; **Tencent** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **PayPal** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 23 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (187)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (71)](lists/place/greater-china.md) · [🇬🇧 London & the UK (46)](lists/place/uk.md) · [🇫🇷 Paris & France (33)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (26)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+6 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (206)](lists/new-this-week.md) · [🌐 Remote (13)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (205)](lists/new-this-week.md) · [🌐 Remote (13)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1013,7 +1013,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d4009e23-3fe2-4c94-844c-a5e423719648">FPGA Intern</a> 🆕</td>
 <td>Trondheim, Trøndelag, Norway</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473818045/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Synopsys Inc</strong></td>
@@ -1038,10 +1038,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/990b0d44-d8b5-41d3-a95d-9039f2eed5ef">Undergraduate Placement Year 2027 – Engineering Internship in Product Reliability department – Heat Pumps</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/990b0d44-d8b5-41d3-a95d-9039f2eed5ef">Undergraduate Placement Year 2027 – Engineering Internship in Product Reliability department – Heat Pumps</a></td>
 <td>Worcester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161511309-undergraduate-placement-year-2027-engineering-internship-in-product-reliability-department-heat-pumps">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Renesas</strong></td>
@@ -1327,7 +1327,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6cd0bff1-878a-456f-88cf-545d9045ebb8">AI Creative Experience Design Intern</a></td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486826429/">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>UBS</strong></td>
@@ -1529,7 +1529,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0dcea27a-dc57-4c5b-87aa-e733f6c28294">2027 Quantitative Developer Intern, Tel Aviv</a></td>
 <td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487780049/">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Optiver</strong></td>

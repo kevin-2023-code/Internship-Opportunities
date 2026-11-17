@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**154 open roles.**
+**153 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1087,13 +1087,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Somerville, MA</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8199928/apply/?gh_jid=8199928">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3">Hardware Test Engineering Intern (Winter/Spring 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

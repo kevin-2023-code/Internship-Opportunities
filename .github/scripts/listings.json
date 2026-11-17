@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T15:05:16.634Z",
-  "count": 3949,
+  "listingsChangedAt": "2026-11-17T16:05:23.284Z",
+  "count": 3948,
   "listings": [
     {
       "id": "39259725-7a5a-40bb-b760-c8a519e5396b",
@@ -102462,31 +102462,6 @@
       "url": "https://trueinterview.io/jobs/c6f81265-a774-4c52-9000-ee97aae54154",
       "postedAt": "2026-09-18T16:40:49.000Z",
       "updatedAt": "2026-09-18T16:40:49.000Z"
-    },
-    {
-      "id": "bacfa696-eba7-46bd-bafe-5c1b5c595fb3",
-      "company": "Formlabs",
-      "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
-      "locations": [
-        "Somerville, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
-      "url": "https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3",
-      "postedAt": "2026-09-18T15:11:06.000Z",
-      "updatedAt": "2026-09-18T15:11:06.000Z"
     }
   ]
 }

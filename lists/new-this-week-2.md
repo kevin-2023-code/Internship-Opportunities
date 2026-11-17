@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**904 open roles.** 698 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
+**896 open roles.** 691 in the United States & Canada · 205 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2052,55 +2052,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3272bb01-4d3b-4cee-a1c6-621553d39fef">Co-Op Security Consultant - Strategy, Risk &amp; Compliance 2027</a></td>
-<td>University Park, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451266806/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scout Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/855106a9-5d6e-4601-9ef1-17f3efb8c0f9">Intern, IT</a></td>
-<td>Charlotte, North Carolina, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5287122007">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Enova</strong></td>
-<td><a href="https://trueinterview.io/jobs/068fd314-17f2-4b26-948f-49b736be1c87">Analytics Internship Summer 2027 (Hybrid)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8366036">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
-<td>University Park, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SLB</strong></td>
-<td><a href="https://trueinterview.io/jobs/084b3cdd-8ba8-45c3-bc71-c85c414ea788">Engineer Intern</a></td>
-<td>Houston, United States</td>
-<td align="center"><a href="https://slb.eightfold.ai/careers/job/563499734697749">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b">Product Engineering Intern (AI)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488873492/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c4da381-912e-490e-8740-1808df9928d2">Mechanical Engineering Intern</a></td>
-<td>Roanoke, Virginia, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160640529-mechanical-engineering-intern">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2776,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/514dea3b-f30f-4e7c-a5f0-d21880a80cce">Multimodal Algo Researcher (AI Innovation Center) Intern - 2026 Soaring Star Talent Program</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4354835476/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d416319-b116-478b-9999-e0f48f65d1c1">LLM &amp; Agent Algorithm Project Intern (Search) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432642955/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f347b44e-4054-49a2-89b1-655bfa8fa27a">Research Scientist Intern - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401867441/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/734a20e7-7445-4481-8bf9-df137614e500">Security &amp; Threat Management Project Intern (Global Security) - 2026 Start (BS/MS)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432207903/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

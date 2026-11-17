@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,949 open roles.** 1,526 in the United States & Canada · 423 elsewhere in the world.
+**1,948 open roles.** 1,525 in the United States & Canada · 423 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2290,13 +2290,6 @@
 <td align="center"><a href="https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3">Hardware Test Engineering Intern (Winter/Spring 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
