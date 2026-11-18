@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T05:06:02.802Z",
+  "listingsChangedAt": "2026-11-18T06:08:18.347Z",
   "count": 4021,
   "listings": [
     {
@@ -32,6 +32,33 @@
       "url": "https://trueinterview.io/jobs/b3e09e35-fe7f-4ff9-9228-779421ad60ea",
       "postedAt": "2026-11-18T00:47:48.000Z",
       "updatedAt": "2026-11-18T00:47:48.000Z"
+    },
+    {
+      "id": "07a5556d-d7c7-4599-bc62-78d2cc50ddaf",
+      "company": "Illumio",
+      "title": "Security and Compliance Analyst Intern",
+      "locations": [
+        "Sunnyvale, California - HQ"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c",
+      "url": "https://trueinterview.io/jobs/07a5556d-d7c7-4599-bc62-78d2cc50ddaf",
+      "postedAt": "2026-11-17T23:14:12.000Z",
+      "updatedAt": "2026-11-17T23:14:12.000Z"
     },
     {
       "id": "6e05ef0a-fbae-4459-b365-9ea27e56f3fa",
@@ -2056,7 +2083,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Data & AI",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2069,31 +2096,29 @@
       "updatedAt": "2026-11-17T14:05:00.000Z"
     },
     {
-      "id": "2f977f2c-3354-4187-8d09-d581b4d29d26",
-      "company": "Micron Technology",
-      "title": "Intern - Segment Marketing Data Analyst",
+      "id": "3776cd27-4f36-49fa-bc4f-a78ff68f67be",
+      "company": "Bosch",
+      "title": "AI Application Intern (8 months/40 hours per week)",
       "locations": [
-        "San Jose, CA"
+        "Farmington Hills, Michigan, United States"
       ],
-      "cities": [
-        "San Jose, CA"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4491153904/",
-      "url": "https://trueinterview.io/jobs/2f977f2c-3354-4187-8d09-d581b4d29d26",
-      "postedAt": "2026-11-17T13:21:00.000Z",
-      "updatedAt": "2026-11-17T13:21:00.000Z"
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254-ai-application-intern-8-months-40-hours-per-week-",
+      "url": "https://trueinterview.io/jobs/3776cd27-4f36-49fa-bc4f-a78ff68f67be",
+      "postedAt": "2026-11-17T13:35:00.000Z",
+      "updatedAt": "2026-11-17T13:35:00.000Z"
     },
     {
       "id": "ac805d32-c28d-4539-9f27-a4b55d6f315f",
@@ -2190,7 +2215,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Full-Stack Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2200,33 +2225,6 @@
       "url": "https://trueinterview.io/jobs/7846662d-ebae-4672-b5d3-67ee4af2ba88",
       "postedAt": "2026-11-17T13:09:00.000Z",
       "updatedAt": "2026-11-17T13:09:00.000Z"
-    },
-    {
-      "id": "21386910-b602-42c1-897c-758d2136b27d",
-      "company": "ByteDance",
-      "title": "Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475848057/",
-      "url": "https://trueinterview.io/jobs/21386910-b602-42c1-897c-758d2136b27d",
-      "postedAt": "2026-11-17T13:05:00.000Z",
-      "updatedAt": "2026-11-17T13:05:00.000Z"
     },
     {
       "id": "3a445e15-4751-45f0-886f-6655ba9bbe2b",

@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**131 open roles.** 93 in the United States & Canada · 38 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**130 open roles.** 92 in the United States & Canada · 38 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/21386910-b602-42c1-897c-758d2136b27d">Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475848057/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>LinkedIn</strong></td>
 <td><a href="https://trueinterview.io/jobs/23877ac9-2521-4895-b761-b5ba5105b99f">Systems &amp; Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)</a></td>

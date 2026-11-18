@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**278 open roles.** 176 in the United States & Canada · 102 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**277 open roles.** 175 in the United States & Canada · 102 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/112aaa39-b04e-4d36-a3f0-358192f65e3f">Product &amp; Test Engineering, Intern Summer 2027</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f977f2c-3354-4187-8d09-d581b4d29d26">Intern - Segment Marketing Data Analyst</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491153904/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

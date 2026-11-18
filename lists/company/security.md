@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**16 open roles.** 14 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/07a5556d-d7c7-4599-bc62-78d2cc50ddaf">Security and Compliance Analyst Intern</a></td>
+<td>Sunnyvale, California - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
 <td>San Jose, CA<br/>Sunnyvale, California - HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/illumio/2bcba5c3-c6e7-407c-92b2-73027594789e">Apply</a></td>

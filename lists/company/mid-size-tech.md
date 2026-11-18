@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**42 open roles.** 28 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**43 open roles.** 29 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/07a5556d-d7c7-4599-bc62-78d2cc50ddaf">Security and Compliance Analyst Intern</a></td>
+<td>Sunnyvale, California - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/illumio/8013747a-938c-41ef-9d5b-7b6188ae0b5c">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lightmatter</strong></td>
 <td><a href="https://trueinterview.io/jobs/112aaa39-b04e-4d36-a3f0-358192f65e3f">Product &amp; Test Engineering, Intern Summer 2027</a></td>

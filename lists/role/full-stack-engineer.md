@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**38 open roles.** 27 in the United States & Canada · 11 elsewhere in the world.
+**37 open roles.** 26 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0765926c-9f6d-4abf-a344-91fc375ad950">Full Stack Development Intern, Full-time Internship (Jan - June 2027)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491708720/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/7846662d-ebae-4672-b5d3-67ee4af2ba88">SAP iXp Intern - Full-stack Software Developer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490119048/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
