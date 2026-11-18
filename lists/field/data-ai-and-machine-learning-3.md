@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**822 open roles.** 604 in the United States & Canada · 218 elsewhere in the world.
+**823 open roles.** 605 in the United States & Canada · 218 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/81583b80-ffc8-4aa8-97f1-9c0323a6e547">Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027</a></td>
+<td>Bristol, UK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/4245bb33-e482-4289-8975-cc6ab6a9dd5d">Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</a></td>

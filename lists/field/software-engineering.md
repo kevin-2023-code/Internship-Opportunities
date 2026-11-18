@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,989 open roles.** 1,560 in the United States & Canada · 429 elsewhere in the world.
+**1,990 open roles.** 1,561 in the United States & Canada · 429 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -269,6 +269,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a445e15-4751-45f0-886f-6655ba9bbe2b">Intern-Quality Engineering (SDET)</a></td>
 <td>Lawrenceville, Georgia, United States<br/>Lawrenceville, GA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/m3/jobs/8201335003">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dark Wolf Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1fa56a2-0f91-4e76-8196-0d2bbb2d23a1">University of South Florida College Fair - Internship</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://grnh.se/53l94jxp3us">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/68976ed3-347d-4fe3-a4c0-f6542b840377">2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)</a></td>
 <td>Cedar Rapids, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473008833/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Youbloom</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d5cc7cd-463b-4e30-ab66-eff62b0b827c">Software Quality Assurance Analyst Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489412960/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

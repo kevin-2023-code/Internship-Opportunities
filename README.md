@@ -32,15 +32,15 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 08:06 UTC_
+_Last updated: 2026-11-18 09:06 UTC_
 
-**3,168 open internships** from **1,315 employers** · **701 posted in the last 7 days** · refreshed hourly
+**3,169 open internships** from **1,316 employers** · **701 posted in the last 7 days** · refreshed hourly
 
-### Browse 3,168 internships by field
+### Browse 3,169 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (1,560)
+💻 **[Software Engineering](#-software-engineering)** (1,561)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (604)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (605)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (720)
 
@@ -48,7 +48,7 @@ _Last updated: 2026-11-18 08:06 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (65)
 
-🧰 **[IT & Support](#-it--support)** (63)
+🧰 **[IT & Support](#-it--support)** (62)
 
 ---
 
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 1,560.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 1,561.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -800,6 +800,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>ENGIE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b32ad447-3fd5-4b5a-9a48-931a66ef1274">Intern - Application Development (Grid Scale Renewables GIS)</a> 🆕</td>
+<td>USA_Houston_TX2, United States<br/>Houston, TX</td>
+<td align="center"><a href="https://career55.sapsf.eu/career?career_ns=job_listing&amp;company=engieinforP3&amp;rcm_site_locale=en_US&amp;career_job_req_id=74535">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/30c5d9c4-7d8c-4d4f-b13d-964fa382ebf7">Client Security &amp; Data Foundation Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a> 🆕</td>
 <td>San Jose, CA</td>
@@ -811,13 +818,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/2666b6c8-b1b1-47f5-a625-0cd843098146">UX Designer Intern [Summer 2027]</a> 🆕</td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>State Street</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5e0d158-d8e7-4aec-9e6d-26dc7d96fd84">State Street Investment Management - Data Scientist - Summer Internship 2027</a> 🆕</td>
-<td>Boston, Massachusetts</td>
-<td align="center"><a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 </tbody>
@@ -1186,7 +1186,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 604.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 605.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -2378,13 +2378,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">4d</td>
 </tr>
 <tr>
-<td><strong>Munich Re</strong></td>
-<td><a href="https://trueinterview.io/jobs/1aad881a-efed-4c6f-a3a2-61d3d709c84d">Application Support Intern</a></td>
-<td>Amelia, OH, US</td>
-<td align="center"><a href="https://career55.sapsf.eu/career?career_ns=job_listing&amp;company=mnchenerrc&amp;rcm_site_locale=en_US&amp;career_job_req_id=14819">Apply</a></td>
-<td align="center">4d</td>
-</tr>
-<tr>
 <td><strong>Brown &amp; Root</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b088bff-07be-48c6-8e10-e77bcc3cd5e5">IT Help Desk Intern</a></td>
 <td>Baton Rouge, LA</td>
@@ -2523,6 +2516,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td>Harrisburg, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468302594/">Apply</a></td>
 <td align="center">18d</td>
+</tr>
+<tr>
+<td><strong>RSM US LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/857e7549-b049-4ca1-861b-e8f774d77283">Managed IT Services Service Desk Consulting Intern - Winter 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484802637/">Apply</a></td>
+<td align="center">19d</td>
 </tr>
 </tbody>
 </table>
@@ -2666,7 +2666,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 43 of 63.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 43 of 62.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---

@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**48 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0443800b-11b9-4599-b8de-69ef652ac50f">Simulation and Modeling Software Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490118840/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ENGIE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b32ad447-3fd5-4b5a-9a48-931a66ef1274">Intern - Application Development (Grid Scale Renewables GIS)</a></td>
+<td>Houston, TX<br/>USA_Houston_TX2, United States</td>
+<td align="center"><a href="https://career55.sapsf.eu/career?career_ns=job_listing&amp;company=engieinforP3&amp;rcm_site_locale=en_US&amp;career_job_req_id=74535">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

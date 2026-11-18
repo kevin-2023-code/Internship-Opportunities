@@ -517,6 +517,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Dark Wolf Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1fa56a2-0f91-4e76-8196-0d2bbb2d23a1">University of South Florida College Fair - Internship</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://grnh.se/53l94jxp3us">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ENGIE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b32ad447-3fd5-4b5a-9a48-931a66ef1274">Intern - Application Development (Grid Scale Renewables GIS)</a></td>
+<td>USA_Houston_TX2, United States<br/>Houston, TX</td>
+<td align="center"><a href="https://career55.sapsf.eu/career?career_ns=job_listing&amp;company=engieinforP3&amp;rcm_site_locale=en_US&amp;career_job_req_id=74535">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hexarmor</strong></td>
 <td><a href="https://trueinterview.io/jobs/26058bfc-ab36-40cc-a690-4bf6939d2c0a">Software Engineering Intern</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
@@ -1847,13 +1861,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Munich Re</strong></td>
-<td><a href="https://trueinterview.io/jobs/1aad881a-efed-4c6f-a3a2-61d3d709c84d">Application Support Intern</a></td>
-<td>Amelia, OH, US</td>
-<td align="center"><a href="https://career55.sapsf.eu/career?career_ns=job_listing&amp;company=mnchenerrc&amp;rcm_site_locale=en_US&amp;career_job_req_id=14819">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Helcim</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c98f146-6432-4133-b9e4-d02e20c2b8f6">Data Internship (May 2026)</a></td>
 <td>Calgary, AB<br/>Calgary, Canada</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af8c609f-ff98-43ef-93d1-ee80f6dc49d8">Spring 2027 Artificial Intelligence/Machine Learning Co-Op</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473515101/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d55276e-271b-4b5c-a0c6-9c91c94f239d">Machine Learning Engineering Intern - Summer 2027</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481390055/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

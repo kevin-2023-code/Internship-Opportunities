@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T08:06:47.607Z",
-  "count": 4021,
+  "listingsChangedAt": "2026-11-18T09:06:07.149Z",
+  "count": 4023,
   "listings": [
+    {
+      "id": "80875ba6-8830-481d-bd6b-3bcf02368a8d",
+      "company": "Gameloft",
+      "title": "Sound Designer Intern",
+      "locations": [
+        "Ho Chi Minh City, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Gameloft/744000162228144-sound-designer-intern-",
+      "url": "https://trueinterview.io/jobs/80875ba6-8830-481d-bd6b-3bcf02368a8d",
+      "postedAt": "2026-11-18T07:07:52.000Z",
+      "updatedAt": "2026-11-18T07:07:52.000Z"
+    },
     {
       "id": "b3e09e35-fe7f-4ff9-9228-779421ad60ea",
       "company": "Veolia",
@@ -2382,6 +2407,57 @@
       "url": "https://trueinterview.io/jobs/fdea55be-e9dc-479a-b932-55bf297e095b",
       "postedAt": "2026-11-17T07:54:40.000Z",
       "updatedAt": "2026-11-17T07:54:40.000Z"
+    },
+    {
+      "id": "d1fa56a2-0f91-4e76-8196-0d2bbb2d23a1",
+      "company": "Dark Wolf Solutions",
+      "title": "University of South Florida College Fair - Internship",
+      "locations": [
+        "Tampa, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/53l94jxp3us",
+      "url": "https://trueinterview.io/jobs/d1fa56a2-0f91-4e76-8196-0d2bbb2d23a1",
+      "postedAt": "2026-11-17T06:00:00.000Z",
+      "updatedAt": "2026-11-17T06:00:00.000Z"
+    },
+    {
+      "id": "b32ad447-3fd5-4b5a-9a48-931a66ef1274",
+      "company": "ENGIE",
+      "title": "Intern - Application Development (Grid Scale Renewables GIS)",
+      "locations": [
+        "USA_Houston_TX2, United States",
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career55.sapsf.eu/career?career_ns=job_listing&company=engieinforP3&rcm_site_locale=en_US&career_job_req_id=74535",
+      "url": "https://trueinterview.io/jobs/b32ad447-3fd5-4b5a-9a48-931a66ef1274",
+      "postedAt": "2026-11-17T02:18:56.000Z",
+      "updatedAt": "2026-11-17T06:00:00.000Z"
     },
     {
       "id": "26058bfc-ab36-40cc-a690-4bf6939d2c0a",
@@ -9001,31 +9077,6 @@
       "url": "https://trueinterview.io/jobs/c9df109c-e5e6-4269-b358-625bdce57796",
       "postedAt": "2026-11-13T06:45:00.000Z",
       "updatedAt": "2026-11-13T21:29:00.000Z"
-    },
-    {
-      "id": "1aad881a-efed-4c6f-a3a2-61d3d709c84d",
-      "company": "Munich Re",
-      "title": "Application Support Intern",
-      "locations": [
-        "Amelia, OH, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career55.sapsf.eu/career?career_ns=job_listing&company=mnchenerrc&rcm_site_locale=en_US&career_job_req_id=14819",
-      "url": "https://trueinterview.io/jobs/1aad881a-efed-4c6f-a3a2-61d3d709c84d",
-      "postedAt": "2026-11-13T20:58:06.000Z",
-      "updatedAt": "2026-11-13T20:58:06.000Z"
     },
     {
       "id": "6c98f146-6432-4133-b9e4-d02e20c2b8f6",
