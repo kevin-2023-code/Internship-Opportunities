@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T01:05:37.283Z",
-  "count": 4011,
+  "listingsChangedAt": "2026-11-18T02:06:35.719Z",
+  "count": 4016,
   "listings": [
+    {
+      "id": "b3e09e35-fe7f-4ff9-9228-779421ad60ea",
+      "company": "Veolia",
+      "title": "Mechanical Engineering Intern",
+      "locations": [
+        "Boulder, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929-mechanical-engineering-intern",
+      "url": "https://trueinterview.io/jobs/b3e09e35-fe7f-4ff9-9228-779421ad60ea",
+      "postedAt": "2026-11-18T00:47:48.000Z",
+      "updatedAt": "2026-11-18T00:47:48.000Z"
+    },
     {
       "id": "6e05ef0a-fbae-4459-b365-9ea27e56f3fa",
       "company": "Coffman Engineers",
@@ -408,7 +433,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Data & AI",
       "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -419,6 +444,31 @@
       "url": "https://trueinterview.io/jobs/fdcb3b7a-3838-477b-8a80-aacd79a9fd09",
       "postedAt": "2026-11-17T18:27:46.000Z",
       "updatedAt": "2026-11-17T18:27:46.000Z"
+    },
+    {
+      "id": "8f6c5ab8-e41a-4c48-b221-4dfd6039a4db",
+      "company": "MatrixSpace",
+      "title": "Radar Software Co-op",
+      "locations": [
+        "Burlington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://jsco.re/hv9ap",
+      "url": "https://trueinterview.io/jobs/8f6c5ab8-e41a-4c48-b221-4dfd6039a4db",
+      "postedAt": "2026-11-17T18:24:00.000Z",
+      "updatedAt": "2026-11-17T18:24:00.000Z"
     },
     {
       "id": "112aaa39-b04e-4d36-a3f0-358192f65e3f",
@@ -435,7 +485,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -448,31 +498,85 @@
       "updatedAt": "2026-11-17T17:01:37.000Z"
     },
     {
-      "id": "eddb042d-26b3-4fea-847e-1058412fb7b7",
-      "company": "Scaleway",
-      "title": "R&D Intern - Machine learning",
+      "id": "da8ce6f6-4130-4545-82ca-3fb553f80f7d",
+      "company": "Intuitive Surgical",
+      "title": "Clinical Development Engineering Intern",
       "locations": [
-        "Paris"
+        "Sunnyvale, California, United States"
       ],
       "cities": [
-        "Paris"
+        "Sunnyvale, CA"
       ],
       "countries": [
-        "France"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/scaleway/a2a68808-4d53-4927-bc09-54efb9a6765b",
-      "url": "https://trueinterview.io/jobs/eddb042d-26b3-4fea-847e-1058412fb7b7",
-      "postedAt": "2026-11-17T16:53:57.000Z",
-      "updatedAt": "2026-11-17T16:53:57.000Z"
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000162128885-clinical-development-engineering-intern",
+      "url": "https://trueinterview.io/jobs/da8ce6f6-4130-4545-82ca-3fb553f80f7d",
+      "postedAt": "2026-11-17T16:58:51.000Z",
+      "updatedAt": "2026-11-17T16:58:51.000Z"
+    },
+    {
+      "id": "91b4799d-fe58-44bf-95ff-f464d267c49e",
+      "company": "Prologis",
+      "title": "AI and Automation (IT) Intern",
+      "locations": [
+        "Denver, CO"
+      ],
+      "cities": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483745606/",
+      "url": "https://trueinterview.io/jobs/91b4799d-fe58-44bf-95ff-f464d267c49e",
+      "postedAt": "2026-11-17T16:55:00.000Z",
+      "updatedAt": "2026-11-17T16:55:00.000Z"
+    },
+    {
+      "id": "86546bfe-9a59-44fb-97bf-729a1fedb229",
+      "company": "Camping World",
+      "title": "AI Intern",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490465616/",
+      "url": "https://trueinterview.io/jobs/86546bfe-9a59-44fb-97bf-729a1fedb229",
+      "postedAt": "2026-11-17T16:46:00.000Z",
+      "updatedAt": "2026-11-17T16:46:00.000Z"
     },
     {
       "id": "19d0e9a0-cca9-422f-ad27-0e0162671a3e",
@@ -498,6 +602,31 @@
       "url": "https://trueinterview.io/jobs/19d0e9a0-cca9-422f-ad27-0e0162671a3e",
       "postedAt": "2026-11-17T16:45:00.000Z",
       "updatedAt": "2026-11-17T16:45:00.000Z"
+    },
+    {
+      "id": "9c33a3fe-15b5-452e-a0d0-cd4883a05a4f",
+      "company": "InterDigital, Inc.",
+      "title": "PhD Research Intern, AI Lab",
+      "locations": [
+        "Los Altos, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491591328/",
+      "url": "https://trueinterview.io/jobs/9c33a3fe-15b5-452e-a0d0-cd4883a05a4f",
+      "postedAt": "2026-11-17T16:44:00.000Z",
+      "updatedAt": "2026-11-17T16:44:00.000Z"
     },
     {
       "id": "cce6ce7f-c693-48b5-b60b-f7072ba6542e",
@@ -2339,6 +2468,31 @@
       "source": "ats-boards",
       "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28957",
       "url": "https://trueinterview.io/jobs/cfbe6548-183d-4958-911c-0397a55bf2fb",
+      "postedAt": "2026-11-17T00:00:00.000Z",
+      "updatedAt": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "3076070b-90b1-40a5-b269-0f179f3006b8",
+      "company": "Oracle",
+      "title": "OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN - February 2027",
+      "locations": [
+        "Nashville, TN, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350821",
+      "url": "https://trueinterview.io/jobs/3076070b-90b1-40a5-b269-0f179f3006b8",
       "postedAt": "2026-11-17T00:00:00.000Z",
       "updatedAt": "2026-11-17T00:00:00.000Z"
     },
@@ -91234,33 +91388,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872479002?gh_jid=8872479002",
       "url": "https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "986c4f87-6a3f-400e-85f9-82a58d933254",
-      "company": "wing",
-      "title": "Manufacturing Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872469002?gh_jid=8872469002",
-      "url": "https://trueinterview.io/jobs/986c4f87-6a3f-400e-85f9-82a58d933254",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },

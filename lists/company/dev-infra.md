@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**22 open roles.** 10 in the United States & Canada · 12 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**21 open roles.** 10 in the United States & Canada · 11 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Scaleway</strong></td>
-<td><a href="https://trueinterview.io/jobs/eddb042d-26b3-4fea-847e-1058412fb7b7">R&amp;D Intern - Machine learning</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.lever.co/scaleway/a2a68808-4d53-4927-bc09-54efb9a6765b">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/df8ef95a-fc76-4b4f-91fa-eec1a81adc42">Software Engineer Intern - Zurich (2027)</a></td>

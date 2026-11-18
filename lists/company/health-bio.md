@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**27 open roles.** 21 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**28 open roles.** 22 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/da8ce6f6-4130-4545-82ca-3fb553f80f7d">Clinical Development Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000162128885-clinical-development-engineering-intern">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/eb90047f-5ca5-4d34-b21f-c124fa13590f">Clinical Research Engineering Intern</a></td>
 <td>Sunnyvale, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000161861679-clinical-research-engineering-intern">Apply</a></td>

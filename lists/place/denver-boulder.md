@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**66 open roles.**
+**68 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3e09e35-fe7f-4ff9-9228-779421ad60ea">Mechanical Engineering Intern</a></td>
+<td>Boulder, Colorado, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190929-mechanical-engineering-intern">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Parsons Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/2348a370-d49e-42c6-9d80-196c0ac66fd4">Software Intern (Summer 2027)</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491718690/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Prologis</strong></td>
+<td><a href="https://trueinterview.io/jobs/91b4799d-fe58-44bf-95ff-f464d267c49e">AI and Automation (IT) Intern</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483745606/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
