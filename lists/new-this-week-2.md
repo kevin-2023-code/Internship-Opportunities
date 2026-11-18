@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**921 open roles.** 702 in the United States & Canada · 219 elsewhere in the world. Everything the employers put up this week.
+**915 open roles.** 696 in the United States & Canada · 219 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2087,48 +2087,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487473010/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Charta Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/a37da5e1-6b82-4f2c-84bd-19c1ac890cdb">Software Engineer (FDE / Platform) - Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465251704/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Medpace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ed3df03-6aae-4ce7-92bc-9518b9be711d">AI Engineering Intern - Summer 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407323852/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amplify</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7e635a2-4509-435a-b30a-d207f79746d4">Summer 2027: AI Scientist Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480279517/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP Taulia</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7a380c-d159-4cf8-9a1b-af26ebac5d8a">AI Center of Excellence (COE) Intern</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487482122/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/68976ed3-347d-4fe3-a4c0-f6542b840377">2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)</a></td>
-<td>Cedar Rapids, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473008833/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f4f7d69-624b-419c-8dd1-6801076e81be">CPU IP Design &amp; Verification Intern – RISC-V Processor Development (Summer 2027)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488309438/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2783,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d308964e-5ffa-4052-9275-0041a9d59c17">Product Engineer Intern - Backend Focused</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474127195/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/7aafd6a5-b400-4dda-b4f5-0b459ce1cbde">Digital Verification Engineer Intern</a></td>
+<td>Kallithea, Athens, Greece</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161487990-digital-verification-engineer-intern">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/6acf4192-bb67-4ebc-89d4-e81fe7374744">Machine Learning Ops Engineer Intern (Ads Infra) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448200242/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa4552df-3e66-465c-8827-cecc1b98b72b">Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474553401/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）</a></td>
+<td>Singapore, Singapore<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401884014/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8113e8a0-08f1-476e-b872-170e9cc02481">LLM &amp; Agent Algorithm Intern (Search) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452710257/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/902b6d02-3370-4d31-b1b8-787716854475">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447689264/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

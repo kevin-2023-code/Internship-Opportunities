@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 11:04 UTC_
+_Last updated: 2026-11-18 12:06 UTC_
 
-**3,169 open internships** from **1,316 employers** · **702 posted in the last 7 days** · refreshed hourly
+**3,169 open internships** from **1,316 employers** · **696 posted in the last 7 days** · refreshed hourly
 
 ### Browse 3,169 internships by field
 
@@ -54,9 +54,9 @@ _Last updated: 2026-11-18 11:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 44 &nbsp;·&nbsp; **ByteDance** 19 &nbsp;·&nbsp; **ServiceNow** 12 &nbsp;·&nbsp; **Collins Aerospace** 10 &nbsp;·&nbsp; **Tesla** 10 &nbsp;·&nbsp; **General Motors** 9 &nbsp;·&nbsp; **Reliable Robotics Corporation** 9 &nbsp;·&nbsp; **IBM** 7 &nbsp;·&nbsp; **ICE** 7 &nbsp;·&nbsp; **SAP IT Business Systeme** 7 &nbsp;·&nbsp; **Bask Health** 6 &nbsp;·&nbsp; **Booz Allen Hamilton** 6
+**TikTok** 44 &nbsp;·&nbsp; **ByteDance** 19 &nbsp;·&nbsp; **ServiceNow** 12 &nbsp;·&nbsp; **Tesla** 10 &nbsp;·&nbsp; **Collins Aerospace** 9 &nbsp;·&nbsp; **General Motors** 9 &nbsp;·&nbsp; **Reliable Robotics Corporation** 9 &nbsp;·&nbsp; **IBM** 7 &nbsp;·&nbsp; **ICE** 7 &nbsp;·&nbsp; **SAP IT Business Systeme** 7 &nbsp;·&nbsp; **Bask Health** 6 &nbsp;·&nbsp; **Booz Allen Hamilton** 6
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 117 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 115 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (578)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (163)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (157)](lists/place/boston.md) · [🗽 New York City (140)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (106)](lists/place/seattle.md) · [🏛️ Washington DC & Northern Virginia (94)](lists/place/washington-dc.md) · [🤠 Dallas–Fort Worth (86)](lists/place/dallas-fort-worth.md) · [🎸 Austin (85)](lists/place/austin.md) · [🌬️ Chicago (71)](lists/place/chicago.md) · [🏔️ Denver, Boulder & Colorado (68)](lists/place/denver-boulder.md) · [+16 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (702)](lists/new-this-week.md) · [🌐 Remote (36)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (696)](lists/new-this-week.md) · [🌐 Remote (36)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1342,14 +1342,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/4f30bda8-6c39-4c0b-8715-5fb1e5f01b53">Textile Engineering Analytics &amp; Software Internship - summer 2027</a> 🆕</td>
 <td>Middleton, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455040778/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/2fa4e610-2cf6-4c97-b34b-09d89d9c1dee">Co-Op - AI DSP Applied Research</a> 🆕</td>
 <td>Cedar Rapids, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475383150/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1803,7 +1803,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/7fb3204b-36be-41e3-9922-93f0a2bd6764">AI Product Design Intern (TikTok-Design) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447323835/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1908,7 +1908,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/99649f86-d895-4807-a778-8c882d13981c">Intern – UI/UX Designer (Summer 2027)</a></td>
 <td>Downers Grove, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470732115/">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
@@ -2124,7 +2124,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/d0189a17-6991-44f9-937a-8db50f208c40">Internship - Equity Derivatives Quantitative Pricing</a> 🆕</td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483775162/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Voloridge Investment Management, LLC</strong></td>
@@ -2180,7 +2180,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/8615be8a-c6bb-4d60-81a4-adb408042568">Quantitative Research Intern (BS/MS) - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4434675309/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Two Sigma</strong></td>
@@ -2243,7 +2243,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/c51353e5-0d96-4add-8673-fbc7093d7b77">2027 Spring Co-op Quantitative Pharmacology, Morristown, NJ</a></td>
 <td>Morristown, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470933048/">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Flow Traders</strong></td>
