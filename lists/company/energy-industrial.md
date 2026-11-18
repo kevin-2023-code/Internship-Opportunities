@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**23 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**22 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lunar Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05">Hardware Test Engineering Intern</a></td>
-<td>San Francisco, CA<br/>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Valmont Industries, Inc.</strong></td>

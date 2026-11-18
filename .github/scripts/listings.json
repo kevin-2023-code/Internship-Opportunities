@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T10:05:52.999Z",
-  "count": 4025,
+  "listingsChangedAt": "2026-11-18T11:04:31.315Z",
+  "count": 4023,
   "listings": [
     {
       "id": "80875ba6-8830-481d-bd6b-3bcf02368a8d",
@@ -59743,35 +59743,6 @@
       "updatedAt": "2026-10-29T23:56:00.000Z"
     },
     {
-      "id": "ec076f05-37ac-492a-b5d4-21c36d37ef05",
-      "company": "Lunar Energy",
-      "title": "Hardware Test Engineering Intern",
-      "locations": [
-        "San Francisco, CA",
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004",
-      "url": "https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05",
-      "postedAt": "2026-10-29T23:56:00.000Z",
-      "updatedAt": "2026-10-29T23:56:00.000Z"
-    },
-    {
       "id": "d3292fea-aaaf-4741-beb1-11029301fa1b",
       "company": "Symbotic",
       "title": "Co-Op- Service Readiness Engineer",
@@ -91218,33 +91189,6 @@
       "url": "https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da",
       "postedAt": "2026-10-14T05:00:00.000Z",
       "updatedAt": "2026-10-14T05:00:00.000Z"
-    },
-    {
-      "id": "5716dad2-e081-485c-986d-0b35779b359a",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "Quality Assurance Test Engineer Intern",
-      "locations": [
-        "San Jose"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009",
-      "url": "https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a",
-      "postedAt": "2026-10-14T00:34:21.000Z",
-      "updatedAt": "2026-10-14T00:34:21.000Z"
     },
     {
       "id": "483b87de-81f2-4681-aa4a-542d189e22bf",

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,993 open roles.** 1,563 in the United States & Canada · 430 elsewhere in the world.
+**1,991 open roles.** 1,561 in the United States & Canada · 430 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1168,13 +1168,6 @@
 <td><a href="https://trueinterview.io/jobs/2fa8d757-4d9a-4afc-a586-c68a216a87df">IT Systems Engineering Intern (19 hours per week)</a></td>
 <td>Roseville, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158620079-it-systems-engineering-intern-19-hours-per-week-">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lunar Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05">Hardware Test Engineering Intern</a></td>
-<td>San Francisco, CA<br/>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/9e015f21-bc33-439e-ac71-34918f65bee0">Mechanical Product Design Engineering Intern</a></td>
 <td>Gaffney, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482523972/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Molex</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bbb6af4-01ab-477b-913f-e9e54178d390">Engineering Co-op</a></td>
+<td>Rochester Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474471127/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
