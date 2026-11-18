@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**157 open roles.**
+**158 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/21126a1c-76f8-4e63-9da1-b6f16cb9c7e8">AI Acceleration Intern</a></td>
 <td>Marlborough, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490925369/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MIT Lincoln Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d696a07-8b36-4dce-8851-ce977bc6544e">Rapid Prototyping Electrical Engineer Co-Op (Spring/Summer) - Group 07-77</a></td>
+<td>Lexington, MA</td>
+<td align="center"><a href="https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-Electrical-Engineer-Co-Op-%28SpringSummer%29-Group-07-77-MA-02420/1451381000/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

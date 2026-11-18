@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T06:08:18.347Z",
-  "count": 4021,
+  "listingsChangedAt": "2026-11-18T07:06:18.980Z",
+  "count": 4023,
   "listings": [
     {
       "id": "b3e09e35-fe7f-4ff9-9228-779421ad60ea",
@@ -2346,7 +2346,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2357,6 +2357,31 @@
       "url": "https://trueinterview.io/jobs/39259725-7a5a-40bb-b760-c8a519e5396b",
       "postedAt": "2026-11-17T09:19:41.000Z",
       "updatedAt": "2026-11-17T09:19:41.000Z"
+    },
+    {
+      "id": "fdea55be-e9dc-479a-b932-55bf297e095b",
+      "company": "Bosch",
+      "title": "Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies",
+      "locations": [
+        "Stuttgart, Baden-Württemberg, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000162011479-mandatory-internship-automotive-networking-innovation-and-software-defined-vehicle-technologies",
+      "url": "https://trueinterview.io/jobs/fdea55be-e9dc-479a-b932-55bf297e095b",
+      "postedAt": "2026-11-17T07:54:40.000Z",
+      "updatedAt": "2026-11-17T07:54:40.000Z"
     },
     {
       "id": "26058bfc-ab36-40cc-a690-4bf6939d2c0a",
@@ -2384,6 +2409,31 @@
       "applyUrl": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
       "url": "https://trueinterview.io/jobs/26058bfc-ab36-40cc-a690-4bf6939d2c0a",
       "postedAt": "2026-11-17T00:31:03.000Z",
+      "updatedAt": "2026-11-17T06:00:00.000Z"
+    },
+    {
+      "id": "8d696a07-8b36-4dce-8851-ce977bc6544e",
+      "company": "MIT Lincoln Laboratory",
+      "title": "Rapid Prototyping Electrical Engineer Co-Op (Spring/Summer) - Group 07-77",
+      "locations": [
+        "Lexington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-Electrical-Engineer-Co-Op-%28SpringSummer%29-Group-07-77-MA-02420/1451381000/",
+      "url": "https://trueinterview.io/jobs/8d696a07-8b36-4dce-8851-ce977bc6544e",
+      "postedAt": "2026-11-17T06:00:00.000Z",
       "updatedAt": "2026-11-17T06:00:00.000Z"
     },
     {
