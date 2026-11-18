@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**822 open roles.** 605 in the United States & Canada · 217 elsewhere in the world.
+**823 open roles.** 606 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -136,6 +136,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1c869aed-f7af-4525-aac5-39d14417cd4a">2027 Summer Intern – AI &amp; Hardware Analytics, ADPT</a></td>
 <td>Warren, MI<br/>Milford, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475821185/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/21126a1c-76f8-4e63-9da1-b6f16cb9c7e8">AI Acceleration Intern</a></td>
+<td>Marlborough, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490925369/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
 <td>Normal, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda">University, 2027 Summer Games Data Scientist Intern - Rome, NY</a></td>
-<td>Rome, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460503549/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

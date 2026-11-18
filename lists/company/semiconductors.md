@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**277 open roles.** 175 in the United States & Canada · 102 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**278 open roles.** 176 in the United States & Canada · 102 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2f977f2c-3354-4187-8d09-d581b4d29d26">Intern - Segment Marketing Data Analyst</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491153904/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/a739d557-c6f6-4764-b688-7a1b65539658">Systems Engineering Intern - Power</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016343">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

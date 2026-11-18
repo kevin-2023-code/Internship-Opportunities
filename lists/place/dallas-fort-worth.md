@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**85 open roles.**
+**86 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5896ef0e-daa7-447c-bbf1-d29b9d1816c1">Platform Engineer Intern</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490954004/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/a739d557-c6f6-4764-b688-7a1b65539658">Systems Engineering Intern - Power</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016343">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

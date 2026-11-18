@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**156 open roles.**
+**157 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46e9e8df-95eb-494a-9a4a-8bf33ce4b0b0">Machine Learning Engineer - Summer Intern 2027</a></td>
 <td>Cambridge, MA<br/>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490954961/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/21126a1c-76f8-4e63-9da1-b6f16cb9c7e8">AI Acceleration Intern</a></td>
+<td>Marlborough, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490925369/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

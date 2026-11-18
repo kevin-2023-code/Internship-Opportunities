@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**726 open roles.** 575 in the United States & Canada · 151 elsewhere in the world.
+**727 open roles.** 576 in the United States & Canada · 151 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -213,6 +213,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d183fee0-2713-4291-b36e-b939ca37aa75">Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City</a></td>
 <td>Overland Park, KS</td>
 <td align="center"><a href="https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Progress Rail, A Caterpillar Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/da05d100-751a-44aa-95e0-983e62934a85">Software Test Engineer Intern, Advanced Rail Technology</a></td>
+<td>Southlake, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462320728/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/337b7ce1-cd21-4b9b-ab2a-2565d992469e">Spring 2027 Internship: Software Engineering</a></td>
 <td>Kirkland, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486445911/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco IT</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a369222-e5ed-4388-af90-286bccf998b0">CDS Intern - Software Engineer - IT Retail Media</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486466670/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
