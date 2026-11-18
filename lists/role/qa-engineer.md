@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**55 open roles.** 41 in the United States & Canada · 14 elsewhere in the world.
+**54 open roles.** 41 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -316,13 +316,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6068611-08a6-4358-ac5d-a417921736ee">Security Software Test Engineering – Student Intern</a></td>
-<td>Brno, South Moravia, Czechia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4491175488/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>

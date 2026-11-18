@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**76 open roles.** 61 in the United States & Canada · 15 elsewhere in the world.
+**77 open roles.** 61 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -461,6 +461,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a87c3c5a-464b-4156-bb46-d2bdc908fe5e">Internship: Secure Firmware Development (m/f/d)</a></td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491191110/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76d98a4b-fd81-4123-815f-253e4a46c229">Internship: Hardware and Software Development UWB (m/f/d)</a></td>
+<td>Gratkorn, Styria, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491172719/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

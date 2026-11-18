@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,986 open roles.** 1,556 in the United States & Canada · 430 elsewhere in the world.
+**1,988 open roles.** 1,558 in the United States & Canada · 430 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a338fab-4c28-4b96-878c-dd1accc7ed77">Backend Software Engineer Project Intern (Trust &amp; Safety) - 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464551264/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/7da433d5-4e14-4b9a-a0d7-303b8cf31067">Network Engineer Intern (Network Infrastructure) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474561055/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/48795427-68c7-447a-a253-1e5bfb5def04">Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475053540/">Apply</a></td>

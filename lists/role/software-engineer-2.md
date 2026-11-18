@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**718 open roles.** 568 in the United States & Canada · 150 elsewhere in the world.
+**726 open roles.** 575 in the United States & Canada · 151 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2183dcd-5bbb-495c-a42a-0a0f37737595">DevSecOps, Intern</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://jobs.keysight.com/jobs/55072/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Costco IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb9e72fd-a2b1-4b2c-9dcb-f80c79b2cb07">CDS Intern - Software Engineer - International Depot</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486468449/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/68531b95-0729-4552-9a9e-858ea86d9a43">CDS Intern - PowerApps Developer - ECM Digital Workflow</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486466668/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5759b262-21de-4999-a703-09c5c8901617">CDS Intern - Software Engineer - Costco Travel</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486457973/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d">Software Engineer Intern (Summer 2027)</a></td>
+<td>Southern Pines, North Carolina, United States<br/>Southern Pines, NC</td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484374568/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>RoboNex 88 Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineer Interns</a></td>
@@ -1236,6 +1285,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b1515723-e132-4496-aef1-e7d8b00e6f22">Software Engineer Intern</a></td>
 <td>Warsaw, Mazowieckie, Poland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491560136/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6068611-08a6-4358-ac5d-a417921736ee">Security Software Test Engineering – Student Intern</a></td>
+<td>Brno, South Moravia, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491175488/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

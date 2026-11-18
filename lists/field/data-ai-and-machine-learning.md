@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**820 open roles.** 604 in the United States & Canada · 216 elsewhere in the world.
+**822 open roles.** 605 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -132,10 +132,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Gorbel</strong></td>
-<td><a href="https://trueinterview.io/jobs/01a37e9c-a8a9-49a7-b934-1d052c192021">Data BI Analyst Co-Op</a></td>
-<td>Victor, NY</td>
-<td align="center"><a href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Data-BI-Analyst-Co-Op_REQ-2026-2266">Apply</a></td>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c869aed-f7af-4525-aac5-39d14417cd4a">2027 Summer Intern – AI &amp; Hardware Analytics, ADPT</a></td>
+<td>Warren, MI<br/>Milford, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475821185/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -262,6 +262,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4745ebaf-bb27-444a-9df1-cddd82964c0c">AI Engineer Intern</a></td>
 <td>Milwaukee, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466498952/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e28cb3-70d8-4987-8a61-62f127f1eee7">Research AI Engineer Intern 2027</a></td>
+<td>Yorktown Heights, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464223986/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda">University, 2027 Summer Games Data Scientist Intern - Rome, NY</a></td>
 <td>Rome, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460503549/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5">AI Engineering Intern Summer 2027</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468835425/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

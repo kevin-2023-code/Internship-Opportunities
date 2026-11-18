@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**810 open roles.** 719 in the United States & Canada · 91 elsewhere in the world.
+**812 open roles.** 719 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2275,6 +2275,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76d98a4b-fd81-4123-815f-253e4a46c229">Internship: Hardware and Software Development UWB (m/f/d)</a></td>
+<td>Gratkorn, Styria, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491172719/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b5926f-9b95-4a9c-adea-b39bc1bd840a">Internship in Project and Production Engineering</a></td>
 <td>Tranås, Jönköpings län, Sweden</td>
@@ -2321,6 +2328,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e0be761b-e62f-4534-8a64-455dc8033f7c">[2027 Internship] Full Stack Software Engineer Intern</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456229641/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arm</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4009e23-3fe2-4c94-844c-a5e423719648">FPGA Intern</a></td>
+<td>Trondheim, Trøndelag, Norway</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473818045/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Freising, Bayern, Germany</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015770">Apply</a></td>
 <td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Synopsys</strong></td>
-<td><a href="https://trueinterview.io/jobs/be6942f6-3d4b-49fb-90d1-a81f50beebbb">Technical Engineering Intern - Design for Test (DFT) Internship</a></td>
-<td>Ho Chi Minh City, Vietnam</td>
-<td align="center"><a href="https://careers.synopsys.com/job/ho-chi-minh-city/technical-engineering-intern-design-for-test-dft-internship/44408/102251697392">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7d651be-c785-496c-997f-b8ffc4d156de">Engineering Intern (6 months internship)</a></td>
-<td>Campoverde, Lazio, Italy</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016282473-engineering-intern-6-months-internship-?oga=true">Apply</a></td>
-<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>

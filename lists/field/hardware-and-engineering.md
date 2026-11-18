@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**810 open roles.** 719 in the United States & Canada · 91 elsewhere in the world.
+**812 open roles.** 719 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -80,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/17a0bc9c-2b71-4d70-80d2-d05e1f19404f">Reliability Engineer Intern - N5</a></td>
 <td>Orlando, FL<br/>Greater Orlando</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490465454/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Machines</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5dd434a-5a88-4851-91fb-db75ec134184">Flight Software Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575682&amp;lang=en_US">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -458,13 +465,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/955f241d-bb64-48ed-bc80-7e0069bae169">Internship, SI Chip Thermal Design Engineer, SI Hardware (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490558105/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rocketdyne</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3d2765d-89ce-4a10-9dcc-ce9b24f05e91">Systems Engineer Intern (Summer 2027)</a></td>
-<td>Jupiter, FL, 33478<br/>Mason, OH, 45040</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e2e53cb-a46b-4af4-8de5-702135f719fe&amp;jobId=13740">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

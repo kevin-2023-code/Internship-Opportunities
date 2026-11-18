@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**104 open roles.** 65 in the United States & Canada · 39 elsewhere in the world.
+**104 open roles.** 64 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8557de46-0a4e-4d3c-b7d7-83c46d4712cd">Data Analyst Intern</a></td>
 <td>Arlington, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490967302/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gorbel</strong></td>
-<td><a href="https://trueinterview.io/jobs/01a37e9c-a8a9-49a7-b934-1d052c192021">Data BI Analyst Co-Op</a></td>
-<td>Victor, NY</td>
-<td align="center"><a href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Data-BI-Analyst-Co-Op_REQ-2026-2266">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -489,6 +482,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e6ad6035-79ce-4e43-a0e9-f581ba704893">Data Science Intern (Data Analytics &amp; AI)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475584506/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4663a6bc-ea85-4661-9d1a-29c03ea9dc89">Product Manager Intern - Regional BI &amp; Planning (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491176020/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

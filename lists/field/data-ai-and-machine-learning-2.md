@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**820 open roles.** 604 in the United States & Canada · 216 elsewhere in the world.
+**822 open roles.** 605 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Lennox</strong></td>
+<td><a href="https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5">AI Engineering Intern Summer 2027</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468835425/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd">AI-Enabled Full-Stack Software Engineering Intern</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468834524/">Apply</a></td>
@@ -1470,6 +1477,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/4663a6bc-ea85-4661-9d1a-29c03ea9dc89">Product Manager Intern - Regional BI &amp; Planning (Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491176020/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/79823bf2-f398-4b95-acd6-c13905350675">AI Reinforcement Training Intern (TikTok Platform Responsibility) - 2027 Start</a></td>
 <td>Dublin, County Dublin, Ireland</td>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bristol, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/4245bb33-e482-4289-8975-cc6ab6a9dd5d">Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</a></td>
-<td>Ovar, Portugal</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/45808ad7-cd61-4b6d-9af3-646c8ee9e71e">AI Developer Intern</a></td>
-<td>Cyberjaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156347739-ai-developer-intern">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 </tbody>
 </table>

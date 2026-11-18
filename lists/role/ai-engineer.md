@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**265 open roles.** 175 in the United States & Canada · 90 elsewhere in the world.
+**266 open roles.** 176 in the United States & Canada · 90 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4745ebaf-bb27-444a-9df1-cddd82964c0c">AI Engineer Intern</a></td>
 <td>Milwaukee, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466498952/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e28cb3-70d8-4987-8a61-62f127f1eee7">Research AI Engineer Intern 2027</a></td>
+<td>Yorktown Heights, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464223986/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>

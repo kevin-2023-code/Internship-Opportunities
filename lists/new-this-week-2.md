@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**934 open roles.** 714 in the United States & Canada · 220 elsewhere in the world. Everything the employers put up this week.
+**937 open roles.** 715 in the United States & Canada · 222 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19ec927-48b1-4c30-a281-e2763d70da8a">Software Engineering Internship (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462537751/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Entegris</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb1501ee-7b8c-4121-9fe9-3c7e27206437">Embedded Software Engineering Intern</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lean TECHniques</strong></td>
+<td><a href="https://trueinterview.io/jobs/96683513-a1e7-4d8f-ac57-c4f120ababf0">Software Engineer Intern - Hybrid</a></td>
+<td>Johnston, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490368470/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ModMed</strong></td>
 <td><a href="https://trueinterview.io/jobs/746b2c1d-3fe3-4663-950e-23dedd6fee49">Software Engineer Intern</a></td>
@@ -2199,20 +2220,6 @@
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4653720?listingId=a266bbd7-f7d6-4175-a0c0-f09a89930550">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Marketeq Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd6ac5b5-7a58-4599-9208-62458e6d9d14">UX Design Research Intern ( U.S.A Only )</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489198421/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMT Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/655f7cb8-7f5d-4bf8-9cd4-7293cf9fc2f1">Marketing Analytics Intern</a></td>
-<td>7825 Mills Civic Pkwy, West Des Moines, IA, 50266-3910, US</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4649372?listingId=69abde9f-4206-40b1-9818-ea8ff474ea5f">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2318,6 +2325,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/76d98a4b-fd81-4123-815f-253e4a46c229">Internship: Hardware and Software Development UWB (m/f/d)</a></td>
+<td>Gratkorn, Styria, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491172719/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d6068611-08a6-4358-ac5d-a417921736ee">Security Software Test Engineering – Student Intern</a></td>
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491175488/">Apply</a></td>
@@ -2583,6 +2597,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Arm</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4009e23-3fe2-4c94-844c-a5e423719648">FPGA Intern</a></td>
+<td>Trondheim, Trøndelag, Norway</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473818045/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/abf688ad-5d81-43c6-840d-c11e23e0a370">【Class of 2028 &amp; 2029／Internship】Software Development Engineers , Amazon International Stores</a></td>
 <td>Tokyo, Japan</td>
@@ -2805,27 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475047793/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/e95c5eb1-01e9-43ae-bb34-934f100d67ed">SRE Intern</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482886283/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6ae2476-228b-4fd8-a1db-22e669228095">AI Agent Engineer Intern, AI Enablement Process - 2027</a></td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481616965/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d35877a2-0306-4175-842f-b41686742e4b">Client System Firmware Engineer (RDSS Intern)</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481632355/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
 </tr>
 </tbody>
 </table>

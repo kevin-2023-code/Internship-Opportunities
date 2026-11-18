@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**718 open roles.** 568 in the United States & Canada · 150 elsewhere in the world.
+**726 open roles.** 575 in the United States & Canada · 151 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -132,6 +132,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Liebherr USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6e97e0c-70e5-4fa4-89a2-a74212521891">Software Development Intern - Spring 2027</a></td>
+<td>Newport News, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491149978/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Machines</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5dd434a-5a88-4851-91fb-db75ec134184">Flight Software Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575682&amp;lang=en_US">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IDEMIA Public Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/990a451d-feaf-48b4-a064-60501de0dba7">Software Engineer Internship - Summer 2027</a></td>
 <td>Reston, VA</td>
@@ -153,6 +167,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Cohesity</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8f68dad-f33d-495d-bd6d-9895822d4801">Software Engineering Intern (Summer 2027)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483748289/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>General Motors</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bb95b8f-78dd-4a65-aee7-77f5ac7b3653">2027 Summer Intern- ADAS Software Engineer, ADPT</a></td>
 <td>Warren, MI<br/>Milford, MI</td>
@@ -164,6 +185,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94e7c4e8-c92d-4b4b-9cce-cbbe3a1d035a">Intern, Software Developer, Stagiaire en Développement Logiciel</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490940989/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SRI</strong></td>
+<td><a href="https://trueinterview.io/jobs/324b7168-0ed4-49ec-a27e-cec34993bfce">Drexel University Co-op: Software Engineering/Full stack development</a></td>
+<td>Princeton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490152606/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veryable</strong></td>
+<td><a href="https://trueinterview.io/jobs/5896ef0e-daa7-447c-bbf1-d29b9d1816c1">Platform Engineer Intern</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490954004/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SRI</strong></td>
+<td><a href="https://trueinterview.io/jobs/741452d4-95d8-4ef5-b827-a0fa4ae324b1">Drexel University Co-op: Embedded Software Engineering</a></td>
+<td>Princeton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490155460/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -339,6 +381,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/51a71a86-8121-4451-baa5-640d626d37d3">Software Engineer Intern</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466450020/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbc29450-1d71-4719-ac49-c54cea1c6777">2027 Software Engineering Summer Internship</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466378196/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a369222-e5ed-4388-af90-286bccf998b0">CDS Intern - Software Engineer - IT Retail Media</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486466670/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2183dcd-5bbb-495c-a42a-0a0f37737595">DevSecOps, Intern</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://jobs.keysight.com/jobs/55072/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco IT</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb9e72fd-a2b1-4b2c-9dcb-f80c79b2cb07">CDS Intern - Software Engineer - International Depot</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486468449/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/68531b95-0729-4552-9a9e-858ea86d9a43">CDS Intern - PowerApps Developer - ECM Digital Workflow</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486466668/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5759b262-21de-4999-a703-09c5c8901617">CDS Intern - Software Engineer - Costco Travel</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486457973/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra Nevada Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d">Software Engineer Intern (Summer 2027)</a></td>
-<td>Southern Pines, North Carolina, United States<br/>Southern Pines, NC</td>
-<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484374568/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

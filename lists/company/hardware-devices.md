@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**190 open roles.** 144 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**191 open roles.** 145 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d18da591-b3a0-460b-9732-5a1d045eb4d7">DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</a></td>
 <td>Plantation, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466378203/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cbc29450-1d71-4719-ac49-c54cea1c6777">2027 Software Engineering Summer Internship</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466378196/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>

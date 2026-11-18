@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**934 open roles.** 714 in the United States & Canada · 220 elsewhere in the world. Everything the employers put up this week.
+**937 open roles.** 715 in the United States & Canada · 222 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -314,6 +314,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Liebherr USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6e97e0c-70e5-4fa4-89a2-a74212521891">Software Development Intern - Spring 2027</a></td>
+<td>Newport News, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491149978/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Machines</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5dd434a-5a88-4851-91fb-db75ec134184">Flight Software Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575682&amp;lang=en_US">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Health Care Service Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bfac105-5cf2-41a4-9475-13da6057c671">Early Careers - Infrastructure Engineer Intern</a></td>
 <td>Chicago, IL</td>
@@ -398,10 +412,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Gorbel</strong></td>
-<td><a href="https://trueinterview.io/jobs/01a37e9c-a8a9-49a7-b934-1d052c192021">Data BI Analyst Co-Op</a></td>
-<td>Victor, NY</td>
-<td align="center"><a href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Data-BI-Analyst-Co-Op_REQ-2026-2266">Apply</a></td>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c869aed-f7af-4525-aac5-39d14417cd4a">2027 Summer Intern – AI &amp; Hardware Analytics, ADPT</a></td>
+<td>Warren, MI<br/>Milford, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475821185/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1025,6 +1039,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/51a71a86-8121-4451-baa5-640d626d37d3">Software Engineer Intern</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466450020/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbc29450-1d71-4719-ac49-c54cea1c6777">2027 Software Engineering Summer Internship</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466378196/">Apply</a></td>
+<td align="center">15 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e28cb3-70d8-4987-8a61-62f127f1eee7">Research AI Engineer Intern 2027</a></td>
+<td>Yorktown Heights, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464223986/">Apply</a></td>
 <td align="center">15 Nov 2026</td>
 </tr>
 <tr>
@@ -2610,13 +2638,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Rocketdyne</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3d2765d-89ce-4a10-9dcc-ce9b24f05e91">Systems Engineer Intern (Summer 2027)</a></td>
-<td>Jupiter, FL, 33478<br/>Mason, OH, 45040</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e2e53cb-a46b-4af4-8de5-702135f719fe&amp;jobId=13740">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Rockland Trust</strong></td>
 <td><a href="https://trueinterview.io/jobs/018d9cbd-141f-4fd3-bb83-dad4b0f1b7f6">IT Intern</a></td>
 <td>Rockland, MA, United States</td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/221f453a-e627-4f4a-9799-d103100f1a16">Transducer Manufacturing Engineering Co-Op</a></td>
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016822316-transducer-manufacturing-engineering-co-op">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Two Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/c19ec927-48b1-4c30-a281-e2763d70da8a">Software Engineering Internship (Summer 2027)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462537751/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Entegris</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb1501ee-7b8c-4121-9fe9-3c7e27206437">Embedded Software Engineering Intern</a></td>
-<td>Bloomington, MN</td>
-<td align="center"><a href="https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lean TECHniques</strong></td>
-<td><a href="https://trueinterview.io/jobs/96683513-a1e7-4d8f-ac57-c4f120ababf0">Software Engineer Intern - Hybrid</a></td>
-<td>Johnston, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490368470/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

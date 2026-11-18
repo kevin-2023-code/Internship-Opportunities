@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**820 open roles.** 604 in the United States & Canada · 216 elsewhere in the world.
+**822 open roles.** 605 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/4245bb33-e482-4289-8975-cc6ab6a9dd5d">Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</a></td>
+<td>Ovar, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/45808ad7-cd61-4b6d-9af3-646c8ee9e71e">AI Developer Intern</a></td>
+<td>Cyberjaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000156347739-ai-developer-intern">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/8163c7ad-d1f6-4ef4-8aba-a51417396c14">Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE</a></td>

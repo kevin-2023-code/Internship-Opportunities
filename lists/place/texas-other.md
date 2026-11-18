@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**46 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuitive Machines</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5dd434a-5a88-4851-91fb-db75ec134184">Flight Software Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575682&amp;lang=en_US">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sysco</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbd49236-2f92-4399-89f4-d52fccdebd99">Software Dev Engineer Intern</a></td>

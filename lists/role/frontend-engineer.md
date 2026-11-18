@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**16 open roles.** 14 in the United States & Canada · 2 elsewhere in the world.
+**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,7 +25,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Coddi</strong></td>
+<td><a href="https://trueinterview.io/jobs/af8bc895-4ae6-4cf0-a008-64f4b0017af3">Frontend Software Engineering Intern (Web &amp; Mobile)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491118805/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>WebstaurantStore</strong></td>
 <td><a href="https://trueinterview.io/jobs/682d38aa-644c-414e-a62c-da706870c41c">Front-End Developer Intern - Marketing Sites (Remote)</a></td>
 <td>Lititz, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490103251/">Apply</a></td>
