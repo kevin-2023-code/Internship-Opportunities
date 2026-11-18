@@ -181,10 +181,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/30c5d9c4-7d8c-4d4f-b13d-964fa382ebf7">Client Security &amp; Data Foundation Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://lifeattiktok.com/search/7708750900450134325">Apply</a></td>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/06d47212-c3a0-4097-8c86-079a0b1fb60f">Intern, Data and AI Enablement</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491535769/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>

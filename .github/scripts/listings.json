@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T09:06:07.149Z",
-  "count": 4023,
+  "listingsChangedAt": "2026-11-18T10:05:52.999Z",
+  "count": 4025,
   "listings": [
     {
       "id": "80875ba6-8830-481d-bd6b-3bcf02368a8d",
@@ -21,7 +21,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -32,6 +32,33 @@
       "url": "https://trueinterview.io/jobs/80875ba6-8830-481d-bd6b-3bcf02368a8d",
       "postedAt": "2026-11-18T07:07:52.000Z",
       "updatedAt": "2026-11-18T07:07:52.000Z"
+    },
+    {
+      "id": "67df3921-0cc9-41ba-81ef-bfbd3f41fe49",
+      "company": "Airbnb",
+      "title": "Software Engineering Intern (BS/MS)",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "url": "https://trueinterview.io/jobs/67df3921-0cc9-41ba-81ef-bfbd3f41fe49",
+      "postedAt": "2026-11-18T05:00:14.000Z",
+      "updatedAt": "2026-11-18T05:00:14.000Z"
     },
     {
       "id": "b3e09e35-fe7f-4ff9-9228-779421ad60ea",
@@ -2577,7 +2604,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -2613,6 +2640,31 @@
       "url": "https://trueinterview.io/jobs/f156637a-e8a2-42b3-8bc3-2e4c96deeab8",
       "postedAt": "2026-11-17T04:14:15.000Z",
       "updatedAt": "2026-11-17T04:14:15.000Z"
+    },
+    {
+      "id": "06d47212-c3a0-4097-8c86-079a0b1fb60f",
+      "company": "Constellation Brands",
+      "title": "Intern, Data and AI Enablement",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491535769/",
+      "url": "https://trueinterview.io/jobs/06d47212-c3a0-4097-8c86-079a0b1fb60f",
+      "postedAt": "2026-11-17T02:09:00.000Z",
+      "updatedAt": "2026-11-17T02:09:00.000Z"
     },
     {
       "id": "2666b6c8-b1b1-47f5-a625-0cd843098146",

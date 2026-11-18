@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**922 open roles.** 701 in the United States & Canada · 221 elsewhere in the world. Everything the employers put up this week.
+**924 open roles.** 703 in the United States & Canada · 221 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Airbnb</strong></td>
+<td><a href="https://trueinterview.io/jobs/67df3921-0cc9-41ba-81ef-bfbd3f41fe49">Software Engineering Intern (BS/MS)</a></td>
+<td>San Francisco, California</td>
+<td align="center"><a href="https://careers.airbnb.com/positions/8360478?gh_jid=8360478">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Veolia</strong></td>
 <td><a href="https://trueinterview.io/jobs/b3e09e35-fe7f-4ff9-9228-779421ad60ea">Mechanical Engineering Intern</a></td>
@@ -563,6 +570,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f156637a-e8a2-42b3-8bc3-2e4c96deeab8">Summer Intern - Network Reliability Engineering Intern</a></td>
 <td>Secaucus, New Jersey</td>
 <td align="center"><a href="https://jobs.jobvite.com/coresite-careers/job/oXq2AfwJ">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/06d47212-c3a0-4097-8c86-079a0b1fb60f">Intern, Data and AI Enablement</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491535769/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7c9a1e8-129d-4c24-8e4f-31bad1d5de02">2027 Spring Software Engineering Undergraduate Intern/Co-op (R20377)</a></td>
 <td>Rochester, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463896027/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bask Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2fe442e-4b05-45ad-ba1f-a1b10d15f927">AI Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://apply.workable.com/j/D493DA5EB5">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/af8c609f-ff98-43ef-93d1-ee80f6dc49d8">Spring 2027 Artificial Intelligence/Machine Learning Co-Op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473515101/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
