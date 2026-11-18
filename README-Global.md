@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 16:04 UTC_
+_Last updated: 2026-11-18 17:04 UTC_
 
-**854 open internships** from **313 employers** · **215 posted in the last 7 days** · refreshed hourly
+**854 open internships** from **313 employers** · **214 posted in the last 7 days** · refreshed hourly
 
 ### Browse 854 internships by field
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (192)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (71)](lists/place/greater-china.md) · [🇬🇧 London & the UK (45)](lists/place/uk.md) · [🇫🇷 Paris & France (32)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (32)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (30)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (27)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (22)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (215)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (214)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -91,49 +91,49 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2705346f-aaea-463a-b0a0-5c819bfb6bde">Backend Engineer Intern</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475594041/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e86c7df-fb36-4e7b-b57e-9dff44c3e333">Internship: Software Engineer (m/f/d) - Java &amp; Python Tools Development for Trust Provisioning</a> 🆕</td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491176725/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2b3fc574-7f03-42b9-bf25-6e354ebeba39">GenAI Field Application Engineer Intern</a> 🆕</td>
 <td>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491185385/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/137061da-3839-480a-9770-eb7328e5598e">Web Application Developer Intern</a> 🆕</td>
 <td>Sibiu, Sibiu, Romania</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491194065/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a87c3c5a-464b-4156-bb46-d2bdc908fe5e">Internship: Secure Firmware Development (m/f/d)</a> 🆕</td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491191110/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0b325fc8-e2c7-41f9-8e6f-cbdc95c8fa37">Internship: Software Toolchain &amp; Debugger Development (f/m/d)</a> 🆕</td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491174838/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Visa</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1515723-e132-4496-aef1-e7d8b00e6f22">Software Engineer Intern</a> 🆕</td>
 <td>Warsaw, Mazowieckie, Poland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491560136/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
@@ -636,7 +636,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/929d0af0-00a9-45af-9b83-c504a3094c79">Extracurricular Internship: AI Software Engineer (f/m/div.)</a> 🆕</td>
 <td>Aveiro, Portugal</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000162122629-extracurricular-internship-ai-software-engineer-f-m-div-">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Tencent</strong></td>
@@ -671,7 +671,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8522e918-198d-433b-94c3-1d10953318b6">WeChat - Data &amp; AI Analytics Intern (Summer 2027)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490247012/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
@@ -776,7 +776,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
@@ -978,14 +978,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/962acb01-955c-45e6-ab56-c4c5e16fb5b4">FPGA Engineer Intern</a> 🆕</td>
 <td>Lausanne</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/7e07eb82-d1e7-4258-b0d6-7371b26f5923">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/473ace86-be63-48d8-8b45-44b88dc57718">Internship: Customer Application Support, Security &amp; IoT (m/f/d)</a> 🆕</td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491171720/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1146,7 +1146,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a></td>
 <td>I14</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 </tbody>
 </table>
@@ -1306,7 +1306,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0">Product Manager Intern, User Acquisition</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479837326/">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Shopee</strong></td>
@@ -1745,7 +1745,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c">Intern - Local IT</a></td>
 <td>Guadalajara - Periférico, Jalisco, Mexico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000160658859-intern-local-it">Apply</a></td>
-<td align="center">8d</td>
+<td align="center">9d</td>
 </tr>
 <tr>
 <td><strong>Riverty</strong></td>
