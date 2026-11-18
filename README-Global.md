@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 15:04 UTC_
+_Last updated: 2026-11-18 16:04 UTC_
 
-**854 open internships** from **313 employers** · **216 posted in the last 7 days** · refreshed hourly
+**854 open internships** from **313 employers** · **215 posted in the last 7 days** · refreshed hourly
 
 ### Browse 854 internships by field
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (192)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (71)](lists/place/greater-china.md) · [🇬🇧 London & the UK (45)](lists/place/uk.md) · [🇫🇷 Paris & France (32)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (32)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (30)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (27)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (22)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (21)](lists/place/anz.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (216)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (215)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -140,14 +140,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a61be99b-a2bc-4f32-ad3b-f8a462080e9f">IOS Engineer Intern (Global Payment) - 2027 Start</a> 🆕</td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475508975/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6068611-08a6-4358-ac5d-a417921736ee">Security Software Test Engineering – Student Intern</a> 🆕</td>
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491175488/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
@@ -643,21 +643,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e6ad6035-79ce-4e43-a0e9-f581ba704893">Data Science Intern (Data Analytics &amp; AI)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475584506/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/4663a6bc-ea85-4661-9d1a-29c03ea9dc89">Product Manager Intern - Regional BI &amp; Planning (Spring 2027)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491176020/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/79823bf2-f398-4b95-acd6-c13905350675">AI Reinforcement Training Intern (TikTok Platform Responsibility) - 2027 Start</a> 🆕</td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482953199/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
@@ -992,7 +992,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/76d98a4b-fd81-4123-815f-253e4a46c229">Internship: Hardware and Software Development UWB (m/f/d)</a> 🆕</td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491172719/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
@@ -1055,7 +1055,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d4009e23-3fe2-4c94-844c-a5e423719648">FPGA Intern</a> 🆕</td>
 <td>Trondheim, Trøndelag, Norway</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473818045/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Synopsys Inc</strong></td>
@@ -1083,7 +1083,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/990b0d44-d8b5-41d3-a95d-9039f2eed5ef">Undergraduate Placement Year 2027 – Engineering Internship in Product Reliability department – Heat Pumps</a></td>
 <td>Worcester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161511309-undergraduate-placement-year-2027-engineering-internship-in-product-reliability-department-heat-pumps">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Renesas</strong></td>
@@ -1334,7 +1334,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6cd0bff1-878a-456f-88cf-545d9045ebb8">AI Creative Experience Design Intern</a></td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486826429/">Apply</a></td>
-<td align="center">14d</td>
+<td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>UBS</strong></td>
@@ -1550,7 +1550,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0dcea27a-dc57-4c5b-87aa-e733f6c28294">2027 Quantitative Developer Intern, Tel Aviv</a></td>
 <td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487780049/">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Optiver</strong></td>

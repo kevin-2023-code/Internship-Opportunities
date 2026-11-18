@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**896 open roles.** 680 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
+**889 open roles.** 674 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,48 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Koniag Cyber</strong></td>
-<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
-<td>Greater Minneapolis-St. Paul Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bybit</strong></td>
-<td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
-<td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/514dea3b-f30f-4e7c-a5f0-d21880a80cce">Multimodal Algo Researcher (AI Innovation Center) Intern - 2026 Soaring Star Talent Program</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4354835476/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
@@ -680,13 +638,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/79995646-039c-4539-8a9d-b4e06845da40">Portfolio Data Analyst Intern - Summer 2027</a></td>
 <td>Edinburgh, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8910310002">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Loft Orbital Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/9490dfcd-fbd8-4586-8408-a1c8d861f08d">AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</a></td>
-<td>Toulouse, Occitanie</td>
-<td align="center"><a href="https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

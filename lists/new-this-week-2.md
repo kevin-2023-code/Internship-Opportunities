@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**896 open roles.** 680 in the United States & Canada · 216 elsewhere in the world. Everything the employers put up this week.
+**889 open roles.** 674 in the United States & Canada · 215 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1933,48 +1933,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489488724/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Navy Federal Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffd4672d-9645-450f-9cff-180d64c9516c">Intern - Year Round (AI Engineering)</a></td>
-<td>Vienna, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481517443/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>REGENT</strong></td>
-<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
-<td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia | Water Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b">Manufacturing Software Engineer Intern</a></td>
-<td>Boulder, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487492521/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336">SAP iXp Intern - AI Developer</a></td>
-<td>Palo Alto, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160905751-sap-ixp-intern-ai-developer">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Akoncagua AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e87ff90-16f4-4308-ba9f-da486464df57">AI Researcher Intern – Winter / Spring 2027 (PhD)</a></td>
-<td>Lakeland, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489491288/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scale</strong></td>
-<td><a href="https://trueinterview.io/jobs/c64ec06d-34fe-4eb8-be6d-c61f5927fd34">Machine Learning Research Intern (Summer 2027)</a></td>
-<td>San Francisco Bay Area<br/>New York City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481290867/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2826,6 +2784,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Oulu, Finland</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963">Apply</a></td>
 <td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Koniag Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
+<td>Greater Minneapolis-St. Paul Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bybit</strong></td>
+<td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
+<td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/514dea3b-f30f-4e7c-a5f0-d21880a80cce">Multimodal Algo Researcher (AI Innovation Center) Intern - 2026 Soaring Star Talent Program</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4354835476/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
 </tr>
 </tbody>
 </table>
