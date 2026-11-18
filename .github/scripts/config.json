@@ -11,11 +11,14 @@
     "Canada"
   ],
   "homeLabel": "the United States & Canada",
-  "featuredDays": 30,
-  "readmeRowsPerSection": {
-    "featured": 25,
-    "fold": 50
-  },
+  "maxAgeDays": 60,
+  "product": "<img src=\"assets/ti.svg\" alt=\"TrueInterview\" width=\"18\"> **The small icon beside each Apply button** opens the same role on [TrueInterview](https://trueinterview.io/applications/jobs), where you can score it against your résumé, track the application and get new matches by email.",
+  "pointers": [
+    "🎓 For new-grad roles, see [New-Grad-Opportunities](https://github.com/kevin-2023-code/New-Grad-Opportunities)",
+    "📝 For what these companies ask in interviews, see [Tech-Interview-Questions](https://github.com/kevin-2023-code/Tech-Interview-Questions)",
+    "🎯 For online-assessment questions, see [Tech-OA-Questions](https://github.com/kevin-2023-code/Tech-OA-Questions)",
+    "📦 For every row as JSON, see [listings.json](./.github/scripts/listings.json)"
+  ],
   "files": {
     "home": "README.md",
     "global": "README-Global.md"

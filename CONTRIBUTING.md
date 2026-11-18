@@ -1,135 +1,85 @@
 # Contributing
 
-This list is **generated**, not maintained by hand. Nobody types a row into the README, which is
-why there is no "add a job" pull request to make.
+This list is **generated**. Once an hour a workflow reads the public
+[TrueInterview jobs API](https://trueinterview.io/developers/api), writes
+[`listings.json`](./.github/scripts/listings.json) and re-renders the two READMEs. Nobody types a
+row into a table, so there is no "add a job" pull request to make — a hand-edited row is
+overwritten by the next run.
 
-## Setting the repository up
+## Adding a role, or fixing one
 
-The hourly run **commits to this repository**, so GitHub Actions needs permission to write:
+Open an issue with one of the two forms:
 
-> Settings → Actions → General → Workflow permissions → **Read and write permissions** → Save
+* [**New role**](../../issues/new?template=new_role.yml) — a real opening that is not on the list.
+  It needs the link to the employer's own posting.
+* [**Edit role**](../../issues/new?template=edit_role.yml) — a role that has closed, or a row with
+  the wrong company, location, category or link.
 
-Without it every run reads the catalog, renders the files, and fails on the push with a 403.
-There is nothing else to configure — the API needs no key, and the generator has no dependencies.
+Both are handled at the source, in the catalog, and reach this list on the next hourly run.
 
-Scheduled workflows run from the repository's **default branch** only, and GitHub switches the
-schedule off after 60 days of no repository activity. This one commits whenever the listings move,
-which is its own heartbeat; the banner on the Actions tab is the only warning if it is ever
-switched off.
+## Which roles are listed
 
-## Something on the list is wrong
+A role in the catalog is printed when all of these hold:
 
-Stale role, wrong company, wrong location, a role that is not really entry-level —
-[open an issue](../../issues/new) with the row and what is wrong with it.
+1. **It has a direct link to the employer's own application page** — a careers site, or the
+   applicant-tracking system the employer hires through. A role whose only link goes to LinkedIn,
+   Indeed or another job board is left out
+   ([`AGGREGATOR_HOSTS`](./.github/scripts/lib/select.mjs)).
+2. **It is in one of the five sections**: Software Engineering; Data Science, AI & Machine
+   Learning; Quantitative Finance; Hardware & Engineering; Product & Design. IT support and
+   help-desk roles are not listed.
+3. **It is in the file's region**: the United States and Canada in [README.md](./README.md),
+   everywhere else — and roles whose country could not be read — in
+   [README-Global.md](./README-Global.md).
+4. **It is inside the age window.** The window starts at the 60 days the API serves and is
+   shortened, a day at a time, until the file fits under GitHub's rendering limit. The oldest roles
+   go first; nothing is sampled. Each README states the window it ended up with.
 
-Please fix it at the source rather than in the table: these rows come from the TrueInterview job
-catalog, which also feeds the board, the search and the email digests, so a correction there fixes
-every surface at once, and a correction here is overwritten by the next hourly run.
+`listings.json` is not filtered: it carries every one of the internships the query returned.
 
-## An internship is missing
+## What the flags mean
 
-Same thing — [open an issue](../../issues/new) with the posting URL. Two reasons a real role is
-absent, both fixable:
+* 🔥 — the employer is in the [company registry](./.github/scripts/lib/company-registry.mjs) as a
+  technology company with 10,000+ employees. To add or correct an employer, change its entry there:
+  `'ramp': { sector: 'fintech', size: 'large' }`. The key is what `companyKey()` returns, the
+  sectors and sizes are listed in [`segments.mjs`](./.github/scripts/lib/segments.mjs), and if you
+  are not sure of either, leave the employer out — an unlisted company is simply not flagged.
+* 🎓 — the title itself asks for a Master's or a PhD.
 
-* **The catalog has not seen it.** The ingest is broad but not exhaustive.
-* **It was classified out of this list.** The query is *internships* in the six technical fields
-  ([`config.json`](./.github/scripts/config.json)). A posting the classifier read as a full-time
-  role, or whose field was read as non-technical, will not appear. Say so in the issue and the
-  classification gets looked at.
+There is no sponsorship, citizenship or "closed" flag. The API does not say which roles sponsor a
+visa, and it returns only roles that are still open: a role that closes leaves the list on the next
+run.
 
-## Adding a company to the registry
+## Changing the generator
 
-The company filters — Big Tech, fintech, quant trading, mid-sized tech, startups, and everything
-else on the [filter hub](./lists/README.md) — are derived from two facts about the **employer**, which no job posting carries:
-what sector it trades in, and how many people work there. Those live in one hand-written file,
-[`lib/company-registry.mjs`](./.github/scripts/lib/company-registry.mjs), keyed by the same slug
-every other surface files a company under.
-
-If an employer you know is missing from the company filters, that is the two-line fix:
-
-```js
-  'ramp': { sector: 'fintech', size: 'large' },
-```
-
-* **`sector`** is one of the ids in [`lib/segments.mjs`](./.github/scripts/lib/segments.mjs) —
-  `ai`, `fintech`, `quant-trading`, `semiconductors`, `dev-infra`, `enterprise-saas`,
-  `aerospace-defense`, `engineering-services` and the rest. The file lists what each one covers.
-* **`size`** is a headcount band: `mega` (10,000+), `large` (1,000–9,999), `mid` (200–999),
-  `startup` (under 200).
-* **The key** is what `companyKey('Ramp')` returns: lowercase, `&` spelled out, everything else
-  hyphenated. A test fails if a key is not in that form, because a key that is not canonical is an
-  entry nothing will ever look up.
-
-Three rules, and the first one matters more than the other two:
-
-1. **If you are not sure, leave it out.** `null` on either field is a legitimate answer and so is
-   no entry at all. A company that is absent appears in the main list and in every field, role and
-   location filter exactly as before — it is simply in no company-type filter. A company that is
-   *wrong* puts an employer on a page a reader chose deliberately, and it is the reason they stop
-   trusting the other filters. Never infer a sector from the name: "Fable Security" is not
-   necessarily a security company.
-2. **Size is the company, not the office.** Alphabet's headcount for Google; a household-brand
-   subsidiary (LinkedIn, Waymo) is judged on the subsidiary.
-3. **"Big Tech" is not a field you can set.** It is derived: a technology-sector employer with
-   10,000+ people. If a company belongs there, the fix is its sector and size, not a new bucket.
-
-## Changing how the list is built
-
-Pull requests against `.github/scripts/` are welcome.
+Pull requests against `.github/scripts/` are welcome. There are no dependencies to install.
 
 ```bash
-node --test .github/scripts/*.test.mjs   # the tests CI runs (includes a link check)
+node --test .github/scripts/*.test.mjs   # the tests CI runs (includes a link and size check)
 node .github/scripts/fetch.mjs           # re-read the catalog (network)
 node .github/scripts/render.mjs          # re-render from the committed listings.json (no network)
 ```
 
-What the generator writes:
+Four things to know first:
 
-| Path | What it is |
-| --- | --- |
-| `README.md` / `README-Global.md` | The index: the newest roles per field, between the `LISTINGS` markers. |
-| `lists/README.md` | The filter hub: every filter, its count, and the rule it applies. |
-| `lists/company/*.md` | One page per sector and per size cut. |
-| `lists/role/*.md` | One page per role the catalog classifies. |
-| `lists/place/*.md` | One page per metro. |
-| `lists/field/*.md` | One page per technical field — every row, not the sample the README shows. |
-| `lists/remote.md`, `lists/new-this-week.md` | The two cuts that are about the posting rather than the employer. |
+1. **`render.mjs` reads `listings.json`, never the network**, so the layout can be worked on
+   against the committed snapshot.
+2. **Only what is between the `LISTINGS:START` / `LISTINGS:END` markers is generated.** The lines
+   above and below them are hand-written and survive every run.
+3. **A failed read never publishes an empty list.** `fetch.mjs` throws instead of writing one, and
+   refuses a read that has collapsed to under half of the committed list.
+4. **Nothing is written over budget.** GitHub stops rendering a Markdown file at 512,000 bytes, so
+   `render.mjs` narrows the window until each README is under 490,000, and fails the run if it
+   cannot.
 
-Everything under `lists/` is generated whole and **pruned**: a file there that a run did not
-produce is deleted, because a filter page nothing updates keeps answering with roles that closed
-weeks ago.
-
-Five things to know before changing the generator:
-
-1. **`render.mjs` reads `listings.json`, never the network.** Work on the layout against the
-   committed data — it is a real snapshot and it holds the awkward rows (a company called `Ci&t`,
-   an office spelled three different ways, postings with no country at all).
-2. **Only what is between the `LISTINGS:START` / `LISTINGS:END` markers is generated.** Everything
-   else in the README is hand-written and survives every run, so prose fixes are ordinary pull
-   requests.
-3. **A failed read must never publish an empty list.** `fetch.mjs` throws rather than writing one,
-   and the workflow leaves the committed files alone. A list that says "no roles" after an outage
-   is worse than a list an hour out of date — it tells a reader the jobs are gone.
-4. **Nothing is written until every byte budget passes.** GitHub stops rendering a Markdown file at
-   512,000 bytes and prints a truncation notice instead of the rest — the sibling
-   [new-grad list](https://github.com/kevin-2023-code/New-Grad-Opportunities) published a
-   554,638-byte README once, and its bottom third was simply not drawn. This list's largest was
-   202,234 bytes, which is the same ceiling one refresh further away. `render.mjs` renders
-   everything in memory, checks the budgets, and only then writes.
-5. **A filter must say what it selects.** Every track carries a `note` that is printed on its page
-   and in the hub table. A filter without one is an opinion with a table under it.
-
-## The data
-
-Every row is public metadata about a posting somebody else published: company, title, location,
-the employer's application URL, and when it was posted. The posting's own text is not copied into
-this repository — the `Apply` link goes to the employer, and the role link goes to the board.
-
-The same rows are available as JSON at [`listings.json`](./.github/scripts/listings.json), or from
-the public API that produced them:
+The data is also available directly:
 
 ```bash
 curl 'https://trueinterview.io/api/v1/jobs?kind=intern&family=tech&limit=50'
 ```
 
-No key, 240 requests a minute, documented at <https://trueinterview.io/developers/api>.
+## Setting up a fork
+
+The hourly run commits to the repository, so GitHub Actions needs write permission:
+Settings → Actions → General → Workflow permissions → **Read and write permissions**. The API needs
+no key. Scheduled workflows run from the default branch only.

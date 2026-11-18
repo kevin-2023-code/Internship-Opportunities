@@ -8,4 +8,4 @@ contact_links:
     about: Real OA and interview questions, and how each company's loop runs, company by company.
   - name: How this list is built
     url: https://github.com/kevin-2023-code/Internship-Opportunities/blob/main/CONTRIBUTING.md
-    about: The generator, the filters, and the rules they hold.
+    about: Which roles are listed, what the flags mean, and how the generator works.

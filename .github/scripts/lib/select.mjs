@@ -3,25 +3,120 @@
 // Pure and clock-free like format.mjs: `now` travels in, nothing here reads a
 // clock or the network. All of it is exercised by render.test.mjs.
 
-import { ageInDays } from './format.mjs';
+import { ageInDays, safeUrl } from './format.mjs';
 
 /**
  * The sections a list is cut into, in reading order.
  *
- * These are the catalog's own six technical fields, not a vocabulary invented
- * here — the API returns `family` from them, so a section can never hold a row
- * the board would file elsewhere. `Other` catches a row whose field is outside
- * the six, which is only reachable if the query is widened beyond `tech`.
+ * Five of the catalog's own technical fields — the API returns `family` from
+ * them, so a section can never hold a row the board would file elsewhere. The
+ * sixth, `IT & Support` (help desks, desktop support, systems administration),
+ * is deliberately not a section: it is a different job search from the one
+ * this list is for, and {@link groupByCategory} leaves those rows out rather
+ * than filing them under a heading that would bury the rest.
  */
 export const CATEGORIES = [
   { family: 'Software', emoji: '💻', title: 'Software Engineering' },
-  { family: 'Data & AI', emoji: '🤖', title: 'Data, AI & Machine Learning' },
+  { family: 'Data & AI', emoji: '🤖', title: 'Data Science, AI & Machine Learning' },
+  { family: 'Quantitative Finance', emoji: '📈', title: 'Quantitative Finance' },
   { family: 'Hardware & Engineering', emoji: '🔧', title: 'Hardware & Engineering' },
   { family: 'Product & Design', emoji: '📱', title: 'Product & Design' },
-  { family: 'Quantitative Finance', emoji: '📈', title: 'Quantitative Finance' },
-  { family: 'IT & Support', emoji: '🧰', title: 'IT & Support' },
-  { family: null, emoji: '💼', title: 'Other' },
 ];
+
+const SECTION_FAMILIES = new Set(CATEGORIES.map((category) => category.family));
+
+/** True when the row's field is one this list prints a section for. */
+export function inListedField(job) {
+  return SECTION_FAMILIES.has(job.family);
+}
+
+/**
+ * Hosts that are a job board or an aggregator rather than an employer.
+ *
+ * A row is listed only when its Application button can go straight to the
+ * employer's own posting — a company careers site or the applicant-tracking
+ * system it hires through (Greenhouse, Workday, Lever, Ashby…). A link that
+ * lands on another board's copy of the posting is one more click, one more
+ * sign-in, and often a posting the employer has already closed.
+ *
+ * Matched on the registrable end of the host, so `www.linkedin.com`,
+ * `sg.linkedin.com` and `linkedin.com` are one entry. Add a host here when a
+ * board turns up in the Application column; never remove an employer by adding
+ * its careers site.
+ */
+export const AGGREGATOR_HOSTS = [
+  'linkedin.com',
+  'indeed.com',
+  'glassdoor.com',
+  'ziprecruiter.com',
+  'simplyhired.com',
+  'monster.com',
+  'dice.com',
+  'careerbuilder.com',
+  'talent.com',
+  'jooble.org',
+  'adzuna.com',
+  'careerjet.com',
+  'jobrapido.com',
+  'wellfound.com',
+  'builtin.com',
+  'joinhandshake.com',
+  'wayup.com',
+  'ripplematch.com',
+  'simplify.jobs',
+  'jobright.ai',
+  'otta.com',
+  'welcometothejungle.com',
+  'levels.fyi',
+  'ycombinator.com',
+  'workatastartup.com',
+  '1point3acres.com',
+  'internsg.com',
+  'free-work.com',
+  'ctgoodjobs.hk',
+  'careercross.com',
+  'arbetsformedlingen.se',
+  'localjobnetwork.com',
+  'talentnet.community',
+  'apptrkr.com',
+  'click2apply.net',
+  'universityaffairs.ca',
+  'handicap-job.com',
+  'vitijob.com',
+  'trueinterview.io',
+];
+
+/** `efinancialcareers.hk`, `.fr`, `.sg`… — one board under many endings. */
+const AGGREGATOR_NAMES = ['efinancialcareers', 'indeed', 'linkedin', 'glassdoor'];
+
+/** The lowercased host of a URL, without `www.`, or '' when it is not one. */
+export function hostOf(value) {
+  const url = safeUrl(value);
+  if (!url) return '';
+  return new URL(url).hostname.toLowerCase().replace(/^www\./, '');
+}
+
+/**
+ * True when the row's apply link goes to the employer rather than to a board.
+ *
+ * A row with no usable apply URL is NOT direct: the Application cell would be
+ * empty, and a row a reader cannot act on is not worth one of the lines this
+ * page has.
+ */
+export function hasDirectApplyLink(job) {
+  const host = hostOf(job.applyUrl);
+  if (!host) return false;
+  if (AGGREGATOR_HOSTS.some((board) => host === board || host.endsWith(`.${board}`))) return false;
+  const labels = host.split('.');
+  return !AGGREGATOR_NAMES.some((name) => labels.includes(name));
+}
+
+/** True when the row was posted (or re-posted) inside `days` days. An undated
+ *  posting is in no window — the same rule the API's own window holds. */
+export function withinDays(job, days, now) {
+  const age = ageInDays(job.updatedAt, now);
+  return age !== null && age <= days;
+}
 
 /**
  * The GitHub anchor for a heading, so the index links at its own sections.
@@ -127,34 +222,41 @@ export function countryUnknown(job) {
 /**
  * Rows grouped into {@link CATEGORIES} order, dropping the empty sections.
  *
- * Every row lands in exactly one section: the `Other` entry has a null family
- * and takes whatever the six did not.
+ * A row whose field is not one of the five is in no section. Callers that
+ * report counts filter with {@link inListedField} first, so the number in a
+ * headline is always the number of rows under it.
  */
 export function groupByCategory(jobs) {
-  const buckets = new Map(CATEGORIES.map((c) => [c.title, { ...c, jobs: [] }]));
-  const fallback = buckets.get('Other');
-  for (const job of jobs) {
-    const match = CATEGORIES.find((c) => c.family && c.family === job.family);
-    (match ? buckets.get(match.title) : fallback).jobs.push(job);
-  }
+  const buckets = new Map(CATEGORIES.map((c) => [c.family, { ...c, jobs: [] }]));
+  for (const job of jobs) buckets.get(job.family)?.jobs.push(job);
   return [...buckets.values()].filter((bucket) => bucket.jobs.length > 0);
 }
 
+/** The UTC calendar day a posting went up, as `YYYY-MM-DD`, or '' if undated. */
+function dayOf(job) {
+  const at = Date.parse(job.updatedAt ?? '');
+  return Number.isFinite(at) ? new Date(at).toISOString().slice(0, 10) : '';
+}
+
 /**
- * Splits one section's rows into the table a reader sees and the fold below it.
+ * The order a table prints in: newest DAY first, then company, then title.
  *
- * The cut is by AGE, not by count: a fold that opens on "the 51st role" tells a
- * reader nothing, while "posted in the last fortnight" is a fact they can use
- * to decide whether the rest is worth expanding. Roles with no date are in the
- * fold — an undated posting is not a recent one (the same rule the board's own
- * freshness window holds).
+ * By calendar day rather than by the second, so one employer's postings from
+ * the same day sit on consecutive rows and the table can print the name once
+ * and `↳` under it. The day is the UTC date of the posting, not its age from
+ * the clock, so the order is a property of the data — it does not reshuffle
+ * as the hour advances. Total, like {@link sortJobs}: the id breaks every tie.
  */
-export function splitByFreshness(jobs, featuredDays, now) {
-  const featured = [];
-  const older = [];
-  for (const job of jobs) {
-    const days = ageInDays(job.updatedAt, now);
-    (days !== null && days <= featuredDays ? featured : older).push(job);
-  }
-  return { featured, older };
+export function sortForDisplay(jobs) {
+  const name = (job) => String(job.companyLabel || job.company || '').toLowerCase();
+  // Code-unit comparison, not localeCompare: the hourly run and a laptop must
+  // agree on the order whatever locale each one's ICU was built with.
+  const compare = (x, y) => (x < y ? -1 : x > y ? 1 : 0);
+  return [...jobs].sort(
+    (a, b) =>
+      compare(dayOf(b), dayOf(a)) ||
+      compare(name(a), name(b)) ||
+      compare(a.title ?? '', b.title ?? '') ||
+      compare(a.id ?? '', b.id ?? ''),
+  );
 }

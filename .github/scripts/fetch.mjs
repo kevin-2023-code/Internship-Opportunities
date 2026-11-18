@@ -54,9 +54,8 @@ async function main() {
   //
   // The floor is a COLLAPSE, not a zero. A degraded upstream — a search index
   // that answers 200 with a short page — comes back with a handful of rows
-  // rather than none, and one row was enough to pass: the render then drops
-  // every filter under its minimum and the pruner deletes their pages, so a
-  // blip an hour long costs every link anybody had shared.
+  // rather than none, and one row was enough to pass: the render would then
+  // publish a list of a dozen roles where there had been a thousand.
   const previous = await readFile(LISTINGS_PATH, 'utf8').then((raw) => JSON.parse(raw)).catch(() => null);
   const previousCount = previous?.listings?.length ?? 0;
   if (!allowCollapse && listings.length < previousCount * COLLAPSE_FLOOR) {
@@ -72,7 +71,7 @@ async function main() {
   // This file used to carry the time of the read, so it changed on every run
   // whatever the catalog did — and the hourly workflow commits on `git diff
   // --quiet`, which saw that one line. Every no-op guard downstream
-  // (`changedBeyondTimestamp`, `writeIfChanged`, the whole "a history where
+  // (`changedBeyondClock`, the whole "a history where
   // most commits are the clock advancing cannot be read for what it is for"
   // argument) was defeated one step later by this file's own timestamp.
   //

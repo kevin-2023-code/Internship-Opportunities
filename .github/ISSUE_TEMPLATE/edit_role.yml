@@ -1,0 +1,41 @@
+name: Edit role
+description: A role that is closed, or a row with the wrong company, location, category or link.
+title: "[Edit role]: company — role"
+labels: ["edit-role"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The rows come from the TrueInterview job catalog, so a correction is made at the source and
+        reaches this list on the next hourly run. An edit typed into the README would be overwritten.
+  - type: input
+    id: row
+    attributes:
+      label: Which role
+      description: The company and role title as the row shows them, or the link behind its Apply button.
+      placeholder: Acme — Software Engineer Intern (Summer 2027)
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What needs to change
+      options:
+        - The role is closed or filled
+        - The Apply link is broken or goes to the wrong page
+        - Wrong company
+        - Wrong location
+        - Wrong category
+        - Not an internship / not a new-grad role
+        - Duplicate of another row
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What it should say
+      description: The correction, and how you know.
+      placeholder: The posting returns a 404 on the employer's site as of today.
+    validations:
+      required: true

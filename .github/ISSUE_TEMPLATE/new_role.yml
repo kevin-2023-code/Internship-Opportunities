@@ -1,0 +1,41 @@
+name: New role
+description: A real opening that is not on the list.
+title: "[New role]: company — role"
+labels: ["new-role"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The list is generated from the TrueInterview job catalog, so a role is added at the source
+        and appears here on the next hourly run. A role is listed only with a direct link to the
+        employer's own posting, so that link is the one thing this form cannot do without.
+  - type: input
+    id: url
+    attributes:
+      label: Link to the posting
+      description: The employer's own application page (its careers site or its ATS), not LinkedIn or another job board.
+      placeholder: https://jobs.example.com/careers/12345
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Role title
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: Seattle, WA — or Remote (US)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: For example, the role is on the employer's site but was filed here as the wrong field or level.

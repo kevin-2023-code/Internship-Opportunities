@@ -1,32 +1,46 @@
 // The generator's tests. `node --test .github/scripts/`
 //
 // They run in CI before any run is allowed to rewrite the published list,
-// because the two failures that matter here are both silent: a renderer that
-// drops rows still produces a plausible-looking table, and an index whose
-// anchors have drifted still produces links that simply do nothing.
+// because the failures that matter here are all silent: a renderer that drops
+// rows still produces a plausible-looking table, an index whose anchors have
+// drifted still produces links that simply do nothing, and a page a few bytes
+// over GitHub's limit loses its bottom third without an error anywhere.
 
 import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 
-import { ageLabel, escapeHtml, locationLabel, markers, safeUrl } from './lib/format.mjs';
+import { ageLabel, asksAdvancedDegree, escapeHtml, flagsOf, locationLabel, markers, safeUrl } from './lib/format.mjs';
 import {
+  AGGREGATOR_HOSTS,
   anchorOf,
   CATEGORIES,
   countryUnknown,
   dedupeByApplication,
   groupByCategory,
+  hasDirectApplyLink,
+  hostOf,
+  inListedField,
+  sortForDisplay,
   sortJobs,
-  splitByFreshness,
   splitByRegion,
+  withinDays,
 } from './lib/select.mjs';
 import {
+  APPLY_BUTTON,
   BLOCK_END,
   BLOCK_START,
-  changedBeyondTimestamp,
+  GITHUB_RENDER_LIMIT,
+  README_MAX_BYTES,
+  SITE_ICON,
+  changedBeyondClock,
+  fitWindow,
   renderListings,
   renderTable,
   replaceBlock,
 } from './lib/markdown.mjs';
+import { companyKey, companyLabel } from './lib/companies.mjs';
+import { COMPANY_SEGMENTS } from './lib/company-registry.mjs';
+import { BIG_TECH, SECTORS, SIZES, coverage, inSizeCut, segmentOf } from './lib/segments.mjs';
 
 const NOW = Date.parse('2026-09-13T12:00:00Z');
 const daysAgo = (n) => new Date(NOW - n * 86_400_000).toISOString();
@@ -47,7 +61,7 @@ function job(over = {}) {
     level: 'newgrad',
     kind: 'newgrad',
     sponsorship: null,
-    source: '1point3acres',
+    source: 'ats-boards',
     applyUrl: 'https://jobs.example.com/1',
     url: 'https://trueinterview.io/jobs/1',
     postedAt: daysAgo(1),
@@ -55,6 +69,19 @@ function job(over = {}) {
     ...over,
   };
 }
+
+const page = (over = {}) =>
+  renderListings({
+    jobs: [job()],
+    now: NOW,
+    days: 60,
+    noun: 'roles',
+    backToTop: 'title',
+    product: 'The product line.',
+    pointers: ['For the other list, see [there](./README-Global.md)'],
+    scopeNote: 'Roles in the United States & Canada.',
+    ...over,
+  });
 
 describe('cells', () => {
   it('escapes text a posting controls', () => {
@@ -70,12 +97,6 @@ describe('cells', () => {
     assert.equal(safeUrl('data:text/html,<script>'), null);
     assert.equal(safeUrl(''), null);
     assert.equal(safeUrl(undefined), null);
-  });
-
-  it('renders an unlinkable apply URL as a dash rather than a dead link', () => {
-    const table = renderTable([job({ applyUrl: 'javascript:alert(1)' })], NOW);
-    assert.ok(!table.includes('javascript:'));
-    assert.ok(table.includes('<td align="center">—</td>'));
   });
 
   it('says nothing about the age of an undated posting', () => {
@@ -94,45 +115,27 @@ describe('cells', () => {
     assert.equal(locationLabel(job({ remote: 'remote', countries: ['Other'], cities: [] })), 'Remote');
   });
 
-  it('lists canonical cities and the posting together, then the country', () => {
-    assert.equal(
-      locationLabel(job({ cities: ['Mountain View, CA'], locations: ['Mountain View, CA'] })),
-      'Mountain View, CA',
-    );
-    assert.equal(
-      locationLabel(job({ cities: [], locations: ['Milano, Italy'], countries: ['Other'] })),
-      'Milano, Italy',
-    );
-    assert.equal(locationLabel(job({ cities: [], locations: [], countries: ['Japan'] })), 'Japan');
-    assert.equal(locationLabel(job({ cities: [], locations: [], countries: [] })), '—');
+  it('prints up to three places one per line', () => {
+    const label = locationLabel(job({ cities: ['Austin, TX'], locations: ['Austin, TX', 'Boston, MA', 'Denver, CO'] }));
+    assert.equal(label, 'Austin, TX<br>Boston, MA<br>Denver, CO');
   });
 
-  it('never lets the canonical cities hide a place the posting listed', () => {
-    // `cities` is the pipeline's resolution and it is a SUBSET: a real row
-    // carries cities ['New York, NY'] against locations ['Menlo Park, CA',
-    // 'New York, NY']. While `cities` shadowed `locations`, Menlo Park was
-    // unprintable anywhere — including on the Bay Area page the row was placed
-    // on BY Menlo Park, which is what made that page look broken.
+  it('folds four or more places away, with the count as the summary', () => {
+    const label = locationLabel(
+      job({ cities: [], locations: ['Austin, TX', 'Boston, MA', 'Denver, CO', 'Omaha, NE', 'Reno, NV'] }),
+    );
     assert.equal(
-      locationLabel(job({ cities: ['New York, NY'], locations: ['Menlo Park, CA', 'New York, NY'] })),
-      'New York, NY<br/>Menlo Park, CA',
+      label,
+      '<details><summary><strong>5 locations</strong></summary>' +
+        'Austin, TX<br>Boston, MA<br>Denver, CO<br>Omaha, NE<br>Reno, NV</details>',
     );
   });
 
-  it('puts the city that earned the row its page first, and says what it cut', () => {
-    const wide = job({
-      cities: ['Austin, TX'],
-      locations: ['Austin, TX', 'Santa Clara, CA', 'Boulder, CO', 'Reston, VA'],
-      countries: ['United States'],
-    });
-    // No metro named: the posting's own order, and the cap is visible.
-    assert.equal(locationLabel(wide), 'Austin, TX<br/>Santa Clara, CA<br/>Boulder, CO<br/>+1 more');
-    // On the Denver page, the place that put it there leads. Without this the
-    // row read "Austin, TX" under the heading "Denver, Boulder & Colorado".
-    assert.match(locationLabel(wide, 'denver-boulder'), /^Boulder, CO/);
-    // And the sort is STABLE, so a row already naming the right city is
-    // byte-identical to what it printed before.
-    assert.equal(locationLabel(wide, 'austin'), locationLabel(wide));
+  it('does not let one posting with hundreds of offices take over the page', () => {
+    const locations = Array.from({ length: 200 }, (_, i) => `Town${String.fromCharCode(65 + (i % 26))}${i}, TX`);
+    const label = locationLabel(job({ cities: [], locations }));
+    assert.ok(label.includes('<strong>200 locations</strong>'));
+    assert.ok(label.includes('+175 more'));
   });
 
   it('prints one place once, whichever way the ATS spelled it', () => {
@@ -146,6 +149,11 @@ describe('cells', () => {
     assert.equal(label, 'Mountain View, CA, USA');
   });
 
+  it('falls back to the country, then to a dash, when the posting names no place', () => {
+    assert.equal(locationLabel(job({ cities: [], locations: [], countries: ['Canada'] })), 'Canada');
+    assert.equal(locationLabel(job({ cities: [], locations: [], countries: [] })), '—');
+  });
+
   it('does not say "hybrid" twice when the posting already said it once', () => {
     assert.equal(
       locationLabel(job({ remote: 'hybrid', cities: [], locations: ['Hybrid (UK)'], countries: ['United Kingdom'] })),
@@ -157,34 +165,121 @@ describe('cells', () => {
     );
   });
 
+  it('escapes a location that tries to close the table', () => {
+    const label = locationLabel(job({ cities: [], locations: ['</td></tr></table><script>x</script>'] }));
+    assert.ok(!label.includes('<script>'));
+    assert.ok(!label.includes('</table>'));
+  });
+});
+
+describe('flags', () => {
+  it('reads an advanced degree from the title, and only from the title', () => {
+    assert.ok(asksAdvancedDegree('Research Scientist Intern, AI Maps (PhD)'));
+    assert.ok(asksAdvancedDegree('Machine Learning Engineering Intern (Masters/PhD)'));
+    assert.ok(asksAdvancedDegree("Master's Machine Learning Engineer, Intern"));
+    assert.ok(asksAdvancedDegree('Postdoctoral Researcher in Polymer Rheology'));
+    assert.ok(!asksAdvancedDegree('Software Engineer Intern'));
+  });
+
+  it('does not mistake a word that merely looks like a degree', () => {
+    assert.ok(!asksAdvancedDegree('Master Data Analyst'));
+    assert.ok(!asksAdvancedDegree('Software Developer, Master Data Management'));
+    assert.ok(!asksAdvancedDegree('YPHD Programmer'));
+    assert.ok(!asksAdvancedDegree('MBA Enrollment Data Analyst'));
+  });
+
+  it("leaves a title alone when a bachelor's is enough", () => {
+    assert.ok(!asksAdvancedDegree("Data Science Intern - Bachelor's/Master's"));
+    assert.ok(!asksAdvancedDegree('Software Engineering Intern (BS/MS/PhD)'));
+  });
+
   it('marks only what the row can actually evidence', () => {
-    assert.equal(markers(job(), 1), '🆕');
-    assert.equal(markers(job({ remote: 'remote' }), 30), '🌐');
-    assert.equal(markers(job({ sponsorship: 'U.S. Citizenship is Required' }), 30), '🛂');
-    assert.equal(markers(job(), null), '');
+    assert.equal(markers(job()), '');
+    assert.equal(markers(job({ bigTech: true })), '🔥');
+    assert.equal(markers(job({ bigTech: true, title: 'Research Intern (PhD)' })), '🔥 🎓');
+    // No row can be flagged for sponsorship or work mode: the field is null on
+    // every row the API returns, and a flag nothing fills is a wrong legend.
+    assert.deepEqual(flagsOf(job({ sponsorship: 'U.S. Citizenship is Required', remote: 'remote' })), []);
+  });
+
+  it('calls an employer Big Tech only when the registry says so', () => {
+    assert.equal(inSizeCut(segmentOf('Zzz Definitely Not A Real Employer'), BIG_TECH), false);
+    assert.equal(inSizeCut({ sector: 'consumer-internet', size: 'mega' }, BIG_TECH), true);
+    assert.equal(inSizeCut({ sector: 'banking-finance', size: 'mega' }, BIG_TECH), false);
+  });
+});
+
+describe('which rows are listed', () => {
+  it('keeps a link to the employer or to the ATS it hires through', () => {
+    for (const applyUrl of [
+      'https://boards.greenhouse.io/acme/jobs/1',
+      'https://acme.wd1.myworkdayjobs.com/en-US/careers/job/1',
+      'https://jobs.lever.co/acme/1',
+      'https://careers.acme.com/positions/1',
+    ]) {
+      assert.ok(hasDirectApplyLink(job({ applyUrl })), applyUrl);
+    }
+  });
+
+  it('leaves out a link that lands on a job board', () => {
+    for (const applyUrl of [
+      'https://www.linkedin.com/jobs/view/4491794194/',
+      'https://sg.linkedin.com/jobs/view/1',
+      'https://www.indeed.com/viewjob?jk=1',
+      'https://uk.indeed.com/viewjob?jk=1',
+      'https://www.efinancialcareers.hk/jobs-1',
+      'https://www.glassdoor.co.uk/job-listing/1',
+    ]) {
+      assert.ok(!hasDirectApplyLink(job({ applyUrl })), applyUrl);
+    }
+  });
+
+  it('does not mistake an employer whose name contains a board for the board', () => {
+    assert.ok(hasDirectApplyLink(job({ applyUrl: 'https://careers.notlinkedin.com/1' })));
+    assert.ok(hasDirectApplyLink(job({ applyUrl: 'https://indeedflex.example.com/1' })));
+  });
+
+  it('leaves out a row with no usable link at all', () => {
+    assert.ok(!hasDirectApplyLink(job({ applyUrl: null })));
+    assert.ok(!hasDirectApplyLink(job({ applyUrl: '' })));
+    assert.ok(!hasDirectApplyLink(job({ applyUrl: 'javascript:alert(1)' })));
+    assert.equal(hostOf('https://WWW.Example.com/x'), 'example.com');
+    assert.equal(hostOf('not a url'), '');
+  });
+
+  it('lists every board as a bare host, the form the matcher compares', () => {
+    for (const host of AGGREGATOR_HOSTS) {
+      assert.match(host, /^[a-z0-9-]+(\.[a-z0-9-]+)+$/, host);
+      assert.ok(!host.startsWith('www.'), host);
+    }
+  });
+
+  it('has no section for IT support, and files nothing there under another heading', () => {
+    assert.ok(!inListedField(job({ family: 'IT & Support' })));
+    assert.ok(!inListedField(job({ family: null })));
+    assert.ok(inListedField(job({ family: 'Quantitative Finance' })));
+    assert.deepEqual(groupByCategory([job({ family: 'IT & Support' }), job({ family: 'Healthcare' })]), []);
+  });
+
+  it('puts an undated posting in no window', () => {
+    assert.ok(withinDays(job({ updatedAt: daysAgo(30) }), 30, NOW));
+    assert.ok(!withinDays(job({ updatedAt: daysAgo(31) }), 30, NOW));
+    assert.ok(!withinDays(job({ updatedAt: null }), 30, NOW));
   });
 });
 
 describe('selection', () => {
   it('anchors a heading the way GitHub does, leading hyphen and all', () => {
     assert.equal(anchorOf('💻 Software Engineering'), '-software-engineering');
-    assert.equal(anchorOf('🤖 Data, AI & Machine Learning'), '-data-ai--machine-learning');
+    assert.equal(anchorOf('🤖 Data Science, AI & Machine Learning'), '-data-science-ai--machine-learning');
   });
 
   it('keeps the invisible variation selector, because GitHub keeps it', () => {
     // Checked against github-slugger itself. An emoji that carries U+FE0F
     // loses the emoji and KEEPS the selector, so the anchor opens with a
-    // character nothing renders. Dropping it here made the two most-used jump
-    // links on the filter hub scroll to the top of the page, and no round-trip
-    // assertion can see it: the generator would have been wrong on both sides.
+    // character nothing renders.
     assert.equal(anchorOf('🗂️ By field'), '️-by-field');
-    assert.equal(anchorOf('🏷️ By company type'), '️-by-company-type');
-    // The same headings WITHOUT a selector, which is why this went unnoticed.
     assert.equal(anchorOf('📍 By location'), '-by-location');
-    assert.equal(anchorOf('⚡ Quick filters'), '-quick-filters');
-    // A zero-width joiner is stripped, unlike the selector — do not assume the
-    // invisible characters behave alike.
-    assert.equal(anchorOf('🧑‍💻 By role'), '-by-role');
   });
 
   it('folds two rows that lead to the same application form', () => {
@@ -197,14 +292,11 @@ describe('selection', () => {
   });
 
   it('never folds rows that have no application URL to compare', () => {
-    const kept = dedupeByApplication([
-      job({ id: 'a', applyUrl: null }),
-      job({ id: 'b', applyUrl: null }),
-    ]);
+    const kept = dedupeByApplication([job({ id: 'a', applyUrl: null }), job({ id: 'b', applyUrl: null })]);
     assert.equal(kept.length, 2);
   });
 
-  it('orders newest first, and totally — the same input cannot render two ways', () => {
+  it('orders the data file newest first, and totally', () => {
     const rows = [
       job({ id: 'b', company: 'Beta', updatedAt: daysAgo(1) }),
       job({ id: 'a', company: 'Alpha', updatedAt: daysAgo(1) }),
@@ -214,7 +306,20 @@ describe('selection', () => {
     assert.deepEqual(sortJobs([...rows].reverse()).map((j) => j.id), ['c', 'a', 'b']);
   });
 
-  it('puts a role open in two regions in both lists', () => {
+  it('orders a table by day, then keeps one employer on consecutive rows', () => {
+    const at = (iso) => new Date(iso).toISOString();
+    const rows = [
+      job({ id: '1', company: 'Acme', title: 'B', updatedAt: at('2026-09-12T23:00:00Z') }),
+      job({ id: '2', company: 'Globex', title: 'A', updatedAt: at('2026-09-12T12:00:00Z') }),
+      job({ id: '3', company: 'Acme', title: 'A', updatedAt: at('2026-09-12T01:00:00Z') }),
+      job({ id: '4', company: 'Zeta', title: 'A', updatedAt: at('2026-09-13T01:00:00Z') }),
+      job({ id: '5', company: 'Old', title: 'A', updatedAt: null }),
+    ];
+    assert.deepEqual(sortForDisplay(rows).map((j) => j.id), ['4', '3', '1', '2', '5']);
+    assert.deepEqual(sortForDisplay([...rows].reverse()).map((j) => j.id), ['4', '3', '1', '2', '5']);
+  });
+
+  it('puts a role open in two regions in the home list', () => {
     const { home, elsewhere } = splitByRegion(
       [job({ id: 'both', countries: ['Canada', 'United Kingdom'] })],
       ['United States', 'Canada'],
@@ -232,32 +337,34 @@ describe('selection', () => {
     assert.ok(countryUnknown(rows[1]));
   });
 
-  it('keeps the category order, and catches a field outside the six', () => {
-    const buckets = groupByCategory([
-      job({ family: 'Quantitative Finance' }),
+  it('keeps the category order and drops the sections nothing landed in', () => {
+    const grouped = groupByCategory([
+      job({ family: 'Product & Design' }),
       job({ family: 'Software' }),
-      job({ family: 'Healthcare' }),
+      job({ family: 'Quantitative Finance' }),
     ]);
-    assert.deepEqual(buckets.map((b) => b.title), ['Software Engineering', 'Quantitative Finance', 'Other']);
+    assert.deepEqual(grouped.map((b) => b.title), ['Software Engineering', 'Quantitative Finance', 'Product & Design']);
   });
 
-  it('drops the sections nothing landed in', () => {
-    assert.deepEqual(groupByCategory([job()]).map((b) => b.title), ['Software Engineering']);
-    assert.deepEqual(groupByCategory([]), []);
-  });
-
-  it('folds an undated posting away with the old ones', () => {
-    const { featured, older } = splitByFreshness(
-      [job({ id: 'fresh', updatedAt: daysAgo(2) }), job({ id: 'stale', updatedAt: daysAgo(40) }), job({ id: 'undated', updatedAt: null })],
-      14,
-      NOW,
-    );
-    assert.deepEqual(featured.map((j) => j.id), ['fresh']);
-    assert.deepEqual(older.map((j) => j.id), ['stale', 'undated']);
+  it('cuts the list into the five sections, in reading order', () => {
+    assert.deepEqual(CATEGORIES.map((c) => c.family), [
+      'Software',
+      'Data & AI',
+      'Quantitative Finance',
+      'Hardware & Engineering',
+      'Product & Design',
+    ]);
   });
 });
 
 describe('the table', () => {
+  it('has the five columns, in order', () => {
+    const table = renderTable([job()], NOW);
+    assert.ok(
+      table.includes('<tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>'),
+    );
+  });
+
   it('repeats a company as ↳ and names it again when it changes', () => {
     const table = renderTable(
       [job({ company: 'Acme' }), job({ company: 'Acme' }), job({ company: 'Globex' })],
@@ -268,10 +375,41 @@ describe('the table', () => {
     assert.ok(table.includes('<strong>Globex</strong>'));
   });
 
+  it('prints the role as plain text with its flags after it', () => {
+    const table = renderTable([job({ title: 'Research Intern (PhD)', bigTech: true })], NOW);
+    assert.ok(table.includes('<td>Research Intern (PhD) 🔥 🎓</td>'));
+  });
+
+  it('sends the button to the employer and the icon to the role on the site', () => {
+    const table = renderTable([job({ applyUrl: 'https://jobs.example.com/1?a=1&b=2' })], NOW);
+    assert.ok(
+      table.includes(
+        `<td><a href="https://jobs.example.com/1?a=1&amp;b=2"><img src="${APPLY_BUTTON}" alt="Apply" width="70"></a> ` +
+          `<a href="https://trueinterview.io/jobs/1"><img src="${SITE_ICON}" alt="TrueInterview" width="22"></a></td>`,
+      ),
+    );
+    // Exactly two links per row: the title is not one of them.
+    assert.equal(table.match(/<a href=/g).length, 2);
+  });
+
+  it('renders an unlinkable URL as nothing rather than a dead link', () => {
+    const table = renderTable([job({ applyUrl: 'javascript:alert(1)', url: 'javascript:alert(2)' })], NOW);
+    assert.ok(!table.includes('javascript:'));
+    assert.ok(table.includes('<td>—</td>'));
+  });
+
   it('escapes a hostile title instead of rendering it', () => {
     const table = renderTable([job({ title: 'SWE <img src=x onerror=alert(1)>' })], NOW);
-    assert.ok(!table.includes('<img'));
+    assert.ok(!table.includes('<img src=x'));
     assert.ok(table.includes('&lt;img src=x onerror=alert(1)&gt;'));
+  });
+
+  it('puts every row on one line, ending in its age', () => {
+    const table = renderTable([job({ updatedAt: daysAgo(5) }), job({ updatedAt: null })], NOW);
+    const rows = table.split('\n').filter((line) => line.startsWith('<tr><td>'));
+    assert.equal(rows.length, 2);
+    assert.ok(rows[0].endsWith('<td>5d</td></tr>'));
+    assert.ok(rows[1].endsWith('<td>—</td></tr>'));
   });
 
   it('renders nothing at all for no rows, rather than an empty table', () => {
@@ -280,53 +418,98 @@ describe('the table', () => {
 });
 
 describe('the page', () => {
-  const rendered = () =>
-    renderListings({
-      jobs: [
-        job({ id: '1', company: 'Acme', updatedAt: daysAgo(1) }),
-        job({ id: '2', company: 'Globex', family: 'Data & AI', updatedAt: daysAgo(40) }),
-      ],
-      now: NOW,
-      featuredDays: 14,
-      noun: 'new-grad roles',
-      backToTop: 'new-grad-opportunities',
-      sourceNote: 'Roles in the United States & Canada.',
-    });
+  const rows = [
+    job({ id: 'new', company: 'Acme', family: 'Software', updatedAt: daysAgo(2) }),
+    job({ id: 'old', company: 'Oldco', family: 'Software', updatedAt: daysAgo(40) }),
+    job({ id: 'ml', company: 'Globex', family: 'Data & AI', updatedAt: daysAgo(3), bigTech: true }),
+    job({ id: 'none', company: 'Undated', family: 'Software', updatedAt: null }),
+  ];
 
   it('links its index at anchors the headings actually have', () => {
-    const page = rendered();
-    const headings = [...page.matchAll(/^## (.+)$/gm)].map((m) => anchorOf(m[1]));
-    const links = [...page.matchAll(/\]\(#([^)]+)\)/g)].map((m) => m[1]);
-    const sectionLinks = links.filter((l) => l !== 'new-grad-opportunities');
-    assert.ok(sectionLinks.length > 0);
-    for (const target of sectionLinks) assert.ok(headings.includes(target), `#${target} is not a heading`);
+    const out = page({ jobs: rows });
+    const linked = [...out.matchAll(/\]\(#([^)]+)\)\*\* \(/g)].map((m) => m[1]);
+    const headings = [...out.matchAll(/^## (.+)$/gm)].map((m) => anchorOf(m[1]));
+    assert.ok(linked.length >= 2);
+    for (const anchor of linked) assert.ok(headings.includes(anchor), `no heading for #${anchor}`);
   });
 
-  it('puts an older role behind a fold rather than dropping it', () => {
-    const page = rendered();
-    assert.ok(page.includes('<details>'));
-    assert.ok(page.includes('Globex'));
+  it('counts the headline, the index and the tables over the same rows', () => {
+    const out = page({ jobs: rows, days: 60 });
+    assert.ok(out.includes('### Browse 3 roles by category'));
+    assert.ok(out.includes('(2)') && out.includes('(1)'));
+    assert.equal(out.split('\n').filter((line) => line.startsWith('<tr><td>')).length, 3);
+  });
+
+  it('narrows by age, dropping the oldest and stating the window', () => {
+    const out = page({ jobs: rows, days: 30 });
+    assert.ok(out.includes('### Browse 2 roles by category'));
+    assert.ok(!out.includes('Oldco'));
+    assert.ok(out.includes('Posted in the last 30 days'));
+    assert.ok(out.includes('Roles in the United States & Canada.'));
+  });
+
+  it('prints the top matter in order: index, product, legend, pointers, window, tables', () => {
+    const out = page({ jobs: rows });
+    const order = ['### Browse', 'The product line.', '## Legend', 'Looking for something else?', 'Posted in the last', '<table>'];
+    const positions = order.map((needle) => out.indexOf(needle));
+    assert.ok(positions.every((at) => at !== -1), JSON.stringify(positions));
+    assert.deepEqual([...positions].sort((a, b) => a - b), positions);
+  });
+
+  it('puts in the legend only the flags a printed row carries', () => {
+    const fire = page({ jobs: rows });
+    assert.ok(fire.includes('- 🔥 '));
+    assert.ok(!fire.includes('- 🎓 '));
+    const none = page({ jobs: [job()] });
+    assert.ok(!none.includes('## Legend'));
+    // The flags this data cannot fill are in no legend at all.
+    for (const emoji of ['🛂', '🇺🇸', '🔒', '🆕', '🌐']) assert.ok(!fire.includes(emoji), emoji);
+  });
+
+  it('has none of the things the page used to send a reader away to', () => {
+    const out = page({ jobs: rows });
+    assert.ok(!out.includes('lists/'));
+    assert.ok(!out.includes('<details><summary>Show'));
+    assert.ok(!out.includes('Posting the most'));
   });
 
   it('says the list is empty rather than rendering an empty page', () => {
-    const page = renderListings({
-      jobs: [],
-      now: NOW,
-      featuredDays: 14,
-      noun: 'new-grad roles',
-      backToTop: 'x',
-      sourceNote: 'note',
-    });
-    assert.ok(page.includes('No new-grad roles matched'));
-    assert.ok(page.startsWith(BLOCK_START));
-    assert.ok(page.trimEnd().endsWith(BLOCK_END));
+    const out = page({ jobs: [job({ updatedAt: daysAgo(90) })], days: 30 });
+    assert.ok(out.includes('_No roles with a direct application link were posted in the last 30 days._'));
+    assert.ok(!out.includes('<table>'));
+    assert.ok(out.startsWith(BLOCK_START));
+    assert.ok(out.endsWith(BLOCK_END));
+  });
+});
+
+describe('the byte budget', () => {
+  const many = Array.from({ length: 600 }, (_, i) =>
+    job({ id: `r${i}`, company: `Company ${i}`, updatedAt: daysAgo(i % 60) }),
+  );
+  const render = (days) => page({ jobs: many, days });
+
+  it('stays under what GitHub will finish rendering', () => {
+    assert.ok(README_MAX_BYTES < GITHUB_RENDER_LIMIT);
+    assert.ok(README_MAX_BYTES <= 500_000);
   });
 
-  it('describes every legend marker it can render, and none it cannot', () => {
-    const page = rendered();
-    for (const mark of ['🆕', '🌐', '🛂']) assert.ok(page.includes(mark), `${mark} is unexplained`);
-    // The markers a hand-maintained list carries and this data cannot fill.
-    for (const mark of ['🔒', '🎓', '🔥']) assert.ok(!page.includes(mark), `${mark} is promised and never filled`);
+  it('keeps the whole window when it fits', () => {
+    assert.equal(fitWindow({ maxDays: 60, maxBytes: 10_000_000, render }), 60);
+  });
+
+  it('narrows to the widest window that fits, by age and never by sample', () => {
+    const maxBytes = 100_000;
+    const days = fitWindow({ maxDays: 60, maxBytes, render });
+    assert.ok(days >= 1 && days < 60);
+    assert.ok(Buffer.byteLength(render(days), 'utf8') <= maxBytes);
+    assert.ok(Buffer.byteLength(render(days + 1), 'utf8') > maxBytes);
+    // Every row inside the window is on the page: nothing was sampled out.
+    const expected = many.filter((row) => withinDays(row, days, NOW)).length;
+    assert.equal(render(days).split('\n').filter((line) => line.startsWith('<tr><td>')).length, expected);
+  });
+
+  it('fails the run rather than publishing a page no window can fit', () => {
+    assert.throws(() => fitWindow({ maxDays: 60, maxBytes: 500, render }), /over the 500-byte budget/);
   });
 });
 
@@ -345,46 +528,25 @@ describe('writing the file', () => {
     assert.throws(() => replaceBlock('# Title\n\nno markers\n', 'block'), /markers are missing/);
   });
 
-  it('does not count a new timestamp as a change', () => {
-    const before = `x\n_Last updated: 2026-09-13 11:00 UTC_\ny`;
-    const after = `x\n_Last updated: 2026-09-13 12:00 UTC_\ny`;
-    assert.equal(changedBeyondTimestamp(before, after), false);
-    assert.equal(changedBeyondTimestamp(before, `${after}\nAcme`), true);
+  it('does not count an age cell ticking over as a change worth committing', () => {
+    const rows = [job({ id: 'a', updatedAt: daysAgo(4) }), job({ id: 'b', company: 'Globex', updatedAt: daysAgo(9) })];
+    const before = page({ jobs: rows, now: NOW });
+    const after = page({ jobs: rows, now: NOW + 86_400_000 });
+    assert.notEqual(before, after);
+    assert.equal(changedBeyondClock(before, after), false);
+  });
+
+  it('still counts a role arriving or leaving as a change', () => {
+    const before = page({ jobs: [job({ id: 'a' })] });
+    const after = page({ jobs: [job({ id: 'a' }), job({ id: 'b', company: 'Globex' })] });
+    assert.equal(changedBeyondClock(before, after), true);
+  });
+
+  it('counts the window itself moving as a change', () => {
+    const rows = [job({ id: 'a' })];
+    assert.equal(changedBeyondClock(page({ jobs: rows, days: 30 }), page({ jobs: rows, days: 29 })), true);
   });
 });
-
-describe('the category list', () => {
-  it('covers the six technical fields the query asks for, plus a catch-all', () => {
-    const families = CATEGORIES.map((c) => c.family);
-    for (const family of [
-      'Software',
-      'Data & AI',
-      'Hardware & Engineering',
-      'Product & Design',
-      'Quantitative Finance',
-      'IT & Support',
-    ]) {
-      assert.ok(families.includes(family), `${family} has no section`);
-    }
-    assert.equal(families.filter((f) => f === null).length, 1);
-  });
-});
-
-// ── what the filters added ───────────────────────────────────────────────────
-//
-// The four failures below are the ones worth a test, because every one of them
-// produces a page that looks right: an employer split in two by its spelling, a
-// New Jersey town filed under the Bay Area, a filter counted over the whole
-// world under a heading that says one region, and a README that renders fine
-// locally and stops halfway down on GitHub.
-
-import { companyKey, companyLabel } from './lib/companies.mjs';
-import { COMPANY_SEGMENTS } from './lib/company-registry.mjs';
-import { SECTORS, SIZES, coverage, inSizeCut, segmentOf } from './lib/segments.mjs';
-import { METROS, metrosOf, readLocation } from './lib/places.mjs';
-import { MIN_TRACK_ROWS, buildTracks, groupTracks, slugify } from './lib/tracks.mjs';
-import { PAGE_MAX_BYTES, README_MAX_BYTES, renderFilters, renderHub, renderTrackPages } from './lib/markdown.mjs';
-import { escapeMarkdown, postedLabel } from './lib/format.mjs';
 
 describe('one employer, one name', () => {
   it('collapses the spellings one employer reaches the catalog under', () => {
@@ -441,486 +603,10 @@ describe('the company registry', () => {
   });
 
   it('reports how much of a set it actually covers', () => {
-    const rows = [job({ company: 'Google' }), job({ company: 'Zzz Not Real Ltd' })];
+    const rows = [job({ company: 'Google' }), job({ company: 'Zzz Not Real Ltd' }), job({ company: '***' })];
     const cover = coverage(rows);
-    assert.equal(cover.rows, 2);
-    assert.equal(cover.companies, 2);
+    assert.equal(cover.rows, 3);
+    assert.equal(cover.companies, 3);
     assert.ok(cover.companiesClassified <= cover.companies);
-  });
-});
-
-describe('placing a posting', () => {
-  const at = (locations, countries = ['United States']) => job({ cities: [], locations, countries });
-
-  const statesOf = (value) => new Set(readLocation(value).states.map((entry) => entry.code));
-
-  it('reads a state out of every spelling an ATS exports', () => {
-    assert.ok(statesOf('US,CA,San Jose').has('CA'));
-    assert.ok(statesOf('Santa Clara, CA, US').has('CA'));
-    assert.ok(statesOf('Spring, Texas, United States of America').has('TX'));
-    assert.ok(statesOf('Washington, DC').has('DC'));
-    // `Washington` alone is the city in DC far more often than the state, and
-    // reading it as WA would put the capital in Puget Sound.
-    assert.ok(!statesOf('Washington, DC').has('WA'));
-  });
-
-  it('resolves the country on the string that named the city', () => {
-    // One location supplied the country and another the city, so a row open in
-    // Paris (France) and Paris, TX put the Texas one on the France page.
-    const bothParises = { countries: ['United States', 'France'], cities: [], locations: ['Paris, TX'] };
-    assert.deepEqual(metrosOf(bothParises), []);
-    assert.deepEqual(metrosOf({ countries: ['France'], cities: [], locations: ['Paris, France'] }), ['france']);
-    // A bare city on a row that names ONE country is still placeable.
-    assert.deepEqual(metrosOf({ countries: ['France'], cities: [], locations: ['Paris'] }), ['france']);
-  });
-
-  it('does not let a state name stand in for the city of the same name', () => {
-    assert.deepEqual(metrosOf(at(['Malta, New York'])), []);
-    assert.deepEqual(metrosOf(at(['New York, NY'])), ['new-york']);
-    assert.deepEqual(metrosOf(at(['New York, New York'])), ['new-york']);
-  });
-
-  it('refuses a building that merely starts with a city name', () => {
-    // A Californian shelter called the Bristol Hotel was published under
-    // London & the UK.
-    assert.deepEqual(metrosOf(at(['Bristol Hotel Emergency Shelter office'])), []);
-    assert.deepEqual(metrosOf(at(['San Francisco Office'])), ['bay-area']);
-  });
-
-  it('refuses the city name that is in two states', () => {
-    assert.deepEqual(metrosOf(at(['Newark, NJ'])), ['new-york']);
-    assert.deepEqual(metrosOf(at(['Newark, CA'])), ['bay-area']);
-    assert.deepEqual(metrosOf(at(['Berkeley Heights, NJ'])), []);
-  });
-
-  it('keeps Cambridge, MA out of the London list and vice versa', () => {
-    assert.deepEqual(metrosOf(at(['Cambridge, MA'])), ['boston']);
-    assert.deepEqual(metrosOf(at(['Cambridge'], ['United Kingdom'])), ['uk']);
-  });
-
-  it('places nothing when the country could not be resolved', () => {
-    assert.deepEqual(metrosOf(at(['San Francisco'], [])), []);
-    assert.deepEqual(metrosOf(at(['San Francisco'], ['Other'])), []);
-    assert.deepEqual(metrosOf(at(['San Francisco'])), ['bay-area']);
-  });
-
-  it('puts a role open in two metros in both', () => {
-    const hits = metrosOf(at(['New York, NY', 'Austin, TX']));
-    assert.deepEqual(hits.sort(), ['austin', 'new-york']);
-  });
-
-  it('survives the building codes and the missing spaces', () => {
-    assert.deepEqual(metrosOf(at(['Mountain View (US-MTV-EMF680)'])), ['bay-area']);
-    assert.deepEqual(metrosOf(at(['Austin (Ed Bluestein, Office)'])), ['austin']);
-    assert.deepEqual(metrosOf(at(['Cary,North Carolina,United States'])), ['research-triangle']);
-  });
-
-  it('gives every metro a country to be checked against', () => {
-    for (const metro of METROS) {
-      assert.ok(Array.isArray(metro.countries) && metro.countries.length, `${metro.id} has no country guard`);
-    }
-  });
-});
-
-describe('the filters', () => {
-  const rows = (n, over) => Array.from({ length: n }, (_, i) => job({ id: `${over.role ?? 'x'}-${i}`, ...over }));
-
-  it('does not publish a filter too small to be worth a page', () => {
-    const tracks = buildTracks(rows(MIN_TRACK_ROWS - 1, { role: 'Data Analyst' }), { now: NOW });
-    assert.equal(tracks.some((track) => track.id === 'role-data-analyst'), false);
-    const bigger = buildTracks(rows(MIN_TRACK_ROWS, { role: 'Data Analyst' }), { now: NOW });
-    assert.equal(bigger.some((track) => track.id === 'role-data-analyst'), true);
-  });
-
-  it('never files a posting the catalog could not place under a role', () => {
-    const tracks = buildTracks(rows(20, { role: 'Other' }), { now: NOW });
-    assert.equal(tracks.some((track) => track.group === 'role'), false);
-  });
-
-  it('splits the whole list between the six field pages and no more', () => {
-    const jobs = [...rows(5, { family: 'Software' }), ...rows(5, { family: 'Data & AI' })];
-    const fields = buildTracks(jobs, { now: NOW }).filter((track) => track.group === 'field');
-    assert.equal(fields.reduce((total, track) => total + track.jobs.length, 0), jobs.length);
-  });
-
-  it('states what every filter selects, in words, on the page and the hub', () => {
-    for (const track of buildTracks(rows(10, { role: 'Software Engineer' }), { now: NOW })) {
-      assert.ok(track.note && track.note.length > 30, `${track.id} does not say what it selects`);
-      assert.ok(!track.path.startsWith('/') && !track.path.includes('..'), `${track.id} has an unsafe path`);
-      assert.equal(track.path, track.path.toLowerCase());
-    }
-  });
-
-  it('counts a filter in the scope of the file it is printed in', () => {
-    const home = rows(6, { role: 'Software Engineer', countries: ['United States'] });
-    const abroad = rows(6, { role: 'Software Engineer', countries: ['France'] });
-    const tracks = buildTracks([...home, ...abroad], { now: NOW });
-    const scoped = new Set(home);
-    const block = renderFilters(tracks, {
-      countOf: (track) => track.jobs.filter((row) => scoped.has(row)).length,
-    });
-    assert.ok(block.includes('Software Engineer (6)'), block);
-    assert.ok(!block.includes('Software Engineer (12)'));
-  });
-
-  it('drops a group whose filters are all empty in this file', () => {
-    const tracks = buildTracks(rows(8, { role: 'Software Engineer' }), { now: NOW });
-    assert.equal(renderFilters(tracks, { countOf: () => 0 }), '');
-  });
-
-  it('slugifies a role the catalog could rename tomorrow', () => {
-    assert.equal(slugify('Machine Learning Engineer'), 'machine-learning-engineer');
-    assert.equal(slugify('Data & AI'), 'data-and-ai');
-    assert.equal(slugify('  Spaced  Out  '), 'spaced-out');
-  });
-
-  it('keeps the groups in reading order and drops the empty ones', () => {
-    const grouped = groupTracks(buildTracks(rows(8, { role: 'Software Engineer' }), { now: NOW }));
-    assert.deepEqual(grouped.map((group) => group.id), ['field', 'role', 'place', 'quick']);
-  });
-});
-
-describe('a filter page', () => {
-  const track = {
-    id: 'big-tech', path: 'company/big-tech', group: 'company', emoji: '🏛️',
-    title: 'Big Tech', blurb: 'The giants.', note: 'A derived cut: technology sector, 10,000+ people.',
-    jobs: [],
-  };
-  const pageFor = (homeRows, abroadRows, rowsPerPage = 400) => {
-    const sections = [
-      { title: 'United States & Canada', jobs: homeRows, note: '' },
-      { title: 'Elsewhere in the world', jobs: abroadRows, note: 'Outside the home region.' },
-    ].filter((section) => section.jobs.length);
-    return renderTrackPages(
-      { ...track, jobs: [...homeRows, ...abroadRows] },
-      { now: NOW, sections, rowsPerPage },
-    );
-  };
-
-  it('is one file while it fits, and grows a second page rather than a longer one', () => {
-    const single = pageFor([job()], []);
-    assert.deepEqual(Object.keys(single), ['lists/company/big-tech.md']);
-    const paged = pageFor(Array.from({ length: 5 }, (_, i) => job({ id: `${i}` })), [], 2);
-    assert.deepEqual(Object.keys(paged), [
-      'lists/company/big-tech.md',
-      'lists/company/big-tech-2.md',
-      'lists/company/big-tech-3.md',
-    ]);
-    assert.ok(paged['lists/company/big-tech.md'].includes('Page 1 of 3'));
-    assert.ok(paged['lists/company/big-tech-2.md'].includes('[← Page 1](big-tech.md)'));
-  });
-
-  it('keeps the two regions under their own headings, on every page', () => {
-    const paged = pageFor(
-      Array.from({ length: 3 }, (_, i) => job({ id: `home-${i}` })),
-      Array.from({ length: 3 }, (_, i) => job({ id: `away-${i}`, countries: ['France'] })),
-      2,
-    );
-    const second = paged['lists/company/big-tech-2.md'];
-    // Page 2 straddles the two regions: it has to say which rows are which.
-    assert.ok(second.includes('## United States & Canada'));
-    assert.ok(second.includes('## Elsewhere in the world'));
-  });
-
-  it('climbs back out of its own directory correctly', () => {
-    const nested = pageFor([job()], [])['lists/company/big-tech.md'];
-    assert.ok(nested.includes('](../README.md)'), 'the hub link is wrong from a nested page');
-    assert.ok(nested.includes('](../../README.md)'), 'the list link is wrong from a nested page');
-    const flat = renderTrackPages(
-      { ...track, path: 'remote', jobs: [job()] },
-      { now: NOW, sections: [{ title: 'Everywhere', jobs: [job()], note: '' }] },
-    )['lists/remote.md'];
-    assert.ok(flat.includes('](README.md)'));
-    assert.ok(flat.includes('](../README.md)'));
-  });
-
-  it('prints the rule once, on the first page only', () => {
-    const paged = pageFor(Array.from({ length: 4 }, (_, i) => job({ id: `${i}` })), [], 2);
-    assert.ok(paged['lists/company/big-tech.md'].includes('A derived cut'));
-    assert.ok(!paged['lists/company/big-tech-2.md'].includes('A derived cut'));
-  });
-});
-
-describe('the hub', () => {
-  it('names every filter it has, with its count and its rule', () => {
-    const tracks = buildTracks(
-      Array.from({ length: 8 }, (_, i) => job({ id: `${i}`, role: 'Software Engineer' })),
-      { now: NOW },
-    );
-    const hub = renderHub({
-      tracks,
-      now: NOW,
-      listName: 'Internship Opportunities',
-      noun: 'internships',
-      homeLabel: 'the United States & Canada',
-      coverageNote: 'Covers 3 of 4 employers.',
-    });
-    for (const track of tracks) {
-      assert.ok(hub.includes(`](${track.path}.md)`), `${track.id} is not linked from the hub`);
-    }
-    assert.ok(hub.includes('Covers 3 of 4 employers.'));
-  });
-
-  it('changes when the filters change and not when the clock moves', () => {
-    // Otherwise the hub is rewritten and committed every hour of every day,
-    // and the history stops being a record of what opened and closed.
-    const tracks = buildTracks(
-      Array.from({ length: 8 }, (_, i) => job({ id: `${i}`, role: 'Software Engineer' })),
-      { now: NOW },
-    );
-    const args = { tracks, listName: 'X', noun: 'roles', homeLabel: 'the US', coverageNote: '' };
-    const today = renderHub({ ...args, now: NOW });
-    const later = renderHub({ ...args, now: NOW + 5 * 86_400_000 });
-    assert.notEqual(today, later);
-    assert.equal(changedBeyondTimestamp(today, later), false);
-  });
-
-  it('does not let a stray pipe in a filter name break the table', () => {
-    assert.equal(escapeMarkdown('Data | AI'), 'Data &#124; AI');
-    assert.equal(escapeMarkdown('Semiconductors & chips'), 'Semiconductors & chips');
-  });
-});
-
-describe('what the last column says', () => {
-  it('is a relative age on the README and an absolute date on a filter page', () => {
-    const rows = [job({ updatedAt: '2026-09-11T08:00:00Z' })];
-    assert.ok(renderTable(rows, NOW).includes('>Age<'));
-    assert.ok(renderTable(rows, NOW, { showAge: false }).includes('>Posted<'));
-    assert.ok(renderTable(rows, NOW, { showAge: false }).includes('11 Sep 2026'));
-  });
-
-  it('says nothing about the date of an undated posting', () => {
-    assert.equal(postedLabel(null), '—');
-    assert.equal(postedLabel(''), '—');
-    assert.equal(postedLabel('not a date'), '—');
-    assert.equal(postedLabel('2026-01-05T23:30:00Z'), '5 Jan 2026');
-  });
-
-  it('keeps a filter page byte-identical as the clock moves', () => {
-    // The churn rule: a page of 2,000 rows whose last column is a relative age
-    // rewrites itself every day whether or not a posting moved, and the hourly
-    // job commits it. An absolute date makes a diff mean something.
-    const rows = [job({ id: 'a', updatedAt: '2026-09-11T08:00:00Z', title: 'Stable' })];
-    const sections = [{ title: 'United States & Canada', jobs: rows, note: '' }];
-    const track = { id: 't', path: 'remote', group: 'quick', emoji: '🌐', title: 'Remote', blurb: '', note: 'A rule.', jobs: rows };
-    const today = renderTrackPages(track, { now: NOW, sections })['lists/remote.md'];
-    const tomorrow = renderTrackPages(track, { now: NOW + 5 * 86_400_000, sections })['lists/remote.md'];
-    assert.equal(today, tomorrow);
-  });
-});
-
-describe('the byte budgets', () => {
-  it('keeps a README GitHub will finish rendering', () => {
-    // The failure this exists for: the new-grad list published a 554,638-byte
-    // README, and GitHub stopped drawing it a third of the way down.
-    assert.ok(README_MAX_BYTES < 512_000);
-    assert.ok(PAGE_MAX_BYTES < 512_000);
-  });
-
-  it('caps a section and says what it is a sample of', () => {
-    const jobs = Array.from({ length: 40 }, (_, i) => job({ id: `${i}`, updatedAt: daysAgo(1) }));
-    const page = renderListings({
-      jobs,
-      now: NOW,
-      featuredDays: 14,
-      noun: 'internships',
-      backToTop: 'x',
-      sourceNote: 'note',
-      caps: { featured: 5, fold: 5 },
-      fieldPathOf: () => 'lists/field/software-engineering.md',
-    });
-    assert.ok(page.includes('**Showing 5 of 40.**'), page.slice(0, 400));
-    assert.ok(page.includes('lists/field/software-engineering.md'));
-    assert.equal((page.match(/<tr>\n<td>/g) ?? []).length, 5);
-  });
-});
-
-describe('the metro table itself', () => {
-  it('never lists a city name a comma-split can never match', () => {
-    // `readLocation` splits on commas, so an `open` entry with a comma in it is
-    // dead weight that looks like coverage. `austin, tx` was one, and the
-    // Austin metro matched nothing on the rows that carry a bare city.
-    for (const metro of METROS) {
-      for (const city of metro.open ?? []) {
-        assert.ok(!city.includes(','), `${metro.id}: "${city}" can never match a location part`);
-      }
-      for (const [city] of metro.cities ?? []) {
-        assert.ok(!city.includes(','), `${metro.id}: "${city}" can never match a location part`);
-      }
-    }
-  });
-});
-
-describe('who is posting this week', () => {
-  const page = (jobs) =>
-    renderListings({
-      jobs,
-      now: NOW,
-      featuredDays: 14,
-      noun: 'roles',
-      backToTop: 'x',
-      sourceNote: 'note',
-      freshDays: 7,
-    });
-
-  it('counts only this week, and only employers with more than one', () => {
-    const jobs = [
-      ...Array.from({ length: 3 }, (_, i) => job({ id: `a${i}`, company: 'Acme', updatedAt: daysAgo(1) })),
-      ...Array.from({ length: 2 }, (_, i) => job({ id: `b${i}`, company: 'Globex', updatedAt: daysAgo(6) })),
-      ...Array.from({ length: 2 }, (_, i) => job({ id: `c${i}`, company: 'Initech', updatedAt: daysAgo(2) })),
-      // One role each, and a pile posted a month ago: neither is "this week".
-      job({ id: 'd', company: 'Hooli', updatedAt: daysAgo(1) }),
-      ...Array.from({ length: 9 }, (_, i) => job({ id: `e${i}`, company: 'Soylent', updatedAt: daysAgo(30) })),
-    ];
-    // Sliced to the block itself: every one of these companies also appears in
-    // the tables below it, so a whole-page `includes` proves nothing.
-    const rendered = page(jobs);
-    const start = rendered.indexOf('### 🔥 Posting the most this week');
-    const block = rendered.slice(start, rendered.indexOf('###', start + 5));
-    assert.ok(block.includes('**Acme** 3'));
-    assert.ok(block.includes('**Globex** 2'));
-    assert.ok(!block.includes('Hooli'), block);
-    assert.ok(!block.includes('Soylent'), block);
-  });
-
-  it('says nothing at all rather than naming one employer', () => {
-    const block = page([job({ company: 'Acme', updatedAt: daysAgo(1) })]);
-    assert.ok(!block.includes('Posting the most this week'));
-  });
-
-  it('counts an undated posting as not this week', () => {
-    const jobs = Array.from({ length: 4 }, (_, i) => job({ id: `${i}`, company: 'Acme', updatedAt: null }));
-    assert.ok(!page(jobs).includes('Posting the most this week'));
-  });
-});
-
-describe('the page cannot argue with itself', () => {
-  it('counts the headline and the index over the same rows', () => {
-    // The bug this exists for: the headline was computed by the caller from the
-    // whole region and the index by the renderer from a capped slice, so the
-    // page opened with "2,336 open roles" three lines above "Browse 1,500
-    // roles by field".
-    const jobs = [
-      ...Array.from({ length: 30 }, (_, i) => job({ id: `s${i}`, family: 'Software' })),
-      ...Array.from({ length: 12 }, (_, i) => job({ id: `d${i}`, family: 'Data & AI' })),
-    ];
-    const page = renderListings({
-      jobs,
-      now: NOW,
-      featuredDays: 14,
-      noun: 'roles',
-      backToTop: 'x',
-      sourceNote: 'note',
-      caps: { featured: 5, fold: 5 },
-    });
-    const headline = /\*\*([\d,]+) open roles\*\*/.exec(page);
-    const index = /### Browse ([\d,]+) roles by field/.exec(page);
-    assert.ok(headline && index, page.slice(0, 300));
-    assert.equal(headline[1], index[1]);
-    assert.equal(headline[1], '42');
-    // And the per-field counts sum to it, however few rows each section prints.
-    const sections = [...page.matchAll(/\*\*\[[^\]]+\]\(#[^)]+\)\*\* \((\d+)\)/g)].map((m) => Number(m[1]));
-    assert.equal(sections.reduce((total, n) => total + n, 0), 42);
-  });
-});
-
-describe('the link out of a section', () => {
-  it('never puts a count on a page this section did not count', () => {
-    // A field page carries BOTH regions; a README section counts one. "All 21
-    // on one page" pointed at a page holding 320, and the two READMEs
-    // advertised the same page as holding 1 and 6.
-    const page = renderListings({
-      jobs: [job({ id: 'a' }), job({ id: 'b' })],
-      now: NOW,
-      featuredDays: 14,
-      noun: 'roles',
-      backToTop: 'x',
-      sourceNote: 'note',
-      caps: { featured: 25, fold: 50 },
-      fieldPathOf: () => 'lists/field/software-engineering.md',
-    });
-    assert.ok(page.includes('both regions →'), page.slice(-400));
-    assert.ok(!/All \d+ on one page/.test(page));
-  });
-
-  it('counts the sample against this section when it is capped', () => {
-    const page = renderListings({
-      jobs: Array.from({ length: 10 }, (_, i) => job({ id: `${i}` })),
-      now: NOW,
-      featuredDays: 14,
-      noun: 'roles',
-      backToTop: 'x',
-      sourceNote: 'note',
-      caps: { featured: 2, fold: 2 },
-      fieldPathOf: () => 'lists/field/software-engineering.md',
-    });
-    assert.ok(page.includes('**Showing 2 of 10.**'));
-  });
-});
-
-describe('the clock on its own is not a change', () => {
-  it('reads a spelled-out state, and still keeps the capital out of Puget Sound', () => {
-    const at = (loc) => metrosOf({ countries: ['United States'], locations: [loc], cities: [] });
-    assert.deepEqual(at('Renton, Washington, United States'), ['seattle']);
-    assert.deepEqual(at('Bellevue, Washington, USA'), ['seattle']);
-    assert.deepEqual(at('Washington, DC'), ['washington-dc']);
-    assert.deepEqual(at('Washington, District of Columbia'), ['washington-dc']);
-  });
-
-  it('does not count an age cell ticking over as a change worth committing', () => {
-    // On 2,336 rows about one in twenty-four ticks every hour, so without this
-    // almost every hourly run commits a README in which nothing happened.
-    // Aged so that a day's passing crosses none of the boundaries that DO say
-    // something — the 3-day 🆕 marker, the 7-day "posted this week" count, the
-    // 14-day fold — leaving the age cell as the only difference.
-    const jobs = [job({ id: 'a', updatedAt: daysAgo(10) }), job({ id: 'b', updatedAt: daysAgo(40) })];
-    const render = (now) =>
-      renderListings({ jobs, now, featuredDays: 14, noun: 'roles', backToTop: 'x', sourceNote: 'note' });
-    const today = render(NOW);
-    const tomorrow = render(NOW + 86_400_000);
-    assert.notEqual(today, tomorrow);
-    assert.equal(changedBeyondTimestamp(today, tomorrow), false);
-  });
-
-  it('still counts a role arriving or leaving as a change', () => {
-    const base = [job({ id: 'a', updatedAt: daysAgo(3) })];
-    const render = (jobs) =>
-      renderListings({ jobs, now: NOW, featuredDays: 14, noun: 'roles', backToTop: 'x', sourceNote: 'note' });
-    assert.equal(changedBeyondTimestamp(render(base), render([...base, job({ id: 'b', company: 'Globex' })])), true);
-  });
-});
-
-describe('what a hostile or broken catalog can do', () => {
-  it('escapes a location that tries to close the table', () => {
-    // The one cell that interpolated a scraped string into HTML untouched.
-    const table = renderTable(
-      [job({ locations: ['</td></tr></table><h1>OWNED</h1><table><tr><td>Austin, TX'], cities: [] })],
-      NOW,
-    );
-    assert.ok(!table.includes('<h1>'), table.slice(0, 300));
-    assert.ok(table.includes('&lt;h1&gt;'));
-    // …while the one tag this cell means still works.
-    assert.ok(renderTable([job({ cities: ['Austin, TX', 'Seattle, WA'] })], NOW).includes('<br/>'));
-  });
-
-  it('refuses to give two roles the same page, or a page with no name', () => {
-    const rows = (n, role) => Array.from({ length: n }, (_, i) => job({ id: `${role}-${i}`, role }));
-    const tracks = buildTracks(
-      [...rows(12, 'C++ Engineer'), ...rows(8, 'C Engineer'), ...rows(9, '工程师')],
-      { now: NOW },
-    );
-    const paths = tracks.filter((track) => track.group === 'role').map((track) => track.path);
-    assert.deepEqual(paths, ['role/c-engineer']);
-    // The larger of the colliding pair is the one kept, so the page a reader
-    // was linked to still holds what its name says.
-    const kept = tracks.find((track) => track.path === 'role/c-engineer');
-    assert.equal(kept.jobs.length, 12);
-    assert.equal(kept.title, 'C++ Engineer');
-  });
-
-  it('counts an employer with an unkeyable name in both halves of the coverage sentence', () => {
-    const cover = coverage([job({ company: '楽天' }), job({ company: 'Google' })]);
-    assert.equal(cover.rows, 2);
-    assert.equal(cover.companies, 2);
   });
 });
