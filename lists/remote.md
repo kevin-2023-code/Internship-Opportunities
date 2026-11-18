@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**49 open roles.** 35 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
+**50 open roles.** 36 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3bedcda-11e5-45f6-bb32-b79e9b2ac947">Software Engineer Co-op</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lattica</strong></td>
 <td><a href="https://trueinterview.io/jobs/61e1c09f-d0e6-4d0b-8974-23263c618f1b">Software Engineering Intern (Winter 2026)</a> 🌐</td>
