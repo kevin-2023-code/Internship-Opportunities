@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**915 open roles.** 696 in the United States & Canada · 219 elsewhere in the world. Everything the employers put up this week.
+**910 open roles.** 693 in the United States & Canada · 217 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2066,27 +2066,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489469337/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d4a778e-3bc9-4808-b88d-9c5ec948e238">Data Engineer - Operational Support (Co-op)</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428143266/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe4114d9-25f6-478f-a67d-a734568bc2da">Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472770882/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Metz Lewis Brodman Must O'Keefe LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/c81a3d2a-0a7e-4606-b5e8-d2201906d84c">Artificial Intelligence (AI) Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487473010/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/902b6d02-3370-4d31-b1b8-787716854475">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447689264/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a81126ee-7a8c-44be-9a4b-e867e680dcdf">AI Agent Project Intern (Open Platform) - 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472562905/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/1821f91e-5c18-4031-869b-df662a5af17d">AI Evaluation Project Intern（Corporate Service System）- 2026 Start</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474549595/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d666d1e5-cff5-4449-9cd0-c2cb07aeddc5">AI Application Development Engineer Intern (Corporate Service System - Procurement) - 2027 Start</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474561047/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

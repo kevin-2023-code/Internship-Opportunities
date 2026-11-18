@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-18 12:06 UTC_
+_Last updated: 2026-11-18 13:04 UTC_
 
-**3,169 open internships** from **1,316 employers** · **696 posted in the last 7 days** · refreshed hourly
+**3,169 open internships** from **1,316 employers** · **693 posted in the last 7 days** · refreshed hourly
 
 ### Browse 3,169 internships by field
 
@@ -54,7 +54,7 @@ _Last updated: 2026-11-18 12:06 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 44 &nbsp;·&nbsp; **ByteDance** 19 &nbsp;·&nbsp; **ServiceNow** 12 &nbsp;·&nbsp; **Tesla** 10 &nbsp;·&nbsp; **Collins Aerospace** 9 &nbsp;·&nbsp; **General Motors** 9 &nbsp;·&nbsp; **Reliable Robotics Corporation** 9 &nbsp;·&nbsp; **IBM** 7 &nbsp;·&nbsp; **ICE** 7 &nbsp;·&nbsp; **SAP IT Business Systeme** 7 &nbsp;·&nbsp; **Bask Health** 6 &nbsp;·&nbsp; **Booz Allen Hamilton** 6
+**TikTok** 44 &nbsp;·&nbsp; **ByteDance** 18 &nbsp;·&nbsp; **ServiceNow** 12 &nbsp;·&nbsp; **Tesla** 10 &nbsp;·&nbsp; **Collins Aerospace** 9 &nbsp;·&nbsp; **General Motors** 9 &nbsp;·&nbsp; **Reliable Robotics Corporation** 9 &nbsp;·&nbsp; **IBM** 7 &nbsp;·&nbsp; **ICE** 7 &nbsp;·&nbsp; **SAP IT Business Systeme** 7 &nbsp;·&nbsp; **Bask Health** 6 &nbsp;·&nbsp; **Booz Allen Hamilton** 6
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 115 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (578)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (163)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (157)](lists/place/boston.md) · [🗽 New York City (140)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (106)](lists/place/seattle.md) · [🏛️ Washington DC & Northern Virginia (94)](lists/place/washington-dc.md) · [🤠 Dallas–Fort Worth (86)](lists/place/dallas-fort-worth.md) · [🎸 Austin (85)](lists/place/austin.md) · [🌬️ Chicago (71)](lists/place/chicago.md) · [🏔️ Denver, Boulder & Colorado (68)](lists/place/denver-boulder.md) · [+16 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (696)](lists/new-this-week.md) · [🌐 Remote (36)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (693)](lists/new-this-week.md) · [🌐 Remote (36)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1335,7 +1335,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/3af84745-aa25-42f4-976e-448a95185bf8">ASIC Verification/Design Engineering Intern</a> 🆕</td>
 <td>Roseville, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490616104/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Springs Window Fashions</strong></td>
@@ -2264,7 +2264,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/34340a53-007a-421c-9037-01e01d0db32f">2027 Quantitative Research Summer Internship</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469990161/">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Jobverse.io</strong></td>

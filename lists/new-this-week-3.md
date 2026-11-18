@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**915 open roles.** 696 in the United States & Canada · 219 elsewhere in the world. Everything the employers put up this week.
+**910 open roles.** 693 in the United States & Canada · 217 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,27 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/a81126ee-7a8c-44be-9a4b-e867e680dcdf">AI Agent Project Intern (Open Platform) - 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472562905/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/1821f91e-5c18-4031-869b-df662a5af17d">AI Evaluation Project Intern（Corporate Service System）- 2026 Start</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474549595/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d666d1e5-cff5-4449-9cd0-c2cb07aeddc5">AI Application Development Engineer Intern (Corporate Service System - Procurement) - 2027 Start</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474561047/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2ec5fea-33d5-4625-a7d6-4d8202ba09e3">Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start</a></td>
@@ -806,20 +785,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/89f6592d-1c02-42ee-a963-4aba5a426f41">Backend Engineering Intern: Ground Platform Control</a></td>
 <td>Toulouse, Occitanie</td>
 <td align="center"><a href="https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b5015be-c94b-493f-b719-6231d1e04947">SAP iXP Intern Developer in Cloud Lifecycle Engeneering</a></td>
-<td>Sofia, Bulgaria</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160865649-sap-ixp-intern-developer-in-cloud-lifecycle-engeneering">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/08ee1dad-9e85-4794-b09f-a51f3aea0e1c">FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4417144574/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>
