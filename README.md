@@ -32,7 +32,7 @@ Use this list to find **tech internships** in software engineering, data science
 > **Looking for something else?**
 >
 > 🌍 For roles outside the United States & Canada, see [README-Global.md](./README-Global.md) (421)  
-> 🎓 For new-grad roles, see [New-Grad-Opportunities](https://github.com/kevin-2023-code/New-Grad-Opportunities)  
+> 🎓 For new-grad roles, see [New-Grad-2027-Tech-Jobs](https://github.com/kevin-2023-code/New-Grad-2027-Tech-Jobs)  
 > 📝 For what these companies ask in interviews, see [Tech-Interview-Questions](https://github.com/kevin-2023-code/Tech-Interview-Questions)  
 > 🎯 For online-assessment questions, see [Tech-OA-Questions](https://github.com/kevin-2023-code/Tech-OA-Questions)  
 > 📦 For every row as JSON, see [listings.json](./.github/scripts/listings.json)  

@@ -32,7 +32,7 @@
 > **Looking for something else?**
 >
 > 🏠 For roles in the United States & Canada, see the [main list](./README.md)  
-> 🎓 For new-grad roles, see [New-Grad-Opportunities](https://github.com/kevin-2023-code/New-Grad-Opportunities)  
+> 🎓 For new-grad roles, see [New-Grad-2027-Tech-Jobs](https://github.com/kevin-2023-code/New-Grad-2027-Tech-Jobs)  
 > 📝 For what these companies ask in interviews, see [Tech-Interview-Questions](https://github.com/kevin-2023-code/Tech-Interview-Questions)  
 > 🎯 For online-assessment questions, see [Tech-OA-Questions](https://github.com/kevin-2023-code/Tech-OA-Questions)  
 > 📦 For every row as JSON, see [listings.json](./.github/scripts/listings.json)  
