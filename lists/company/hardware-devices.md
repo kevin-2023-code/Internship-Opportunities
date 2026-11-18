@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**190 open roles.** 144 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**191 open roles.** 144 in the United States & Canada · 47 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3bedcda-11e5-45f6-bb32-b79e9b2ac947">Software Engineer Co-op</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561">Apply</a></td>
-<td align="center">17 Nov 2026</td>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d0088e-4861-40b1-b4d5-2af5b378df36">Internship - SW Developer Support - Program Management Office</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490811888/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
@@ -1039,6 +1039,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb21fb7-7e83-4194-8d85-655a0b4f72a6">Software Engineering Intern, File Previewing &amp; Editing (Quick Look and Preview)</a></td>
+<td>Paris, Ile-de-France, 75008, France</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1e81cff5-32ff-4d35-8b98-9e58af74d7d4">QA Automation Test Engineering Intern - Dublin, Ireland</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland">Apply</a></td>

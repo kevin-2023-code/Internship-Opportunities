@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**729 open roles.** 578 in the United States & Canada · 151 elsewhere in the world.
+**735 open roles.** 585 in the United States & Canada · 150 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/67df3921-0cc9-41ba-81ef-bfbd3f41fe49">Software Engineering Intern (BS/MS)</a></td>
 <td>San Francisco, California</td>
 <td align="center"><a href="https://careers.airbnb.com/positions/8360478?gh_jid=8360478">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nelnet</strong></td>
+<td><a href="https://trueinterview.io/jobs/028b2be6-06da-4ca1-b270-6f4dc85fdc9c">Intern - IT Software Engineer (Summer 2027)</a></td>
+<td>Lincoln, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491435421/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ea79e96-21f3-4860-b049-1a001e2d50f1">Software Developer Intern - Summer Internship Program</a></td>
+<td>Lafayette, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490839475/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Akuna Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7a55dcb-ace8-4b3b-a442-5cf06d190c0c">Software Engineer Intern - Python, Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491762081/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Conifer Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd0c20c1-80d7-457b-880c-945d931bbde1">Software Developer Intern - Summer 2027 - Onsite in Dallas, TX</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4492069033/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/da084c2b-b299-4ee8-9d8b-fbc3021215d9">Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491795247/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>True Rx Health Strategists</strong></td>
+<td><a href="https://trueinterview.io/jobs/01005351-d1c0-4a13-9d33-bf42eb49500a">Software Engineer Intern</a></td>
+<td>Washington, DC<br/>Washington, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491799247/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Futurepillar</strong></td>
+<td><a href="https://trueinterview.io/jobs/73f7f745-6ee4-4577-bcff-a6b4ee7d7ac2">Software Engineer Intern, Backend (Summer 2027 - SF)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491805863/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d93a65e-57d1-4a10-8dc7-36f9ec4ba0ec">Software Programmer Intern</a></td>
+<td>Detroit, MI<br/>Tullahoma, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491753638/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d0088e-4861-40b1-b4d5-2af5b378df36">Internship - SW Developer Support - Program Management Office</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490811888/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lightpath</strong></td>
+<td><a href="https://trueinterview.io/jobs/022e0956-c846-48fa-921a-fd8b612f4c6b">Intern - Application Developer</a></td>
+<td>1111 Stewart Avenue, Bethpage, NY, 11714, USA</td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6212572.careers?ShowJob=654792998&amp;lang=en-US">Apply</a></td>
 <td align="center">18 Nov 2026</td>
 </tr>
 <tr>
@@ -248,20 +318,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26058bfc-ab36-40cc-a690-4bf6939d2c0a">Software Engineering Intern</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hexarmor/jobs/8206200003">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3bedcda-11e5-45f6-bb32-b79e9b2ac947">Software Engineer Co-op</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561">Apply</a></td>
-<td align="center">17 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/3076070b-90b1-40a5-b269-0f179f3006b8">OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN - February 2027</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350821">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
@@ -1588,13 +1644,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Optimum</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e4b9b07-7063-45d0-a580-40fb624bb98f">Intern - Software Development</a></td>
-<td>Bethpage, NY</td>
-<td align="center"><a href="https://career8.successfactors.com/career?company=cscholding&amp;career_ns=job_listing&amp;career_job_req_id=12521&amp;lang=en_US">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Siemens</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2a3230f-e42b-47d8-b8e4-f17d15de4cbc">Software Engineer Intern - Summer 2027</a></td>
 <td>Raleigh, NC</td>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
 <td>Quebec, Quebec, Canada<br/>Quebec City, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fareway Stores, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/68d2d2ed-5473-413f-970a-96faaef4af1d">IBM I RPG Developer Internship</a></td>
-<td>Johnston, IA</td>
-<td align="center"><a href="https://secure.entertimeonline.com/ta/KPAY1001560.careers?ShowJob=906113667">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Constellation Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795">Intern, Full Stack Engineer</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Peterbilt Motors Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/77a5eed2-ca46-4456-aaa0-4ae4a0446f93">2027 Summer Internship: Software Developer</a></td>
-<td>Denton, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486811228/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Genmd</strong></td>
-<td><a href="https://trueinterview.io/jobs/4df6d620-88a7-476a-aa1a-b23113956bf4">Member of Technical Staff Intern, Applied AI</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Staples</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af3ace3-91d3-46d1-af05-bfe9420ef2fd">Software Engineer Intern, Marketplace Platform</a></td>
-<td>Framingham, Massachusetts, United States</td>
-<td align="center"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/77076">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/d576ac4e-6ada-495a-b1d8-697e06f54d17">CDS Intern - Software Engineer - International Depot</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&amp;cws=41&amp;rid=10993">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toshiba Global Commerce Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/42f43239-de0a-40a3-8820-9c4365e8e2a1">Agentic Software Engineering Intern</a></td>
-<td>Frisco, TX<br/>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485783392/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

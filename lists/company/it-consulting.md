@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**69 open roles.** 61 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**70 open roles.** 62 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ea79e96-21f3-4860-b049-1a001e2d50f1">Software Developer Intern - Summer Internship Program</a></td>
+<td>Lafayette, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490839475/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>General Dynamics Information Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc82fcde-9235-4354-93c1-e5a7f8cf9067">Summer 2027 Engineering (General) Internship</a></td>

@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**157 open roles.**
+**161 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdcd6681-bdce-40e6-8fa8-913966876a22">Software Engineering Intern - Full-time Internship (Jan - June 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491794194/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/da084c2b-b299-4ee8-9d8b-fbc3021215d9">Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491795247/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raptor Maps</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ab3e9f4-3f15-47f5-81ab-32c0207a8ade">Summer 2027 Software Engineering Intern</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491808245/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Street Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbd5c5cc-99d7-47d5-bba8-0526c758ddca">State Street Investment Management - Data Scientist - Summer Internship 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491711864/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>State Street</strong></td>
 <td><a href="https://trueinterview.io/jobs/0765926c-9f6d-4abf-a344-91fc375ad950">Full Stack Development Intern, Full-time Internship (Jan - June 2027)</a></td>

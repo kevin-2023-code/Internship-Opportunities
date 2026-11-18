@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**51 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19af1b7-fb28-4d9b-a8ab-6f14ba546b1d">Data Science Co-Op (NLP &amp; GenAI)</a></td>
+<td>Atlanta, GA<br/>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491754938/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Coffman Engineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e05ef0a-fbae-4459-b365-9ea27e56f3fa">Electrical Engineering Intern</a></td>

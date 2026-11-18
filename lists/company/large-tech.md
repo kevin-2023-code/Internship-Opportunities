@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**119 open roles.** 94 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**120 open roles.** 95 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/67df3921-0cc9-41ba-81ef-bfbd3f41fe49">Software Engineering Intern (BS/MS)</a></td>
 <td>San Francisco, California</td>
 <td align="center"><a href="https://careers.airbnb.com/positions/8360478?gh_jid=8360478">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d0088e-4861-40b1-b4d5-2af5b378df36">Internship - SW Developer Support - Program Management Office</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490811888/">Apply</a></td>
 <td align="center">18 Nov 2026</td>
 </tr>
 <tr>

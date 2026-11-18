@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**123 open roles.** 103 in the United States & Canada · 20 elsewhere in the world.
+**126 open roles.** 106 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>State Street Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbd5c5cc-99d7-47d5-bba8-0526c758ddca">State Street Investment Management - Data Scientist - Summer Internship 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491711864/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Peterbilt Motors Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/ceab26c4-c780-46e9-821a-43611b0d1a59">2027 Summer Internship: Data Scientist</a></td>
+<td>Denton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491754308/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e0aa944-1424-4508-99a1-25989c49a6f1">R&amp;D Research Data Science Intern</a></td>
+<td>Arden Hills, MN<br/>N/A</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=BScientific&amp;rcm_site_locale=en_US&amp;career_job_req_id=638022">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>State Street</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5e0d158-d8e7-4aec-9e6d-26dc7d96fd84">State Street Investment Management - Data Scientist - Summer Internship 2027</a></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**220 open roles.** 156 in the United States & Canada · 64 elsewhere in the world.
+**221 open roles.** 157 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Electronic Arts (EA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e3445d9-f4bd-4b96-85f0-d9a74085bbd6">Program Manager Intern, Games for All (Master's Level) - Jan 2027</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474016067/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Crown Equipment Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/20a1fe3f-48da-4b5f-8966-054837b88f1a">UX Interaction Design Co-op - Summer 2027</a></td>
@@ -1122,6 +1129,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Siemens Digital Industries Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/11b15113-796b-4ec8-acf8-8e22e3d7239b">Product Designer Intern - Strategic Student Program</a></td>
+<td>Sheffield, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491196653/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Workday</strong></td>
 <td><a href="https://trueinterview.io/jobs/978f8017-5b2c-472c-9352-1a38938ac234">Intern, UI/UX Product Manager</a></td>
 <td>Heredia, Heredia, Costa Rica</td>
@@ -1308,13 +1322,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e050aa07-e96b-4296-a93f-2abe023e2e73">6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259983">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baidu, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a21d648-dba1-4de1-8ad0-307c6a7f7eea">Product Manager Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484812202/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

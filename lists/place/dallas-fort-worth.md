@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**86 open roles.**
+**88 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Invitation Homes</strong></td>
+<td><a href="https://trueinterview.io/jobs/5afa5efd-b4b8-41d5-bb83-5d2767ea825a">Intern. Software Engineering</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491793072/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Conifer Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd0c20c1-80d7-457b-880c-945d931bbde1">Software Developer Intern - Summer 2027 - Onsite in Dallas, TX</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4492069033/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Birdseye Security Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/19d0e9a0-cca9-422f-ad27-0e0162671a3e">Intern Computer Vision (Dallas)</a></td>

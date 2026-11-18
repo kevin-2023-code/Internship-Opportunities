@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**83 open roles.** 68 in the United States & Canada · 15 elsewhere in the world.
+**84 open roles.** 69 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c072b5be-3c17-4abf-bf37-fe45c6adb05a">Data Engineer Developer Intern – Summer 2027</a></td>
+<td>Cincinnati, OH (USA)</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Central Insurance Companies</strong></td>
 <td><a href="https://trueinterview.io/jobs/caa2c607-2556-4444-8368-3a291f666124">Data Engineering Intern</a></td>

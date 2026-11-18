@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**140 open roles.**
+**141 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Futurepillar</strong></td>
+<td><a href="https://trueinterview.io/jobs/18603344-9231-4df5-9726-49fa7b19cd37">Full Stack Software Engineer Intern - Summer 2027</a></td>
+<td>New York, NY<br/>Seattle, WA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491816545/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ZOVU</strong></td>
 <td><a href="https://trueinterview.io/jobs/6afc9522-a214-4149-a967-5e5e2ece4f25">Backend Developer Intern (Restaurant OS) — Fully Remote</a></td>

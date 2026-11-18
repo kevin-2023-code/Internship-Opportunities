@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**823 open roles.** 605 in the United States & Canada · 218 elsewhere in the world.
+**831 open roles.** 613 in the United States & Canada · 218 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be60caa-bd84-4750-ad5a-9f6b2240793a">SAP CPIT CFA intern - AI Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157958019-sap-cpit-cfa-intern-ai-engineer-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moloco</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5b9c767-d9cc-43c5-b026-2b064dde6c18">Machine Learning Engineer Intern (3-month Internship)</a></td>
+<td>Seoul, Korea</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8044892003">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Power Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/676bf75f-1f99-4f31-81f5-13398de45e43">Digital Marketing Intern</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274510007">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/16475085-f414-4b05-9829-b32fe0951844">AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)</a></td>
+<td>Nonantola, Emilia-Romagna, Italy</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/59e60858-c61c-465a-8c95-bb05817de179">SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai</a></td>
+<td>Shanghai, Pudong New District, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157379640-sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca85b5d7-2caf-4aeb-b08c-35405c4d5927">Computer Vision and Machine Learning Intern [IDA:00076]</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shift Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/28861df4-794f-4d2a-99fb-6f116bbf24a2">Data scientist Internship (6 months)</a></td>
+<td>France - Paris</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Graphcore</strong></td>
 <td><a href="https://trueinterview.io/jobs/81583b80-ffc8-4aa8-97f1-9c0323a6e547">Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027</a></td>

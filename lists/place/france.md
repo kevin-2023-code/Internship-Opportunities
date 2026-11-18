@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**33 open roles.** 1 in the United States & Canada · 32 elsewhere in the world.
+**34 open roles.** 1 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb21fb7-7e83-4194-8d85-655a0b4f72a6">Software Engineering Intern, File Previewing &amp; Editing (Quick Look and Preview)</a></td>
+<td>Paris, Ile-de-France, 75008, France</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Loft Orbital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/9490dfcd-fbd8-4586-8408-a1c8d861f08d">AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</a></td>

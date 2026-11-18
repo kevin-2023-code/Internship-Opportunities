@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**102 open roles.** 62 in the United States & Canada · 40 elsewhere in the world.
+**103 open roles.** 63 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TE Connectivity</strong></td>
+<td><a href="https://trueinterview.io/jobs/0269fa74-2e7f-4f7f-b957-e9532986251b">Data Analyst Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://career8.successfactors.com/career?career_ns=job_listing&amp;company=TEConnect&amp;rcm_site_locale=en_US&amp;career_job_req_id=160584">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Valmont Industries, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/a770378c-e38a-4a5c-903f-9f558e2ee0f2">Operations Data Analyst Intern</a></td>

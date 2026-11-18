@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**71 open roles.**
+**73 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,10 +19,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Camping World</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba661fbf-7194-466d-9a78-9ba65410e944">Junior AI Engineering Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/Junior-AI-Engineering-Intern_26_09290">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Akuna Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7a55dcb-ace8-4b3b-a442-5cf06d190c0c">Software Engineer Intern - Python, Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491762081/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Camping World</strong></td>
 <td><a href="https://trueinterview.io/jobs/86546bfe-9a59-44fb-97bf-729a1fedb229">AI Intern</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490465616/">Apply</a></td>
-<td align="center">17 Nov 2026</td>
+<td align="center"><a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/AI-Intern_26_09292">Apply</a></td>
+<td align="center">18 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Health Care Service Corporation</strong></td>

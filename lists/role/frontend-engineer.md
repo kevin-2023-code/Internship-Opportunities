@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world.
+**18 open roles.** 16 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/480a8fd9-48fb-4141-8876-1f7c661753b4">Internship - Frontend Developer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484294812/">Apply</a></td>
+<td align="center">18 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WebstaurantStore</strong></td>
 <td><a href="https://trueinterview.io/jobs/b07103e5-e6dd-4bc6-ba2d-88d68201df72">Front-End Developer Intern (Remote)</a></td>

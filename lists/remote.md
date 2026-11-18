@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3bedcda-11e5-45f6-bb32-b79e9b2ac947">Software Engineer Co-op</a> 🌐</td>
+<td><strong>TE Connectivity</strong></td>
+<td><a href="https://trueinterview.io/jobs/0269fa74-2e7f-4f7f-b957-e9532986251b">Data Analyst Intern</a> 🌐</td>
 <td>Remote — United States</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561">Apply</a></td>
+<td align="center"><a href="https://career8.successfactors.com/career?career_ns=job_listing&amp;company=TEConnect&amp;rcm_site_locale=en_US&amp;career_job_req_id=160584">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
