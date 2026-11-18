@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**274 open roles.** 175 in the United States & Canada · 99 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**276 open roles.** 175 in the United States & Canada · 101 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1277,9 +1277,23 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/473ace86-be63-48d8-8b45-44b88dc57718">Internship: Customer Application Support, Security &amp; IoT (m/f/d)</a></td>
+<td>Gratkorn, Styria, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491171720/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a87c3c5a-464b-4156-bb46-d2bdc908fe5e">Internship: Secure Firmware Development (m/f/d)</a></td>
 <td>Gratkorn, Styria, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491191110/">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0b325fc8-e2c7-41f9-8e6f-cbdc95c8fa37">Internship: Software Toolchain &amp; Debugger Development (f/m/d)</a></td>
+<td>Gratkorn, Styria, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491174838/">Apply</a></td>
 <td align="center">17 Nov 2026</td>
 </tr>
 <tr>
