@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**947 open roles.** 728 in the United States & Canada · 219 elsewhere in the world. Everything the employers put up this week.
+**934 open roles.** 714 in the United States & Canada · 220 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,98 +18,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ff97a6-c4ff-4a03-849b-c48142e8d6e3">Fullstack Engineer - Intern (Global Payment) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482871373/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1b117e45-e39e-4c7a-9f2b-235ff63792fb">Frontend Development Software Engineer Intern (BytePlus) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475060229/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c5c9ce4a-f03e-4898-9bf4-6f43a750b952">AI Agent Engineering Project Intern (Corporate Service System - Procurement) - 2026 Start（BS/MS）</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475052625/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MSA - The Safety Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ad8d231-1697-47e1-8f7b-49c1565addd2">AI Engineer Co-Op Spring 2027</a></td>
-<td>Greater Pittsburgh Region</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481003095/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6376c74-b7d7-48c4-bd73-39f726b57a6e">[Backend Software Engineer] Project Intern (Data Trust and Safety) - 2026 Start</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463882171/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1b80eb9-c841-4b54-b912-9f87e83b64de">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475065102/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5eec8a13-585d-4cb7-8918-01507cff7d3b">Android Engineer Intern (Global Payment) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475067010/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e4e20383-e97f-4e87-8d7c-399e7935434e">Site Reliability Engineer Intern, System - System Service Global (Infrastructure Engineering), 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474545815/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc83ebad-228a-4e2c-9de2-05f272c23229">【28卒対象】 Data Analyst / データアナリスト - Mercari Group (Internship)</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4389461593/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d782815-3633-4069-a540-adbc26a91d9f">Security Analyst Project Intern (Global Corporate Security Operations Center) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475047793/">Apply</a></td>
-<td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/e95c5eb1-01e9-43ae-bb34-934f100d67ed">SRE Intern</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482886283/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6ae2476-228b-4fd8-a1db-22e669228095">AI Agent Engineer Intern, AI Enablement Process - 2027</a></td>
-<td>Beijing, Beijing, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481616965/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d35877a2-0306-4175-842f-b41686742e4b">Client System Firmware Engineer (RDSS Intern)</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481632355/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/132da315-40c8-42ce-9342-b76c2f1a5f57">Enterprise System Firmware Engineer (RDSS Intern)</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481617810/">Apply</a></td>

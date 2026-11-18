@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**25 open roles.** 23 in the United States & Canada · 2 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**24 open roles.** 22 in the United States & Canada · 2 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cambridge, MA USA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4462594009">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Scale AI</strong></td>

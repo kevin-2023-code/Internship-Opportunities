@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**33 open roles.** 1 in the United States & Canada · 32 elsewhere in the world.
+**34 open roles.** 1 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Scaleway</strong></td>
+<td><a href="https://trueinterview.io/jobs/eddb042d-26b3-4fea-847e-1058412fb7b7">R&amp;D Intern - Machine learning</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/scaleway/a2a68808-4d53-4927-bc09-54efb9a6765b">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Loft Orbital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/9490dfcd-fbd8-4586-8408-a1c8d861f08d">AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</a></td>

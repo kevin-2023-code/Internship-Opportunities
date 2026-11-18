@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-17T23:04:33.900Z",
+  "listingsChangedAt": "2026-11-18T00:11:39.132Z",
   "count": 4005,
   "listings": [
     {
@@ -317,6 +317,33 @@
       "url": "https://trueinterview.io/jobs/112aaa39-b04e-4d36-a3f0-358192f65e3f",
       "postedAt": "2026-11-17T17:01:37.000Z",
       "updatedAt": "2026-11-17T17:01:37.000Z"
+    },
+    {
+      "id": "eddb042d-26b3-4fea-847e-1058412fb7b7",
+      "company": "Scaleway",
+      "title": "R&D Intern - Machine learning",
+      "locations": [
+        "Paris"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/scaleway/a2a68808-4d53-4927-bc09-54efb9a6765b",
+      "url": "https://trueinterview.io/jobs/eddb042d-26b3-4fea-847e-1058412fb7b7",
+      "postedAt": "2026-11-17T16:53:57.000Z",
+      "updatedAt": "2026-11-17T16:53:57.000Z"
     },
     {
       "id": "19d0e9a0-cca9-422f-ad27-0e0162671a3e",
@@ -85218,33 +85245,6 @@
       "source": "1point3acres",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
       "url": "https://trueinterview.io/jobs/c125e7df-0197-4d88-ad9f-901fae1c212e",
-      "postedAt": "2026-10-22T00:00:00.000Z",
-      "updatedAt": "2026-10-22T00:00:00.000Z"
-    },
-    {
-      "id": "84d09fb4-10a1-4e60-bf54-5d5c35e57bf9",
-      "company": "crusoe",
-      "title": "Software Engineering Intern, Summer 2027",
-      "locations": [
-        "San Francisco, CA - US"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application",
-      "url": "https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },

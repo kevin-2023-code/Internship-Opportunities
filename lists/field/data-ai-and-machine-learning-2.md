@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**817 open roles.** 600 in the United States & Canada · 217 elsewhere in the world.
+**818 open roles.** 600 in the United States & Canada · 218 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1428,6 +1428,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Scaleway</strong></td>
+<td><a href="https://trueinterview.io/jobs/eddb042d-26b3-4fea-847e-1058412fb7b7">R&amp;D Intern - Machine learning</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/scaleway/a2a68808-4d53-4927-bc09-54efb9a6765b">Apply</a></td>
+<td align="center">17 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/929d0af0-00a9-45af-9b83-c504a3094c79">Extracurricular Internship: AI Software Engineer (f/m/div.)</a></td>
 <td>Aveiro, Portugal</td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200689711-1731?board_id=JB001">Apply</a></td>
 <td align="center">18 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/a97a29bd-8c6b-4ccf-b839-185d56dd4455">Applied Scientist Intern</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10581054/applied-scientist-intern?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>

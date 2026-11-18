@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**705 open roles.** 557 in the United States & Canada · 148 elsewhere in the world.
+**704 open roles.** 556 in the United States & Canada · 148 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -797,13 +797,6 @@
 <td><a href="https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952">System Development Engineer Intern/Co-op, ROBOTICS -  2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>

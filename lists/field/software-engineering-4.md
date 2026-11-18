@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,984 open roles.** 1,555 in the United States & Canada · 429 elsewhere in the world.
+**1,983 open roles.** 1,554 in the United States & Canada · 429 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1280,13 +1280,6 @@
 <td><a href="https://trueinterview.io/jobs/c125e7df-0197-4d88-ad9f-901fae1c212e">Winter 2027 Robotics Engineer Co-op</a></td>
 <td>Quincy, Massachusetts, United States, Quincy, MA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1b117e45-e39e-4c7a-9f2b-235ff63792fb">Frontend Development Software Engineer Intern (BytePlus) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475060229/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c5c9ce4a-f03e-4898-9bf4-6f43a750b952">AI Agent Engineering Project Intern (Corporate Service System - Procurement) - 2026 Start（BS/MS）</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475052625/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**579 open roles.**
+**578 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -83,13 +83,6 @@
 <td><a href="https://trueinterview.io/jobs/46bde70e-8d62-4ec7-aca2-7cff41991f02">Mechanical Engineering, Intern - Labs (Summer 2027)</a></td>
 <td>Oakland, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8313401">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
