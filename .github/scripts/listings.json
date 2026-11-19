@@ -5,9 +5,207 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-19T16:05:05.778Z",
-  "count": 4118,
+  "listingsChangedAt": "2026-11-19T17:04:22.800Z",
+  "count": 4128,
   "listings": [
+    {
+      "id": "f55879f2-a3d9-452f-9de8-b67b65518283",
+      "company": "Punch Through",
+      "title": "Mobile Software Engineer Intern",
+      "locations": [
+        "Greater Minneapolis-St. Paul Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492156927/",
+      "url": "https://trueinterview.io/jobs/f55879f2-a3d9-452f-9de8-b67b65518283",
+      "postedAt": "2026-11-19T16:13:00.000Z",
+      "updatedAt": "2026-11-19T16:13:00.000Z"
+    },
+    {
+      "id": "62591c2f-ff05-4184-b949-50dd5eb5172f",
+      "company": "Punch Through",
+      "title": "Embedded Software Engineer Intern",
+      "locations": [
+        "Greater Minneapolis-St. Paul Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492158842/",
+      "url": "https://trueinterview.io/jobs/62591c2f-ff05-4184-b949-50dd5eb5172f",
+      "postedAt": "2026-11-19T15:56:00.000Z",
+      "updatedAt": "2026-11-19T15:56:00.000Z"
+    },
+    {
+      "id": "fbcd964e-d8c4-4ed4-9f26-292a68899573",
+      "company": "Calamos Investments",
+      "title": "Cloud Engineer Intern",
+      "locations": [
+        "Naperville, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492452498/",
+      "url": "https://trueinterview.io/jobs/fbcd964e-d8c4-4ed4-9f26-292a68899573",
+      "postedAt": "2026-11-19T15:25:00.000Z",
+      "updatedAt": "2026-11-19T15:25:00.000Z"
+    },
+    {
+      "id": "65923971-f13b-483d-870a-acd98a18a3d4",
+      "company": "Scality",
+      "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/scality/be84e1f2-dfb9-47dc-9aec-ed7584b1951f",
+      "url": "https://trueinterview.io/jobs/65923971-f13b-483d-870a-acd98a18a3d4",
+      "postedAt": "2026-11-19T15:12:28.000Z",
+      "updatedAt": "2026-11-19T15:12:28.000Z"
+    },
+    {
+      "id": "e06d74dc-cdf3-40da-ad92-541c86dc141a",
+      "company": "BeamSphere",
+      "title": "Firmware Engineering Intern",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491626077/",
+      "url": "https://trueinterview.io/jobs/e06d74dc-cdf3-40da-ad92-541c86dc141a",
+      "postedAt": "2026-11-19T14:25:00.000Z",
+      "updatedAt": "2026-11-19T14:25:00.000Z"
+    },
+    {
+      "id": "3d75ddc9-253b-4222-a6ce-7f7acb7a8b80",
+      "company": "Horizon Lane",
+      "title": "Firmware Engineering Intern",
+      "locations": [
+        "Mequon, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491395848/",
+      "url": "https://trueinterview.io/jobs/3d75ddc9-253b-4222-a6ce-7f7acb7a8b80",
+      "postedAt": "2026-11-19T14:25:00.000Z",
+      "updatedAt": "2026-11-19T14:25:00.000Z"
+    },
+    {
+      "id": "2410c0a0-e2b6-4ebd-bf3e-dc636803ecad",
+      "company": "Sharkninja",
+      "title": "Spring 2027: Cost Engineering Co-op (January to June)",
+      "locations": [
+        "Needham, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730253006",
+      "url": "https://trueinterview.io/jobs/2410c0a0-e2b6-4ebd-bf3e-dc636803ecad",
+      "postedAt": "2026-11-19T14:02:31.000Z",
+      "updatedAt": "2026-11-19T14:02:31.000Z"
+    },
+    {
+      "id": "e1d47489-aa3a-4995-94b1-5ff5a82dc813",
+      "company": "Castelion",
+      "title": "Embedded Software Engineer Intern - Fall 2026",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491614451/",
+      "url": "https://trueinterview.io/jobs/e1d47489-aa3a-4995-94b1-5ff5a82dc813",
+      "postedAt": "2026-11-19T13:25:00.000Z",
+      "updatedAt": "2026-11-19T13:25:00.000Z"
+    },
     {
       "id": "dae266f5-58a5-412d-8cf4-d09f69decf7a",
       "company": "Amgen",
@@ -638,6 +836,31 @@
       "updatedAt": "2026-11-19T12:15:00.000Z"
     },
     {
+      "id": "314b16eb-4958-429d-a52c-4e81b426c85b",
+      "company": "Abbvie",
+      "title": "Motion Designer - Internship",
+      "locations": [
+        "Boulogne-Billancourt, Île-de-France, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016959356-motion-designer-internship",
+      "url": "https://trueinterview.io/jobs/314b16eb-4958-429d-a52c-4e81b426c85b",
+      "postedAt": "2026-11-19T11:24:30.000Z",
+      "updatedAt": "2026-11-19T11:24:30.000Z"
+    },
+    {
       "id": "338ffc6d-0fc8-4c90-b8d3-68551e286125",
       "company": "Bosch",
       "title": "Extracurricular Internship: Android Developer (f/m/div.)",
@@ -935,9 +1158,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -974,6 +1197,108 @@
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
     {
+      "id": "ba99f858-008b-48db-9c2e-27d00fcb9ecb",
+      "company": "Sherwin-Williams",
+      "title": "2027 Spring Engineering Co-Op - Chicago, IL",
+      "locations": [
+        "Chicago, IL, United States"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2624784",
+      "url": "https://trueinterview.io/jobs/ba99f858-008b-48db-9c2e-27d00fcb9ecb",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "af711d28-f709-430a-b8cd-7253eb77e5a4",
+      "company": "Sherwin-Williams",
+      "title": "2027 Spring Engineering Co-Op - Fernley, NV",
+      "locations": [
+        "Fernley, NV, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2624843",
+      "url": "https://trueinterview.io/jobs/af711d28-f709-430a-b8cd-7253eb77e5a4",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "98f69f84-12d6-4d43-ac11-811d3378c4b7",
+      "company": "Sherwin-Williams",
+      "title": "2027 Spring Engineering Co-Op - Greensboro, NC",
+      "locations": [
+        "Greensboro, NC, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2624848",
+      "url": "https://trueinterview.io/jobs/98f69f84-12d6-4d43-ac11-811d3378c4b7",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "6badddc6-65c7-4877-bb03-da915511377b",
+      "company": "Sherwin-Williams",
+      "title": "2027 Spring Engineering Co-Op - Holland, MI",
+      "locations": [
+        "Holland, MI, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2624788",
+      "url": "https://trueinterview.io/jobs/6badddc6-65c7-4877-bb03-da915511377b",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
       "id": "2d1dc003-2f7c-461e-97e5-0acc1655d323",
       "company": "Samsung Semiconductor",
       "title": "Intern, SSD Firmware Engineer",
@@ -988,7 +1313,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1001,9 +1326,9 @@
       "updatedAt": "2026-11-18T22:45:35.000Z"
     },
     {
-      "id": "522ef636-7411-4a6c-9a1d-f41150565a7d",
+      "id": "57cb4ea1-8f16-4b84-b6f3-3e63ed0ea058",
       "company": "Samsung Semiconductor",
-      "title": "Intern, Architecture Research Engineer (Resilient Collective Communications)",
+      "title": "Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)",
       "locations": [
         "San Jose, California, United States"
       ],
@@ -1014,18 +1339,18 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
-      "url": "https://trueinterview.io/jobs/522ef636-7411-4a6c-9a1d-f41150565a7d",
-      "postedAt": "2026-11-18T22:44:55.000Z",
-      "updatedAt": "2026-11-18T22:45:07.000Z"
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208641003",
+      "url": "https://trueinterview.io/jobs/57cb4ea1-8f16-4b84-b6f3-3e63ed0ea058",
+      "postedAt": "2026-11-18T22:45:22.000Z",
+      "updatedAt": "2026-11-18T22:45:22.000Z"
     },
     {
       "id": "f8e6555a-8fc7-4b17-a49f-8799e1b712c4",
@@ -1054,6 +1379,35 @@
       "url": "https://trueinterview.io/jobs/f8e6555a-8fc7-4b17-a49f-8799e1b712c4",
       "postedAt": "2026-11-18T06:00:00.000Z",
       "updatedAt": "2026-11-18T22:24:13.000Z"
+    },
+    {
+      "id": "c7537f35-2fc0-4a06-8859-b9f621f9027e",
+      "company": "Crusoe",
+      "title": "AI Applied Research PhD Intern, Summer 2027",
+      "locations": [
+        "San Francisco, CA - US",
+        "Sunnyvale, CA - US"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b",
+      "url": "https://trueinterview.io/jobs/c7537f35-2fc0-4a06-8859-b9f621f9027e",
+      "postedAt": "2026-11-18T21:34:53.000Z",
+      "updatedAt": "2026-11-18T21:34:53.000Z"
     },
     {
       "id": "c30646ae-e8ca-4b2d-919f-70fc6736b102",
@@ -1622,6 +1976,31 @@
       "updatedAt": "2026-11-18T17:01:00.000Z"
     },
     {
+      "id": "c28a4cfa-b933-4bad-903f-67374c8390e9",
+      "company": "Veolia",
+      "title": "Instrumentation & Equipment Engineering Intern",
+      "locations": [
+        "Cary, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162356599-instrumentation-equipment-engineering-intern",
+      "url": "https://trueinterview.io/jobs/c28a4cfa-b933-4bad-903f-67374c8390e9",
+      "postedAt": "2026-11-18T17:00:23.000Z",
+      "updatedAt": "2026-11-18T17:00:23.000Z"
+    },
+    {
       "id": "b557c017-26e8-4b3c-86cc-778bcae353f7",
       "company": "WD",
       "title": "Spring 2027 Intern - Software Engineering",
@@ -1751,6 +2130,33 @@
       "url": "https://trueinterview.io/jobs/8d93a65e-57d1-4a10-8dc7-36f9ec4ba0ec",
       "postedAt": "2026-11-18T16:43:00.000Z",
       "updatedAt": "2026-11-18T16:43:00.000Z"
+    },
+    {
+      "id": "0abe8312-7bc7-4552-b1e5-ff3c18b24802",
+      "company": "Free",
+      "title": "Engineering Internship – Networking Deep Tech: DPDK, Linux and Fast Packet Processing on Embedded Hardware - Paris - H/F",
+      "locations": [
+        "Paris, Île-de-France, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Iliad-Free/744000162348795-engineering-internship-networking-deep-tech-dpdk-linux-and-fast-packet-processing-on-embedded-hardware-paris-h-f",
+      "url": "https://trueinterview.io/jobs/0abe8312-7bc7-4552-b1e5-ff3c18b24802",
+      "postedAt": "2026-11-18T16:39:47.000Z",
+      "updatedAt": "2026-11-18T16:39:47.000Z"
     },
     {
       "id": "f6d0088e-4861-40b1-b4d5-2af5b378df36",
@@ -2153,6 +2559,33 @@
       "url": "https://trueinterview.io/jobs/c074f25b-eba5-4d5c-9713-552c980a3586",
       "postedAt": "2026-11-18T12:10:08.000Z",
       "updatedAt": "2026-11-18T12:10:08.000Z"
+    },
+    {
+      "id": "2324f939-bfe9-4074-893c-9a468ed51a21",
+      "company": "Trainline",
+      "title": "Intern Engineer",
+      "locations": [
+        "London"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd",
+      "url": "https://trueinterview.io/jobs/2324f939-bfe9-4074-893c-9a468ed51a21",
+      "postedAt": "2026-11-18T11:48:10.000Z",
+      "updatedAt": "2026-11-18T11:48:10.000Z"
     },
     {
       "id": "dc2d5902-9fee-4b5c-9765-ffda30ee9e27",
@@ -37035,31 +37468,6 @@
       "updatedAt": "2026-11-05T20:10:00.000Z"
     },
     {
-      "id": "e8e59ae9-ce13-40aa-b9a4-99a763466c69",
-      "company": "Elevated Web Design",
-      "title": "ML Software Engineering Internship",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488051046/",
-      "url": "https://trueinterview.io/jobs/e8e59ae9-ce13-40aa-b9a4-99a763466c69",
-      "postedAt": "2026-11-05T20:10:00.000Z",
-      "updatedAt": "2026-11-05T20:10:00.000Z"
-    },
-    {
       "id": "af0d4d28-a495-4dec-af46-2858e04bab5c",
       "company": "Little Caesars Pizza",
       "title": "Intern, Developer IT",
@@ -67719,32 +68127,6 @@
       "updatedAt": "2026-10-29T14:02:00.000Z"
     },
     {
-      "id": "b4f9f1a3-c0f5-40ed-ba98-a202558bcf6c",
-      "company": "Verkada",
-      "title": "Embedded Software Engineering Intern 2027",
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, CA United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
-      "url": "https://trueinterview.io/jobs/b4f9f1a3-c0f5-40ed-ba98-a202558bcf6c",
-      "postedAt": "2026-10-29T14:02:00.000Z",
-      "updatedAt": "2026-10-29T14:02:00.000Z"
-    },
-    {
       "id": "c1a7fcb9-8ca0-4fd3-9f1f-6e96a6fbbd10",
       "company": "The Timken Company",
       "title": "Engineering Intern",
@@ -68590,32 +68972,6 @@
       "url": "https://trueinterview.io/jobs/3f36788f-23c2-4ddf-a70e-3ba82d9817d1",
       "postedAt": "2026-10-29T12:39:00.000Z",
       "updatedAt": "2026-10-29T12:39:00.000Z"
-    },
-    {
-      "id": "f3090207-563f-4641-ad2e-88c7e6b540ce",
-      "company": "Verkada",
-      "title": "Mobile Software Engineering Intern 2027",
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, CA United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
-      "url": "https://trueinterview.io/jobs/f3090207-563f-4641-ad2e-88c7e6b540ce",
-      "postedAt": "2026-10-29T12:34:00.000Z",
-      "updatedAt": "2026-10-29T12:34:00.000Z"
     },
     {
       "id": "04df85cd-f7bd-4f25-b418-5b5a2fc395fc",
@@ -76319,31 +76675,6 @@
       "updatedAt": "2026-10-28T18:24:00.000Z"
     },
     {
-      "id": "5030d405-f142-4973-97b5-70db7d4f7bd5",
-      "company": "Dassault Systèmes",
-      "title": "INTERNSHIP - CFD QA Software Engineer",
-      "locations": [
-        "Waltham, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213",
-      "url": "https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5",
-      "postedAt": "2026-10-28T18:21:00.000Z",
-      "updatedAt": "2026-10-28T18:21:00.000Z"
-    },
-    {
       "id": "395cc063-41ea-47b3-9f02-724bc68dfa8c",
       "company": "Bombardier",
       "title": "Year-round Avionics Engineering Intern",
@@ -79673,31 +80004,6 @@
       "updatedAt": "2026-10-28T14:24:00.000Z"
     },
     {
-      "id": "6c5aea9d-b807-4636-9a88-d444dc03d93e",
-      "company": "apexanalytix",
-      "title": "Automation Developer Intern (Summer 2027)",
-      "locations": [
-        "Greensboro, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4465565541/",
-      "url": "https://trueinterview.io/jobs/6c5aea9d-b807-4636-9a88-d444dc03d93e",
-      "postedAt": "2026-10-28T14:23:00.000Z",
-      "updatedAt": "2026-10-28T14:23:00.000Z"
-    },
-    {
       "id": "8de18120-c9d1-4b18-ba38-1cb7f9d0edf3",
       "company": "apexanalytix",
       "title": "Data Engineering Intern (Summer 2027)",
@@ -79774,32 +80080,6 @@
       "updatedAt": "2026-10-28T14:23:00.000Z"
     },
     {
-      "id": "896a9d4d-3209-47a7-92f9-07204614609f",
-      "company": "Verkada",
-      "title": "Backend Software Engineering Intern 2027",
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, CA United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
-      "url": "https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f",
-      "postedAt": "2026-10-28T14:20:47.000Z",
-      "updatedAt": "2026-10-28T14:20:47.000Z"
-    },
-    {
       "id": "6fa1c368-c7a2-40c2-a960-9e53b3239d8d",
       "company": "Ingalls Shipbuilding, a Division of HII",
       "title": "2027 COLLEGE SUMMER INTERN-COMPUTER ENGINEERING",
@@ -79874,32 +80154,6 @@
       "url": "https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41",
       "postedAt": "2026-10-28T14:08:00.000Z",
       "updatedAt": "2026-10-28T14:08:00.000Z"
-    },
-    {
-      "id": "36254e34-ea51-43ea-a46f-72cedca52065",
-      "company": "Verkada",
-      "title": "Frontend Software Engineering Intern 2027",
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, CA United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
-      "url": "https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065",
-      "postedAt": "2026-10-28T14:07:00.000Z",
-      "updatedAt": "2026-10-28T14:07:00.000Z"
     },
     {
       "id": "6d7bf8f4-284d-4192-b580-21169ae6caf6",
