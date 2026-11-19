@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-19T21:04:23.175Z",
-  "count": 4166,
+  "listingsChangedAt": "2026-11-19T22:04:39.913Z",
+  "count": 4167,
   "listings": [
     {
       "id": "c4340c32-067d-4bc7-992c-1d86abc02e1d",
@@ -112,6 +112,31 @@
       "updatedAt": "2026-11-19T19:40:00.000Z"
     },
     {
+      "id": "bbf448b5-e917-4714-9a7a-00cad4582dcd",
+      "company": "Aon3d Careers",
+      "title": "Electrical Engineering Intern",
+      "locations": [
+        "Montréal, Quebec, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/aon3d/jobs/4504768009",
+      "url": "https://trueinterview.io/jobs/bbf448b5-e917-4714-9a7a-00cad4582dcd",
+      "postedAt": "2026-11-19T19:32:21.000Z",
+      "updatedAt": "2026-11-19T19:32:21.000Z"
+    },
+    {
       "id": "5688c335-316d-41de-9070-e651dde6cbc3",
       "company": "Amperity",
       "title": "Intern - Software Development Engineer",
@@ -203,7 +228,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -359,7 +384,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -473,8 +498,8 @@
       "updatedAt": "2026-11-19T16:53:00.000Z"
     },
     {
-      "id": "8e9181be-e9ad-4da0-a39b-d5dcb78d5b7e",
-      "company": "Barry's Bootcamp",
+      "id": "2ad61bb5-fabf-4239-b65a-e6f24b2c8386",
+      "company": "Barry's",
       "title": "Undergraduate Summer Scholar, Data Analyst - Summer 2027",
       "locations": [
         "New York, NY"
@@ -493,11 +518,11 @@
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f",
-      "url": "https://trueinterview.io/jobs/8e9181be-e9ad-4da0-a39b-d5dcb78d5b7e",
-      "postedAt": "2026-11-19T16:19:26.000Z",
-      "updatedAt": "2026-11-19T16:19:26.000Z"
+      "source": "indeed",
+      "applyUrl": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f?jobSite=Indeed",
+      "url": "https://trueinterview.io/jobs/2ad61bb5-fabf-4239-b65a-e6f24b2c8386",
+      "postedAt": "2026-11-19T16:21:00.000Z",
+      "updatedAt": "2026-11-19T16:21:00.000Z"
     },
     {
       "id": "f55879f2-a3d9-452f-9de8-b67b65518283",
@@ -3363,13 +3388,38 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4490849707/",
       "url": "https://trueinterview.io/jobs/f58293ac-4672-4cf6-b41d-fabcbf589923",
+      "postedAt": "2026-11-18T16:28:00.000Z",
+      "updatedAt": "2026-11-18T16:28:00.000Z"
+    },
+    {
+      "id": "159a7342-2e36-45d3-a4cc-257ad4563081",
+      "company": "Regions Bank",
+      "title": "2027 ETP Analyst- Technology, Operations, Digital, and Data. Regions 2026 Interns only",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491754990/",
+      "url": "https://trueinterview.io/jobs/159a7342-2e36-45d3-a4cc-257ad4563081",
       "postedAt": "2026-11-18T16:28:00.000Z",
       "updatedAt": "2026-11-18T16:28:00.000Z"
     },
@@ -3440,7 +3490,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -29698,34 +29748,6 @@
       "url": "https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d",
       "postedAt": "2026-11-10T00:14:00.000Z",
       "updatedAt": "2026-11-10T00:14:00.000Z"
-    },
-    {
-      "id": "770d8b93-54ca-41dc-b377-8710d42c73a4",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Applied AI Engineering",
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Hardware & Engineering",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8",
-      "url": "https://trueinterview.io/jobs/770d8b93-54ca-41dc-b377-8710d42c73a4",
-      "postedAt": "2026-11-10T00:07:00.000Z",
-      "updatedAt": "2026-11-10T00:07:00.000Z"
     },
     {
       "id": "e9df295d-736d-4699-a9b4-f0048a57e5f1",
