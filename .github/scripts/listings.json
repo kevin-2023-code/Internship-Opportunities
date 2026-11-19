@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-18T18:05:52.440Z",
-  "count": 4047,
+  "listingsChangedAt": "2026-11-19T00:11:40.750Z",
+  "count": 4046,
   "listings": [
     {
       "id": "fdcd6681-bdce-40e6-8fa8-913966876a22",
@@ -104978,31 +104978,6 @@
       "url": "https://trueinterview.io/jobs/9d9592ca-757a-4e48-8720-931135f30849",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "id": "2887a173-48d0-422c-aca8-c06e3d290371",
-      "company": "Intel",
-      "title": "Process Integration and Yield Engineering PhD Intern",
-      "locations": [
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132",
-      "url": "https://trueinterview.io/jobs/2887a173-48d0-422c-aca8-c06e3d290371",
-      "postedAt": "2026-09-20T00:00:00.000Z",
-      "updatedAt": "2026-09-20T00:00:00.000Z"
     }
   ]
 }
