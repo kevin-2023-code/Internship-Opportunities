@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-19T22:04:39.913Z",
-  "count": 4167,
+  "listingsChangedAt": "2026-11-19T23:04:12.111Z",
+  "count": 4165,
   "listings": [
     {
       "id": "c4340c32-067d-4bc7-992c-1d86abc02e1d",
@@ -6617,6 +6617,33 @@
       "url": "https://trueinterview.io/jobs/3fd93715-76a0-46e1-809f-b6aacfcf727e",
       "postedAt": "2026-11-17T14:21:00.000Z",
       "updatedAt": "2026-11-17T14:21:00.000Z"
+    },
+    {
+      "id": "006676c2-5205-4a87-94ab-9ddb3a24df06",
+      "company": "Soros Fund Management",
+      "title": "Quantitative Strategist Intern",
+      "locations": [
+        "New York"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+      "url": "https://trueinterview.io/jobs/006676c2-5205-4a87-94ab-9ddb3a24df06",
+      "postedAt": "2026-11-17T14:20:26.000Z",
+      "updatedAt": "2026-11-17T14:20:26.000Z"
     },
     {
       "id": "951f6c56-d31a-4e77-bcad-7b220b9386b0",
@@ -72843,29 +72870,6 @@
       "updatedAt": "2026-10-29T08:49:09.000Z"
     },
     {
-      "id": "6cf7ffbd-aa2c-4340-9c0e-3a3ee6030b28",
-      "company": "Reonic",
-      "title": "Software Engineer Intern - (AI x Greentech) (m/f/d)",
-      "locations": [
-        "Augsburg"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/reonic/1e64e8ef-224e-4c03-9e63-851623370638",
-      "url": "https://trueinterview.io/jobs/6cf7ffbd-aa2c-4340-9c0e-3a3ee6030b28",
-      "postedAt": "2026-10-29T08:48:45.000Z",
-      "updatedAt": "2026-10-29T08:48:45.000Z"
-    },
-    {
       "id": "32fbf546-53d4-4eb5-9c66-e090d70020d4",
       "company": "Crédit Agricole CIB",
       "title": ".NET Software Engineer Intern (Jan 2027 intake)",
@@ -80586,34 +80590,6 @@
       "url": "https://trueinterview.io/jobs/0933a654-faf6-4913-a5ae-577c356b1d5a",
       "postedAt": "2026-10-28T15:36:00.000Z",
       "updatedAt": "2026-10-28T15:36:00.000Z"
-    },
-    {
-      "id": "e590b4f8-9e7b-4c04-8bae-64c3a98fb52e",
-      "company": "DV Trading LLC",
-      "title": "Database Engineer Intern - Summer 2027",
-      "locations": [
-        "Chicago, IL",
-        "Chicago"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005",
-      "url": "https://trueinterview.io/jobs/e590b4f8-9e7b-4c04-8bae-64c3a98fb52e",
-      "postedAt": "2026-10-28T15:29:00.000Z",
-      "updatedAt": "2026-10-28T15:29:00.000Z"
     },
     {
       "id": "065b187f-259e-4a64-8a58-ec1b1213ff83",
@@ -89292,29 +89268,6 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application",
       "url": "https://trueinterview.io/jobs/b6e6dda4-4d09-4cba-8271-2cc3a436a7cc",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "bf8e24d2-9438-4898-8a98-8cae1362bf8a",
-      "company": "toku",
-      "title": "AI Operations Intern BR",
-      "locations": [
-        "Brasil"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application",
-      "url": "https://trueinterview.io/jobs/bf8e24d2-9438-4898-8a98-8cae1362bf8a",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
