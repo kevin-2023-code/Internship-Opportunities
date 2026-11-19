@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-19T18:06:37.272Z",
-  "count": 4146,
+  "listingsChangedAt": "2026-11-19T19:04:08.033Z",
+  "count": 4154,
   "listings": [
     {
       "id": "c4340c32-067d-4bc7-992c-1d86abc02e1d",
@@ -33,6 +33,33 @@
       "url": "https://trueinterview.io/jobs/c4340c32-067d-4bc7-992c-1d86abc02e1d",
       "postedAt": "2026-11-19T20:29:50.000Z",
       "updatedAt": "2026-11-19T20:29:50.000Z"
+    },
+    {
+      "id": "13f083ee-7084-4c0a-b41f-ef3a50b0de49",
+      "company": "pivotal",
+      "title": "Internship, GNC Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d",
+      "url": "https://trueinterview.io/jobs/13f083ee-7084-4c0a-b41f-ef3a50b0de49",
+      "postedAt": "2026-11-19T17:47:23.000Z",
+      "updatedAt": "2026-11-19T17:47:23.000Z"
     },
     {
       "id": "0540206f-29df-4cfe-b184-aea0cc4587e1",
@@ -187,29 +214,30 @@
       "updatedAt": "2026-11-19T17:05:00.000Z"
     },
     {
-      "id": "1ef46112-510c-417d-bb8b-1bb07be880e5",
-      "company": "Microsoft",
-      "title": "Research Intern - Computer Vision and Deep Learning",
+      "id": "8b2bba32-296a-4662-90cf-2127ecfba2b3",
+      "company": "Textron",
+      "title": "2027 Intern - Software Enginer (Sea Systems) - Hunt Valley, MD",
       "locations": [
-        "Redmond, WA"
+        "Hunt Valley, Maryland, US",
+        "Hunt Valley, MD"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4492446818/",
-      "url": "https://trueinterview.io/jobs/1ef46112-510c-417d-bb8b-1bb07be880e5",
-      "postedAt": "2026-11-19T16:44:00.000Z",
-      "updatedAt": "2026-11-19T16:44:00.000Z"
+      "source": "career-sites",
+      "applyUrl": "https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=342935",
+      "url": "https://trueinterview.io/jobs/8b2bba32-296a-4662-90cf-2127ecfba2b3",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T16:53:00.000Z"
     },
     {
       "id": "8e9181be-e9ad-4da0-a39b-d5dcb78d5b7e",
@@ -228,7 +256,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Analyst",
-      "seniority": "new-grad",
+      "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -285,29 +313,29 @@
       "updatedAt": "2026-11-19T15:56:00.000Z"
     },
     {
-      "id": "68626aff-6f9b-4f2b-a10e-f64a033ef3da",
-      "company": "Eurofins",
-      "title": "6-month internship - IT Finance & Data Analyst",
+      "id": "04506c61-d1ba-4cd3-a6c7-467d8409f7db",
+      "company": "Renesas",
+      "title": "Digital Design Engineer Intern",
       "locations": [
-        "Brussels, Brussels, Belgium"
+        "Duluth, GEORGIA, United States"
       ],
       "cities": [],
       "countries": [
-        "Other"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000162539484-6-month-internship-it-finance-data-analyst",
-      "url": "https://trueinterview.io/jobs/68626aff-6f9b-4f2b-a10e-f64a033ef3da",
-      "postedAt": "2026-11-19T15:33:42.000Z",
-      "updatedAt": "2026-11-19T15:33:42.000Z"
+      "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079-digital-design-engineer-intern",
+      "url": "https://trueinterview.io/jobs/04506c61-d1ba-4cd3-a6c7-467d8409f7db",
+      "postedAt": "2026-11-19T15:31:58.000Z",
+      "updatedAt": "2026-11-19T15:31:58.000Z"
     },
     {
       "id": "fbcd964e-d8c4-4ed4-9f26-292a68899573",
@@ -1322,6 +1350,31 @@
       "updatedAt": "2026-11-19T06:15:00.000Z"
     },
     {
+      "id": "efe8e5c1-c80a-402e-87cf-f33236dffb60",
+      "company": "St. Luke's Health System",
+      "title": "Intern-Identity and Access Management - 158255",
+      "locations": [
+        "Boise, ID"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.slhs.org/careersmarketplace/JobDetail/Intern-Identity-and-Access-Management/158255",
+      "url": "https://trueinterview.io/jobs/efe8e5c1-c80a-402e-87cf-f33236dffb60",
+      "postedAt": "2026-11-19T06:04:16.000Z",
+      "updatedAt": "2026-11-19T06:04:16.000Z"
+    },
+    {
       "id": "ee9e7deb-9719-4371-b4ca-28555c32b5a4",
       "company": "Alberta Investment Management Corporation (AIMCo)",
       "title": "Intern, Test Automation (12-month term)",
@@ -1400,6 +1453,58 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "1557f7ff-73fb-4403-98aa-6b93c7493e26",
+      "company": "Progress Rail",
+      "title": "Intern III, Student Support",
+      "locations": [
+        "Leased Office - Southlake, TX - 477, Southlake, North America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://xjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=26144&siteid=5496&PageType=JobDetails&jobid=772323",
+      "url": "https://trueinterview.io/jobs/1557f7ff-73fb-4403-98aa-6b93c7493e26",
+      "postedAt": "2026-11-19T03:47:14.000Z",
+      "updatedAt": "2026-11-19T03:47:14.000Z"
+    },
+    {
+      "id": "2ee7828c-0f33-4723-b4ef-6e9e37bd4990",
+      "company": "Workstream",
+      "title": "Full Stack Engineer Intern",
+      "locations": [
+        "Vancouver"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+      "url": "https://trueinterview.io/jobs/2ee7828c-0f33-4723-b4ef-6e9e37bd4990",
+      "postedAt": "2026-11-19T02:05:01.000Z",
+      "updatedAt": "2026-11-19T02:05:01.000Z"
+    },
+    {
       "id": "a274652e-0618-4c2b-bc8e-94dc342e8d22",
       "company": "Roblox",
       "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
@@ -1422,7 +1527,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://careers.roblox.com/jobs/8386080",
+      "applyUrl": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
       "url": "https://trueinterview.io/jobs/a274652e-0618-4c2b-bc8e-94dc342e8d22",
       "postedAt": "2026-11-19T01:16:00.000Z",
       "updatedAt": "2026-11-19T01:16:00.000Z"
@@ -1503,27 +1608,105 @@
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
     {
-      "id": "9f82fe52-6f17-45df-a02a-3ba8735b3380",
-      "company": "Centene",
-      "title": "Site Reliability Operational Analyst Intern (Undergraduate Summer 2027)",
+      "id": "4cd4be24-7846-49b0-ad0d-0b89b73add25",
+      "company": "Commonwealth of Kentucky",
+      "title": "Team Kentucky Internship Program - Public Protection - Office of Information Technology",
       "locations": [
-        "Remote-MO, United States of America"
+        "Frankfort, KY, US"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
-      "remote": "remote",
+      "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Site Reliability Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
-      "applyUrl": "https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Site-Reliability-Operational-Analyst-Intern--Undergraduate-Summer-2027-_1667701",
-      "url": "https://trueinterview.io/jobs/9f82fe52-6f17-45df-a02a-3ba8735b3380",
+      "applyUrl": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82827?c=kypersonnelcabinet",
+      "url": "https://trueinterview.io/jobs/4cd4be24-7846-49b0-ad0d-0b89b73add25",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "264647c9-a579-4141-adf5-cfcf57c209b1",
+      "company": "Contributor Development Partnership",
+      "title": "BIA Co-op",
+      "locations": [
+        "Boston, MA, 02135",
+        "Remote"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7998c65d-0e6b-425f-a970-5fec90afc5a0&jobId=625155",
+      "url": "https://trueinterview.io/jobs/264647c9-a579-4141-adf5-cfcf57c209b1",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "06df14a2-a04d-4e05-9177-8fbbc54d45c8",
+      "company": "Emerson",
+      "title": "Demo Engineer Intern",
+      "locations": [
+        "DEBRECEN, HAJDÚ BIHAR, Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013688",
+      "url": "https://trueinterview.io/jobs/06df14a2-a04d-4e05-9177-8fbbc54d45c8",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "260562a0-ef4d-46ba-9e10-e417e6e289de",
+      "company": "RTX",
+      "title": "Software Security Intern (Summer 2027)",
+      "locations": [
+        "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095",
+      "url": "https://trueinterview.io/jobs/260562a0-ef4d-46ba-9e10-e417e6e289de",
       "postedAt": "2026-11-19T00:00:00.000Z",
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
@@ -1626,6 +1809,56 @@
       "source": "ats-boards",
       "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2624788",
       "url": "https://trueinterview.io/jobs/6badddc6-65c7-4877-bb03-da915511377b",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "b6086f61-35c5-4b52-804c-57facdff3de3",
+      "company": "Texas Instruments",
+      "title": "Field Applications Engineer Intern",
+      "locations": [
+        "Kista, Sweden"
+      ],
+      "cities": [],
+      "countries": [
+        "Sweden"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014043",
+      "url": "https://trueinterview.io/jobs/b6086f61-35c5-4b52-804c-57facdff3de3",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "7921e5a9-dba4-4c1c-b799-202d6efaa7cc",
+      "company": "Texas Instruments",
+      "title": "Systems Engineering Intern (GaN)",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020388",
+      "url": "https://trueinterview.io/jobs/7921e5a9-dba4-4c1c-b799-202d6efaa7cc",
       "postedAt": "2026-11-19T00:00:00.000Z",
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
@@ -3801,6 +4034,31 @@
       "updatedAt": "2026-11-18T00:00:00.000Z"
     },
     {
+      "id": "08a17f8c-0bc1-44cf-b5e0-546d9ef15636",
+      "company": "Emerson",
+      "title": "Engineering Co-op",
+      "locations": [
+        "Louisville, KY, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012734",
+      "url": "https://trueinterview.io/jobs/08a17f8c-0bc1-44cf-b5e0-546d9ef15636",
+      "postedAt": "2026-11-18T00:00:00.000Z",
+      "updatedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
       "id": "c072b5be-3c17-4abf-bf37-fe45c6adb05a",
       "company": "Great American Insurance Group",
       "title": "Data Engineer Developer Intern – Summer 2027",
@@ -5194,31 +5452,6 @@
       "url": "https://trueinterview.io/jobs/a6e97e0c-70e5-4fa4-89a2-a74212521891",
       "postedAt": "2026-11-17T15:55:00.000Z",
       "updatedAt": "2026-11-17T15:55:00.000Z"
-    },
-    {
-      "id": "a5dd434a-5a88-4851-91fb-db75ec134184",
-      "company": "Intuitive Machines",
-      "title": "Flight Software Intern",
-      "locations": [
-        "Houston, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575682&lang=en_US",
-      "url": "https://trueinterview.io/jobs/a5dd434a-5a88-4851-91fb-db75ec134184",
-      "postedAt": "2026-11-17T15:54:00.000Z",
-      "updatedAt": "2026-11-17T15:54:00.000Z"
     },
     {
       "id": "4bfac105-5cf2-41a4-9475-13da6057c671",
@@ -53348,34 +53581,6 @@
       "source": "ats-boards",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103",
       "url": "https://trueinterview.io/jobs/5ee625c0-9aa1-4afa-ab91-032e6bf43575",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "200f674b-02e7-4395-a2c0-9008a79d0916",
-      "company": "Nokia",
-      "title": "NPI Engineering Intern (AI-Assisted Operations)",
-      "locations": [
-        "Malaysia",
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087",
-      "url": "https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
