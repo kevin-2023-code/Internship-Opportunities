@@ -5,9 +5,159 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T01:04:56.211Z",
-  "count": 4150,
+  "listingsChangedAt": "2026-11-20T02:06:38.300Z",
+  "count": 4158,
   "listings": [
+    {
+      "id": "226b0ee6-4e17-4f8c-8b51-a9dcc7577e62",
+      "company": "Lucidmotors",
+      "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+      "url": "https://trueinterview.io/jobs/226b0ee6-4e17-4f8c-8b51-a9dcc7577e62",
+      "postedAt": "2026-11-20T00:40:59.000Z",
+      "updatedAt": "2026-11-20T00:40:59.000Z"
+    },
+    {
+      "id": "498c71b6-15c5-4a26-b082-fbea7988d246",
+      "company": "Lucidmotors",
+      "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
+      "url": "https://trueinterview.io/jobs/498c71b6-15c5-4a26-b082-fbea7988d246",
+      "postedAt": "2026-11-19T23:30:52.000Z",
+      "updatedAt": "2026-11-19T23:30:52.000Z"
+    },
+    {
+      "id": "4f996857-0230-409d-b365-fabedbec9257",
+      "company": "Lucidmotors",
+      "title": "Intern, OTA Test and Validation Automation, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007",
+      "url": "https://trueinterview.io/jobs/4f996857-0230-409d-b365-fabedbec9257",
+      "postedAt": "2026-11-19T23:28:37.000Z",
+      "updatedAt": "2026-11-19T23:28:37.000Z"
+    },
+    {
+      "id": "888c06d5-fb8b-46e8-8b34-0bdce0394904",
+      "company": "Lucidmotors",
+      "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+      "url": "https://trueinterview.io/jobs/888c06d5-fb8b-46e8-8b34-0bdce0394904",
+      "postedAt": "2026-11-19T23:24:43.000Z",
+      "updatedAt": "2026-11-19T23:24:43.000Z"
+    },
+    {
+      "id": "9fa27568-4940-490f-8741-76166809e3f7",
+      "company": "Lucidmotors",
+      "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
+      "url": "https://trueinterview.io/jobs/9fa27568-4940-490f-8741-76166809e3f7",
+      "postedAt": "2026-11-19T23:20:18.000Z",
+      "updatedAt": "2026-11-19T23:20:18.000Z"
+    },
+    {
+      "id": "0a672da1-1b37-4b5c-ae94-5ed2ce6bcdf7",
+      "company": "Lucidmotors",
+      "title": "Intern, Embedded Software, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+      "url": "https://trueinterview.io/jobs/0a672da1-1b37-4b5c-ae94-5ed2ce6bcdf7",
+      "postedAt": "2026-11-19T23:14:26.000Z",
+      "updatedAt": "2026-11-19T23:14:26.000Z"
+    },
     {
       "id": "0fcde121-6ac5-47f9-9183-16dd926d2f85",
       "company": "Waymo",
@@ -34,6 +184,56 @@
       "url": "https://trueinterview.io/jobs/0fcde121-6ac5-47f9-9183-16dd926d2f85",
       "postedAt": "2026-11-19T23:05:23.000Z",
       "updatedAt": "2026-11-19T23:05:23.000Z"
+    },
+    {
+      "id": "3092e894-6e8c-45fa-9911-d0d2ad3c5103",
+      "company": "Lucidmotors",
+      "title": "Intern, Software Engineer, SDET, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "QA Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+      "url": "https://trueinterview.io/jobs/3092e894-6e8c-45fa-9911-d0d2ad3c5103",
+      "postedAt": "2026-11-19T22:57:36.000Z",
+      "updatedAt": "2026-11-19T22:57:36.000Z"
+    },
+    {
+      "id": "78e3ebe9-4eeb-4256-8f4b-dc1a5a48d9d4",
+      "company": "Lucidmotors",
+      "title": "Intern, Simulation & Virtualization Engineer, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007",
+      "url": "https://trueinterview.io/jobs/78e3ebe9-4eeb-4256-8f4b-dc1a5a48d9d4",
+      "postedAt": "2026-11-19T22:56:55.000Z",
+      "updatedAt": "2026-11-19T22:56:55.000Z"
     },
     {
       "id": "c4340c32-067d-4bc7-992c-1d86abc02e1d",
@@ -2280,6 +2480,31 @@
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
     {
+      "id": "5f572481-44c9-451b-94c0-829de461c627",
+      "company": "Texas Instruments",
+      "title": "Compute In-Memory System Engineer Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016331",
+      "url": "https://trueinterview.io/jobs/5f572481-44c9-451b-94c0-829de461c627",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
       "id": "b6086f61-35c5-4b52-804c-57facdff3de3",
       "company": "Texas Instruments",
       "title": "Field Applications Engineer Intern",
@@ -2305,6 +2530,56 @@
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
     {
+      "id": "daab8d51-6563-464a-988f-48363b8dd609",
+      "company": "Texas Instruments",
+      "title": "Synthetic Data for Edge AI System Engineer Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016339",
+      "url": "https://trueinterview.io/jobs/daab8d51-6563-464a-988f-48363b8dd609",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "bf1f25c2-abc3-4acb-9b99-afb9b7091336",
+      "company": "Texas Instruments",
+      "title": "Systems Engineering Intern - MEMS",
+      "locations": [
+        "Santa Clara, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016340",
+      "url": "https://trueinterview.io/jobs/bf1f25c2-abc3-4acb-9b99-afb9b7091336",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
       "id": "7921e5a9-dba4-4c1c-b799-202d6efaa7cc",
       "company": "Texas Instruments",
       "title": "Systems Engineering Intern (GaN)",
@@ -2326,6 +2601,31 @@
       "source": "ats-boards",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020388",
       "url": "https://trueinterview.io/jobs/7921e5a9-dba4-4c1c-b799-202d6efaa7cc",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "1c0a64c8-608c-4a13-977e-ebf9dd4ad8e8",
+      "company": "Texas Instruments",
+      "title": "Systems Engineering Intern (Robotics and AI) at Kilby Labs",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016336",
+      "url": "https://trueinterview.io/jobs/1c0a64c8-608c-4a13-977e-ebf9dd4ad8e8",
       "postedAt": "2026-11-19T00:00:00.000Z",
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
@@ -3725,9 +4025,9 @@
         "Ireland"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3751,7 +4051,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3780,7 +4080,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3863,7 +4163,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3892,7 +4192,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "AI Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -3915,7 +4215,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3941,9 +4241,9 @@
         "United Kingdom"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3953,31 +4253,6 @@
       "url": "https://trueinterview.io/jobs/2324f939-bfe9-4074-893c-9a468ed51a21",
       "postedAt": "2026-11-18T11:48:10.000Z",
       "updatedAt": "2026-11-18T11:48:10.000Z"
-    },
-    {
-      "id": "dc2d5902-9fee-4b5c-9765-ffda30ee9e27",
-      "company": "Globalizationpartners",
-      "title": "Product Management Intern – AI & Analytics",
-      "locations": [
-        "India (Remote-First)"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "remote",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8207500003",
-      "url": "https://trueinterview.io/jobs/dc2d5902-9fee-4b5c-9765-ffda30ee9e27",
-      "postedAt": "2026-11-18T11:45:16.000Z",
-      "updatedAt": "2026-11-18T11:45:16.000Z"
     },
     {
       "id": "0283fcf1-3de2-4698-b421-9b5d387a0b15",
@@ -4055,6 +4330,31 @@
       "url": "https://trueinterview.io/jobs/dc289b5d-accf-45d0-a0ca-0d0177364715",
       "postedAt": "2026-11-18T11:26:00.000Z",
       "updatedAt": "2026-11-18T11:26:00.000Z"
+    },
+    {
+      "id": "1ea11300-4df7-4a01-b0be-d5ab17da2ee7",
+      "company": "ALLETE",
+      "title": "Internship - IT Enterprise Application Integrations",
+      "locations": [
+        "Duluth, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://phg.tbe.taleo.net/phg04/ats/careers/requisition.jsp?org=ALLETE&cws=43&rid=6080",
+      "url": "https://trueinterview.io/jobs/1ea11300-4df7-4a01-b0be-d5ab17da2ee7",
+      "postedAt": "2026-11-18T11:14:59.000Z",
+      "updatedAt": "2026-11-18T11:14:59.000Z"
     },
     {
       "id": "d655fc07-2be6-47a1-8d02-0c64e3dad731",
@@ -35603,60 +35903,6 @@
       "updatedAt": "2026-11-06T20:16:00.000Z"
     },
     {
-      "id": "b47003b4-60eb-450c-a0c0-10c0327a451a",
-      "company": "The New York Times",
-      "title": "Android Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005",
-      "url": "https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a",
-      "postedAt": "2026-11-06T20:12:43.000Z",
-      "updatedAt": "2026-11-06T20:12:43.000Z"
-    },
-    {
-      "id": "6f36b88f-3c6a-4c63-86b9-2f3be3010a04",
-      "company": "The New York Times",
-      "title": "iOS Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005",
-      "url": "https://trueinterview.io/jobs/6f36b88f-3c6a-4c63-86b9-2f3be3010a04",
-      "postedAt": "2026-11-06T20:12:20.000Z",
-      "updatedAt": "2026-11-06T20:12:20.000Z"
-    },
-    {
       "id": "d7c2a55e-67ea-413b-87c4-fb7e9c4debe4",
       "company": "Career Launch Tech Initiative",
       "title": "Software Engineer Intern",
@@ -36804,33 +37050,6 @@
       "url": "https://trueinterview.io/jobs/a5d8b989-2e22-4d28-9939-dcc1f359a928",
       "postedAt": "2026-11-06T15:10:00.000Z",
       "updatedAt": "2026-11-06T15:10:00.000Z"
-    },
-    {
-      "id": "30fec2ab-c7c3-4f9a-9f19-929145758842",
-      "company": "The New York Times",
-      "title": "Interactive News Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005",
-      "url": "https://trueinterview.io/jobs/30fec2ab-c7c3-4f9a-9f19-929145758842",
-      "postedAt": "2026-11-06T14:47:43.000Z",
-      "updatedAt": "2026-11-06T14:47:43.000Z"
     },
     {
       "id": "3503fcbf-dd96-4811-b18d-c7425aeafb89",
@@ -51502,32 +51721,6 @@
       "url": "https://trueinterview.io/jobs/3aa0de4f-1a65-4f95-a3ac-dca77c219044",
       "postedAt": "2026-11-02T19:21:00.000Z",
       "updatedAt": "2026-11-02T19:21:00.000Z"
-    },
-    {
-      "id": "9ed3e36f-8ed8-4a2c-97bb-a5624853f085",
-      "company": "GM Financial",
-      "title": "Intern - Oracle Application Developer",
-      "locations": [
-        "Irving, TX",
-        "Irving, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804",
-      "url": "https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085",
-      "postedAt": "2026-11-02T19:19:00.000Z",
-      "updatedAt": "2026-11-02T19:19:00.000Z"
     },
     {
       "id": "e8f7e0aa-0abb-4d20-98e1-8e2585294712",
@@ -70536,34 +70729,6 @@
       "updatedAt": "2026-10-29T11:40:00.000Z"
     },
     {
-      "id": "1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
-      "company": "Antares",
-      "title": "Reactor Software Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles, CA",
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3",
-      "url": "https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
-      "postedAt": "2026-10-29T11:38:00.000Z",
-      "updatedAt": "2026-10-29T11:38:00.000Z"
-    },
-    {
       "id": "a8bc1214-1efd-4c2e-8be2-f2d9c01646f4",
       "company": "CACI International Inc",
       "title": "Electrical Test Engineering Intern - Summer 2027",
@@ -85407,6 +85572,33 @@
       "updatedAt": "2026-10-27T19:02:40.000Z"
     },
     {
+      "id": "6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Formal Verification Engineer",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf",
+      "url": "https://trueinterview.io/jobs/6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
+      "postedAt": "2026-10-27T19:02:21.000Z",
+      "updatedAt": "2026-10-27T19:02:21.000Z"
+    },
+    {
       "id": "4533ffc9-86a7-4981-a835-3a86bff8a395",
       "company": "Commonwealth Fusion Systems",
       "title": "Intern - I&C and Network Engineer - Spring or Summer 2027",
@@ -92513,32 +92705,6 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
-      "id": "3401a11e-44d8-4954-b4c6-1c176d5ab47a",
-      "company": "Texas Instruments",
-      "title": "Software Engineering Intern - Compiler",
-      "locations": [
-        "United States",
-        "Sugar Land, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
-      "url": "https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "fd1f61a0-c37a-463d-b59e-0e4bccf73bfc",
       "company": "Wsp",
       "title": "Substation Electrical Engineering Intern - Summer 2027",
@@ -99040,6 +99206,31 @@
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
+      "id": "99418f87-8a71-4144-b587-122e844e2a17",
+      "company": "Texas Instruments",
+      "title": "Analog Design Engineering Intern - ATD",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
+      "url": "https://trueinterview.io/jobs/99418f87-8a71-4144-b587-122e844e2a17",
+      "postedAt": "2026-10-07T00:00:00.000Z",
+      "updatedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
       "id": "7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8",
       "company": "Texas Instruments",
       "title": "Field Applications Engineering Intern - Guildford & Manchester, United Kingdom",
@@ -102808,6 +102999,31 @@
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
     {
+      "id": "c92b54b1-839d-4c4f-8509-80410060f601",
+      "company": "Keysight",
+      "title": "IT Engineering Intern",
+      "locations": [
+        "Colorado Springs, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54649?lang=en-us",
+      "url": "https://trueinterview.io/jobs/c92b54b1-839d-4c4f-8509-80410060f601",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
       "id": "66f8ae87-2358-4abf-a19b-2228ba2890eb",
       "company": "Keysight",
       "title": "Software Development Intern",
@@ -104728,31 +104944,6 @@
       "url": "https://trueinterview.io/jobs/66e5e93d-352d-49a6-9f48-7ddbd2b4d7e9",
       "postedAt": "2026-09-28T18:34:04.000Z",
       "updatedAt": "2026-09-28T18:34:04.000Z"
-    },
-    {
-      "id": "6b0a73f9-76c8-48f0-bd43-b758dda340e0",
-      "company": "Morrison Maierle",
-      "title": "Structural Engineer Internship - Hydraulic Structures",
-      "locations": [
-        "Boise, ID"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422894009",
-      "url": "https://trueinterview.io/jobs/6b0a73f9-76c8-48f0-bd43-b758dda340e0",
-      "postedAt": "2026-09-28T18:11:12.000Z",
-      "updatedAt": "2026-09-28T18:11:12.000Z"
     },
     {
       "id": "bbb7c5f2-54f1-4a84-9366-b9bf5388ef59",
