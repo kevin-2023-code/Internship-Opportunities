@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T00:10:58.442Z",
+  "listingsChangedAt": "2026-11-20T01:04:56.211Z",
   "count": 4150,
   "listings": [
     {
@@ -316,6 +316,33 @@
       "url": "https://trueinterview.io/jobs/d2b9149a-33cb-4dc6-85b1-8f1467ffc392",
       "postedAt": "2026-11-19T18:44:28.000Z",
       "updatedAt": "2026-11-19T18:44:28.000Z"
+    },
+    {
+      "id": "66677a0b-289d-45d3-8fec-00e48b7d9720",
+      "company": "Lightmatter",
+      "title": "Silicon Validation & Test Automation, Intern Summer 2027",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008",
+      "url": "https://trueinterview.io/jobs/66677a0b-289d-45d3-8fec-00e48b7d9720",
+      "postedAt": "2026-11-19T18:27:57.000Z",
+      "updatedAt": "2026-11-19T18:27:57.000Z"
     },
     {
       "id": "13f083ee-7084-4c0a-b41f-ef3a50b0de49",
@@ -3634,6 +3661,32 @@
       "updatedAt": "2026-11-18T15:43:27.000Z"
     },
     {
+      "id": "48b27bdc-f25d-41d6-b4f5-e459836df9a4",
+      "company": "Nissan Motor Corporation",
+      "title": "AI Intern - Summer 2027 - Dallas, TX or Franklin, TN",
+      "locations": [
+        "Irving, TX",
+        "Franklin, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484440578/",
+      "url": "https://trueinterview.io/jobs/48b27bdc-f25d-41d6-b4f5-e459836df9a4",
+      "postedAt": "2026-11-18T15:26:00.000Z",
+      "updatedAt": "2026-11-18T15:26:00.000Z"
+    },
+    {
       "id": "a4134a1f-73fe-4880-a013-289b2ae47328",
       "company": "Mission Critical Group",
       "title": "2027 Summer Internship - Electrical Engineering",
@@ -5209,7 +5262,8 @@
       "company": "Lightmatter",
       "title": "Product & Test Engineering, Intern Summer 2027",
       "locations": [
-        "Mountain View, CA"
+        "Mountain View, CA",
+        "Boston, MA"
       ],
       "cities": [
         "Mountain View, CA"
@@ -32365,31 +32419,6 @@
       "source": "ats-boards",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928",
       "url": "https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4",
-      "postedAt": "2026-11-09T00:00:00.000Z",
-      "updatedAt": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "id": "b5e83a04-0265-496e-a94f-41e234a53117",
-      "company": "Wsp",
-      "title": "Civil/Structural Engineering (Substation) Intern - Spring 2027",
-      "locations": [
-        "Duluth, GA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99071",
-      "url": "https://trueinterview.io/jobs/b5e83a04-0265-496e-a94f-41e234a53117",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "updatedAt": "2026-11-09T00:00:00.000Z"
     },
@@ -60385,6 +60414,31 @@
       "updatedAt": "2026-10-30T09:16:00.000Z"
     },
     {
+      "id": "e741e0b8-de5e-4c18-b601-2b15c2c94f14",
+      "company": "The Toro Company",
+      "title": "Advanced Quality Engineering Intern - The Toro Company",
+      "locations": [
+        "Hennepin County, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468832521/",
+      "url": "https://trueinterview.io/jobs/e741e0b8-de5e-4c18-b601-2b15c2c94f14",
+      "postedAt": "2026-10-30T09:16:00.000Z",
+      "updatedAt": "2026-10-30T09:16:00.000Z"
+    },
+    {
       "id": "59a49cbe-8e95-4a96-b887-50cbfcf1c72a",
       "company": "TTM Technologies",
       "title": "Quality Engineer Intern (Summer 2027)",
@@ -60410,6 +60464,31 @@
       "updatedAt": "2026-10-30T09:16:00.000Z"
     },
     {
+      "id": "d3f21ef4-70d8-4b75-bfe3-a22b4d1c207c",
+      "company": "WD",
+      "title": "Intern, Firmware Engineering",
+      "locations": [
+        "Petaling Jaya, Selangor, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4446200376/",
+      "url": "https://trueinterview.io/jobs/d3f21ef4-70d8-4b75-bfe3-a22b4d1c207c",
+      "postedAt": "2026-10-30T09:13:00.000Z",
+      "updatedAt": "2026-10-30T09:16:00.000Z"
+    },
+    {
       "id": "18c134c0-b6b8-4515-9718-8e2d074dd07b",
       "company": "CNH",
       "title": "Quality Engineer Intern",
@@ -60431,6 +60510,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4467999687/",
       "url": "https://trueinterview.io/jobs/18c134c0-b6b8-4515-9718-8e2d074dd07b",
+      "postedAt": "2026-10-30T09:12:00.000Z",
+      "updatedAt": "2026-10-30T09:12:00.000Z"
+    },
+    {
+      "id": "d4c667d0-3f1c-4b2f-ad77-4cf491e6667f",
+      "company": "Red Hat",
+      "title": "Deal Architect Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467844126/",
+      "url": "https://trueinterview.io/jobs/d4c667d0-3f1c-4b2f-ad77-4cf491e6667f",
       "postedAt": "2026-10-30T09:12:00.000Z",
       "updatedAt": "2026-10-30T09:12:00.000Z"
     },
@@ -85301,33 +85407,6 @@
       "updatedAt": "2026-10-27T19:02:40.000Z"
     },
     {
-      "id": "6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Formal Verification Engineer",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf",
-      "url": "https://trueinterview.io/jobs/6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
-      "postedAt": "2026-10-27T19:02:21.000Z",
-      "updatedAt": "2026-10-27T19:02:21.000Z"
-    },
-    {
       "id": "4533ffc9-86a7-4981-a835-3a86bff8a395",
       "company": "Commonwealth Fusion Systems",
       "title": "Intern - I&C and Network Engineer - Spring or Summer 2027",
@@ -93848,31 +93927,6 @@
       "updatedAt": "2026-10-16T00:00:00.000Z"
     },
     {
-      "id": "f980d360-aa3a-4543-9c03-c38c6e59b04d",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Intern - Nuclear Engineer - Summer 2027",
-      "locations": [
-        "Devens, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/cfsenergy/1be023ee-0351-4d09-acca-f56180d06463",
-      "url": "https://trueinterview.io/jobs/f980d360-aa3a-4543-9c03-c38c6e59b04d",
-      "postedAt": "2026-10-15T19:18:37.000Z",
-      "updatedAt": "2026-10-15T19:18:37.000Z"
-    },
-    {
       "id": "9683ff0a-07c6-46c9-96d0-35203d375dd1",
       "company": "Cirrus Logic",
       "title": "2027 Internship - Systems Engineering - Power & Control",
@@ -93923,31 +93977,6 @@
       "url": "https://trueinterview.io/jobs/6d2cce23-e28e-4105-8286-89d269b52da3",
       "postedAt": "2026-10-15T18:38:39.000Z",
       "updatedAt": "2026-10-15T18:38:39.000Z"
-    },
-    {
-      "id": "d410bf00-ce68-4b38-9077-61fa4de6aeba",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Intern - Mechanical Equipment Engineer - Spring 2027",
-      "locations": [
-        "Devens, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
-      "url": "https://trueinterview.io/jobs/d410bf00-ce68-4b38-9077-61fa4de6aeba",
-      "postedAt": "2026-10-15T18:29:29.000Z",
-      "updatedAt": "2026-10-15T18:29:29.000Z"
     },
     {
       "id": "585ff75d-a8f5-4aac-bb23-24953a9b1b14",
@@ -99011,31 +99040,6 @@
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
-      "id": "99418f87-8a71-4144-b587-122e844e2a17",
-      "company": "Texas Instruments",
-      "title": "Analog Design Engineering Intern - ATD",
-      "locations": [
-        "Dallas, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
-      "url": "https://trueinterview.io/jobs/99418f87-8a71-4144-b587-122e844e2a17",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
       "id": "7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8",
       "company": "Texas Instruments",
       "title": "Field Applications Engineering Intern - Guildford & Manchester, United Kingdom",
@@ -102907,6 +102911,34 @@
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
     {
+      "id": "550f8333-f44e-4c47-aa3f-c712de0ec4b3",
+      "company": "Micron Technology",
+      "title": "Intern - DRAM ARCTITECHTURE",
+      "locations": [
+        "San Jose, CA, US",
+        "Boise, ID, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44702762",
+      "url": "https://trueinterview.io/jobs/550f8333-f44e-4c47-aa3f-c712de0ec4b3",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
       "id": "afd265ad-4a11-4e84-8584-a42d5c0701cc",
       "company": "NXP Semiconductors",
       "title": "Photolithography Equipment Intern - Summer 2027",
@@ -106766,31 +106798,6 @@
       "url": "https://trueinterview.io/jobs/674331a6-c0b1-430d-8a04-30cbcf7a411e",
       "postedAt": "2026-09-22T13:17:34.000Z",
       "updatedAt": "2026-09-22T13:17:34.000Z"
-    },
-    {
-      "id": "d78ea098-b7ea-4905-917f-34bc98eeb290",
-      "company": "Eqt Corporation",
-      "title": "Production Facility Engineering Intern",
-      "locations": [
-        "Canonsburg, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5425078008",
-      "url": "https://trueinterview.io/jobs/d78ea098-b7ea-4905-917f-34bc98eeb290",
-      "postedAt": "2026-09-22T11:48:43.000Z",
-      "updatedAt": "2026-09-22T11:48:43.000Z"
     },
     {
       "id": "5ed79b94-a764-4021-94cd-02683c2436e3",
