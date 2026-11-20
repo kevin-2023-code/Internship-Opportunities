@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T15:04:51.030Z",
-  "count": 4176,
+  "listingsChangedAt": "2026-11-20T16:04:40.548Z",
+  "count": 4177,
   "listings": [
+    {
+      "id": "840a6808-d69a-49f1-a4d5-c1bd4ebf66a6",
+      "company": "ServiceNow",
+      "title": "Outbound Product Manager Intern",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000162748649-outbound-product-manager-intern",
+      "url": "https://trueinterview.io/jobs/840a6808-d69a-49f1-a4d5-c1bd4ebf66a6",
+      "postedAt": "2026-11-20T14:29:37.000Z",
+      "updatedAt": "2026-11-20T14:29:37.000Z"
+    },
     {
       "id": "93c028f1-59e0-42be-857e-7e41dee71562",
       "company": "Idaho National Laboratory",
@@ -401,6 +428,33 @@
       "url": "https://trueinterview.io/jobs/a810d178-1f06-4fbb-bec5-ff9650a3505f",
       "postedAt": "2026-11-20T10:16:38.000Z",
       "updatedAt": "2026-11-20T10:16:38.000Z"
+    },
+    {
+      "id": "1cee05a5-7a0f-4db5-b601-e2b68b58f44c",
+      "company": "Nexthink",
+      "title": "Product Management Intern",
+      "locations": [
+        "Lausanne, Switzerland"
+      ],
+      "cities": [
+        "Lausanne"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/Nexthink/744000162689848-product-management-intern",
+      "url": "https://trueinterview.io/jobs/1cee05a5-7a0f-4db5-b601-e2b68b58f44c",
+      "postedAt": "2026-11-20T09:27:21.000Z",
+      "updatedAt": "2026-11-20T09:27:21.000Z"
     },
     {
       "id": "0fcde121-6ac5-47f9-9183-16dd926d2f85",
@@ -2768,6 +2822,33 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "b9d437f2-9049-4a39-b632-2f748672f233",
+      "company": "Analog Devices",
+      "title": "Digital Design Engineering​ Intern",
+      "locations": [
+        "Valencia, Spain"
+      ],
+      "cities": [
+        "Valencia"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Spain-Valencia-Cortes-Valencianas/Digital-Design-Engineering--Intern_R267043",
+      "url": "https://trueinterview.io/jobs/b9d437f2-9049-4a39-b632-2f748672f233",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "ce21876f-f5ba-43f0-aae7-bc2d06ea3c46",
       "company": "Canadian Solar",
       "title": "Data Engineering Intern",
@@ -4869,31 +4950,6 @@
       "url": "https://trueinterview.io/jobs/48b27bdc-f25d-41d6-b4f5-e459836df9a4",
       "postedAt": "2026-11-18T15:26:00.000Z",
       "updatedAt": "2026-11-18T15:26:00.000Z"
-    },
-    {
-      "id": "a4134a1f-73fe-4880-a013-289b2ae47328",
-      "company": "Mission Critical Group",
-      "title": "2027 Summer Internship - Electrical Engineering",
-      "locations": [
-        "Brookston, Indiana, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016934876-2027-summer-internship-electrical-engineering",
-      "url": "https://trueinterview.io/jobs/a4134a1f-73fe-4880-a013-289b2ae47328",
-      "postedAt": "2026-11-18T15:04:16.000Z",
-      "updatedAt": "2026-11-18T15:04:16.000Z"
     },
     {
       "id": "de4a2ec9-3adf-421a-81bc-a1532d50e24b",
@@ -108254,31 +108310,6 @@
       "url": "https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef",
       "postedAt": "2026-09-21T17:13:38.000Z",
       "updatedAt": "2026-09-21T17:13:38.000Z"
-    },
-    {
-      "id": "f1f22f03-a098-490f-8656-fdacfdb1d0c8",
-      "company": "Wellmark Blue Cross and Blue Shield",
-      "title": "Software Engineer Internship - Technology Healthcare Innovation",
-      "locations": [
-        "Des Moines, Iowa, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation",
-      "url": "https://trueinterview.io/jobs/f1f22f03-a098-490f-8656-fdacfdb1d0c8",
-      "postedAt": "2026-09-21T15:23:41.000Z",
-      "updatedAt": "2026-09-21T15:23:41.000Z"
     }
   ]
 }
