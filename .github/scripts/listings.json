@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T06:08:08.964Z",
-  "count": 4161,
+  "listingsChangedAt": "2026-11-20T07:06:00.375Z",
+  "count": 4160,
   "listings": [
     {
       "id": "79a85135-a500-42ee-93d3-3d3de1579356",
@@ -5111,7 +5111,7 @@
       "category": "Other",
       "family": "Product & Design",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -5120,6 +5120,31 @@
       "url": "https://trueinterview.io/jobs/11b15113-796b-4ec8-acf8-8e22e3d7239b",
       "postedAt": "2026-11-18T04:36:00.000Z",
       "updatedAt": "2026-11-18T04:36:00.000Z"
+    },
+    {
+      "id": "2eafc9d1-bbeb-4425-8fbd-588fd90d86dc",
+      "company": "Nabors Industries",
+      "title": "Intern - AI Center of Excellence",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490806941/",
+      "url": "https://trueinterview.io/jobs/2eafc9d1-bbeb-4425-8fbd-588fd90d86dc",
+      "postedAt": "2026-11-18T03:26:00.000Z",
+      "updatedAt": "2026-11-18T03:26:00.000Z"
     },
     {
       "id": "b3e09e35-fe7f-4ff9-9228-779421ad60ea",
@@ -5211,9 +5236,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5237,7 +5262,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5271,6 +5296,41 @@
       "source": "career-sites",
       "applyUrl": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919",
       "url": "https://trueinterview.io/jobs/c072b5be-3c17-4abf-bf37-fe45c6adb05a",
+      "postedAt": "2026-11-18T00:00:00.000Z",
+      "updatedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "03be94d2-ed2c-4cdd-98f4-d3746784de26",
+      "company": "Johnson & Johnson",
+      "title": "Technology 2027 Spring Co-Op",
+      "locations": [
+        "New Brunswick, New Jersey, United States of America",
+        "Spring House, Pennsylvania, United States of America",
+        "Titusville, New Jersey, United States of America",
+        "Shepherdsville, Kentucky, United States of America",
+        "Irvine, California, United States of America",
+        "Horsham, Pennsylvania, United States of America",
+        "West Chester, Pennsylvania, United States of America",
+        "Fort Washington, Pennsylvania, United States of America",
+        "Santa Clara, California, United States of America",
+        "Raritan, New Jersey, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973",
+      "url": "https://trueinterview.io/jobs/03be94d2-ed2c-4cdd-98f4-d3746784de26",
       "postedAt": "2026-11-18T00:00:00.000Z",
       "updatedAt": "2026-11-18T00:00:00.000Z"
     },
@@ -14607,33 +14667,6 @@
       "url": "https://trueinterview.io/jobs/e95c5eb1-01e9-43ae-bb34-934f100d67ed",
       "postedAt": "2026-11-13T22:12:00.000Z",
       "updatedAt": "2026-11-13T22:12:00.000Z"
-    },
-    {
-      "id": "756218f7-10a8-4190-b7ed-07616860f573",
-      "company": "Lightmatter",
-      "title": "Hardware Test Engineering, Intern (Summer 2027)",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
-      "url": "https://trueinterview.io/jobs/756218f7-10a8-4190-b7ed-07616860f573",
-      "postedAt": "2026-11-13T21:29:35.000Z",
-      "updatedAt": "2026-11-13T21:29:35.000Z"
     },
     {
       "id": "c9df109c-e5e6-4269-b358-625bdce57796",
@@ -30571,32 +30604,6 @@
       "url": "https://trueinterview.io/jobs/bc5e5def-018a-4ea8-a264-b844963921c1",
       "postedAt": "2026-11-09T23:55:59.000Z",
       "updatedAt": "2026-11-09T23:55:59.000Z"
-    },
-    {
-      "id": "f413e9fc-a759-4018-865e-9b5d42f42dd0",
-      "company": "Nokia",
-      "title": "Defense Software Test & AI Co-Op",
-      "locations": [
-        "Coppell, TX",
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196",
-      "url": "https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0",
-      "postedAt": "2026-11-09T23:52:00.000Z",
-      "updatedAt": "2026-11-09T23:52:00.000Z"
     },
     {
       "id": "f73783c5-3e98-4c63-983d-813081cde8be",
@@ -94775,31 +94782,6 @@
       "source": "ats-boards",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014490",
       "url": "https://trueinterview.io/jobs/1521622a-30f6-4069-af8f-d6b5b2bc1d08",
-      "postedAt": "2026-10-15T00:00:00.000Z",
-      "updatedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "cb8eabed-95e5-412b-9c65-97b7ace2855f",
-      "company": "wsp",
-      "title": "Transmission Line Engineering Intern - Summer 2027",
-      "locations": [
-        "Meridian, ID, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802",
-      "url": "https://trueinterview.io/jobs/cb8eabed-95e5-412b-9c65-97b7ace2855f",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
