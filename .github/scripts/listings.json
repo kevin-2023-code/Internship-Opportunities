@@ -5,9 +5,64 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T05:05:26.132Z",
-  "count": 4156,
+  "listingsChangedAt": "2026-11-20T06:08:08.964Z",
+  "count": 4161,
   "listings": [
+    {
+      "id": "79a85135-a500-42ee-93d3-3d3de1579356",
+      "company": "OpusClip",
+      "title": "AI Research Intern",
+      "locations": [
+        "Mountain View",
+        "Remote"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2",
+      "url": "https://trueinterview.io/jobs/79a85135-a500-42ee-93d3-3d3de1579356",
+      "postedAt": "2026-11-20T03:11:59.000Z",
+      "updatedAt": "2026-11-20T03:11:59.000Z"
+    },
+    {
+      "id": "b175b621-01e8-43df-bb85-8442743e3a5a",
+      "company": "LinkedIn",
+      "title": "AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA)",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808-ai-ml-engineer-intern-master-s-summer-2027-mountain-view-ca-",
+      "url": "https://trueinterview.io/jobs/b175b621-01e8-43df-bb85-8442743e3a5a",
+      "postedAt": "2026-11-20T01:09:28.000Z",
+      "updatedAt": "2026-11-20T01:09:28.000Z"
+    },
     {
       "id": "627bfe04-5d3f-4e91-aabd-76bce33e45c3",
       "company": "Samsung Semiconductor",
@@ -34,6 +89,60 @@
       "url": "https://trueinterview.io/jobs/627bfe04-5d3f-4e91-aabd-76bce33e45c3",
       "postedAt": "2026-11-20T00:57:47.000Z",
       "updatedAt": "2026-11-20T00:57:47.000Z"
+    },
+    {
+      "id": "639c67a4-126c-478b-bcf0-f37ae873d369",
+      "company": "LinkedIn",
+      "title": "AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639-ai-ml-engineer-intern-generative-ai-phd-summer-2027-mountain-view-ca-",
+      "url": "https://trueinterview.io/jobs/639c67a4-126c-478b-bcf0-f37ae873d369",
+      "postedAt": "2026-11-20T00:46:46.000Z",
+      "updatedAt": "2026-11-20T00:46:46.000Z"
+    },
+    {
+      "id": "bb15afb0-b4b9-4929-ad5d-82c7003d966e",
+      "company": "LinkedIn",
+      "title": "AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA)",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368-ai-ml-engineer-intern-search-and-recommender-systems-phd-summer-2027-mountain-view-ca-",
+      "url": "https://trueinterview.io/jobs/bb15afb0-b4b9-4929-ad5d-82c7003d966e",
+      "postedAt": "2026-11-20T00:43:15.000Z",
+      "updatedAt": "2026-11-20T00:43:15.000Z"
     },
     {
       "id": "226b0ee6-4e17-4f8c-8b51-a9dcc7577e62",
@@ -4675,7 +4784,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -4799,7 +4908,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Full-Stack Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4807,6 +4916,31 @@
       "source": "indeed",
       "applyUrl": "https://de.indeed.com/viewjob?jk=edafc37909dc528a",
       "url": "https://trueinterview.io/jobs/9fe33f00-e40a-43ca-990d-eefd11b8d0db",
+      "postedAt": "2026-11-18T06:00:00.000Z",
+      "updatedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "b6977d44-75b9-4020-9b50-3c8881c49d6e",
+      "company": "Constellation Energy",
+      "title": "Drexel Co-op (Spring/Summer 2027) - AI Analyst - Baltimore, MD",
+      "locations": [
+        "Baltimore, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.constellationenergy.com/jobs/143249/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/b6977d44-75b9-4020-9b50-3c8881c49d6e",
       "postedAt": "2026-11-18T06:00:00.000Z",
       "updatedAt": "2026-11-18T06:00:00.000Z"
     },
@@ -4852,7 +4986,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -4873,7 +5007,7 @@
       "countries": [],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -4909,6 +5043,31 @@
       "source": "indeed",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557075474?domain=microsoft.com",
       "url": "https://trueinterview.io/jobs/36b9d0bf-2fe5-4126-a243-826f580fe915",
+      "postedAt": "2026-11-18T06:00:00.000Z",
+      "updatedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "ba31a309-5fc4-4ab1-8de3-b3821ef52cbb",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - GPU Compiler Development Internship - Canada (4 months)",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://app.eightfold.ai/careers/job/446722198182?domain=qualcomm.com",
+      "url": "https://trueinterview.io/jobs/ba31a309-5fc4-4ab1-8de3-b3821ef52cbb",
       "postedAt": "2026-11-18T06:00:00.000Z",
       "updatedAt": "2026-11-18T06:00:00.000Z"
     },
@@ -106800,33 +106959,6 @@
       "url": "https://trueinterview.io/jobs/d769a851-991d-48fa-ae24-b0370bcc83db",
       "postedAt": "2026-09-22T19:03:10.000Z",
       "updatedAt": "2026-09-22T19:03:10.000Z"
-    },
-    {
-      "id": "ffc2b6d0-d411-485d-a313-d447ac99d517",
-      "company": "Hermeus",
-      "title": "Build Reliability Engineering Intern - Spring 2027",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
-      "url": "https://trueinterview.io/jobs/ffc2b6d0-d411-485d-a313-d447ac99d517",
-      "postedAt": "2026-09-22T15:09:49.000Z",
-      "updatedAt": "2026-09-22T15:09:49.000Z"
     },
     {
       "id": "dcab24a3-dd5b-4385-b656-e737f94ccbf1",
