@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T02:06:38.300Z",
+  "listingsChangedAt": "2026-11-20T03:05:47.912Z",
   "count": 4158,
   "listings": [
+    {
+      "id": "627bfe04-5d3f-4e91-aabd-76bce33e45c3",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, Serdes Analog Design Engineer",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003",
+      "url": "https://trueinterview.io/jobs/627bfe04-5d3f-4e91-aabd-76bce33e45c3",
+      "postedAt": "2026-11-20T00:57:47.000Z",
+      "updatedAt": "2026-11-20T00:57:47.000Z"
+    },
     {
       "id": "226b0ee6-4e17-4f8c-8b51-a9dcc7577e62",
       "company": "Lucidmotors",
@@ -234,6 +261,32 @@
       "url": "https://trueinterview.io/jobs/78e3ebe9-4eeb-4256-8f4b-dc1a5a48d9d4",
       "postedAt": "2026-11-19T22:56:55.000Z",
       "updatedAt": "2026-11-19T22:56:55.000Z"
+    },
+    {
+      "id": "6a7734e3-7760-4a8e-b15b-a739bf8c4804",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027",
+      "locations": [
+        "US-CA-Menlo Park",
+        "US-WA-Bellevue"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+      "url": "https://trueinterview.io/jobs/6a7734e3-7760-4a8e-b15b-a739bf8c4804",
+      "postedAt": "2026-11-19T21:34:53.000Z",
+      "updatedAt": "2026-11-19T21:36:05.000Z"
     },
     {
       "id": "c4340c32-067d-4bc7-992c-1d86abc02e1d",
@@ -4357,6 +4410,31 @@
       "updatedAt": "2026-11-18T11:14:59.000Z"
     },
     {
+      "id": "4de9a738-ac78-4b77-ac9f-047f779b1fac",
+      "company": "Bosch",
+      "title": "[Internship] AI & Automatization Intern",
+      "locations": [
+        "Thu Duc City, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000162263579--internship-ai-automatization-intern",
+      "url": "https://trueinterview.io/jobs/4de9a738-ac78-4b77-ac9f-047f779b1fac",
+      "postedAt": "2026-11-18T10:27:06.000Z",
+      "updatedAt": "2026-11-18T10:27:06.000Z"
+    },
+    {
       "id": "d655fc07-2be6-47a1-8d02-0c64e3dad731",
       "company": "Bosch",
       "title": "Internship in Manufacturing Engineering",
@@ -4419,7 +4497,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "IT & Support",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4574,8 +4652,8 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "senior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -84789,60 +84867,6 @@
       "updatedAt": "2026-10-28T00:45:19.000Z"
     },
     {
-      "id": "52491507-2ea5-4d5e-9969-d296702be756",
-      "company": "Samsung Semiconductor",
-      "title": "Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM)",
-      "locations": [
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003",
-      "url": "https://trueinterview.io/jobs/52491507-2ea5-4d5e-9969-d296702be756",
-      "postedAt": "2026-10-28T00:27:28.000Z",
-      "updatedAt": "2026-10-28T00:27:28.000Z"
-    },
-    {
-      "id": "1881156a-2267-4b24-a6ac-c647e26d4f8d",
-      "company": "Samsung Semiconductor",
-      "title": "Intern, RTL Power Macromodeling Engineer",
-      "locations": [
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003",
-      "url": "https://trueinterview.io/jobs/1881156a-2267-4b24-a6ac-c647e26d4f8d",
-      "postedAt": "2026-10-28T00:24:31.000Z",
-      "updatedAt": "2026-10-28T00:24:31.000Z"
-    },
-    {
       "id": "08fa082d-1b97-4531-8a3e-50d1eb183d08",
       "company": "Samsung Semiconductor",
       "title": "Intern, Power-Thermal Simulation Software Engineer",
@@ -95593,33 +95617,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872472002?gh_jid=8872472002",
       "url": "https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "029bdbce-4b87-4274-ac6f-e4b5ca1cb3f9",
-      "company": "wing",
-      "title": "Simulation Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872478002?gh_jid=8872478002",
-      "url": "https://trueinterview.io/jobs/029bdbce-4b87-4274-ac6f-e4b5ca1cb3f9",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
