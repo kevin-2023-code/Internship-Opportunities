@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T16:04:40.548Z",
-  "count": 4177,
+  "listingsChangedAt": "2026-11-20T17:04:10.340Z",
+  "count": 4180,
   "listings": [
+    {
+      "id": "6336bee4-f2b3-44b9-a9da-02b9c5597679",
+      "company": "Career Launch Tech Initiative",
+      "title": "Software Engineer Intern-CLTI",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491929727/",
+      "url": "https://trueinterview.io/jobs/6336bee4-f2b3-44b9-a9da-02b9c5597679",
+      "postedAt": "2026-11-20T16:11:00.000Z",
+      "updatedAt": "2026-11-20T16:11:00.000Z"
+    },
     {
       "id": "840a6808-d69a-49f1-a4d5-c1bd4ebf66a6",
       "company": "ServiceNow",
@@ -34,6 +61,56 @@
       "url": "https://trueinterview.io/jobs/840a6808-d69a-49f1-a4d5-c1bd4ebf66a6",
       "postedAt": "2026-11-20T14:29:37.000Z",
       "updatedAt": "2026-11-20T14:29:37.000Z"
+    },
+    {
+      "id": "49ce1f9c-c573-4ca1-8ad6-464e06d82fae",
+      "company": "AECOM",
+      "title": "Transportation Engineering Intern",
+      "locations": [
+        "Winnipeg, Manitoba, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000162736176-transportation-engineering-intern",
+      "url": "https://trueinterview.io/jobs/49ce1f9c-c573-4ca1-8ad6-464e06d82fae",
+      "postedAt": "2026-11-20T13:40:10.000Z",
+      "updatedAt": "2026-11-20T13:40:10.000Z"
+    },
+    {
+      "id": "365dfcfe-507e-4cc2-b074-1c0aebfdc57d",
+      "company": "Aon3d Careers",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Montréal, Quebec, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
+      "url": "https://trueinterview.io/jobs/365dfcfe-507e-4cc2-b074-1c0aebfdc57d",
+      "postedAt": "2026-11-20T13:30:07.000Z",
+      "updatedAt": "2026-11-20T13:30:07.000Z"
     },
     {
       "id": "93c028f1-59e0-42be-857e-7e41dee71562",
@@ -299,6 +376,31 @@
       "url": "https://trueinterview.io/jobs/45917253-dff6-414a-939f-fad66041c502",
       "postedAt": "2026-11-20T12:32:00.000Z",
       "updatedAt": "2026-11-20T12:32:00.000Z"
+    },
+    {
+      "id": "1715473c-d80c-4ad4-850a-ae35eb97e727",
+      "company": "Aon3d Careers",
+      "title": "Mechanical Designer Intern",
+      "locations": [
+        "Montréal, Quebec, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/aon3d/jobs/4504779009",
+      "url": "https://trueinterview.io/jobs/1715473c-d80c-4ad4-850a-ae35eb97e727",
+      "postedAt": "2026-11-20T12:31:47.000Z",
+      "updatedAt": "2026-11-20T12:31:47.000Z"
     },
     {
       "id": "6dad6305-5220-44b0-b2d7-0220a9aec3a3",
@@ -17073,31 +17175,6 @@
       "url": "https://trueinterview.io/jobs/6234b9d6-7531-4594-81a5-8207652ad446",
       "postedAt": "2026-11-13T14:59:00.000Z",
       "updatedAt": "2026-11-13T14:59:00.000Z"
-    },
-    {
-      "id": "8494e5bd-e17b-4b73-926c-efd5bf22148b",
-      "company": "Insulet Corporation",
-      "title": "Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)",
-      "locations": [
-        "Acton, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4464814106/",
-      "url": "https://trueinterview.io/jobs/8494e5bd-e17b-4b73-926c-efd5bf22148b",
-      "postedAt": "2026-11-13T14:53:00.000Z",
-      "updatedAt": "2026-11-13T14:53:00.000Z"
     },
     {
       "id": "41b9e1e1-4807-4756-a7b9-5edba4cdf8ab",
