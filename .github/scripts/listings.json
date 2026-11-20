@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T07:06:00.375Z",
-  "count": 4160,
+  "listingsChangedAt": "2026-11-20T08:06:52.600Z",
+  "count": 4163,
   "listings": [
     {
       "id": "79a85135-a500-42ee-93d3-3d3de1579356",
@@ -35,6 +35,56 @@
       "url": "https://trueinterview.io/jobs/79a85135-a500-42ee-93d3-3d3de1579356",
       "postedAt": "2026-11-20T03:11:59.000Z",
       "updatedAt": "2026-11-20T03:11:59.000Z"
+    },
+    {
+      "id": "2e51f6b5-0289-4742-92c5-a46be9ac922a",
+      "company": "Lucidmotors",
+      "title": "Intern, Infotainment Software, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+      "url": "https://trueinterview.io/jobs/2e51f6b5-0289-4742-92c5-a46be9ac922a",
+      "postedAt": "2026-11-20T01:27:26.000Z",
+      "updatedAt": "2026-11-20T01:27:26.000Z"
+    },
+    {
+      "id": "3ed27593-6448-4d47-932b-88b700300297",
+      "company": "Lucidmotors",
+      "title": "Product Security Engineering Intern, Summer 2027",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+      "url": "https://trueinterview.io/jobs/3ed27593-6448-4d47-932b-88b700300297",
+      "postedAt": "2026-11-20T01:12:03.000Z",
+      "updatedAt": "2026-11-20T01:12:03.000Z"
     },
     {
       "id": "b175b621-01e8-43df-bb85-8442743e3a5a",
@@ -5335,6 +5385,32 @@
       "updatedAt": "2026-11-18T00:00:00.000Z"
     },
     {
+      "id": "54ea305b-4fd8-4e02-ac55-540f2deb194d",
+      "company": "Textron",
+      "title": "Stage hiver 2027 - Technologie de l%27information des systèmes de qualité / 2027 Winter Internship - Quality Systems Information Technology (Mirabel, QC)",
+      "locations": [
+        "Mirabel, Quebec, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://textron.taleo.net/careersection/private/jobdetail.ftl?job=346366",
+      "url": "https://trueinterview.io/jobs/54ea305b-4fd8-4e02-ac55-540f2deb194d",
+      "postedAt": "2026-11-18T00:00:00.000Z",
+      "updatedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
       "id": "07a5556d-d7c7-4599-bc62-78d2cc50ddaf",
       "company": "Illumio",
       "title": "Security and Compliance Analyst Intern",
@@ -5360,59 +5436,6 @@
       "url": "https://trueinterview.io/jobs/07a5556d-d7c7-4599-bc62-78d2cc50ddaf",
       "postedAt": "2026-11-17T23:14:12.000Z",
       "updatedAt": "2026-11-17T23:14:12.000Z"
-    },
-    {
-      "id": "0269fa74-2e7f-4f7f-b957-e9532986251b",
-      "company": "TE Connectivity",
-      "title": "Data Analyst Intern",
-      "locations": [
-        "United States",
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career8.successfactors.com/career?career_ns=job_listing&company=TEConnect&rcm_site_locale=en_US&career_job_req_id=160584",
-      "url": "https://trueinterview.io/jobs/0269fa74-2e7f-4f7f-b957-e9532986251b",
-      "postedAt": "2026-11-17T22:35:23.000Z",
-      "updatedAt": "2026-11-17T22:35:23.000Z"
-    },
-    {
-      "id": "5e0aa944-1424-4508-99a1-25989c49a6f1",
-      "company": "Boston Scientific",
-      "title": "R&D Research Data Science Intern",
-      "locations": [
-        "Arden Hills, MN",
-        "N/A",
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=BScientific&rcm_site_locale=en_US&career_job_req_id=638022",
-      "url": "https://trueinterview.io/jobs/5e0aa944-1424-4508-99a1-25989c49a6f1",
-      "postedAt": "2026-11-17T22:09:24.000Z",
-      "updatedAt": "2026-11-17T22:09:24.000Z"
     },
     {
       "id": "6e05ef0a-fbae-4459-b365-9ea27e56f3fa",
@@ -5639,9 +5662,9 @@
         "France"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5828,6 +5851,31 @@
       "url": "https://trueinterview.io/jobs/8f6c5ab8-e41a-4c48-b221-4dfd6039a4db",
       "postedAt": "2026-11-17T18:24:00.000Z",
       "updatedAt": "2026-11-17T18:24:00.000Z"
+    },
+    {
+      "id": "85e6175a-10b3-44be-933b-ce5213b811aa",
+      "company": "Chautauqua Institution",
+      "title": "Internship (Information Technology)/Seasonal Employment",
+      "locations": [
+        "Chautauqua, NY, 14722"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.ultipro.com/CHA1002CHAUT/JobBoard/cd5faba0-05bd-417a-a0ab-c8b2a479b7b0/OpportunityDetail?opportunityId=409a946a-47a6-47a7-9c2a-4b9cb28d22dd",
+      "url": "https://trueinterview.io/jobs/85e6175a-10b3-44be-933b-ce5213b811aa",
+      "postedAt": "2026-11-17T18:09:17.000Z",
+      "updatedAt": "2026-11-17T18:09:17.000Z"
     },
     {
       "id": "7d5be28e-4206-45b7-a732-6247fbe11d70",
@@ -7283,9 +7331,9 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -7937,9 +7985,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -8037,11 +8085,11 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "indeed",
@@ -8088,7 +8136,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -8567,6 +8615,32 @@
       "url": "https://trueinterview.io/jobs/539bd651-f444-46ce-9dc2-b3c1febd4e27",
       "postedAt": "2026-11-16T22:32:18.000Z",
       "updatedAt": "2026-11-16T22:32:18.000Z"
+    },
+    {
+      "id": "137d27dc-6897-43b2-9468-51ad0ab6f0ad",
+      "company": "Hubbell Incorporated",
+      "title": "2027 Summer Intern: Engineering - AI Software",
+      "locations": [
+        "Herndon, VA, US, 20171",
+        "Herndon, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=Hubbell&rcm_site_locale=en_US&career_job_req_id=105483",
+      "url": "https://trueinterview.io/jobs/137d27dc-6897-43b2-9468-51ad0ab6f0ad",
+      "postedAt": "2026-11-16T21:37:00.000Z",
+      "updatedAt": "2026-11-16T21:37:00.000Z"
     },
     {
       "id": "64d70c6c-0a7a-4c1a-989a-21c8c941b488",
@@ -26913,6 +26987,31 @@
       "url": "https://trueinterview.io/jobs/acea2d2f-df0a-442c-84b0-b77e470c5985",
       "postedAt": "2026-11-11T00:37:00.000Z",
       "updatedAt": "2026-11-11T00:37:00.000Z"
+    },
+    {
+      "id": "5e4b9b07-7063-45d0-a580-40fb624bb98f",
+      "company": "Optimum",
+      "title": "Intern - Software Development",
+      "locations": [
+        "Bethpage, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://career8.successfactors.com/career?company=cscholding&career_ns=job_listing&career_job_req_id=12521&lang=en_US",
+      "url": "https://trueinterview.io/jobs/5e4b9b07-7063-45d0-a580-40fb624bb98f",
+      "postedAt": "2026-11-11T00:30:00.000Z",
+      "updatedAt": "2026-11-11T00:30:00.000Z"
     },
     {
       "id": "453f2659-0529-4b54-ad85-aaa688a42e5c",
@@ -107836,31 +107935,6 @@
       "url": "https://trueinterview.io/jobs/8f91e7b3-1574-4ee7-a777-bff0bb3ebffc",
       "postedAt": "2026-09-21T08:31:25.000Z",
       "updatedAt": "2026-09-21T08:31:25.000Z"
-    },
-    {
-      "id": "07b7b4e8-b2f7-497e-9182-6a0b4cd66bcb",
-      "company": "Hevo Data",
-      "title": "Associate Software Development Engineer (SDE) Intern",
-      "locations": [
-        "Bangalore, India"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
-      "url": "https://trueinterview.io/jobs/07b7b4e8-b2f7-497e-9182-6a0b4cd66bcb",
-      "postedAt": "2026-09-21T08:05:56.000Z",
-      "updatedAt": "2026-09-21T08:05:56.000Z"
     }
   ]
 }
