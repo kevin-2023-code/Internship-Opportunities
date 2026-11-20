@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T14:04:56.660Z",
-  "count": 4170,
+  "listingsChangedAt": "2026-11-20T15:04:51.030Z",
+  "count": 4176,
   "listings": [
     {
       "id": "93c028f1-59e0-42be-857e-7e41dee71562",
@@ -120,7 +120,8 @@
       "company": "Bombardier",
       "title": "Software Engineering Intern (Year-round)",
       "locations": [
-        "Wichita, KS"
+        "Wichita, KS",
+        "Wichita, KS, USA, 67209"
       ],
       "cities": [],
       "countries": [
@@ -135,7 +136,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4492710680/",
+      "applyUrl": "https://career5.successfactors.eu/career?career_ns=job_listing&company=Bombardier&rcm_site_locale=en_US&career_job_req_id=16765",
       "url": "https://trueinterview.io/jobs/13ac0689-413a-4095-a236-b0d4aeac6dbc",
       "postedAt": "2026-11-20T13:19:00.000Z",
       "updatedAt": "2026-11-20T13:19:00.000Z"
@@ -217,6 +218,33 @@
       "url": "https://trueinterview.io/jobs/b6a96a8f-8df1-4857-b070-0371e817ede9",
       "postedAt": "2026-11-20T12:48:00.000Z",
       "updatedAt": "2026-11-20T12:48:00.000Z"
+    },
+    {
+      "id": "2c141b24-669b-4fb0-809d-952dccaee6a1",
+      "company": "Cadence",
+      "title": "Software Engineering Intern - Circuit Simulation infrastructure",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492584298/",
+      "url": "https://trueinterview.io/jobs/2c141b24-669b-4fb0-809d-952dccaee6a1",
+      "postedAt": "2026-11-20T12:38:00.000Z",
+      "updatedAt": "2026-11-20T12:38:00.000Z"
     },
     {
       "id": "45917253-dff6-414a-939f-fad66041c502",
@@ -428,6 +456,31 @@
       "updatedAt": "2026-11-20T07:17:50.000Z"
     },
     {
+      "id": "ab8cfa5c-3198-4118-bf44-8f72ec19f070",
+      "company": "North Point Technology",
+      "title": "Manufacturing Engineer Co-Op",
+      "locations": [
+        "Fort Wayne, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/a6ui50kl2us",
+      "url": "https://trueinterview.io/jobs/ab8cfa5c-3198-4118-bf44-8f72ec19f070",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "fd4427c8-1393-492c-9c60-93fa5d44ce8e",
       "company": "Lucid Motors",
       "title": "Intern, Software Engineer, SDET, Summer 2027",
@@ -531,6 +584,31 @@
       "updatedAt": "2026-11-20T02:48:05.000Z"
     },
     {
+      "id": "b36592a1-d398-4dd1-8f34-c38c785f1c7c",
+      "company": "LineVision",
+      "title": "Full Stack Software Engineer (Onboarding Systems) Co-op (Spring 2027)",
+      "locations": [
+        "529 Main St, Suite 307, Boston, MA, 02129, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482621?listingId=e85e8980-8325-4e41-9404-be920804d97d",
+      "url": "https://trueinterview.io/jobs/b36592a1-d398-4dd1-8f34-c38c785f1c7c",
+      "postedAt": "2026-11-20T01:39:46.000Z",
+      "updatedAt": "2026-11-20T01:39:46.000Z"
+    },
+    {
       "id": "2e51f6b5-0289-4742-92c5-a46be9ac922a",
       "company": "Lucidmotors",
       "title": "Intern, Infotainment Software, Summer 2027",
@@ -579,6 +657,31 @@
       "url": "https://trueinterview.io/jobs/3ed27593-6448-4d47-932b-88b700300297",
       "postedAt": "2026-11-20T01:12:03.000Z",
       "updatedAt": "2026-11-20T01:12:03.000Z"
+    },
+    {
+      "id": "4e3bf783-135a-4593-92ba-cdd2d126036b",
+      "company": "Gentuity",
+      "title": "Software Engineer Co-Op",
+      "locations": [
+        "142 North Rd, Sudbury, MA, 01776, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679467?listingId=cd0a8019-1baa-483b-b747-35162bd6c49c",
+      "url": "https://trueinterview.io/jobs/4e3bf783-135a-4593-92ba-cdd2d126036b",
+      "postedAt": "2026-11-20T01:06:04.000Z",
+      "updatedAt": "2026-11-20T01:06:04.000Z"
     },
     {
       "id": "627bfe04-5d3f-4e91-aabd-76bce33e45c3",
@@ -887,6 +990,56 @@
       "url": "https://trueinterview.io/jobs/78e3ebe9-4eeb-4256-8f4b-dc1a5a48d9d4",
       "postedAt": "2026-11-19T22:56:55.000Z",
       "updatedAt": "2026-11-19T22:56:55.000Z"
+    },
+    {
+      "id": "e49c276f-4d35-4ff3-8472-49852e7f554a",
+      "company": "Ralliant",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "locations": [
+        "Beaverton, OR, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ralliant.eightfold.ai/careers/job/1133916646344",
+      "url": "https://trueinterview.io/jobs/e49c276f-4d35-4ff3-8472-49852e7f554a",
+      "postedAt": "2026-11-19T21:52:49.000Z",
+      "updatedAt": "2026-11-19T21:52:49.000Z"
+    },
+    {
+      "id": "bdd3b361-9398-489c-b8fa-7fe97d82f452",
+      "company": "Uplinq",
+      "title": "Software Engineer Intern - ASU",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c",
+      "url": "https://trueinterview.io/jobs/bdd3b361-9398-489c-b8fa-7fe97d82f452",
+      "postedAt": "2026-11-19T20:33:05.000Z",
+      "updatedAt": "2026-11-19T20:33:05.000Z"
     },
     {
       "id": "c4340c32-067d-4bc7-992c-1d86abc02e1d",
@@ -2615,6 +2768,32 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "ce21876f-f5ba-43f0-aae7-bc2d06ea3c46",
+      "company": "Canadian Solar",
+      "title": "Data Engineering Intern",
+      "locations": [
+        "Kitchener, ON",
+        "Kitchener, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
+      "url": "https://trueinterview.io/jobs/ce21876f-f5ba-43f0-aae7-bc2d06ea3c46",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "4cd4be24-7846-49b0-ad0d-0b89b73add25",
       "company": "Commonwealth of Kentucky",
       "title": "Team Kentucky Internship Program - Public Protection - Office of Information Technology",
@@ -2638,6 +2817,60 @@
       "applyUrl": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82827?c=kypersonnelcabinet",
       "url": "https://trueinterview.io/jobs/4cd4be24-7846-49b0-ad0d-0b89b73add25",
       "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "264647c9-a579-4141-adf5-cfcf57c209b1",
+      "company": "Contributor Development Partnership",
+      "title": "BIA Co-op",
+      "locations": [
+        "Boston, MA, 02135",
+        "Remote",
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7998c65d-0e6b-425f-a970-5fec90afc5a0&jobId=625155",
+      "url": "https://trueinterview.io/jobs/264647c9-a579-4141-adf5-cfcf57c209b1",
+      "postedAt": "2026-11-19T00:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "3575f105-57c9-4082-b546-7a1d6d8b3045",
+      "company": "CPI International, Inc.",
+      "title": "Mechanical Engineering Summer Co-Op",
+      "locations": [
+        "Beverly, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239362500&c=2173007&d=CPIEDB&rb=INDEED&idUnique=5001239362500",
+      "url": "https://trueinterview.io/jobs/3575f105-57c9-4082-b546-7a1d6d8b3045",
+      "postedAt": "2026-11-19T06:00:00.000Z",
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
@@ -2741,6 +2974,31 @@
       "source": "indeed",
       "applyUrl": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015",
       "url": "https://trueinterview.io/jobs/2f465b86-e8d3-400d-93e4-faef68ab28ec",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "318ccfb9-3fb6-4f08-86f1-1439ee9bb2f8",
+      "company": "Ribbon Communications",
+      "title": "Software Developer - Common Cloud Services (Co-Op)",
+      "locations": [
+        "Montréal, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
+      "url": "https://trueinterview.io/jobs/318ccfb9-3fb6-4f08-86f1-1439ee9bb2f8",
       "postedAt": "2026-11-19T06:00:00.000Z",
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
@@ -2950,59 +3208,6 @@
       "source": "career-sites",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg",
       "url": "https://trueinterview.io/jobs/fb327565-c4fa-47e2-9fef-bb51526f1ff2",
-      "postedAt": "2026-11-19T00:00:00.000Z",
-      "updatedAt": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "id": "ce21876f-f5ba-43f0-aae7-bc2d06ea3c46",
-      "company": "Canadian Solar",
-      "title": "Data Engineering Intern",
-      "locations": [
-        "Kitchener, ON"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
-      "url": "https://trueinterview.io/jobs/ce21876f-f5ba-43f0-aae7-bc2d06ea3c46",
-      "postedAt": "2026-11-19T00:00:00.000Z",
-      "updatedAt": "2026-11-19T00:00:00.000Z"
-    },
-    {
-      "id": "264647c9-a579-4141-adf5-cfcf57c209b1",
-      "company": "Contributor Development Partnership",
-      "title": "BIA Co-op",
-      "locations": [
-        "Boston, MA, 02135",
-        "Remote"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7998c65d-0e6b-425f-a970-5fec90afc5a0&jobId=625155",
-      "url": "https://trueinterview.io/jobs/264647c9-a579-4141-adf5-cfcf57c209b1",
       "postedAt": "2026-11-19T00:00:00.000Z",
       "updatedAt": "2026-11-19T00:00:00.000Z"
     },
@@ -5462,6 +5667,31 @@
       "updatedAt": "2026-11-18T06:00:00.000Z"
     },
     {
+      "id": "1caad074-49be-4c33-b07e-84a8eb52f84a",
+      "company": "ESS TECHNOLOGY",
+      "title": "Junior Embedded Firmware Engineer – Co-op (Intern)",
+      "locations": [
+        "Kelowna, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.esstech.com/job/junior-embedded-firmware-engineer-co-op-intern/",
+      "url": "https://trueinterview.io/jobs/1caad074-49be-4c33-b07e-84a8eb52f84a",
+      "postedAt": "2026-11-18T06:00:00.000Z",
+      "updatedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
       "id": "6eddd0ac-21fb-4859-9388-7bec899e54bb",
       "company": "Kira",
       "title": "Software Engineering Intern (Winter '27)",
@@ -6343,31 +6573,6 @@
       "url": "https://trueinterview.io/jobs/85e6175a-10b3-44be-933b-ce5213b811aa",
       "postedAt": "2026-11-17T18:09:17.000Z",
       "updatedAt": "2026-11-17T18:09:17.000Z"
-    },
-    {
-      "id": "7d5be28e-4206-45b7-a732-6247fbe11d70",
-      "company": "PACCAR",
-      "title": "2027 Summer Internship: Data Scientist",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&rcm_site_locale=en_US&career_job_req_id=73862",
-      "url": "https://trueinterview.io/jobs/7d5be28e-4206-45b7-a732-6247fbe11d70",
-      "postedAt": "2026-11-17T18:05:05.000Z",
-      "updatedAt": "2026-11-17T18:05:05.000Z"
     },
     {
       "id": "112aaa39-b04e-4d36-a3f0-358192f65e3f",
@@ -69040,52 +69245,6 @@
       "url": "https://trueinterview.io/jobs/af5971a6-34d9-4051-8511-f4b82138ca5b",
       "postedAt": "2026-10-29T15:43:00.000Z",
       "updatedAt": "2026-10-29T15:43:00.000Z"
-    },
-    {
-      "id": "40420dfc-b4a6-410c-b7d8-c883c0826f3b",
-      "company": "Cloudflare",
-      "title": "Product Manager Intern (2027) - London, UK",
-      "locations": [
-        "In-Office"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914",
-      "url": "https://trueinterview.io/jobs/40420dfc-b4a6-410c-b7d8-c883c0826f3b",
-      "postedAt": "2026-10-29T15:42:31.000Z",
-      "updatedAt": "2026-10-29T15:42:31.000Z"
-    },
-    {
-      "id": "50328762-27dc-407b-9211-7b8cb523ba81",
-      "company": "Cloudflare",
-      "title": "Product Manager Intern (2027) - Lisbon, PT",
-      "locations": [
-        "In-Office"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008",
-      "url": "https://trueinterview.io/jobs/50328762-27dc-407b-9211-7b8cb523ba81",
-      "postedAt": "2026-10-29T15:41:52.000Z",
-      "updatedAt": "2026-10-29T15:41:52.000Z"
     },
     {
       "id": "2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd",
