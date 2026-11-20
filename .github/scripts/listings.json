@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T10:05:01.453Z",
-  "count": 4165,
+  "listingsChangedAt": "2026-11-20T12:06:42.982Z",
+  "count": 4166,
   "listings": [
+    {
+      "id": "a810d178-1f06-4fbb-bec5-ff9650a3505f",
+      "company": "Devoteam",
+      "title": "Devoteam Cyber Trust | Cybersecurity Engineer (IAM) | IEFP Internship",
+      "locations": [
+        "Lisboa, Lisboa, Portugal"
+      ],
+      "cities": [],
+      "countries": [
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Devoteam/744000162699719-devoteam-cyber-trust-cybersecurity-engineer-iam-iefp-internship",
+      "url": "https://trueinterview.io/jobs/a810d178-1f06-4fbb-bec5-ff9650a3505f",
+      "postedAt": "2026-11-20T10:16:38.000Z",
+      "updatedAt": "2026-11-20T10:16:38.000Z"
+    },
     {
       "id": "82f52e22-62d8-4d28-a614-238a1a432ad9",
       "company": "Bosch",
