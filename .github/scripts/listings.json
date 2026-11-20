@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T21:04:23.038Z",
-  "count": 4199,
+  "listingsChangedAt": "2026-11-20T22:04:32.975Z",
+  "count": 4206,
   "listings": [
+    {
+      "id": "86d512f1-9427-4fd0-9b90-6943f2e5908d",
+      "company": "Schnuck Markets, Inc.",
+      "title": "2027 Data Science - Generative AI Internship",
+      "locations": [
+        "St Louis, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492974749/",
+      "url": "https://trueinterview.io/jobs/86d512f1-9427-4fd0-9b90-6943f2e5908d",
+      "postedAt": "2026-11-20T20:33:00.000Z",
+      "updatedAt": "2026-11-20T20:33:00.000Z"
+    },
     {
       "id": "4b1888dd-4237-4dc2-96e1-806c0373cc02",
       "company": "Symbotic",
@@ -161,6 +186,81 @@
       "updatedAt": "2026-11-20T19:18:00.000Z"
     },
     {
+      "id": "56d4dbc9-1e9c-4778-b7a1-0cbf664a416c",
+      "company": "State Street",
+      "title": "State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship",
+      "locations": [
+        "Clifton, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492985248/",
+      "url": "https://trueinterview.io/jobs/56d4dbc9-1e9c-4778-b7a1-0cbf664a416c",
+      "postedAt": "2026-11-20T19:07:00.000Z",
+      "updatedAt": "2026-11-20T19:07:00.000Z"
+    },
+    {
+      "id": "f5bc2dc3-c2ee-41ea-8a61-8e399a8af189",
+      "company": "Dassault Systèmes",
+      "title": "INTERNSHIP: AI for CFD",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485217270/",
+      "url": "https://trueinterview.io/jobs/f5bc2dc3-c2ee-41ea-8a61-8e399a8af189",
+      "postedAt": "2026-11-20T18:58:00.000Z",
+      "updatedAt": "2026-11-20T18:58:00.000Z"
+    },
+    {
+      "id": "895cb775-e2d9-47e8-b1a7-b3286878f3d8",
+      "company": "Takeda",
+      "title": "2027 Summer Internship Program: Applied AI for Formulation Data Science Intern",
+      "locations": [
+        "Lexington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491941890/",
+      "url": "https://trueinterview.io/jobs/895cb775-e2d9-47e8-b1a7-b3286878f3d8",
+      "postedAt": "2026-11-20T18:58:00.000Z",
+      "updatedAt": "2026-11-20T18:58:00.000Z"
+    },
+    {
       "id": "e1c36cef-c94d-4bb6-b596-9ca91f04a1d2",
       "company": "SAP",
       "title": "SAP iXp Intern - Test Automation Trainee",
@@ -209,6 +309,31 @@
       "url": "https://trueinterview.io/jobs/204ee646-69ce-49f7-8aa9-73c45340d9e5",
       "postedAt": "2026-11-20T17:57:36.000Z",
       "updatedAt": "2026-11-20T18:41:00.000Z"
+    },
+    {
+      "id": "5ba8cb87-ffe5-4d12-a594-fcfa39654cab",
+      "company": "Symbotic",
+      "title": "Intern- Machine Learning Ops",
+      "locations": [
+        "Wilmington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477480333/",
+      "url": "https://trueinterview.io/jobs/5ba8cb87-ffe5-4d12-a594-fcfa39654cab",
+      "postedAt": "2026-11-20T17:58:00.000Z",
+      "updatedAt": "2026-11-20T17:58:00.000Z"
     },
     {
       "id": "5b00662b-4344-4852-af8c-e3d7308fb61a",
@@ -1063,6 +1188,31 @@
       "updatedAt": "2026-11-20T12:29:00.000Z"
     },
     {
+      "id": "a42a6635-24fd-425f-9300-1784332f4f83",
+      "company": "Bosch",
+      "title": "Internship in Development of an AI-Based Competitive Database and Product Matching Tool",
+      "locations": [
+        "Ulm, Baden-Württemberg, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000162723219-internship-in-development-of-an-ai-based-competitive-database-and-product-matching-tool",
+      "url": "https://trueinterview.io/jobs/a42a6635-24fd-425f-9300-1784332f4f83",
+      "postedAt": "2026-11-20T12:26:20.000Z",
+      "updatedAt": "2026-11-20T12:26:20.000Z"
+    },
+    {
       "id": "0c8f4df4-3aaf-4613-8e91-05296aa54e2c",
       "company": "Sea",
       "title": "Intern, Data Analyst",
@@ -1078,7 +1228,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1245,6 +1395,31 @@
       "source": "indeed",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1",
       "url": "https://trueinterview.io/jobs/fea56431-3af7-4ffb-9bde-5fe226180cb1",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "73ca2965-0bac-48a7-a9ab-7347ce2c29a2",
+      "company": "Greenheck Group",
+      "title": "Data Analyst Co-op",
+      "locations": [
+        "Schofield, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://greenheckgroup.wd5.myworkdayjobs.com/External/job/Schofield-WI/Data-Analyst-Co-op_JR104734-1",
+      "url": "https://trueinterview.io/jobs/73ca2965-0bac-48a7-a9ab-7347ce2c29a2",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -5953,6 +6128,31 @@
       "updatedAt": "2026-11-18T15:48:04.000Z"
     },
     {
+      "id": "d7066e10-27f5-47f5-9c0f-56730bd0e181",
+      "company": "Mom's Meals",
+      "title": "Production Intern (Mechanical Engineering)",
+      "locations": [
+        "Oklahoma City, OK"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74",
+      "url": "https://trueinterview.io/jobs/d7066e10-27f5-47f5-9c0f-56730bd0e181",
+      "postedAt": "2026-11-18T15:44:56.000Z",
+      "updatedAt": "2026-11-18T15:44:56.000Z"
+    },
+    {
       "id": "e593fc44-b602-410b-9364-81ab6704a055",
       "company": "Mission Critical Group",
       "title": "2027 Summer Internship - Mechanical Engineering",
@@ -6030,6 +6230,31 @@
       "url": "https://trueinterview.io/jobs/de4a2ec9-3adf-421a-81bc-a1532d50e24b",
       "postedAt": "2026-11-18T14:57:17.000Z",
       "updatedAt": "2026-11-18T14:57:17.000Z"
+    },
+    {
+      "id": "6d0a0f2b-33cd-4543-97eb-3ab3165ba77e",
+      "company": "Mom's Meals",
+      "title": "Software Quality Assurance (QA) Intern",
+      "locations": [
+        "Ankeny, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0",
+      "url": "https://trueinterview.io/jobs/6d0a0f2b-33cd-4543-97eb-3ab3165ba77e",
+      "postedAt": "2026-11-18T14:57:10.000Z",
+      "updatedAt": "2026-11-18T14:57:10.000Z"
     },
     {
       "id": "3bd71828-2bd1-48f7-8163-ae5ac01d96f1",
@@ -44539,31 +44764,6 @@
       "source": "career-sites",
       "applyUrl": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356",
       "url": "https://trueinterview.io/jobs/37945772-2d79-4ab6-9473-6e4d34be5ed8",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "updatedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "72b494f6-f809-43a6-8b37-1ff512282911",
-      "company": "Elevated Web Design",
-      "title": "AI Software Engineering Internship",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487581009/",
-      "url": "https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -108815,34 +109015,6 @@
       "url": "https://trueinterview.io/jobs/491919e4-b3c7-451f-8306-8e56d2482815",
       "postedAt": "2026-09-21T22:14:43.000Z",
       "updatedAt": "2026-09-21T22:14:43.000Z"
-    },
-    {
-      "id": "7ab61ea7-65df-4e3e-9755-da6ea48c1268",
-      "company": "Singlestore",
-      "title": "MIT- Software Engineer Intern | Engine",
-      "locations": [
-        "San Francisco, CA, United States",
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
-      "url": "https://trueinterview.io/jobs/7ab61ea7-65df-4e3e-9755-da6ea48c1268",
-      "postedAt": "2026-09-21T21:51:00.000Z",
-      "updatedAt": "2026-09-21T21:51:00.000Z"
     }
   ]
 }

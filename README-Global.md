@@ -8,11 +8,11 @@
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-### Browse 452 internships by category
+### Browse 453 internships by category
 
 💻 **[Software Engineering](#-software-engineering)** (216)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning)** (116)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning)** (117)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (16)
 
@@ -71,7 +71,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><td><strong>Clo Virtual Fashion</strong></td><td>Software Engineer Intern</td><td>Seoul</td><td><a href="https://jobs.lever.co/clovirtualfashion/f5646a27-cca4-4205-88e9-8a563af5a0ff"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/f001d58a-5edc-4669-94c0-f96428759a59"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>3d</td></tr>
 <tr><td><strong>Gdh</strong></td><td>Engineering Intern - Process</td><td>Chester, Cheshire, United Kingdom</td><td><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28957"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/cfbe6548-183d-4958-911c-0397a55bf2fb"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>3d</td></tr>
 <tr><td><strong>Vetaion</strong></td><td>Product Engineering Intern</td><td>Garching bei München, Deutschland</td><td><a href="https://join.com/companies/vetaioncom/16961266-product-engineering-intern?pid=a13795120131dbe48464"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/7a252e10-6651-42fa-b5f5-abec8d6b05ba"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>3d</td></tr>
-<tr><td><strong>Keyrock</strong></td><td>Innovation Quant Developer Intern (DeFi/Corporate Development) - London</td><td>London OR Brussels</td><td><a href="https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/64d70c6c-0a7a-4c1a-989a-21c8c941b488"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>3d</td></tr>
+<tr><td><strong>Keyrock</strong></td><td>Innovation Quant Developer Intern (DeFi/Corporate Development) - London</td><td>London OR Brussels</td><td><a href="https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/64d70c6c-0a7a-4c1a-989a-21c8c941b488"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>4d</td></tr>
 <tr><td><strong>Toku</strong></td><td>Software Engineer Intern</td><td>Chile</td><td><a href="https://jobs.ashbyhq.com/Toku/098023ef-b13d-4cdf-bc4f-dc1e61bfe6f1"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/e12062d4-fcba-44c7-ba99-c7f340cccea6"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>4d</td></tr>
 <tr><td><strong>TomTom</strong></td><td>Software Engineer Internship</td><td>Lodz, Poland</td><td><a href="https://jobs.eu.lever.co/tomtom/972cc1dd-d8c1-46d1-83c6-fd92b0da60a7"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/a3c5a5cf-c98e-4a91-b297-a2bb9a4926c1"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>4d</td></tr>
 <tr><td><strong>Whippy</strong></td><td>Forward Deployed Engineer – Intern</td><td>Dublin, Ireland</td><td><a href="https://jobs.ashbyhq.com/whippy/58ae891a-e3d5-41c0-940c-2b3e1ca63435"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/a0ffc1e0-51e3-487f-8528-07690c24d217"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>4d</td></tr>
@@ -276,6 +276,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>Bosch</strong></td><td>Internship in Development of an AI-Based Competitive Database and Product Matching Tool</td><td>Ulm, Baden-Württemberg, Germany</td><td><a href="https://jobs.smartrecruiters.com/BoschGroup/744000162723219-internship-in-development-of-an-ai-based-competitive-database-and-product-matching-tool"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/a42a6635-24fd-425f-9300-1784332f4f83"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>0d</td></tr>
 <tr><td><strong>Accor</strong></td><td>Business Performance &amp; Data Analytics Intern (F/M/X)</td><td>Issy-les-Moulineaux, Île-de-France, France</td><td><a href="https://jobs.smartrecruiters.com/AccorCorpo/744000162474322-business-performance-data-analytics-intern-f-m-x-"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/14a1f443-bbe3-42ba-8728-274bb40f5e6a"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1d</td></tr>
 <tr><td><strong>Amazon</strong></td><td>Business Intelligence Intern Luxembourg 🔥</td><td>Luxembourg</td><td><a href="https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/fb327565-c4fa-47e2-9fef-bb51526f1ff2"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1d</td></tr>
 <tr><td><strong>Gameloft</strong></td><td>AI Engineer Intern (Project: Talking Toy)</td><td>Ho Chi Minh City, Ho Chi Minh, Vietnam</td><td><a href="https://jobs.smartrecruiters.com/Gameloft/744000162455909-ai-engineer-intern-project-talking-toy-"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/cedd62db-a0d2-4179-b5fc-32e523175dfc"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1d</td></tr>
