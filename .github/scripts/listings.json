@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T10:04:17.190Z",
-  "count": 4226,
+  "listingsChangedAt": "2026-11-21T11:03:57.058Z",
+  "count": 4223,
   "listings": [
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
@@ -13133,9 +13133,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -13143,6 +13143,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.breadfinancial.com/us/en/job/R1013421",
       "url": "https://trueinterview.io/jobs/a79cbecb-cc80-419a-956f-acd18b332bb4",
+      "postedAt": "2026-11-16T06:00:00.000Z",
+      "updatedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
+      "id": "91848a59-ed07-4df7-b1f0-41bc3103ed3b",
+      "company": "CAE",
+      "title": "Automation Intern",
+      "locations": [
+        "Irving, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Irving/Automation-Intern_121836",
+      "url": "https://trueinterview.io/jobs/91848a59-ed07-4df7-b1f0-41bc3103ed3b",
       "postedAt": "2026-11-16T06:00:00.000Z",
       "updatedAt": "2026-11-16T06:00:00.000Z"
     },
@@ -13158,9 +13183,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -13183,9 +13208,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -13516,9 +13541,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -18517,33 +18542,6 @@
       "url": "https://trueinterview.io/jobs/e6493e07-4c5f-4fd1-861d-52d2cd961a26",
       "postedAt": "2026-11-13T18:33:30.000Z",
       "updatedAt": "2026-11-13T18:33:30.000Z"
-    },
-    {
-      "id": "0705170e-eded-4c6f-9067-f6ce8e16dbd3",
-      "company": "reliable-robotics-corporation",
-      "title": "Manufacturing Engineering Intern (Summer 2027)",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8",
-      "url": "https://trueinterview.io/jobs/0705170e-eded-4c6f-9067-f6ce8e16dbd3",
-      "postedAt": "2026-11-13T18:33:23.000Z",
-      "updatedAt": "2026-11-13T18:33:23.000Z"
     },
     {
       "id": "3c9ff155-edf5-4d33-8dae-b0b3111ddbc7",
@@ -52221,34 +52219,6 @@
       "updatedAt": "2026-11-03T12:04:26.000Z"
     },
     {
-      "id": "34001dfe-45a4-4715-9bd1-fc741b17711d",
-      "company": "KB Signaling",
-      "title": "Intern, Data Scientist (Summer 2027)",
-      "locations": [
-        "Melbourne, FL"
-      ],
-      "cities": [
-        "Melbourne"
-      ],
-      "countries": [
-        "United States",
-        "Australia"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486842817/",
-      "url": "https://trueinterview.io/jobs/34001dfe-45a4-4715-9bd1-fc741b17711d",
-      "postedAt": "2026-11-03T12:04:00.000Z",
-      "updatedAt": "2026-11-03T12:04:00.000Z"
-    },
-    {
       "id": "7c1b7fe4-3fea-42fb-b1b9-edb579ff4cde",
       "company": "IMC Trading",
       "title": "Deep Learning Research Intern - Summer 2027 - New York",
@@ -62735,31 +62705,6 @@
       "url": "https://trueinterview.io/jobs/5e0f599a-1daf-4ce1-879e-436d93061005",
       "postedAt": "2026-10-30T11:05:00.000Z",
       "updatedAt": "2026-10-30T11:05:00.000Z"
-    },
-    {
-      "id": "ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5",
-      "company": "Robinson Helicopter Company",
-      "title": "Engineer Intern",
-      "locations": [
-        "Torrance, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467122606/",
-      "url": "https://trueinterview.io/jobs/ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5",
-      "postedAt": "2026-10-30T11:03:00.000Z",
-      "updatedAt": "2026-10-30T11:03:00.000Z"
     },
     {
       "id": "92d35417-6b84-4704-8463-8f190488a274",
@@ -109470,31 +109415,6 @@
       "url": "https://trueinterview.io/jobs/1440859c-0175-4d9f-9966-4e288bfe3f19",
       "postedAt": "2026-09-22T13:52:06.000Z",
       "updatedAt": "2026-09-22T13:52:06.000Z"
-    },
-    {
-      "id": "5ed79b94-a764-4021-94cd-02683c2436e3",
-      "company": "Real Time Innovations",
-      "title": "Software Engineer, Intern",
-      "locations": [
-        "Granada, Spain"
-      ],
-      "cities": [],
-      "countries": [
-        "Spain"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/rti/jobs/8220427",
-      "url": "https://trueinterview.io/jobs/5ed79b94-a764-4021-94cd-02683c2436e3",
-      "postedAt": "2026-09-22T10:07:06.000Z",
-      "updatedAt": "2026-09-22T10:07:06.000Z"
     }
   ]
 }
