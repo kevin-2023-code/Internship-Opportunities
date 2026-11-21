@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T07:04:41.091Z",
-  "count": 4225,
+  "listingsChangedAt": "2026-11-21T08:06:29.824Z",
+  "count": 4226,
   "listings": [
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
@@ -2232,6 +2232,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.skyworksinc.com/job/BAWSAW-Filter-Design-Co-Op-%28SummerFall-2027%29/78160-en_US",
       "url": "https://trueinterview.io/jobs/f527cc17-fbec-4b10-80f3-7c1f73291346",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "79f682cf-7995-4d46-98a4-d9125242430f",
+      "company": "Skyworks Solutions",
+      "title": "RF Application Summer/Fall Co-op",
+      "locations": [
+        "Woburn, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.skyworksinc.com/job/RF-Application-SummerFall-Co-op/79134-en_US",
+      "url": "https://trueinterview.io/jobs/79f682cf-7995-4d46-98a4-d9125242430f",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -12038,6 +12063,56 @@
       "updatedAt": "2026-11-16T19:09:44.000Z"
     },
     {
+      "id": "b30c1419-a318-471d-bd9d-121f3c9360da",
+      "company": "Apple",
+      "title": "Generative AI Intern - Camera Algorithms",
+      "locations": [
+        "Beijing, 100045, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200694225/generative-ai-intern-camera-algorithms",
+      "url": "https://trueinterview.io/jobs/b30c1419-a318-471d-bd9d-121f3c9360da",
+      "postedAt": "2026-11-16T17:07:25.000Z",
+      "updatedAt": "2026-11-16T17:07:25.000Z"
+    },
+    {
+      "id": "eb980680-923d-4f1c-82d2-790f28ba44fc",
+      "company": "Southern Farm Bureau Life Insurance Company",
+      "title": "Cyber Security Co-Op",
+      "locations": [
+        "Jackson, MS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting2.ultipro.com/SOU1016SFBLI/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=1fb6a932-625e-4c2c-b8b6-27d91c456143&postingId=463714cc-51c3-47cf-bbc4-9d90c938c2fd",
+      "url": "https://trueinterview.io/jobs/eb980680-923d-4f1c-82d2-790f28ba44fc",
+      "postedAt": "2026-11-16T16:48:49.000Z",
+      "updatedAt": "2026-11-16T16:48:49.000Z"
+    },
+    {
       "id": "e1ec7797-8d1c-44cd-acd9-079dde1520f3",
       "company": "SAP IT Business Systeme",
       "title": "SAP iXp Intern - Data & Platform, Technical Support",
@@ -13134,7 +13209,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -13261,7 +13336,7 @@
       "countries": [],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -26926,31 +27001,6 @@
       "url": "https://trueinterview.io/jobs/ec3f8899-697c-47c4-97ee-caa6805c6084",
       "postedAt": "2026-11-11T18:27:35.000Z",
       "updatedAt": "2026-11-11T22:01:46.000Z"
-    },
-    {
-      "id": "aa09b796-31d0-485c-a719-cdc5b857cd05",
-      "company": "Formlabs",
-      "title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
-      "locations": [
-        "Somerville, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598",
-      "url": "https://trueinterview.io/jobs/aa09b796-31d0-485c-a719-cdc5b857cd05",
-      "postedAt": "2026-11-11T15:40:36.000Z",
-      "updatedAt": "2026-11-11T21:54:00.000Z"
     },
     {
       "id": "c71cecc1-ba69-49d1-804b-4986ad35a111",
@@ -61373,31 +61423,6 @@
       "updatedAt": "2026-10-30T22:42:23.000Z"
     },
     {
-      "id": "f06778ce-796c-4a6f-86d3-790f4fd3c260",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Intern - Electrical/Electromechanical Engineer - Spring 2027",
-      "locations": [
-        "Devens, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
-      "url": "https://trueinterview.io/jobs/f06778ce-796c-4a6f-86d3-790f4fd3c260",
-      "postedAt": "2026-10-30T21:05:23.000Z",
-      "updatedAt": "2026-10-30T21:05:23.000Z"
-    },
-    {
       "id": "ec340065-983f-4e7c-ba13-5c048491115b",
       "company": "Boston Scientific",
       "title": "Software Test Engineer Intern",
@@ -65052,31 +65077,6 @@
       "source": "indeed",
       "applyUrl": "https://careers.axa.com/jobs/29970/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/84f1b461-202a-48ab-887d-b7655925584f",
-      "postedAt": "2026-10-30T05:00:00.000Z",
-      "updatedAt": "2026-10-30T05:00:00.000Z"
-    },
-    {
-      "id": "844450ee-be49-4084-9df8-d216510de970",
-      "company": "Collins Aerospace",
-      "title": "Electrical Engineering Co-op (Winter/Spring 2027)",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://careers.rtx.com/global/en/job/01885823",
-      "url": "https://trueinterview.io/jobs/844450ee-be49-4084-9df8-d216510de970",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
@@ -104930,6 +104930,31 @@
       "url": "https://trueinterview.io/jobs/8b057672-1c9e-49ec-8363-f8d47c26afcf",
       "postedAt": "2026-10-01T23:02:38.000Z",
       "updatedAt": "2026-10-01T23:02:38.000Z"
+    },
+    {
+      "id": "de6cf314-964d-488a-8f30-6d21037ae2d0",
+      "company": "Aurora Innovation",
+      "title": "Hardware Systems Engineering Intern",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26",
+      "url": "https://trueinterview.io/jobs/de6cf314-964d-488a-8f30-6d21037ae2d0",
+      "postedAt": "2026-10-01T22:30:03.000Z",
+      "updatedAt": "2026-10-01T22:30:03.000Z"
     },
     {
       "id": "41a3e1a8-162d-46dc-a429-4392302220ed",
