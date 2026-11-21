@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-20T23:04:04.903Z",
-  "count": 4208,
+  "listingsChangedAt": "2026-11-21T00:11:31.592Z",
+  "count": 4204,
   "listings": [
+    {
+      "id": "1f6c269f-8672-4852-9a52-9a5c35feb931",
+      "company": "General Dynamics Land Systems",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Sterling Heights, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493213590/",
+      "url": "https://trueinterview.io/jobs/1f6c269f-8672-4852-9a52-9a5c35feb931",
+      "postedAt": "2026-11-20T22:59:00.000Z",
+      "updatedAt": "2026-11-20T22:59:00.000Z"
+    },
     {
       "id": "86d512f1-9427-4fd0-9b90-6943f2e5908d",
       "company": "Schnuck Markets, Inc.",
@@ -384,6 +409,34 @@
       "url": "https://trueinterview.io/jobs/5ba8cb87-ffe5-4d12-a594-fcfa39654cab",
       "postedAt": "2026-11-20T17:58:00.000Z",
       "updatedAt": "2026-11-20T17:58:00.000Z"
+    },
+    {
+      "id": "6f20e93c-5d35-4cfa-9649-3bf14f9493d4",
+      "company": "Biohub",
+      "title": "AI Research Scientist Intern",
+      "locations": [
+        "New York, NY (Hybrid)",
+        "Redwood City, CA (Hybrid)"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/biohub/jobs/8400682",
+      "url": "https://trueinterview.io/jobs/6f20e93c-5d35-4cfa-9649-3bf14f9493d4",
+      "postedAt": "2026-11-20T17:54:10.000Z",
+      "updatedAt": "2026-11-20T17:54:10.000Z"
     },
     {
       "id": "5b00662b-4344-4852-af8c-e3d7308fb61a",
@@ -1461,7 +1514,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1766,7 +1819,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -1840,9 +1893,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2024,9 +2077,9 @@
         "Germany"
       ],
       "remote": "onsite",
-      "category": "Software",
+      "category": "Data & AI",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2034,6 +2087,56 @@
       "source": "career-sites",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10489499/software-dev-intern",
       "url": "https://trueinterview.io/jobs/f7b54795-4e64-45a3-9f04-daa443abf275",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "updatedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "9082ec6d-1bb9-434b-ba5a-25f53a011c69",
+      "company": "Brightstar Lottery",
+      "title": "Automation Analyst Intern",
+      "locations": [
+        "Providence, RI, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.brightstarlottery.com/job/Providence-Automation-Analyst-Intern-RI-02903/1459303533/",
+      "url": "https://trueinterview.io/jobs/9082ec6d-1bb9-434b-ba5a-25f53a011c69",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "updatedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "7bf804f3-04f5-401a-8464-fa181665a207",
+      "company": "Envista Forensics",
+      "title": "Digital Forensics Intern",
+      "locations": [
+        "Envista-Raleigh NC Office, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://corpartners.wd5.myworkdayjobs.com/Envista/job/Envista-Raleigh-NC-Office/Digital-Forensics-Intern_R2110-1",
+      "url": "https://trueinterview.io/jobs/7bf804f3-04f5-401a-8464-fa181665a207",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "updatedAt": "2026-11-20T00:00:00.000Z"
     },
@@ -2077,7 +2180,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2090,31 +2193,27 @@
       "updatedAt": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "9fa98a90-6b2a-4b50-84f3-a3a77b30b186",
-      "company": "Gdh",
-      "title": "Environmental Engineering Co-op",
+      "id": "4e740b5d-846e-4e0d-a7f3-8c5f643f8994",
+      "company": "NOV",
+      "title": "Forward Deployed Engineer Intern",
       "locations": [
-        "Vancouver, BC, Canada",
-        "Calgary, AB, Canada"
+        "Houston, TX, United States"
       ],
-      "cities": [
-        "Vancouver, BC",
-        "Calgary, AB"
-      ],
+      "cities": [],
       "countries": [
-        "Canada"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Hardware & Engineering",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "ats-boards",
-      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28758",
-      "url": "https://trueinterview.io/jobs/9fa98a90-6b2a-4b50-84f3-a3a77b30b186",
+      "applyUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/45321",
+      "url": "https://trueinterview.io/jobs/4e740b5d-846e-4e0d-a7f3-8c5f643f8994",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "updatedAt": "2026-11-20T00:00:00.000Z"
     },
@@ -2156,7 +2255,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2169,54 +2268,75 @@
       "updatedAt": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "f552ac42-f449-4801-a594-a993ceaf27b5",
-      "company": "State Street",
-      "title": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
+      "id": "50c60918-984f-4d44-b0f5-10dbf7a59fde",
+      "company": "Scout Energy Partners",
+      "title": "IT Intern",
       "locations": [
-        "Boston, Massachusetts"
+        "Dallas, TX, 75244"
       ],
-      "cities": [
-        "Boston, MA"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339",
-      "url": "https://trueinterview.io/jobs/f552ac42-f449-4801-a594-a993ceaf27b5",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7e20f029-14e2-4846-8fd8-bdcaa94cc47e&jobId=640079",
+      "url": "https://trueinterview.io/jobs/50c60918-984f-4d44-b0f5-10dbf7a59fde",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "updatedAt": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "4ca3f45a-4646-4a43-9cb3-c49cbfe816bd",
-      "company": "UNDP",
-      "title": "Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based",
+      "id": "55893d90-52d2-45c8-b3b8-bbedc9f96acb",
+      "company": "The Cigna Group",
+      "title": "Analytics Leadership Development Program (ALDP) Summer Internship",
       "locations": [
-        "Istanbul, Türkiye"
+        "CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg"
       ],
       "cities": [],
-      "countries": [
-        "Other"
-      ],
+      "countries": [],
       "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/38132",
-      "url": "https://trueinterview.io/jobs/4ca3f45a-4646-4a43-9cb3-c49cbfe816bd",
+      "source": "career-sites",
+      "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711",
+      "url": "https://trueinterview.io/jobs/55893d90-52d2-45c8-b3b8-bbedc9f96acb",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "updatedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "3aae387f-0648-453f-9c89-aa383e906dd5",
+      "company": "ZOLL LifeVest",
+      "title": "Software Automation Intern",
+      "locations": [
+        "Chelmsford, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Automation-Intern_R20929",
+      "url": "https://trueinterview.io/jobs/3aae387f-0648-453f-9c89-aa383e906dd5",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "updatedAt": "2026-11-20T00:00:00.000Z"
     },
@@ -2408,9 +2528,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4248,35 +4368,6 @@
       "source": "career-sites",
       "applyUrl": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/82827?c=kypersonnelcabinet",
       "url": "https://trueinterview.io/jobs/4cd4be24-7846-49b0-ad0d-0b89b73add25",
-      "postedAt": "2026-11-19T00:00:00.000Z",
-      "updatedAt": "2026-11-19T06:00:00.000Z"
-    },
-    {
-      "id": "264647c9-a579-4141-adf5-cfcf57c209b1",
-      "company": "Contributor Development Partnership",
-      "title": "BIA Co-op",
-      "locations": [
-        "Boston, MA, 02135",
-        "Remote",
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7998c65d-0e6b-425f-a970-5fec90afc5a0&jobId=625155",
-      "url": "https://trueinterview.io/jobs/264647c9-a579-4141-adf5-cfcf57c209b1",
       "postedAt": "2026-11-19T00:00:00.000Z",
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
@@ -108851,216 +108942,6 @@
       "url": "https://trueinterview.io/jobs/b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22",
       "postedAt": "2026-09-22T01:42:16.000Z",
       "updatedAt": "2026-09-22T01:42:16.000Z"
-    },
-    {
-      "id": "b33d81ca-2dca-4429-81b0-78ec3d3275af",
-      "company": "Cisco",
-      "title": "Hardware Engineer II Intern - United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Austin, Texas, US",
-        "RTP, North Carolina, US",
-        "Carlsbad, California, US",
-        "San Jose, California, United States of America",
-        "Austin, Texas, United States of America",
-        "Carlsbad, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
-      "url": "https://trueinterview.io/jobs/b33d81ca-2dca-4429-81b0-78ec3d3275af",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "3223bfce-8ab5-4f17-9662-181a6ac83763",
-      "company": "Garmin",
-      "title": "EMC Engineer Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/20216?lang=en-us",
-      "url": "https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe",
-      "company": "Keysight",
-      "title": "Semiconductor Systems Automation Intern",
-      "locations": [
-        "Santa Rosa, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54371?lang=en-us",
-      "url": "https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "c23fe1d1-1b24-4900-b2f5-795ae2cfd55f",
-      "company": "Marvell Technology",
-      "title": "Electrical Validation Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
-      "url": "https://trueinterview.io/jobs/c23fe1d1-1b24-4900-b2f5-795ae2cfd55f",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "6aa2b905-bcff-4b73-bacf-7111edc6b2bd",
-      "company": "Nokia",
-      "title": "Photonic Integrated Circuits Test Coop",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743",
-      "url": "https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "94c69ab6-c9d8-43f2-b39b-8240224fff5d",
-      "company": "Texas Instruments",
-      "title": "Industrial Engr Intern",
-      "locations": [
-        "South Portland, ME, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015796",
-      "url": "https://trueinterview.io/jobs/94c69ab6-c9d8-43f2-b39b-8240224fff5d",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "88105cd2-07ae-49dc-8957-7e4db332ee7f",
-      "company": "OnePay",
-      "title": "Product Intern",
-      "locations": [
-        "New York City (Hybrid)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application",
-      "url": "https://trueinterview.io/jobs/88105cd2-07ae-49dc-8957-7e4db332ee7f",
-      "postedAt": "2026-09-21T23:51:12.000Z",
-      "updatedAt": "2026-09-21T23:51:12.000Z"
-    },
-    {
-      "id": "7bb17c3a-e5f6-4337-8f34-c7a648128463",
-      "company": "OnePay",
-      "title": "Design Intern",
-      "locations": [
-        "New York City (Hybrid)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/oneapp/ae9fcbfc-424f-4d17-9712-3ea3126e1063/application",
-      "url": "https://trueinterview.io/jobs/7bb17c3a-e5f6-4337-8f34-c7a648128463",
-      "postedAt": "2026-09-21T23:46:08.000Z",
-      "updatedAt": "2026-09-21T23:46:08.000Z"
     }
   ]
 }
