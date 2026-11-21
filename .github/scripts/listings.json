@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T09:04:54.447Z",
-  "count": 4227,
+  "listingsChangedAt": "2026-11-21T10:04:17.190Z",
+  "count": 4226,
   "listings": [
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
@@ -13276,6 +13276,33 @@
       "updatedAt": "2026-11-16T06:00:00.000Z"
     },
     {
+      "id": "66478eb1-de52-4f4f-a0d1-8cdede213a0c",
+      "company": "JPMorganChase",
+      "title": "2027 Consumer & Community Banking -Summer Associate",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jpmorganchase.contacthr.com/154255934",
+      "url": "https://trueinterview.io/jobs/66478eb1-de52-4f4f-a0d1-8cdede213a0c",
+      "postedAt": "2026-11-16T06:00:00.000Z",
+      "updatedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
       "id": "cee33589-6eb0-4424-99b3-5a38369b45b5",
       "company": "KLA",
       "title": "Firmware Intern",
@@ -13424,6 +13451,31 @@
       "source": "indeed",
       "applyUrl": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243645",
       "url": "https://trueinterview.io/jobs/4c80d09b-3b6b-40b1-bcce-983fe22ab772",
+      "postedAt": "2026-11-16T06:00:00.000Z",
+      "updatedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
+      "id": "82dd4db9-85db-4b96-967f-875a9a907e83",
+      "company": "Rochester Regional Health",
+      "title": "RIT Co-op: Identity Access & Management",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Identity-Access---Management_REQ_243191",
+      "url": "https://trueinterview.io/jobs/82dd4db9-85db-4b96-967f-875a9a907e83",
       "postedAt": "2026-11-16T06:00:00.000Z",
       "updatedAt": "2026-11-16T06:00:00.000Z"
     },
@@ -88312,33 +88364,6 @@
       "updatedAt": "2026-10-27T20:57:55.000Z"
     },
     {
-      "id": "d54ea8e7-8152-414a-8820-6ebe6a89f91a",
-      "company": "wing",
-      "title": "Hardware Test Engineering Intern",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://wing.com/careers/8918078002?gh_jid=8918078002",
-      "url": "https://trueinterview.io/jobs/d54ea8e7-8152-414a-8820-6ebe6a89f91a",
-      "postedAt": "2026-10-27T20:26:59.000Z",
-      "updatedAt": "2026-10-27T20:26:59.000Z"
-    },
-    {
       "id": "9b1e4703-c001-4c27-86b1-b4ae91dba302",
       "company": "Western Magnetics",
       "title": "Engineering Intern (Jan 2027)",
@@ -98177,33 +98202,6 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
-      "id": "e4b887eb-adaa-41f9-8fc8-6c0b397745cb",
-      "company": "wing",
-      "title": "Guidance, Navigation, and Controls Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872475002?gh_jid=8872475002",
-      "url": "https://trueinterview.io/jobs/e4b887eb-adaa-41f9-8fc8-6c0b397745cb",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
       "id": "4eda8dcb-a5c6-4175-a18a-623dc60e4c7e",
       "company": "wing",
       "title": "Hardware Reliability Intern, Summer 2027",
@@ -98281,33 +98279,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872479002?gh_jid=8872479002",
       "url": "https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "31ebf6ea-4cc1-4d07-9d98-4424d7a80c75",
-      "company": "wing",
-      "title": "Mechanical Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872579002?gh_jid=8872579002",
-      "url": "https://trueinterview.io/jobs/31ebf6ea-4cc1-4d07-9d98-4424d7a80c75",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
