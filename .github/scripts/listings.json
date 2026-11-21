@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T05:04:42.049Z",
+  "listingsChangedAt": "2026-11-21T06:07:21.435Z",
   "count": 4224,
   "listings": [
     {
@@ -2055,6 +2055,33 @@
       "url": "https://trueinterview.io/jobs/82f52e22-62d8-4d28-a614-238a1a432ad9",
       "postedAt": "2026-11-20T07:17:50.000Z",
       "updatedAt": "2026-11-20T07:17:50.000Z"
+    },
+    {
+      "id": "28fe76c6-d180-492e-9dcc-345111063a2b",
+      "company": "BXP",
+      "title": "Network Operations Co-Op",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/26190",
+      "url": "https://trueinterview.io/jobs/28fe76c6-d180-492e-9dcc-345111063a2b",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
     },
     {
       "id": "fea56431-3af7-4ffb-9bde-5fe226180cb1",
@@ -70223,34 +70250,6 @@
       "url": "https://trueinterview.io/jobs/a340a99f-0cc6-4da2-a037-41d8e4b7612f",
       "postedAt": "2026-10-29T17:14:00.000Z",
       "updatedAt": "2026-10-29T17:31:00.000Z"
-    },
-    {
-      "id": "a4c12fbf-05da-46e5-8fb6-8bc6be037f22",
-      "company": "Hasbro",
-      "title": "2027 Spring - Packaging Engineer Co-op (Jan - July 2027)",
-      "locations": [
-        "Boston, MA",
-        "Boston, Massachusetts, United States"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/hasbro/jobs/4472758009",
-      "url": "https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22",
-      "postedAt": "2026-10-29T17:28:00.000Z",
-      "updatedAt": "2026-10-29T17:28:00.000Z"
     },
     {
       "id": "6c338bec-7041-49ce-8fc6-a7496d8a3f48",
