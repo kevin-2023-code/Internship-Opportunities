@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T08:06:29.824Z",
-  "count": 4226,
+  "listingsChangedAt": "2026-11-21T09:04:54.447Z",
+  "count": 4227,
   "listings": [
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
@@ -13222,6 +13222,33 @@
       "updatedAt": "2026-11-16T06:00:00.000Z"
     },
     {
+      "id": "4fbfc33a-0edb-4c30-ba5f-69a3cc7956d9",
+      "company": "Genuine Parts Company",
+      "title": "Technology Intern 2027",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern-2027_R26_0000037382",
+      "url": "https://trueinterview.io/jobs/4fbfc33a-0edb-4c30-ba5f-69a3cc7956d9",
+      "postedAt": "2026-11-16T06:00:00.000Z",
+      "updatedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
       "id": "fe38fe77-2ddd-40d6-8330-ea9b37915d18",
       "company": "Integration Innovation, Inc",
       "title": "Embedded Systems Reverse Engineer Intern",
@@ -13376,6 +13403,31 @@
       "updatedAt": "2026-11-16T06:00:00.000Z"
     },
     {
+      "id": "4c80d09b-3b6b-40b1-bcce-983fe22ab772",
+      "company": "Rochester Regional Health",
+      "title": "RIT Co-op: Data & Analytics Services",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243645",
+      "url": "https://trueinterview.io/jobs/4c80d09b-3b6b-40b1-bcce-983fe22ab772",
+      "postedAt": "2026-11-16T06:00:00.000Z",
+      "updatedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
       "id": "9f93c551-efcb-418f-aa91-35f39e5f462a",
       "company": "Schweitzer Engineering Laboratories",
       "title": "Software Engineer Intern",
@@ -13437,9 +13489,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -109472,29 +109524,6 @@
       "url": "https://trueinterview.io/jobs/5ed79b94-a764-4021-94cd-02683c2436e3",
       "postedAt": "2026-09-22T10:07:06.000Z",
       "updatedAt": "2026-09-22T10:07:06.000Z"
-    },
-    {
-      "id": "443fa779-c402-4158-b91d-0fb7735dc9ff",
-      "company": "Man Group",
-      "title": "Quant Research Analyst Intern",
-      "locations": [
-        "Shanghai"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101",
-      "url": "https://trueinterview.io/jobs/443fa779-c402-4158-b91d-0fb7735dc9ff",
-      "postedAt": "2026-09-22T08:48:00.000Z",
-      "updatedAt": "2026-09-22T08:48:00.000Z"
     }
   ]
 }
