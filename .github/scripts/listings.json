@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T06:07:21.435Z",
-  "count": 4224,
+  "listingsChangedAt": "2026-11-21T07:04:41.091Z",
+  "count": 4225,
   "listings": [
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
@@ -7676,107 +7676,6 @@
       "updatedAt": "2026-11-18T09:18:22.000Z"
     },
     {
-      "id": "9e4cf11a-c97b-4384-afb1-2472f7175f2a",
-      "company": "Doctolib",
-      "title": "AI Engineer intern (x/f/m) - Milano",
-      "locations": [
-        "Milan"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/doctolib/8eee07c8-dd36-4a3c-99cd-a95d65415dec",
-      "url": "https://trueinterview.io/jobs/9e4cf11a-c97b-4384-afb1-2472f7175f2a",
-      "postedAt": "2026-11-18T09:16:56.000Z",
-      "updatedAt": "2026-11-18T09:16:56.000Z"
-    },
-    {
-      "id": "a07acc31-c775-4227-93c1-e90dfbf8304b",
-      "company": "Doctolib",
-      "title": "AI Engineer Intern (x/f/m) - Nantes",
-      "locations": [
-        "Nantes"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/doctolib/170c2710-df1d-4630-8451-9433e959f4eb",
-      "url": "https://trueinterview.io/jobs/a07acc31-c775-4227-93c1-e90dfbf8304b",
-      "postedAt": "2026-11-18T09:16:36.000Z",
-      "updatedAt": "2026-11-18T09:16:36.000Z"
-    },
-    {
-      "id": "e2a26617-a81f-4288-8188-4241d6f4d57b",
-      "company": "Doctolib",
-      "title": "AI Engineer intern (x/f/m) - Berlin",
-      "locations": [
-        "Berlin, Deutschland",
-        "Berlin"
-      ],
-      "cities": [
-        "Berlin"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/doctolib/2a909eff-070e-4c49-a305-5adf5aa5c5a2",
-      "url": "https://trueinterview.io/jobs/e2a26617-a81f-4288-8188-4241d6f4d57b",
-      "postedAt": "2026-11-18T06:00:00.000Z",
-      "updatedAt": "2026-11-18T09:15:30.000Z"
-    },
-    {
-      "id": "73368acd-6b02-4ccc-84d8-59187bf46cd4",
-      "company": "Doctolib",
-      "title": "AI Engineer Intern (x/f/m) - Paris",
-      "locations": [
-        "Paris"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/doctolib/4588a32b-f865-48ec-a2b3-2c89d735c7cb",
-      "url": "https://trueinterview.io/jobs/73368acd-6b02-4ccc-84d8-59187bf46cd4",
-      "postedAt": "2026-11-18T09:14:20.000Z",
-      "updatedAt": "2026-11-18T09:14:20.000Z"
-    },
-    {
       "id": "929d0af0-00a9-45af-9b83-c504a3094c79",
       "company": "Bosch",
       "title": "Extracurricular Internship: AI Software Engineer (f/m/div.)",
@@ -11481,7 +11380,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11506,7 +11405,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11515,6 +11414,31 @@
       "source": "ats-boards",
       "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28957",
       "url": "https://trueinterview.io/jobs/cfbe6548-183d-4958-911c-0397a55bf2fb",
+      "postedAt": "2026-11-17T00:00:00.000Z",
+      "updatedAt": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "a6c8e401-6168-48d5-b0b8-5241ccaa05b6",
+      "company": "InterDigital Communications",
+      "title": "PhD Research Intern, AI Lab",
+      "locations": [
+        "LosAltos_CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/PhD-Research-Intern--AI-Lab_REQ26-1172",
+      "url": "https://trueinterview.io/jobs/a6c8e401-6168-48d5-b0b8-5241ccaa05b6",
       "postedAt": "2026-11-17T00:00:00.000Z",
       "updatedAt": "2026-11-17T00:00:00.000Z"
     },
@@ -11558,7 +11482,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11612,7 +11536,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11677,6 +11601,35 @@
       "updatedAt": "2026-11-16T23:37:07.000Z"
     },
     {
+      "id": "a97f5e02-3779-43b4-988f-94b97dc49d9b",
+      "company": "Forterra",
+      "title": "2027 Intern - Software",
+      "locations": [
+        "Clarksburg, MD",
+        "Arlington, VA",
+        "Durham, NC",
+        "Winter Park, FL",
+        "East Palo Alto, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+      "url": "https://trueinterview.io/jobs/a97f5e02-3779-43b4-988f-94b97dc49d9b",
+      "postedAt": "2026-11-16T23:22:23.000Z",
+      "updatedAt": "2026-11-16T23:27:00.000Z"
+    },
+    {
       "id": "23877ac9-2521-4895-b761-b5ba5105b99f",
       "company": "LinkedIn",
       "title": "Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)",
@@ -11716,9 +11669,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11728,6 +11681,56 @@
       "url": "https://trueinterview.io/jobs/61e1c09f-d0e6-4d0b-8974-23263c618f1b",
       "postedAt": "2026-11-16T22:58:50.000Z",
       "updatedAt": "2026-11-16T22:58:50.000Z"
+    },
+    {
+      "id": "824e1bcc-1da1-4d7d-989c-29554169f51d",
+      "company": "Stellar Industries",
+      "title": "IT Infrastructure Support Intern - Spring 2027",
+      "locations": [
+        "190 State St, Garner, IA, 50438, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668207?listingId=2cde4a95-4be7-4e36-ae64-49a1d60bb3cf",
+      "url": "https://trueinterview.io/jobs/824e1bcc-1da1-4d7d-989c-29554169f51d",
+      "postedAt": "2026-11-16T22:52:43.000Z",
+      "updatedAt": "2026-11-16T22:52:43.000Z"
+    },
+    {
+      "id": "51605092-5553-4181-bb93-da472b830fc8",
+      "company": "Medical Mutual of Ohio",
+      "title": "IT 2027 Summer Internship",
+      "locations": [
+        "Cleveland, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=0bd8d648-3a8e-4cf7-993d-ec3ba1175733&postingId=b4681448-599a-40bc-9d57-28dd02bbeb3f",
+      "url": "https://trueinterview.io/jobs/51605092-5553-4181-bb93-da472b830fc8",
+      "postedAt": "2026-11-16T22:48:32.000Z",
+      "updatedAt": "2026-11-16T22:48:32.000Z"
     },
     {
       "id": "539bd651-f444-46ce-9dc2-b3c1febd4e27",
@@ -11755,30 +11758,54 @@
       "updatedAt": "2026-11-16T22:32:18.000Z"
     },
     {
-      "id": "137d27dc-6897-43b2-9468-51ad0ab6f0ad",
-      "company": "Hubbell Incorporated",
-      "title": "2027 Summer Intern: Engineering - AI Software",
+      "id": "85415a01-30e4-41f8-ad3a-d4fe52e6d770",
+      "company": "Cintas",
+      "title": "IT Intern - SAP OTC",
       "locations": [
-        "Herndon, VA, US, 20171",
-        "Herndon, VA"
+        "Ohio, United States"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
-      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=Hubbell&rcm_site_locale=en_US&career_job_req_id=105483",
-      "url": "https://trueinterview.io/jobs/137d27dc-6897-43b2-9468-51ad0ab6f0ad",
-      "postedAt": "2026-11-16T21:37:00.000Z",
-      "updatedAt": "2026-11-16T21:37:00.000Z"
+      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=cintasP2&rcm_site_locale=en_US&career_job_req_id=240102",
+      "url": "https://trueinterview.io/jobs/85415a01-30e4-41f8-ad3a-d4fe52e6d770",
+      "postedAt": "2026-11-16T22:18:42.000Z",
+      "updatedAt": "2026-11-16T22:18:42.000Z"
+    },
+    {
+      "id": "64aebc63-e0b3-48a8-89f3-5b8a6ff347c0",
+      "company": "Ross Video",
+      "title": "Research Assistant Co-op - AI Focus (Winter Term- January 2027 - April 2027)",
+      "locations": [
+        "Hybrid Remote, Nepean, Ontario"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "hybrid",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg",
+      "url": "https://trueinterview.io/jobs/64aebc63-e0b3-48a8-89f3-5b8a6ff347c0",
+      "postedAt": "2026-11-16T21:45:18.000Z",
+      "updatedAt": "2026-11-16T21:45:18.000Z"
     },
     {
       "id": "64d70c6c-0a7a-4c1a-989a-21c8c941b488",
